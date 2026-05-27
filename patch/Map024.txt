@@ -1,0 +1,199 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[11]]
+……やれやれ。
+無事に　入門編をクリアできたようだね。
+ホッ……。
+> CONTEXT: Map024/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+よく　がんばったねっ！
+誰にでも　できることじゃないよ？
+スゴイ　スゴイ♪
+> CONTEXT: Map024/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　あんちゃんの　その顔は
+頑張ったんやから　ご褒美が欲しいって
+言っとる顔やな〜？
+> CONTEXT: Map024/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ご……ご褒美！？　そ　そ　そうね……。
+確かに　無償で付き合わせるのは
+良くないと　言えなくもない……か。
+> CONTEXT: Map024/events/1/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でも　まだ君に　片付けてもらわなきゃ
+ならない問題が　山積みで……。
+さっきも　リモートになっちゃったし。
+> CONTEXT: Map024/events/1/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うても　手付金ちゃうけど
+手付えっち☆　みたいんは
+必要やと思うで！　\\|そ・\\|こ・\\|で──
+> CONTEXT: Map024/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そこで……？
+な　何？
+えっ　何？　何？
+> CONTEXT: Map024/events/1/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+特別に！　ウチら　３人の中から　１人！
+選んでもろて　ちょっとＨなプチご褒美☆
+あんちゃんに　したげるで〜♪
+> CONTEXT: Map024/events/1/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ　ステキ！
+さっそく　ぴゅっぴゅ☆　できちゃうね♪
+> CONTEXT: Map024/events/1/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+はぁぁぁぁぁぁぁぁぁ！！！？？？
+ちょっ　ちょっ　ちょっと　待って！
+そんな話　聞いてないしっ！
+> CONTEXT: Map024/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うてもないで♪
+> CONTEXT: Map024/events/1/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だいたい　そ　そんな　ご褒美だなんて
+無理でしょ！　そもそも　だって
+あたしたちは　まだ──
+> CONTEXT: Map024/events/1/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+確かに　まだ　本格的な　えっち☆は
+できないけど　所謂　レム睡眠状態で
+覚醒前の　僅かな　この瞬間なら……。
+> CONTEXT: Map024/events/1/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せや。この僅かな　スキマ時間なら
+簡単なプレイ限定で　できるんやで？
+> CONTEXT: Map024/events/1/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ　そんなこと　言ったって……！
+こ　こ　心の準備ってもんが……！
+> CONTEXT: Map024/events/1/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ちゅうわけで！　聞いてたやろ
+あんちゃん？　ウチら　３人の中から
+ファッションヘルス感覚で　指名してな♪
+> CONTEXT: Map024/events/1/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+限られた時間だから　即決でお願いね♪
+> CONTEXT: Map024/events/1/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰を　選びますか？
+\\C[6]（選択しなかった子の　ご褒美は
+　条件を満たせば　いずれ視聴できます）\\C[0]
+> CONTEXT: Map024/events/1/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]
+> CONTEXT: Map024/events/1/pages/0/180/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]
+> CONTEXT: Map024/events/1/pages/0/180/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]
+> CONTEXT: Map024/events/1/pages/0/180/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えっ！？　あ　あたし！？　そ　そんな
+いきなり……でも　うん　そ　そっか。
+じゃ　じゃあ　こっち…………来なさい！
+> CONTEXT: Map024/events/1/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら　嬉しい♪　それじゃあ　一緒に
+気持ち良いこと……し・ま・しょ♪
+さっ　こっちに　おいで……。
+> CONTEXT: Map024/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　ウチを　選ぶんかぁ！？
+ええで♪　ええで♪　あんちゃ〜ん♪
+ほな　二人っきりなれるとこ　行こか〜♪
+> CONTEXT: Map024/events/1/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING

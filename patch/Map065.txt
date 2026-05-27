@@ -1,0 +1,878 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[11]]
+こいつが　ロゴスか……。
+確かに　この世の理を超えた
+とんでもない　力を感じる。
+> CONTEXT: Map065/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+世界を　書き換えちゃうほどの
+とんでもない　ラスボスさんと
+いよいよ　最終決戦だね！？
+> CONTEXT: Map065/events/1/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ごっつ　醜悪なナリしとるで！？
+マジキチ外道の　ラスボスや！
+準備は　ええかーーー！？
+> CONTEXT: Map065/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔たちと共闘し　戦いを挑みますか？
+> CONTEXT: Map065/events/1/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんでや！？
+ここまで来て　戦わんとか
+そんなん　無いやろーっ！？
+> CONTEXT: Map065/events/1/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+待ってっ！
+……どうも　あんたからは
+強固な意志を　感じる。
+> CONTEXT: Map065/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私たちには　協力したくない
+……ってこと？
+ここまで　来たのに？
+> CONTEXT: Map065/events/1/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+何　言うてんねや！
+ウチらと　一緒に　このロゴス
+ボコすんやろー！？
+> CONTEXT: Map065/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そしたら　気持ちの良いこと♡
+いっぱい　いっぱい
+できるようになるんだよ？
+> CONTEXT: Map065/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せや　せや！　あんちゃん
+ＳＥＸ好きなんやろ？　な？
+ＳＥＸしまくりたいんやろ？
+> CONTEXT: Map065/events/1/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……わかった。
+もう一度だけ　聞く。
+> CONTEXT: Map065/events/1/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+……バレとったんか。
+まぁ　ええわ。
+> CONTEXT: Map065/events/1/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+別に　騙してるつもりは
+なかったんだけど……
+しょうがないよね。
+> CONTEXT: Map065/events/1/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ロゴスは　絶対的な定理の概念。
+それを人類の手で　破壊すれば
+あたしたち　魔族である夢魔が
+> CONTEXT: Map065/events/1/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+犯りたい放題　やれるんや！
+たとえ　人類なんか
+おらんくなってもな♪
+> CONTEXT: Map065/events/1/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でも　逆に　君が
+ロゴスさんの力を　借りて
+私たち　３人を　倒したら――
+> CONTEXT: Map065/events/1/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしたち　サキュバスは
+人間世界への干渉が　金輪際
+できなくなり……滅亡する。
+> CONTEXT: Map065/events/1/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+要するに　ウチらが覇権を取るか
+あんちゃんら　人間が生き残るか
+二つに一つ。
+> CONTEXT: Map065/events/1/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君が　人間世界の秩序を
+守りたいのなら……
+いいよ。戦いましょう。
+> CONTEXT: Map065/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+手加減はしない。ロゴスを
+介在させた　勝敗の結果は
+絶対的なものになるから――
+> CONTEXT: Map065/events/1/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+その意気やー！
+おーっし！
+いてまえーーー！
+> CONTEXT: Map065/events/1/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+一緒に　頑張ろうね♪
+> CONTEXT: Map065/events/1/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+こいつを　倒す……。
+倒す……倒す……
+そう　倒しさえすれば――
+> CONTEXT: Map065/events/1/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスは　自身の能力を割いて
+贈呈品と　超人能力の底上げを
+あなたに　施した！
+> CONTEXT: Map065/events/1/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>・・
+諸君は　選択をした──
+> CONTEXT: Map065/events/1/pages/1/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスは　破壊され　あなたの敗北により
+人類は　夢魔たちに　敗北したと
+定義されてしまった。
+> CONTEXT: Map065/events/1/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+悪かったね。
+あんたは　このまま
+自分の道を　進みなよ――
+> CONTEXT: Map065/events/1/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+………………。
+> CONTEXT: Map065/events/1/pages/4/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+さようなら。
+せめて　君の　思い出の中に
+深く　沈めて――
+> CONTEXT: Map065/events/1/pages/4/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+………………。
+> CONTEXT: Map065/events/1/pages/4/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+……ええわ。
+また　未来で　会おうな。
+あんちゃん――
+> CONTEXT: Map065/events/1/pages/4/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すべては　選択である。
+汝　次の相手を　選べ。
+\\C[6]心を掛ける相手は　最後に残せ。\\C[0]
+> CONTEXT: Map065/events/1/pages/4/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]en(v[221] < 39)
+> CONTEXT: Map065/events/1/pages/4/127/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]en(v[222] < 39)
+> CONTEXT: Map065/events/1/pages/4/127/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]en(v[223] < 39)
+> CONTEXT: Map065/events/1/pages/4/127/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+どいて……！
+次は　あたしが　相手をする。
+> CONTEXT: Map065/events/1/pages/4/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+危ないから　下がってて。
+私が　こらしめてあげるから。
+> CONTEXT: Map065/events/1/pages/4/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ソコ　どきー！　ウチが
+ボッコボコに　してやんよ♪
+> CONTEXT: Map065/events/1/pages/4/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……。
+> CONTEXT: Map065/events/1/pages/5/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしも……　殺すの？
+> CONTEXT: Map065/events/1/pages/5/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ。
+別に　いいけどさ。
+でも　その前に
+> CONTEXT: Map065/events/1/pages/5/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ……そう？
+でも　日和らない方が
+良いと思うよ。
+> CONTEXT: Map065/events/1/pages/5/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+この場合　日和るの意味は
+どっちか　わからないけど。
+じゃあ　せめて
+> CONTEXT: Map065/events/1/pages/5/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしの話を……
+あたしたちの　話を
+聞いといてくれる？
+> CONTEXT: Map065/events/1/pages/5/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと！？
+少しは　空気読め！
+良いから　聞きなさい！
+> CONTEXT: Map065/events/1/pages/5/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしたち　夢魔は
+知っての通り　人間の精気を
+せ……性欲を　糧としてる。
+> CONTEXT: Map065/events/1/pages/5/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+サキュバスは　男の――
+インキュバスは　女の――
+性的な力を　糧として生きてる。
+> CONTEXT: Map065/events/1/pages/5/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その摂取方法を　上手くは
+説明できないけど　よく言われる
+夢の中……だけじゃなくて
+> CONTEXT: Map065/events/1/pages/5/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+日常の瞬間に　人間が発する
+せ……性欲や肉欲　色欲　つまり
+リビドーが　あたしたちの糧。
+> CONTEXT: Map065/events/1/pages/5/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+でもさ。なんだか　ここ最近
+あんたら人間は　その欲望を
+やけに　抑圧してるよね？
+> CONTEXT: Map065/events/1/pages/5/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その抑圧は　本当に必要なの？
+理性で　何もかも　抑え付ける
+それが　人間として正しいの？
+> CONTEXT: Map065/events/1/pages/5/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+過度に　抑え付けた欲望は
+いずれ　爆発するんだよ。
+熱膨張みたいに
+> CONTEXT: Map065/events/1/pages/5/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+圧縮された欲望は　暴力と化し
+ある日　突然　暴発する。
+あたしたち夢魔も　同じ。
+> CONTEXT: Map065/events/1/pages/5/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+生き残る為に　あたしたちは
+人間界へと　爆進する！
+このままじゃ　飢えて死ぬだけ！
+> CONTEXT: Map065/events/1/pages/5/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+恨むなら　過度な抑圧を強いる
+あんたら　人間自身を　恨め！
+あたしたちは　もう止まらない！
+> CONTEXT: Map065/events/1/pages/5/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……。
+> CONTEXT: Map065/events/1/pages/6/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私のことも　殺しちゃうの？
+> CONTEXT: Map065/events/1/pages/6/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……そうなんだ。
+悲しいけれど　仕方ないね。
+でも　ちょっと待って？
+> CONTEXT: Map065/events/1/pages/6/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら。
+やっぱり　君って
+優しいのかな？
+> CONTEXT: Map065/events/1/pages/6/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でも　この戦いは
+もう　止められないの。
+だけど　その前に
+> CONTEXT: Map065/events/1/pages/6/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私のお話を……ううん
+私たちの　お話を
+聞いておいてくれるかな？
+> CONTEXT: Map065/events/1/pages/6/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　せっかちさんね！
+でも　ダ〜メ☆
+ちゃんと　聞きなさい？
+> CONTEXT: Map065/events/1/pages/6/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私たちは　夢魔。
+人間の性欲を　少しずつ
+貰って　生きている。
+> CONTEXT: Map065/events/1/pages/6/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でもね　ここ最近は
+めっきり　貰えなく
+なってきちゃってたの。
+> CONTEXT: Map065/events/1/pages/6/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+これは　えっと……概念的？
+な　お話なんだけどね。
+人間界は　なんだか妙に
+> CONTEXT: Map065/events/1/pages/6/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+えっち☆なことを　禁止にして
+何でもかんでも　ダ〜メよって
+凍結祭り　してたでしょ？
+> CONTEXT: Map065/events/1/pages/6/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+考えてみて？　人が生きるのに
+えっちなこと……つまり　性欲は
+必要不可欠なもののはずでしょ？
+> CONTEXT: Map065/events/1/pages/6/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+それを　禁止にするってことは
+自分たちで　滅びの道を
+選んでるようなものなんだよ。
+> CONTEXT: Map065/events/1/pages/6/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+しかも　人間たちが　えっちじゃ
+なくなると　私たち夢魔は
+活動できなくなっちゃう。
+> CONTEXT: Map065/events/1/pages/6/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+だから　もう仕方ないから
+直接　私たちが　人間界に
+お邪魔して　世の中を
+> CONTEXT: Map065/events/1/pages/6/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+えっちでいっぱいにしちゃう！
+そうすれば　人間たちは
+性欲に　支配されて
+> CONTEXT: Map065/events/1/pages/6/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+獣以下の状態になって　やがて
+滅んじゃうけど　仕方ないよね？
+だって　そうなることを
+> CONTEXT: Map065/events/1/pages/6/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あなたたち　人間自身が
+選んだのだから。ね？
+……さぁ　終わりにしてあげる！
+> CONTEXT: Map065/events/1/pages/6/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+……。
+> CONTEXT: Map065/events/1/pages/7/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチも　殺すんか？
+> CONTEXT: Map065/events/1/pages/7/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆
+雑魚のあんちゃんも
+言うよう　なったな〜。
+> CONTEXT: Map065/events/1/pages/7/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ホンマか？　あんちゃん
+やっぱ　ウチのことだけは
+殺せへんて？
+> CONTEXT: Map065/events/1/pages/7/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うても　タイマン勝負は
+もう避けれへん。そんかし
+ちょい　前口上させてもらうわ。
+> CONTEXT: Map065/events/1/pages/7/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+とりま　今からネタバレすっから
+耳穴かっぽじって　ウチの話
+聞いとけ……な？
+> CONTEXT: Map065/events/1/pages/7/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんでや！？　どうせ
+断っても　喋り出すって
+分からんかったんか！？
+> CONTEXT: Map065/events/1/pages/7/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチら　夢魔には人間の
+エロエロ☆エネルギーが
+必要不可欠なんや。
+> CONTEXT: Map065/events/1/pages/7/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せやけど　人間の奴らて
+最近　めっちゃ　タブー
+増えとるよな？
+> CONTEXT: Map065/events/1/pages/7/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+やれコンプラや！　やれ規制や！
+やれ性的搾取や　なんやかや。
+性的搾取は　ウチらのオハコや！
+> CONTEXT: Map065/events/1/pages/7/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+そないアホみたいなこと　ばっか
+しよるから　ウチらも困ってな。
+メシ食えへんから　いよいよ
+> CONTEXT: Map065/events/1/pages/7/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+直に　凸して　人間界を
+めっちゃめちゃにしたろ
+って　なったわけや！
+> CONTEXT: Map065/events/1/pages/7/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+夢の世界にいる分にゃ　そりゃ
+大人しいもんやで？　でもな
+夢の世界から　現実の世界へ
+> CONTEXT: Map065/events/1/pages/7/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+それこそ　理性と論理を支配する
+そのロゴス　ぶっ壊して
+カチコミしたら　どうなるか？
+> CONTEXT: Map065/events/1/pages/7/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+毒電波や！　皆アホなって
+狂い死ぬまで　性欲の奴隷や！
+な？　おもろいやろ？
+> CONTEXT: Map065/events/1/pages/7/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+そないおもろいこと　邪魔しちゃ
+あかんて！　分かったなら
+ウチに負けろや！　あんちゃん？
+> CONTEXT: Map065/events/1/pages/7/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ。
+これが　あんたの選んだ
+選択……。
+> CONTEXT: Map065/events/1/pages/8/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そう。
+これが　君の選んだ
+選択なのね……。
+> CONTEXT: Map065/events/1/pages/8/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん。
+これが　あんちゃんの
+選択っちゅうわけか。
+> CONTEXT: Map065/events/1/pages/8/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物と化していた夢魔の　禍々しき邪気は
+すっかり消失し　元の麗しき姿へと
+戻った……
+> CONTEXT: Map065/events/1/pages/8/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が　それは　同時に　彼女の命が
+果てゆくことを　意味していた――
+> CONTEXT: Map065/events/1/pages/8/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……なんだか　気が遠くなるほど
+長い道のりだったけど
+やっと　辿り着いたようだね。
+> CONTEXT: Map065/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ここが　ロゴスさんのおうち
+なのかしら？　なんだか妙に
+スッキリ☆した　感じだけど。
+> CONTEXT: Map065/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+よう知らんけど　ウチらの調子も
+整っとるな〜。それに　ホレ！
+足下にも　出迎えの品があるで？
+> CONTEXT: Map065/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+It's been a very long road,
+but at last we're here.
+> CONTEXT: Map065/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Is this the home of Mr Logos?
+That's strange, but somehow
+refreshing.
+> CONTEXT: Map065/events/2/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Very refreshing yeah! Very
+refreshing! And look! There's
+welcome gifts under our feet!
+> CONTEXT: Map065/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+色々　発見！
+> CONTEXT: Map065/events/2/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Found various items!
+> CONTEXT: Map065/events/2/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING

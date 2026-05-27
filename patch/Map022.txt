@@ -1,0 +1,668 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ねぇ……ちょっと？
+> CONTEXT: Map022/events/1/pages/0/19/Dialogue
+> CONTEXT: Map022/events/1/pages/2/19/Dialogue
+Hey... Excuse me?
+> END STRING
+
+> BEGIN STRING
+もしもし？
+聞こえてます？
+> CONTEXT: Map022/events/1/pages/0/27/Dialogue
+> CONTEXT: Map022/events/1/pages/2/27/Dialogue
+Hello?
+Can you hear me?
+> END STRING
+
+> BEGIN STRING
+ホンマは　聞こえてんやろぉ？
+> CONTEXT: Map022/events/1/pages/0/36/Dialogue
+> CONTEXT: Map022/events/1/pages/2/36/Dialogue
+You can really hear us, right?
+> END STRING
+
+> BEGIN STRING
+えっと……。
+ごめんねっ　夢の中だってのに
+急に　話しかけちゃったけど……。
+> CONTEXT: Map022/events/1/pages/0/54/Dialogue
+> CONTEXT: Map022/events/1/pages/2/53/Dialogue
+Um...
+Sorry, we started talking to you 
+even though you were dreaming...
+> END STRING
+
+> BEGIN STRING
+私たちは　そう　夢魔の一族──
+サキュバスなの。
+知ってるかな？
+> CONTEXT: Map022/events/1/pages/0/64/Dialogue
+> CONTEXT: Map022/events/1/pages/2/63/Dialogue
+We are a type of dream demon, 
+called succubi.
+Are you familiar with succubi?
+> END STRING
+
+> BEGIN STRING
+知ってんやろ？　サキュバスやで♪
+夢ん中　現れて　いろいろ　あ〜〜〜ん♡
+なコトする　あのサキュバスやで！
+> CONTEXT: Map022/events/1/pages/0/75/Dialogue
+> CONTEXT: Map022/events/1/pages/2/74/Dialogue
+You know, right? About succubi♪
+They do things in your dreams, 
+like... Ahhhhh♡ That's a succubus!
+> END STRING
+
+> BEGIN STRING
+ちょっと！？
+\\n[13]！　いきなり　そんな
+如何わしいコト　言わないでっ！
+> CONTEXT: Map022/events/1/pages/0/85/Dialogue
+> CONTEXT: Map022/events/1/pages/2/84/Dialogue
+Hey!?
+\\n[13]! Don't just say
+something so indecent!
+> END STRING
+
+> BEGIN STRING
+お！？　なんでや　\\n[11]？
+ウチら　えちえち種族やん♪
+如何わしいコトして　なんぼやん♪
+> CONTEXT: Map022/events/1/pages/0/94/Dialogue
+> CONTEXT: Map022/events/1/pages/2/93/Dialogue
+Ah!? Why, \\n[11]?
+We're a naughty species♪
+Doing naughty things is what matters♪
+> END STRING
+
+> BEGIN STRING
+まあまあ　\\n[11]　それに\\n[13]も。
+まずは　彼に　ちゃんと　この状況を
+話してあげなくっちゃ　ダメでしょ？
+> CONTEXT: Map022/events/1/pages/0/103/Dialogue
+> CONTEXT: Map022/events/1/pages/2/102/Dialogue
+Come now, \\n[11] and \\n[13].
+We should properly explain 
+the situation to him, don't you think?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そうね　\\n[12]。安い挑発に　すぐ
+熱くなるのは　あたしの悪いクセだ。
+\\n[12]みたいに　冷静にならないと。
+> CONTEXT: Map022/events/1/pages/0/111/Dialogue
+> CONTEXT: Map022/events/1/pages/2/110/Dialogue
+\\NAME[\\n[11]]
+...You're right, \\n[12].
+I get worked up so easily.
+I need to stay calm like you, \\n[12].
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……それで　何の話だったかしら？
+> CONTEXT: Map022/events/1/pages/0/120/Dialogue
+> CONTEXT: Map022/events/1/pages/2/119/Dialogue
+\\NAME[\\n[12]]
+...So, what were we 
+talking about again?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+おい！？
+> CONTEXT: Map022/events/1/pages/0/127/Dialogue
+> CONTEXT: Map022/events/1/pages/2/126/Dialogue
+\\NAME[\\n[11]]
+Hey!?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+難しい話なんかやないでー！
+とにかく　ウチらと　ヤって　ヤって
+ヤりまくろーって　話♪
+> CONTEXT: Map022/events/1/pages/0/134/Dialogue
+> CONTEXT: Map022/events/1/pages/2/133/Dialogue
+\\NAME[\\n[13]]
+It's not a complicated story!
+Basically, it's about doing it with us, 
+doing it a lot, over and over!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だーかーらー！
+\\n[13]！　展開を　急ぎ過ぎっ！
+もっと　こう……だ　段取りを……っ。
+> CONTEXT: Map022/events/1/pages/0/142/Dialogue
+\\NAME[\\n[11]]
+Like I said, \\n[13]!
+You're rushing the plot too much!
+You should do it like...step by step...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そうねぇ……。
+行為を　しようにも　今のままじゃ
+ちょっと　難しいしねぇ……。
+> CONTEXT: Map022/events/1/pages/0/150/Dialogue
+\\NAME[\\n[12]]
+Well...
+That'd be difficult to do
+at this point...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ……そうだよっ！
+それに　そもそも……え　え　えぇっと
+そ　そこの……えぇっと……。
+> CONTEXT: Map022/events/1/pages/0/158/Dialogue
+\\NAME[\\n[11]]
+R-Right!
+Besides, to begin with... um, uh...
+Th-That... um...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ……あんたさぁ！？
+あんたは……その──\\|したいの？
+あたしたちと……そういうこと……。
+> CONTEXT: Map022/events/1/pages/0/168/Dialogue
+\\NAME[\\n[11]]
+Hey...!?
+You...you want to--\\|do it?
+With us...such things...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら！
+君　意外と正直なのね。
+良い傾向と　言えるかしらね♪
+> CONTEXT: Map022/events/1/pages/0/179/Dialogue
+\\NAME[\\n[12]]
+Oh my!
+You're surprisingly honest.
+I suppose that's a good sign♪
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+えーーー？　嘘やろぉ？
+あんちゃん　ウチらと　したくないん？
+ホントんところ　したいんやろぉ？
+> CONTEXT: Map022/events/1/pages/0/190/Dialogue
+\\NAME[\\n[13]]
+Huh? You're kidding, right?
+You don't want to do it with us?
+You actually want to, don't you?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……フンっ。
+まぁ　どっちでもいいよ。
+今は　まだ……ね。
+> CONTEXT: Map022/events/1/pages/0/201/Dialogue
+\\NAME[\\n[11]]
+...Hmph.
+Well, it doesn't really matter.
+For now...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そう。
+今は　まだ　どうにもできないの。
+それで　困っているところなの。
+> CONTEXT: Map022/events/1/pages/0/209/Dialogue
+\\NAME[\\n[12]]
+Yes.
+Nothing to be done about it now.
+That's just how it is.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なーなー。ここで　面倒臭い話を
+いつまでもしてないで　サッサと
+来てもらえば　え〜んやなぁい？
+> CONTEXT: Map022/events/1/pages/0/217/Dialogue
+\\NAME[\\n[13]]
+Hey, hey. Why don't you just come here 
+instead of dragging on this tedious 
+conversation forever?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そうね。
+とりあえず　あんたには　来てもらうわ。
+> CONTEXT: Map022/events/1/pages/0/225/Dialogue
+\\NAME[\\n[11]]
+Yes.
+For now, you should come here.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+もう少し　深いトコロへ……。
+
+さぁ……おいで？
+> CONTEXT: Map022/events/1/pages/0/232/Dialogue
+\\NAME[\\n[12]]
+Let's go a little deeper...
+
+You coming...?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+さ〜って☆　すまんな〜
+ワケあって　こっから　しばらく
+リモート対応になってまうんや。
+> CONTEXT: Map022/events/1/pages/0/248/Dialogue
+\\NAME[\\n[13]]
+Well then☆ Excuse me〜
+For no particular reason, 
+I'll help you remotely for now.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+その代わり　あちこち
+動き回れるからね。\\C[6]Ｘボタンを
+押せば　メニューも開く\\C[0]よ。
+> CONTEXT: Map022/events/1/pages/0/254/Dialogue
+\\NAME[\\n[12]]
+You can move around anywhere. 
+\\C[6]Pressing the X button opens the menu.\\C[0]
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+逆に　\\C[6]Ｂボタンが決定\\C[0]だからね。
+何か　見つけたら　近づいて
+Ｂボタンを　押すこと！
+> CONTEXT: Map022/events/1/pages/0/259/Dialogue
+\\NAME[\\n[11]]
+Conversely, \\C[6]B is the confirm button\\C[0].
+If you find something, approach it
+and press the B button!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ　それと……\\C[6]プレイ終了時は
+必ず　SYSTEM→\\C[18]Quit Game\\C[6]
+この処理を　怠らないように！！\\C[0]
+> CONTEXT: Map022/events/1/pages/0/267/Dialogue
+\\NAME[\\n[11]]
+Oh, and also...\\C[6]When you finish playing
+Always go to SYSTEM→\\C[18]Quit Game\\C[6]
+Don't forget to do this!!\\C[0]
+> END STRING
+
+> BEGIN STRING
+Hey, hey you?
+> CONTEXT: Map022/events/1/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hello? Hello?
+Can you hear us?
+> CONTEXT: Map022/events/1/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You can actually hear me, can't you?
+> CONTEXT: Map022/events/1/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Well...I'm sorry for talking to you
+so suddenly, even though you are
+dreaming.
+> CONTEXT: Map022/events/1/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+We are a family of dream demons,
+In other words, we are succubus.
+Do you know that?
+> CONTEXT: Map022/events/1/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You know. That succubus!
+Appearing in dreams and does all
+sorts of sexual things!
+> CONTEXT: Map022/events/1/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hey!? \\n[13]！
+Don't introduce us like prostitutes!
+> CONTEXT: Map022/events/1/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Oh, why not!?　\\n[11]？
+We are a naughty species and
+we should be naughty.
+> CONTEXT: Map022/events/1/pages/1/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+All right, \\n[11]. And \\n[13].
+First we have to explain to him
+properly what is going on.
+> CONTEXT: Map022/events/1/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Oh well, \\n[12]. It's a bad habit of
+mine to get easily offended by easy
+provocations. Let's be cool like you.
+> CONTEXT: Map022/events/1/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+So, what were we talking about?
+> CONTEXT: Map022/events/1/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hey!!!!!
+> CONTEXT: Map022/events/1/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+It's not a hard thing to do.
+Come and have sex with us!
+> CONTEXT: Map022/events/1/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hey you bastard \\n[13]!
+You're rushing the rollout!
+We need to do more to set things up.
+> CONTEXT: Map022/events/1/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+I see... even if you want to do the
+deed, it's a bit difficult as it is.
+> CONTEXT: Map022/events/1/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Yes!
+To begin with, there...eh,
+there... eh.
+> CONTEXT: Map022/events/1/pages/1/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Do you want to?\\|
+Well... I mean,
+with us, sexuality.
+> CONTEXT: Map022/events/1/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh dear!
+You're surprisingly honest.
+That's a good trend.
+> CONTEXT: Map022/events/1/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Ehhhh!　You're kidding, right?
+You don't want to, brudda?
+You really want it, don't you?
+> CONTEXT: Map022/events/1/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hmph!
+It doesn't matter either way.
+It's still... for now.
+> CONTEXT: Map022/events/1/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Right.
+We can't do anything about it now.
+So we're in trouble.
+> CONTEXT: Map022/events/1/pages/1/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Why don't you just ask him to come
+here as soon as possible instead of
+having a difficult conversation here?
+> CONTEXT: Map022/events/1/pages/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Yes, it does.
+In the meantime,
+I'll let you come to us.
+> CONTEXT: Map022/events/1/pages/1/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+A bit deeper.
+
+Go on... come on...
+> CONTEXT: Map022/events/1/pages/1/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh no, sorry. For various
+reasons, it will be remotely
+supported for a while.
+> CONTEXT: Map022/events/1/pages/1/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Instead, you can move around.
+You can also open the menu by pressing
+the X button.
+> CONTEXT: Map022/events/1/pages/1/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+The B button is a decision.
+If you spot something,
+get close and press B button!
+> CONTEXT: Map022/events/1/pages/1/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Whenever you end play, you must
+SYSTEM →　\\C[18]Quit Game\\C[0]
+Don't forget this process! OK!?
+> CONTEXT: Map022/events/1/pages/1/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+違うでしょ！　\\n[13]！
+いや……まぁ　彼が望むなら　それも
+し……しなくっちゃとは　思うけど……。
+> CONTEXT: Map022/events/1/pages/2/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そうね。見返りは　必要だよね。
+なんせ　頼めるのは　彼ぐらいだって
+ロゴスさんに言われて　来たんだから。
+> CONTEXT: Map022/events/1/pages/2/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+って　言っても　一方的なのは
+良くないな。えと……あたしたちは
+ちょっと　困っててね。
+> CONTEXT: Map022/events/1/pages/2/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+よう分からんけど　ウチら夢魔の種族は今
+絶賛☆復興状態中なんや。ほんでまぁ
+あんちゃんには　その手伝いを――
+> CONTEXT: Map022/events/1/pages/2/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+お願いしに来たの。私たちだけじゃ
+ちょっと大変で……。君には素質があって
+夢界中心にも来れるって　聞いたから
+> CONTEXT: Map022/events/1/pages/2/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+勿論　タダでとは　言わないよ？
+み……見返りも。ロゴスから　節度ある
+い……営みは　推奨してもらえてるし。
+> CONTEXT: Map022/events/1/pages/2/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+どうかな？　初対面の夢魔からの
+申し出なんて　信用できないかもだけど
+\\|頼んでもいいかな？
+> CONTEXT: Map022/events/1/pages/2/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　嬉しい！
+やっぱり　ロゴスさんの言ってたことは
+間違ってなかったんだね♪
+> CONTEXT: Map022/events/1/pages/2/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんでや！？　もしかして　あんちゃん
+既に　涸れてもうたんか！？　ウチらと
+ドスケベ☆なこと　したくないんか！？
+> CONTEXT: Map022/events/1/pages/2/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと　\\n[13]！　そればっかかよ！
+……けど　断った時の　対応も
+ロゴスから　聞かされてるし
+> CONTEXT: Map022/events/1/pages/2/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+心証を悪くしたことを　悔やませながら
+無理矢理　連れてくる……だっけ？
+よく　分からないけれど……。
+> CONTEXT: Map022/events/1/pages/2/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+とりあえず　夢界中心に　来てもらうよ。
+あんたは　以前にも　頻繁に
+行き来してたんでしょ？
+> CONTEXT: Map022/events/1/pages/2/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチらも　端末んとこ　おるから
+なんぼでも　会いに来てくれな？
+仲魔にしてもろて　迷宮でアイテム漁って
+> CONTEXT: Map022/events/1/pages/2/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+復興支援依頼を　達成してね♪
+
+さぁ……おいで？
+> CONTEXT: Map022/events/1/pages/2/266/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,196 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+……
+> CONTEXT: Map036/events/1/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/1/pages/10/55/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………
+> CONTEXT: Map036/events/1/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/1/pages/10/57/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………………
+> CONTEXT: Map036/events/1/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/1/pages/10/59/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢精してしまっていた……。
+片付けて　早く　出掛けなくては。
+> CONTEXT: Map036/events/1/pages/0/20/Dialogue
+> CONTEXT: Map002/events/1/pages/0/29/Dialogue
+I had a wet dream...
+I need to clean up and leave soon.
+> END STRING
+
+> BEGIN STRING
+朝だ……。
+今日も　出掛けなくては。
+> CONTEXT: Map036/events/1/pages/0/26/Dialogue
+> CONTEXT: Map002/events/1/pages/0/35/Dialogue
+It's morning...
+I have to go out again today.
+> END STRING
+
+> BEGIN STRING
+終了処理を　ちゃんとしてから
+プレイを　終了してねって
+言ったよね？
+> CONTEXT: Map036/events/1/pages/1/7/Dialogue
+> CONTEXT: Map002/events/1/pages/1/23/Dialogue
+I told you to 
+close the game properly, did I not?
+> END STRING
+
+> BEGIN STRING
+I warned you to get the end process
+right before you quit, didn't I?
+> CONTEXT: Map036/events/1/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か……
+> CONTEXT: Map036/events/1/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+途方もなく　長い夢を　見ていたような
+……気がする。
+> CONTEXT: Map036/events/1/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だけど　あらゆる夢の記憶というものが
+そうであるように　長大な夢であっても
+今はもう　はっきりとは　思い出せない。
+> CONTEXT: Map036/events/1/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし　この全身に　澄み渡る
+初春の陽射しのような　爽快感は
+一体　なんだろう？
+> CONTEXT: Map036/events/1/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まるで　世界が　書き変わって
+瑞々しく　刷新されたような……。
+> CONTEXT: Map036/events/1/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………………とにかく
+今日も　出掛けなくては。
+> CONTEXT: Map036/events/1/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇妙に――
+> CONTEXT: Map036/events/1/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この世界の何処か一部　一要素　一概念が
+生まれ変わったような
+> CONTEXT: Map036/events/1/pages/2/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不確かな　リニューアルの空気感を
+感じるともなく　感じながら
+> CONTEXT: Map036/events/1/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは　生気潑溂な肉体と頭脳で
+日々を　過ごしていった。
+> CONTEXT: Map036/events/1/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたの顔や姿を　目にした者が
+一時期よりも　だいぶ　健康そうに見える
+と評するほどに　輝かしい日々を――
+> CONTEXT: Map036/events/1/pages/2/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうして　連日のように
+悪夢のようなものを　見ていた
+誘惑の季節を　忘れた頃――
+> CONTEXT: Map036/events/1/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日も　良い一日だった。
+> CONTEXT: Map036/events/1/pages/2/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この充足感に　包まれながら
+> CONTEXT: Map036/events/1/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+寝よう。
+眠ろう……。
+おやすみ…………。
+> CONTEXT: Map036/events/1/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It was also a great day.
+> CONTEXT: Map036/events/1/pages/2/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+With this satisfaction,
+> CONTEXT: Map036/events/1/pages/2/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Go to bed.
+Go to sleep...
+Fall asleep......
+> CONTEXT: Map036/events/1/pages/2/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/1/pages/10/45/Dialogue < UNTRANSLATED
+
+> END STRING

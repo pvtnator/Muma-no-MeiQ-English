@@ -1,0 +1,2276 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+気絶
+> CONTEXT: States/1/name/
+Faint
+> END STRING
+
+> BEGIN STRING
+は　意識を失った！
+> CONTEXT: States/1/message1/
+ lost consciousness!
+> END STRING
+
+> BEGIN STRING
+は　生命活動を停止！
+> CONTEXT: States/1/message2/
+ ceased living!
+> END STRING
+
+> BEGIN STRING
+は　意識を取り戻した！
+> CONTEXT: States/1/message4/
+ regained conciousness!
+> END STRING
+
+> BEGIN STRING
+石化
+> CONTEXT: States/2/name/
+Petrification
+> END STRING
+
+> BEGIN STRING
+は　石化した！
+> CONTEXT: States/2/message1/ < UNTRANSLATED
+> CONTEXT: States/2/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　石になっている！
+> CONTEXT: States/2/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　我に返った！
+> CONTEXT: States/2/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+寝落
+> CONTEXT: States/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　寝落ちした！
+> CONTEXT: States/5/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を　眠らせた！
+> CONTEXT: States/5/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　眠っている……
+> CONTEXT: States/5/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　目を覚ました！
+> CONTEXT: States/5/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+惑乱
+> CONTEXT: States/11/name/
+Confusion
+> END STRING
+
+> BEGIN STRING
+は　惑乱した！
+> CONTEXT: States/11/message1/
+> CONTEXT: States/11/message2/
+ was confused!
+> END STRING
+
+> BEGIN STRING
+は　惑乱している！
+> CONTEXT: States/11/message3/
+ is confused!
+> END STRING
+
+> BEGIN STRING
+は　正気に戻った！
+> CONTEXT: States/11/message4/
+> CONTEXT: States/12/message4/
+ recovered from confusion!
+> END STRING
+
+> BEGIN STRING
+発狂
+> CONTEXT: States/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　発狂した！
+> CONTEXT: States/12/message1/ < UNTRANSLATED
+> CONTEXT: States/12/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　麻痺に陥った！
+> CONTEXT: States/14/message1/ < UNTRANSLATED
+> CONTEXT: States/14/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　麻痺して動けず！
+> CONTEXT: States/14/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　麻痺を克服！
+> CONTEXT: States/14/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬱
+> CONTEXT: States/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　鬱に陥った！
+> CONTEXT: States/16/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を　萎縮させた！
+> CONTEXT: States/16/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　鬱々としている！
+> CONTEXT: States/16/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　鬱を克服！
+> CONTEXT: States/16/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタン(地)
+> CONTEXT: States/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　不如意に陥った！
+> CONTEXT: States/18/message1/ < UNTRANSLATED
+> CONTEXT: States/19/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　体勢を崩した！
+> CONTEXT: States/18/message2/ < UNTRANSLATED
+> CONTEXT: States/19/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　身動きが取れない！
+> CONTEXT: States/18/message3/ < UNTRANSLATED
+> CONTEXT: States/19/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+被毒(代表)
+> CONTEXT: States/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　被毒した！
+> CONTEXT: States/20/message1/ < UNTRANSLATED
+> CONTEXT: States/20/message2/ < UNTRANSLATED
+> CONTEXT: States/21/message1/ < UNTRANSLATED
+> CONTEXT: States/21/message2/ < UNTRANSLATED
+> CONTEXT: States/22/message1/ < UNTRANSLATED
+> CONTEXT: States/22/message2/ < UNTRANSLATED
+> CONTEXT: States/23/message1/ < UNTRANSLATED
+> CONTEXT: States/23/message2/ < UNTRANSLATED
+> CONTEXT: States/24/message1/ < UNTRANSLATED
+> CONTEXT: States/24/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　解毒された！
+> CONTEXT: States/20/message4/ < UNTRANSLATED
+> CONTEXT: States/21/message4/ < UNTRANSLATED
+> CONTEXT: States/22/message4/ < UNTRANSLATED
+> CONTEXT: States/23/message4/ < UNTRANSLATED
+> CONTEXT: States/24/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+被毒Lv01
+> CONTEXT: States/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+被毒Lv02
+> CONTEXT: States/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+被毒Lv03
+> CONTEXT: States/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+被毒Lv04
+> CONTEXT: States/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抗体
+> CONTEXT: States/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　抗体に守られた！
+> CONTEXT: States/30/message1/ < UNTRANSLATED
+> CONTEXT: States/30/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の抗体が　消滅した！
+> CONTEXT: States/30/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目潰
+> CONTEXT: States/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　目が見えなくなった！
+> CONTEXT: States/31/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の目は　潰れた！
+> CONTEXT: States/31/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の目に　光が無い！
+> CONTEXT: States/31/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の目潰が　快癒した！
+> CONTEXT: States/31/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口封
+> CONTEXT: States/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　口が利けなくなった！
+> CONTEXT: States/32/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の口は　封じられた！
+> CONTEXT: States/32/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　口を割れない！
+> CONTEXT: States/32/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の口封が　快癒した！
+> CONTEXT: States/32/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+腕固
+> CONTEXT: States/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　腕の自由を奪われた！
+> CONTEXT: States/33/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の腕部が　弱った！
+> CONTEXT: States/33/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の腕は　鈍っている！
+> CONTEXT: States/33/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の腕固が　快癒した！
+> CONTEXT: States/33/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足止
+> CONTEXT: States/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　足の自由を奪われた！
+> CONTEXT: States/34/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の足下が　弱った！
+> CONTEXT: States/34/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の足は　重い！
+> CONTEXT: States/34/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の足止は　快癒した！
+> CONTEXT: States/34/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+流血
+> CONTEXT: States/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　流血した！
+> CONTEXT: States/36/message1/ < UNTRANSLATED
+> CONTEXT: States/36/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　血を流している！
+> CONTEXT: States/36/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の流血が　収まった！
+> CONTEXT: States/36/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火傷(代表)
+> CONTEXT: States/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　火傷を負った！
+> CONTEXT: States/40/message1/ < UNTRANSLATED
+> CONTEXT: States/40/message2/ < UNTRANSLATED
+> CONTEXT: States/41/message1/ < UNTRANSLATED
+> CONTEXT: States/41/message2/ < UNTRANSLATED
+> CONTEXT: States/42/message1/ < UNTRANSLATED
+> CONTEXT: States/42/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が　焼かれてく！
+> CONTEXT: States/40/message3/ < UNTRANSLATED
+> CONTEXT: States/41/message3/ < UNTRANSLATED
+> CONTEXT: States/42/message3/ < UNTRANSLATED
+> CONTEXT: States/43/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火傷が　収まった！
+> CONTEXT: States/40/message4/ < UNTRANSLATED
+> CONTEXT: States/41/message4/ < UNTRANSLATED
+> CONTEXT: States/42/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火傷A
+> CONTEXT: States/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火傷B
+> CONTEXT: States/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎上
+> CONTEXT: States/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　炎上した！
+> CONTEXT: States/43/message1/ < UNTRANSLATED
+> CONTEXT: States/43/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の炎上が　鎮まった！
+> CONTEXT: States/43/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+保険
+> CONTEXT: States/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　保険に守れた！
+> CONTEXT: States/50/message1/ < UNTRANSLATED
+> CONTEXT: States/50/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の保険が　消失した！
+> CONTEXT: States/50/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無病息災
+> CONTEXT: States/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　無病息災の加護を受けた！
+> CONTEXT: States/60/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+に　無病息災の加護が！
+> CONTEXT: States/60/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　無病息災の加護を失った！
+> CONTEXT: States/60/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急死(首狩り仕様)
+> CONTEXT: States/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　首を刎ねられた！
+> CONTEXT: States/62/message1/ < UNTRANSLATED
+> CONTEXT: States/62/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急死
+> CONTEXT: States/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　急死した！
+> CONTEXT: States/63/message1/ < UNTRANSLATED
+> CONTEXT: States/63/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+システム逃走不可
+> CONTEXT: States/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+経験値アップ中
+> CONTEXT: States/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル封印(処刑用BGM)
+> CONTEXT: States/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(切斬)
+> CONTEXT: States/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　反撃態勢を解いた！
+> CONTEXT: States/71/message4/ < UNTRANSLATED
+> CONTEXT: States/72/message4/ < UNTRANSLATED
+> CONTEXT: States/73/message4/ < UNTRANSLATED
+> CONTEXT: States/77/message4/ < UNTRANSLATED
+> CONTEXT: States/78/message4/ < UNTRANSLATED
+> CONTEXT: States/79/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(突貫)
+> CONTEXT: States/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(打壊)
+> CONTEXT: States/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(象形拳)
+> CONTEXT: States/77/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(物理)
+> CONTEXT: States/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃態勢(化学)
+> CONTEXT: States/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中低下(極小)
+> CONTEXT: States/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中低下(小)
+> CONTEXT: States/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中低下(中)
+> CONTEXT: States/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中低下(大)
+> CONTEXT: States/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会心率低下(中)
+> CONTEXT: States/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会心率上昇(高)
+> CONTEXT: States/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中上昇(唯一)
+> CONTEXT: States/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避率上昇(中)
+> CONTEXT: States/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避率上昇(跳躍中)
+> CONTEXT: States/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めA(キリング)
+> CONTEXT: States/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　殺意を高めた！
+> CONTEXT: States/91/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　力を溜めた！
+> CONTEXT: States/91/message2/ < UNTRANSLATED
+> CONTEXT: States/92/message2/ < UNTRANSLATED
+> CONTEXT: States/93/message2/ < UNTRANSLATED
+> CONTEXT: States/95/message2/ < UNTRANSLATED
+> CONTEXT: States/96/message2/ < UNTRANSLATED
+> CONTEXT: States/403/message1/ < UNTRANSLATED
+> CONTEXT: States/405/message1/ < UNTRANSLATED
+> CONTEXT: States/408/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めB(調息)
+> CONTEXT: States/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の勁道が　開かれていく！
+> CONTEXT: States/92/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めC(精神統一)
+> CONTEXT: States/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　精神を集中させている！
+> CONTEXT: States/93/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めD(締切前ブースト)
+> CONTEXT: States/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の尻に　火が付いた！
+> CONTEXT: States/94/message1/ < UNTRANSLATED
+> CONTEXT: States/94/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めD
+> CONTEXT: States/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の上腕筋が　小刻みに脈打つ！
+> CONTEXT: States/95/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜めB
+> CONTEXT: States/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　捨て身の構えを取った！
+> CONTEXT: States/96/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二回行動
+> CONTEXT: States/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　二回行動が可能になった！
+> CONTEXT: States/99/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　二回行動が可能に！
+> CONTEXT: States/99/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX不覚
+> CONTEXT: States/110/name/ < UNTRANSLATED
+> CONTEXT: Skills/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技01★
+> CONTEXT: States/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技02
+> CONTEXT: States/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技03
+> CONTEXT: States/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技04
+> CONTEXT: States/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技05
+> CONTEXT: States/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技06
+> CONTEXT: States/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技07
+> CONTEXT: States/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技08
+> CONTEXT: States/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技01
+> CONTEXT: States/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技02
+> CONTEXT: States/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技03
+> CONTEXT: States/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技04
+> CONTEXT: States/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技05
+> CONTEXT: States/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技06
+> CONTEXT: States/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技07
+> CONTEXT: States/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技08
+> CONTEXT: States/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技01★(一騎討ち)
+> CONTEXT: States/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　一騎討ちを終えた！
+> CONTEXT: States/131/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技02★（１６回斬り）
+> CONTEXT: States/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技03★
+> CONTEXT: States/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技04★
+> CONTEXT: States/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技05
+> CONTEXT: States/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技06
+> CONTEXT: States/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技07
+> CONTEXT: States/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技08
+> CONTEXT: States/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技01★
+> CONTEXT: States/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技02★
+> CONTEXT: States/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技03☆
+> CONTEXT: States/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技04
+> CONTEXT: States/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技05
+> CONTEXT: States/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技06
+> CONTEXT: States/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技07
+> CONTEXT: States/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技08
+> CONTEXT: States/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器を拾いに
+> CONTEXT: States/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　武器を回収した！
+> CONTEXT: States/151/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動前防御
+> CONTEXT: States/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　号令に従った！
+> CONTEXT: States/153/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マグマガード(火＆土)
+> CONTEXT: States/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　炎と岩に備えた！
+> CONTEXT: States/154/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロストガード(水＆突)
+> CONTEXT: States/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　氷と棘に備えた！
+> CONTEXT: States/155/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストームガード(雷＆風)
+> CONTEXT: States/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　雷と嵐に備えた！
+> CONTEXT: States/156/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風の結界(エリアルメイル)
+> CONTEXT: States/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　風の鎧で身を包んだ！
+> CONTEXT: States/157/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーテル節約(EP1/4)
+> CONTEXT: States/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　EP消費を抑えられる！
+> CONTEXT: States/158/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空蝉バリアー
+> CONTEXT: States/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　身代わりを立てた！
+> CONTEXT: States/159/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+解剖・盗賊の極意
+> CONTEXT: States/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　素材回収の勘が冴えた！
+> CONTEXT: States/162/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　素材回収の勘を失った！
+> CONTEXT: States/162/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食いしばり
+> CONTEXT: States/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　覚悟完了！
+> CONTEXT: States/163/message1/ < UNTRANSLATED
+> CONTEXT: States/163/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　不屈でなくなった！
+> CONTEXT: States/163/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リジェネ
+> CONTEXT: States/164/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　自然治癒力が高まった！
+> CONTEXT: States/164/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の　自然治癒力が向上！
+> CONTEXT: States/164/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のLP回復効果が　終了！
+> CONTEXT: States/164/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+山彦
+> CONTEXT: States/165/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　山彦詠唱が可能になった！
+> CONTEXT: States/165/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　山彦詠唱が可能に！
+> CONTEXT: States/165/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の山彦詠唱が　終了！
+> CONTEXT: States/165/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賦活の手筈
+> CONTEXT: States/166/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　自己回復効果を得た！
+> CONTEXT: States/166/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の自己回復効果が　終了！
+> CONTEXT: States/166/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復
+> CONTEXT: States/167/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　やる気に満ちていく！
+> CONTEXT: States/167/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のEP回復効果が　終了！
+> CONTEXT: States/167/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーテル節約(EP半減)
+> CONTEXT: States/168/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のEP消費量が　半減！
+> CONTEXT: States/168/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のEP節約効果が　終了！
+> CONTEXT: States/168/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱視線スカ(火＆突)
+> CONTEXT: States/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎と突貫属性が　強化！
+> CONTEXT: States/174/message1/ < UNTRANSLATED
+> CONTEXT: States/174/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+波打ちカリプソ(水＆打)
+> CONTEXT: States/175/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷と打壊属性が　強化！
+> CONTEXT: States/175/message1/ < UNTRANSLATED
+> CONTEXT: States/175/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回路切断ダブ(雷＆斬)
+> CONTEXT: States/176/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電と切斬属性が　強化！
+> CONTEXT: States/176/message1/ < UNTRANSLATED
+> CONTEXT: States/176/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:火の精霊
+> CONTEXT: States/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:水の精霊
+> CONTEXT: States/182/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:風の精霊
+> CONTEXT: States/183/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:土の精霊
+> CONTEXT: States/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:草の精霊
+> CONTEXT: States/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:雷の精霊
+> CONTEXT: States/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:闇の精霊
+> CONTEXT: States/187/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上級契約:光の精霊
+> CONTEXT: States/188/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:火の精霊
+> CONTEXT: States/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:水の精霊
+> CONTEXT: States/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:風の精霊
+> CONTEXT: States/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:土の精霊
+> CONTEXT: States/194/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:草の精霊
+> CONTEXT: States/195/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:雷の精霊
+> CONTEXT: States/196/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:闇の精霊
+> CONTEXT: States/197/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特級契約:光の精霊
+> CONTEXT: States/198/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白刃士の悟り
+> CONTEXT: States/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武術師の悟り
+> CONTEXT: States/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師の悟り
+> CONTEXT: States/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+医術師の悟り
+> CONTEXT: States/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+野伏の悟り
+> CONTEXT: States/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+探求家の悟り
+> CONTEXT: States/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+密偵の悟り
+> CONTEXT: States/217/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+芸能師の悟り
+> CONTEXT: States/218/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尋宝士具術
+> CONTEXT: States/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死亡信息
+> CONTEXT: States/220/name/ < UNTRANSLATED
+> CONTEXT: Skills/518/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇跡の内服薬
+> CONTEXT: States/221/name/ < UNTRANSLATED
+> CONTEXT: Skills/419/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通常攻撃２回
+> CONTEXT: States/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通常攻撃急死
+> CONTEXT: States/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+薬の知識(回復1.5倍)
+> CONTEXT: States/224/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中UP(祝言)
+> CONTEXT: States/251/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の命中力が　上昇！
+> CONTEXT: States/251/message1/ < UNTRANSLATED
+> CONTEXT: States/251/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の命中力上昇が　終了！
+> CONTEXT: States/251/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命中DOWN(呪印)
+> CONTEXT: States/252/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の命中力が　下落！
+> CONTEXT: States/252/message1/ < UNTRANSLATED
+> CONTEXT: States/252/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の命中力下落が　終了！
+> CONTEXT: States/252/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避UP(SILVER)
+> CONTEXT: States/253/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の回避力が　上昇！
+> CONTEXT: States/253/message1/ < UNTRANSLATED
+> CONTEXT: States/253/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の回避力上昇が　終了！
+> CONTEXT: States/253/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避DOWN(呪印)
+> CONTEXT: States/254/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の回避力が　下落！
+> CONTEXT: States/254/message1/ < UNTRANSLATED
+> CONTEXT: States/254/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の回避力下落が　終了！
+> CONTEXT: States/254/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリティカルUP(他)
+> CONTEXT: States/255/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の暴撃性が　上昇！
+> CONTEXT: States/255/message1/ < UNTRANSLATED
+> CONTEXT: States/255/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の暴撃性上昇が　終了！
+> CONTEXT: States/255/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリティカルDOWN(他)
+> CONTEXT: States/256/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の暴撃性が　下落！
+> CONTEXT: States/256/message1/ < UNTRANSLATED
+> CONTEXT: States/256/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の暴撃性下落が　終了！
+> CONTEXT: States/256/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抗呪UP(AQUA)
+> CONTEXT: States/257/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の抗呪力が　上昇！
+> CONTEXT: States/257/message1/ < UNTRANSLATED
+> CONTEXT: States/257/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の抗呪力上昇が　終了！
+> CONTEXT: States/257/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抗呪DOWN(予備？)
+> CONTEXT: States/258/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の抗呪力が　下落！
+> CONTEXT: States/258/message1/ < UNTRANSLATED
+> CONTEXT: States/258/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の抗呪力下落が　終了！
+> CONTEXT: States/258/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘイトアップ
+> CONTEXT: States/259/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　敵に狙われやすくなった！
+> CONTEXT: States/259/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が　敵愾心を集めている！
+> CONTEXT: States/259/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘイトダウン
+> CONTEXT: States/260/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　敵の狙いから逃れた！
+> CONTEXT: States/260/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火炎属性強化
+> CONTEXT: States/261/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎属性が　強化された！
+> CONTEXT: States/261/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎属性が　強化！
+> CONTEXT: States/261/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎属性強化が　終了！
+> CONTEXT: States/261/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水氷属性強化
+> CONTEXT: States/262/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷属性が　強化された！
+> CONTEXT: States/262/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷属性が　強化！
+> CONTEXT: States/262/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷属性強化が　終了！
+> CONTEXT: States/262/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+切斬属性強化
+> CONTEXT: States/263/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の切斬属性が　強化された！
+> CONTEXT: States/263/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の切斬属性が　強化！
+> CONTEXT: States/263/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の切斬属性強化が　終了！
+> CONTEXT: States/263/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+打壊属性強化
+> CONTEXT: States/264/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の打壊属性が　強化された！
+> CONTEXT: States/264/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の打壊属性が　強化！
+> CONTEXT: States/264/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の打壊属性強化が　終了！
+> CONTEXT: States/264/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+突貫属性強化
+> CONTEXT: States/265/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の突貫属性が　強化された！
+> CONTEXT: States/265/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の突貫属性が　強化！
+> CONTEXT: States/265/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の突貫属性強化が　終了！
+> CONTEXT: States/265/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷電属性強化
+> CONTEXT: States/266/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電属性が　強化された！
+> CONTEXT: States/266/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電属性が　強化！
+> CONTEXT: States/266/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電属性強化が　終了！
+> CONTEXT: States/266/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物理属性強化
+> CONTEXT: States/267/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の物理属性が　強化された！
+> CONTEXT: States/267/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の物理属性が　強化！
+> CONTEXT: States/267/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の物理属性強化が　終了！
+> CONTEXT: States/267/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+化学属性強化
+> CONTEXT: States/268/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の化学属性が　強化された！
+> CONTEXT: States/268/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の化学属性が　強化！
+> CONTEXT: States/268/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の化学属性強化が　終了！
+> CONTEXT: States/268/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火炎属性弱化
+> CONTEXT: States/271/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎耐性が　下落！
+> CONTEXT: States/271/message1/ < UNTRANSLATED
+> CONTEXT: States/271/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎耐性下落が　終了！
+> CONTEXT: States/271/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水氷属性弱化
+> CONTEXT: States/272/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷耐性が　下落！
+> CONTEXT: States/272/message1/ < UNTRANSLATED
+> CONTEXT: States/272/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷耐性下落が　終了！
+> CONTEXT: States/272/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+切斬属性弱化
+> CONTEXT: States/273/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の切斬耐性が　下落！
+> CONTEXT: States/273/message1/ < UNTRANSLATED
+> CONTEXT: States/273/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の切斬耐性下落が　終了！
+> CONTEXT: States/273/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+打壊属性弱化
+> CONTEXT: States/274/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の打壊耐性が　下落！
+> CONTEXT: States/274/message1/ < UNTRANSLATED
+> CONTEXT: States/274/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の打壊耐性下落が　終了！
+> CONTEXT: States/274/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+突貫属性弱化
+> CONTEXT: States/275/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の突貫耐性が　下落！
+> CONTEXT: States/275/message1/ < UNTRANSLATED
+> CONTEXT: States/275/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の突貫耐性下落が　終了！
+> CONTEXT: States/275/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷電属性弱化
+> CONTEXT: States/276/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電耐性が　下落！
+> CONTEXT: States/276/message1/ < UNTRANSLATED
+> CONTEXT: States/276/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電耐性下落が　終了！
+> CONTEXT: States/276/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物理属性弱化
+> CONTEXT: States/277/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の物理耐性が　下落！
+> CONTEXT: States/277/message1/ < UNTRANSLATED
+> CONTEXT: States/277/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の物理耐性下落が　終了！
+> CONTEXT: States/277/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+化学属性弱化
+> CONTEXT: States/278/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の化学耐性が　下落！
+> CONTEXT: States/278/message1/ < UNTRANSLATED
+> CONTEXT: States/278/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の化学耐性下落が　終了！
+> CONTEXT: States/278/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神ダメージ弱化
+> CONTEXT: States/279/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肉体ダメージ弱化
+> CONTEXT: States/280/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘開始時処理(強化)
+> CONTEXT: States/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘開始時処理(眠り)
+> CONTEXT: States/301/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蒼天竜の丹薬
+> CONTEXT: States/302/name/ < UNTRANSLATED
+> CONTEXT: Items/235/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　蒼天竜の攻撃力を得た！
+> CONTEXT: States/302/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仁獣の丹薬
+> CONTEXT: States/303/name/ < UNTRANSLATED
+> CONTEXT: Items/236/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　仁獣の防御力を得た！
+> CONTEXT: States/303/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+長老亀の丹薬
+> CONTEXT: States/304/name/ < UNTRANSLATED
+> CONTEXT: Items/237/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　長老亀の霊力を得た！
+> CONTEXT: States/304/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+長老亀の丹薬(2)
+> CONTEXT: States/305/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　長老亀の坑呪力を得た！
+> CONTEXT: States/305/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飛翔鳥の丹薬
+> CONTEXT: States/306/name/ < UNTRANSLATED
+> CONTEXT: Items/238/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　飛翔鳥の敏捷性を得た！
+> CONTEXT: States/306/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飛翔鳥の丹薬(2)
+> CONTEXT: States/307/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　飛翔鳥の回避力を得た！
+> CONTEXT: States/307/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白獅子の丹薬
+> CONTEXT: States/308/name/ < UNTRANSLATED
+> CONTEXT: Items/239/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　白獅子の集中力を得た！
+> CONTEXT: States/308/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白獅子の丹薬(2)
+> CONTEXT: States/309/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　白獅子の命中力を得た！
+> CONTEXT: States/309/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あかき武氣
+> CONTEXT: States/314/name/ < UNTRANSLATED
+> CONTEXT: Skills/914/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の火炎耐性が　強化！
+> CONTEXT: States/314/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あおき武氣
+> CONTEXT: States/315/name/ < UNTRANSLATED
+> CONTEXT: Skills/915/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の水氷耐性が　強化！
+> CONTEXT: States/315/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むらさき武氣
+> CONTEXT: States/316/name/ < UNTRANSLATED
+> CONTEXT: Skills/916/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の雷電耐性が　強化！
+> CONTEXT: States/316/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※ダミー※
+> CONTEXT: States/400/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の邪気が　濃厚に！
+> CONTEXT: States/401/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の邪気が　薄れる……
+> CONTEXT: States/401/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕込み
+> CONTEXT: States/402/name/ < UNTRANSLATED
+> CONTEXT: Skills/648/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の　予備動作に要注意！
+> CONTEXT: States/402/message3/ < UNTRANSLATED
+> CONTEXT: States/403/message3/ < UNTRANSLATED
+> CONTEXT: States/405/message3/ < UNTRANSLATED
+> CONTEXT: States/408/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力溜め(ブレス前)
+> CONTEXT: States/403/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の胸部が　膨れ上がる！
+> CONTEXT: States/403/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遥けき夢
+> CONTEXT: States/404/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　夢見の力を得た！
+> CONTEXT: States/404/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　夢見の力に守られてる！
+> CONTEXT: States/404/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の　遥けき夢が立ち消えた！
+> CONTEXT: States/404/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の口腔が　あなたの夢を狙う！
+> CONTEXT: States/405/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一騎狙われ
+> CONTEXT: States/406/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（テストステート）
+> CONTEXT: States/407/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪夢の予知夢
+> CONTEXT: States/408/name/ < UNTRANSLATED
+> CONTEXT: Skills/917/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気が　臨界点を突破！
+> CONTEXT: States/408/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乾眠状態
+> CONTEXT: States/409/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　乾眠状態になった！
+> CONTEXT: States/409/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　乾眠状態になっている！
+> CONTEXT: States/409/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は　乾眠から目覚めた！
+> CONTEXT: States/409/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+語り反撃態勢(物理)
+> CONTEXT: States/411/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+語り反撃態勢(化学)
+> CONTEXT: States/412/name/ < UNTRANSLATED
+
+> END STRING

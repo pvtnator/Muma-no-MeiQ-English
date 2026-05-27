@@ -1,0 +1,343 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+最初は　些細な　兆候からだった。
+> CONTEXT: Map067/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の繁華街――とりわけ　若者たちが
+酒と色欲に　溺れる　そんな街角で。
+> CONTEXT: Map067/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+度重なる　性犯罪の発生と　惨劇の風聞
+何人もの　失神者　心神喪失者
+そして　重傷者　死亡者の報告が
+> CONTEXT: Map067/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はじめは　ぽつり　ぽつり
+次第に　あちら　こちらで
+> CONTEXT: Map067/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まるで　ウイルス感染症の如く
+次々に伝播し　拡散し　瞬く間に
+全国各地に　それは　広まっていった。
+> CONTEXT: Map067/events/1/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+明らかに　これは　おかしいと
+騒がれ始めたのは　著名人らの同時多発的
+変死事件が　報道された辺りで　ようやく
+> CONTEXT: Map067/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人類は　未曽有のハザードに直面してると
+メディアからの洗礼を　受けるかのように
+自覚しだすに　至ったのである。
+> CONTEXT: Map067/events/1/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+街中で突然　奇声を上げたかと思えば
+手当たり次第に　異性へと　飛び掛かり
+衣服を剥ぎ取り　性器を剥き出しにし
+> CONTEXT: Map067/events/1/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抵抗すれば　腕力でもって屈服させ
+白昼堂々と　恐るべき強姦を繰り広げる。
+男も　女も　関係ないッ！
+> CONTEXT: Map067/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あちらこちらで　正気を失った民衆が
+圧倒的な　加害暴力の化身となって
+強姦を繰り広げる！　強姦殺人を！
+> CONTEXT: Map067/events/1/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女たちは　狂気に淀んだ瞳で
+視界に入る　男性たちの男根を
+飢えた野獣のように　奪い求めあう！
+> CONTEXT: Map067/events/1/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男たちは　道行く女たちを暴行して
+押し倒し　そのまま　鋼のような男根を
+突き刺して　無慈悲な膣内射精を行う！
+> CONTEXT: Map067/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もし異性がいなければ　同性を襲いだす！
+女は女に　襲い掛かり　秘部を摩擦し合い
+強き男は　弱き男の　肛門を掘削する！
+> CONTEXT: Map067/events/1/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴力！　暴力！　暴力！　容赦なき暴力！
+自制心　倫理観　道徳心　そんなものは
+どこを見渡しても　存在していない！
+> CONTEXT: Map067/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全国各地で巻き起こる　信じられぬ痴態と
+あるまじき猟奇的な強姦殺人に対し
+政府の動きは終始　後手に回るばかりで
+> CONTEXT: Map067/events/1/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当初予定していた　国際的スポーツ大会を
+何が何でも開催実現させる為に　全集中し
+具体的な対策も　打ち出さず
+> CONTEXT: Map067/events/1/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+季節性インフルエンザか　ともすれば
+若者たちの流行か　何かだと　この事態を
+深刻に受け止めることに　甚だ及び腰で
+> CONTEXT: Map067/events/1/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+苦しみもがき死んでいく民衆の声も聞かず
+大会の開催を最優先に――その利潤をのみ
+最優先にして　現状を軽視するばかり。
+> CONTEXT: Map067/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+慎重に慎重に　検討に検討を重ねると
+壊れた機械人形のように　念仏を繰り返し
+張り子の虎そのものの空虚な物言いを続け
+> CONTEXT: Map067/events/1/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その裏で　官僚や閣僚たちは　我先にと
+自己保身の為の行動を　最優先させ
+地下シェルター　国外退避　隔離政策
+> CONTEXT: Map067/events/1/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+築き上げた財と地位を　固守する為に
+苦しみもがき死んでいく　民衆の命など
+何一つ　顧みようとはしない態度。
+> CONTEXT: Map067/events/1/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+が　そうした国家の指導者たちの迷走など
+取るに足らない　児戯に過ぎなかった。
+――そう　夢魔たちにとっては。
+> CONTEXT: Map067/events/1/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人類が如何なる対策を講じようと　もはや
+夢魔たちの侵攻を　防衛し対抗する余地は
+何一つ　残されていなかった。
+> CONTEXT: Map067/events/1/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何故なら　全ての人々の理性――ロゴスは
+既に　破壊されてしまっていたからだ。
+> CONTEXT: Map067/events/1/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+――そう　人類の集合意識として選ばれた
+あなた自身の手によって！
+> CONTEXT: Map067/events/1/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Mon3047_SFC"
+> CONTEXT: Map067/events/1/pages/0/126/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map054/events/1/pages/0/3/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/132/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map054/events/1/pages/0/9/InlineScript/1:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Mon3049_SFC"
+> CONTEXT: Map067/events/1/pages/0/128/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/130/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map054/events/1/pages/0/5/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Map054/events/1/pages/0/7/InlineScript/1:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+故に　論理も秩序も　もはや　どこにも
+残されていない！　人々は夢魔たちの放つ
+邪気に　無抵抗の状態で　感染・汚染し
+> CONTEXT: Map067/events/1/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕事も　勉学も　家庭も　趣味も　目標も
+何もかもを忘れ去り　ただ心を狂わせる
+欲情のままに　暴虐を繰り返すのみ！
+> CONTEXT: Map067/events/1/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+道端で　女が　数人の見知らぬ男たちに
+圧し潰されて　凌辱され続けていく
+……その命が　奪われるまで！
+> CONTEXT: Map067/events/1/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂乱の女が　見知らぬ男の男根を
+限度を越えて扱き続け　しまいには
+引き千切って　鮮血が舞い散る！
+> CONTEXT: Map067/events/1/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+老人が　襲われている！
+幼き子らが　四肢をもがれていく！
+動物たちが　そそくさと逃げ出していく。
+> CONTEXT: Map067/events/1/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性衝動の過剰暴走――種の保存の極致は
+他者への殺人動機！　究極の自我暴発で
+犯し合い　殺し合う　亡者たちの群れ！
+> CONTEXT: Map067/events/1/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+情報発信機器が　機能を停止した頃には
+人々の間で　安楽死の思想が流布され
+すっかり　定着しきっていた。
+> CONTEXT: Map067/events/1/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰かが警鐘を鳴らしても　大多数の人々は
+なるようになろう　なるようになろう
+このまま悦と楽に溺れて　死んでしまおう
+> CONTEXT: Map067/events/1/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+曇りきった瞳で　崩壊の時を受け入れ
+脳内を犯されて　命を散らす間際にも
+受動的な救済を　夢想するばかり。
+> CONTEXT: Map067/events/1/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは　どうだ！？
+> CONTEXT: Map067/events/1/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰も　責任を問う者はいない。
+ただ　あなただけは　その経験から
+かろうじて　五体無事を保っていた。
+> CONTEXT: Map067/events/1/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日常が狂い出してから　指数関数的に
+最多記録を更新していく　死傷者の統計を
+数えるともなく　数えながら
+> CONTEXT: Map067/events/1/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日もあなたは　暴力的な色欲に支配され
+性衝動以外を持ち合わせぬ　殺人鬼たちに
+命を狙われながら　怯え隠れて街を歩く。
+> CONTEXT: Map067/events/1/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴徒と化した　彼ら彼女らを　首尾よく
+避けれても　夢魔たちが　あなたの
+生存への活路を　頑として塞ぐ！
+> CONTEXT: Map067/events/1/pages/0/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理性や論理は　既に　破壊されてしまって
+夢魔たちの支配から　逃れる術はない！
+> CONTEXT: Map067/events/1/pages/0/294/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何度……やり直しても　この結果は
+変わらない！
+> CONTEXT: Map067/events/1/pages/0/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何度……\\C[6]CONTINUE\\C[0]しても！
+> CONTEXT: Map067/events/1/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING

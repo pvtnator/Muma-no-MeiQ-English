@@ -1,0 +1,722 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[11]]
+……うん？　あ　やっと
+来たようだね。──って！
+あんた……その格好！？
+> CONTEXT: Map023/events/2/pages/1/2/Dialogue
+\\NAME[\\n[11]]
+...Hmm? 
+Oh, you've finally arrived. ─Wait!
+What are you wearing?!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　あんちゃんたら
+えらい　ちっこくなったなー！
+ウチより　ちっこいやんかー！
+> CONTEXT: Map023/events/2/pages/1/8/Dialogue
+\\NAME[\\n[13]]
+Wow☆ Big guy
+You've gotten so tiny!
+You're even smaller than me!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら　かわいい♪
+その風袋は　ノームの種族ね。
+とっても　似合ってるよ？
+> CONTEXT: Map023/events/2/pages/1/14/Dialogue
+\\NAME[\\n[12]]
+Oh, how cute♪
+Isn't that wrapping from gnomes?
+It suits you very well, you know?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+手先が器用で　様々な道具を扱い
+主に地中で暮らす　土の種族……。
+まぁ　確かに──
+> CONTEXT: Map023/events/2/pages/1/19/Dialogue
+\\NAME[\\n[11]]
+A tribe of earth dwellers skilled with
+various tools, living underground...
+Well, certainly──
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+これから　ダンジョンを
+冒険してもらうんだから……。
+この　『\\C[6]夢魔の迷宮\\C[0]』を。
+> CONTEXT: Map023/events/2/pages/1/24/Dialogue
+\\NAME[\\n[12]]
+Now you're going to adventure 
+through a dungeon...
+Through the '\\C[6]Maze of Succubus\\C[0]'.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うても　今いるココは
+所謂　チュートリアルやで！
+サクっと　クリアしたれや〜。
+> CONTEXT: Map023/events/2/pages/1/29/Dialogue
+\\NAME[\\n[13]]
+Even so, this place you're in right now 
+is just a tutorial!
+Just clear it quickly〜.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+このフロアなら　特別に
+Ｒボタン　押せば　マップも
+念写できるようなっとるで〜？
+> CONTEXT: Map023/events/2/pages/1/35/Dialogue
+\\NAME[\\n[13]]
+On this floor, you can press the R button
+to telepathically project the map〜
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Apparently, you've finally
+arrived. But... what's wrong
+with your outfit?
+> CONTEXT: Map023/events/2/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Wow!
+You've grown so tiny.
+You're smaller than me!
+> CONTEXT: Map023/events/2/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh my, you are adorable.
+You're a gnome in that look.
+It suits you.
+> CONTEXT: Map023/events/2/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+An earth tribe uses a variety
+of tools, dexterous, and lives
+underground. So certainly...
+> CONTEXT: Map023/events/2/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+It's perfect for getting them
+to explore the dungeon from
+now on. This \\C[6]Muma no MeiQ\\C[0].
+> CONTEXT: Map023/events/2/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+But where you are now is a
+tutorial.
+Get through it quickly.
+> CONTEXT: Map023/events/2/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+このフロアなら　特別に
+Ｒボタン　押せば　マップも
+見れるようなっとるで〜？
+> CONTEXT: Map023/events/2/pages/2/35/Dialogue
+\\NAME[\\n[13]]
+On this floor, you can see the map 
+if you press the R button, 
+as a special feature!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ダンジョン攻略と言えば　宝箱！
+そこに　見えるでしょ？
+中身を　確認してみて？
+> CONTEXT: Map023/events/3/pages/0/3/Dialogue
+\\NAME[\\n[11]]
+Gotta open chests in a dungeon!
+You can see one there, right?
+Why don't you check what's inside?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Speaking of dungeon crawling,
+treasure chests! You see it
+there? See what's inside?
+> CONTEXT: Map023/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+何　戻ろうとしてんの！
+宝箱を開けて　有用なアイテムを
+手に入れてから　先に進むこと！
+> CONTEXT: Map023/events/3/pages/1/3/Dialogue
+\\NAME[\\n[11]]
+What, go back!
+Open the chest and get some 
+useful items before you move on!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Why are you going back! To get
+useful items from the chest
+before moving on!
+> CONTEXT: Map023/events/3/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと　あんた！？
+宝箱　開けてないでしょ！
+戻りなさいっ！
+> CONTEXT: Map023/events/4/pages/0/3/Dialogue
+\\NAME[\\n[11]]
+Hey!?
+You didn't open the chest!
+Go back!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hey you!
+You didn't open the chest!
+Go back!
+> CONTEXT: Map023/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+どうやら　宝箱を開けて
+中身を　手に入れたみたいだね。
+宝箱は極力　回収するようにね。
+> CONTEXT: Map023/events/4/pages/1/3/Dialogue
+\\NAME[\\n[11]]
+I see you opened the chest and
+looted its contents.
+Get as many chests as possible.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+それと　当たり前だけど
+武器や防具は　装備を忘れずに！
+つまり　\\C[6]Equip\\C[0] だよ！？
+> CONTEXT: Map023/events/4/pages/1/8/Dialogue
+\\NAME[\\n[11]]
+And, obviously, don't forget to 
+equip your weapons and armor!
+\\C[6]Equip\\C[0], you know!?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+武器を　装備することで
+\\C[6]その武器に　紐づいたスキルを
+使用できるように　なる\\C[0]んだから。
+> CONTEXT: Map023/events/4/pages/1/14/Dialogue
+\\NAME[\\n[11]]
+By equipping a weapon,
+\\C[6]you can use the skills 
+associated with that weapon.\\C[0]
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+You opened the chest and got
+the contents. Try to collect
+the chest as much as possible.
+> CONTEXT: Map023/events/4/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+And, of course, don't forget to
+equip your weapons and armour!
+I mean, \\C[6]Equip\\C[0].
+> CONTEXT: Map023/events/4/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Equipping a weapon allows the
+use of the skills associated
+with it.
+> CONTEXT: Map023/events/4/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+迷宮は　狭い道も多いの。
+でも　見た目で判断しちゃダメ。
+例えば　この通路の先──
+> CONTEXT: Map023/events/5/pages/0/3/Dialogue
+\\NAME[\\n[12]]
+The labyrinth has many narrow paths.
+But don't judge by appearances.
+For example, just ahead──
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+The maze has many narrow paths.
+But don't judge by appearances.
+For example, just ahead...
+> CONTEXT: Map023/events/5/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+狭くっても　進めるからね！
+ほら　勇気を出して
+この狭い通路を　進んでごらん？
+> CONTEXT: Map023/events/5/pages/0/38/Dialogue
+> CONTEXT: Map023/events/5/pages/1/36/Dialogue
+\\NAME[\\n[12]]
+Even if it's narrow, you can go!
+Come on, be brave.
+Try going through!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+It's narrow, but you can go on.
+You see, you have to be brave.
+Try to go through this passage.
+> CONTEXT: Map023/events/5/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/5/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら？
+どうして　戻ってきたの？
+> CONTEXT: Map023/events/5/pages/1/3/Dialogue
+\\NAME[\\n[12]]
+Oh?
+Why did you come back?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh?
+Why did you come back?
+> CONTEXT: Map023/events/5/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+エライ　エライ♪　ちゃ〜んと
+狭い通路を　歩けたね。
+その調子　その調子♪
+> CONTEXT: Map023/events/6/pages/0/3/Dialogue
+\\NAME[\\n[12]]
+Good, good♪ You got through 
+the narrow passageway properly.
+Way to go, good job♪
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+何事も　自分の足で歩いて
+確かめることが　大事だよ。
+諦めないで　頑張ってねっ♪
+> CONTEXT: Map023/events/6/pages/0/8/Dialogue
+\\NAME[\\n[12]]
+It's important to walk and 
+check everything for yourself.
+Don't give up, keep trying!♪
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Great, great! You managed to
+walk down the narrow aisle
+properly. Keep it up.
+> CONTEXT: Map023/events/6/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+It's important to walk around
+and see for yourself what's
+going on. Never give up!
+> CONTEXT: Map023/events/6/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+よう　来たなぁ　あんちゃ〜ん♪
+待っとったでー！　ヒヒヒ♪
+待っとったのはぁ……\\|ソイツや！
+> CONTEXT: Map023/events/7/pages/0/3/Dialogue
+\\NAME[\\n[13]]
+Welcome, cutie♪
+I've been waiting! Hehehe♪
+I've been waiting for...\\|you!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Welcome, brudda. I've been
+waiting for you. Well, he's
+there, welcome to you!
+> CONTEXT: Map023/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+その　モヤモヤしてるのが
+邪気やで？　邪気ってのは
+魔物が放ってる　オーラや。
+> CONTEXT: Map023/events/7/pages/0/32/Dialogue
+\\NAME[\\n[13]]
+That haze is Jaqi, you know? 
+It's evil aura that demons emit.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+接触した瞬間に　バトルや！
+ほな　Ｙボタンでも　押して
+走ってみよっかっ！
+> CONTEXT: Map023/events/7/pages/0/39/Dialogue
+\\NAME[\\n[13]]
+Contact means battle!
+Okay, press the Y button
+and try running!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+That fuzziness is Jaqi.
+Jaqi is the aura that
+demons give off.
+> CONTEXT: Map023/events/7/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+The moment you make contact,
+you're in battle! Now press the
+Y button and let's run!
+> CONTEXT: Map023/events/7/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　逃げ帰ろうとしとるん？
+あかんで　あかんでー！
+> CONTEXT: Map023/events/7/pages/1/3/Dialogue
+\\NAME[\\n[13]]
+Oh? Trying to run?
+No, that's no good!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh?
+Trying to run home?
+No, no! Don't let them!
+> CONTEXT: Map023/events/7/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+上手く逃げ回るのも　大事やけど
+ここは　通さへんで〜♪
+ほい！　回れ右ー！
+> CONTEXT: Map023/events/8/pages/0/3/Dialogue
+\\NAME[\\n[13]]
+Running can be good, but
+you're not getting through here~♪
+Okay! Turn around!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+It's important to get away with
+it, but I'm not letting you
+through... Here!　Turn right!
+> CONTEXT: Map023/events/8/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+すまんな〜。\\C[6]急ぎ足で　走るほど
+邪気は　寄って来る\\C[0]ってこと
+言い忘れとったわ〜。
+> CONTEXT: Map023/events/8/pages/1/3/Dialogue
+\\NAME[\\n[13]]
+Sorry~ \\C[6]Running attracts Jaqi.\\C[0]
+I forgot to tell you that.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せやけど　逃げてばっかじゃ
+いずれ　野垂れ死ぬだけや。
+死ぬ気で　戦わなあかんで〜♪
+> CONTEXT: Map023/events/8/pages/1/8/Dialogue
+\\NAME[\\n[13]]
+If you just keep running away,
+you'll just end up for no reason.
+Fight to the death~♪
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Sorry! I forgot to mention that
+running in a hurry attracts
+the Jaqi!
+> CONTEXT: Map023/events/8/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+But if you keep running away,
+you'll eventually die in vain.
+You have to fight to the death.
+> CONTEXT: Map023/events/8/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+！？
+このイドの淵には　何かが潜んでいる！
+> CONTEXT: Map023/events/22/pages/1/27/Dialogue
+!?
+Something is lurking in this Id!
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あぁ……そいつは『貘』だね。
+あたしたちも　そいつには
+手が　出せなくってね……。
+> CONTEXT: Map023/events/22/pages/1/31/Dialogue
+\\NAME[\\n[11]]
+Ah... that's a 'Baku'.
+We can't lay a hand on it either...
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+\\C[6]特定の深さの井戸に　隠れて
+通せんぼ\\C[0]してくれちゃってんの。
+中ボスって　言うのかしら？
+> CONTEXT: Map023/events/22/pages/1/36/Dialogue
+\\NAME[\\n[12]]
+\\C[6]They hide on certain levels,
+blocking the way\\C[0].
+Maybe you'd call that a mid-boss?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うて　\\C[6]攻撃はルーチン\\C[0]やで？
+\\C[6]敵が構えたら　防御\\C[0]したりして
+頭使うて　戦ってみてな〜。
+> CONTEXT: Map023/events/22/pages/1/41/Dialogue
+\\NAME[\\n[13]]
+They have \\C[6]attack patterns\\C[0], you know?
+\\C[6]Defend yourself accordingly.\\C[0]
+Try using your head when you fight.
+> END STRING
+
+> BEGIN STRING
+But! Something is lurking in this id!
+> CONTEXT: Map023/events/22/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Ah that is \\n[8].
+We can't deal with that enemy.
+> CONTEXT: Map023/events/22/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+They ambush them at certain
+positions and block your way.
+Put simply "mid-boss".
+> CONTEXT: Map023/events/22/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+But \\C[6]attacks are routine,
+When it is poised to attack,
+you defend\\C[0] and fight smart.
+> CONTEXT: Map023/events/22/pages/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+順調に　進んでるみたいね。
+スゴイよ　君♪
+この先も　大丈夫そうかな？
+> CONTEXT: Map023/events/22/pages/1/203/Dialogue
+\\NAME[\\n[12]]
+Looks like things are going smoothly.
+You're amazing♪
+Are you okay going forward?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だんだん　リモートも
+厳しくなってきてね。まぁ
+あんたなら　進めると思うよ。
+> CONTEXT: Map023/events/22/pages/1/208/Dialogue
+\\NAME[\\n[11]]
+Helping remotely is getting tough. 
+But I think you can do it.
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ってなわけで　こっから先は
+あんちゃんのカンに　任せるで。
+上手く　\\C[6]迷宮脱出\\C[0]してな？
+> CONTEXT: Map023/events/22/pages/1/213/Dialogue
+\\NAME[\\n[13]]
+So for now, I'll leave it to you.
+Make sure you successfully 
+\\C[6]escape the labyrinth\\C[0], okay?
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+一応　補足しておくと
+\\C[6]迷宮脱出のアイテムは
+目覚めのベル\\C[0]って言って──
+> CONTEXT: Map023/events/22/pages/1/218/Dialogue
+\\NAME[\\n[11]]
+Just to clarify,
+\\C[6]The item for escaping the labyrinth 
+is called the Awakening Bell\\C[0]──
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+その　\\C[6]目覚めのベルを
+Itemから使えば　迷宮から
+脱出できる\\C[0]からね。
+> CONTEXT: Map023/events/22/pages/1/223/Dialogue
+\\NAME[\\n[12]]
+If you use \\C[6]Awakening Bell
+from Item menu, you can escape 
+from the labyrinth\\C[0].
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+目覚めのベルが　どこにあるかは
+さすがに　言えへんな〜。
+頑張って　探してくれや〜♪
+> CONTEXT: Map023/events/22/pages/1/228/Dialogue
+\\NAME[\\n[13]]
+I can't really tell you 
+where the awakening bell is, can I?
+Try your best to find it♪
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+You are making good progress.
+You're amazing. You're going
+to be fine down the road?
+> CONTEXT: Map023/events/22/pages/1/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+It's getting harder and harder
+to deal with remote support,
+but I think you can handle it.
+> CONTEXT: Map023/events/22/pages/1/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+So, from here onwards,
+it's your decision to proceed.
+Try to \\C[6]escape frome the maze\\C[0]!
+> CONTEXT: Map023/events/22/pages/1/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Just as a reminder,
+use \\ITEM[301]
+to escape from the maze.
+> CONTEXT: Map023/events/22/pages/1/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+You can use \\ITEM[301]
+from the \\C[6]Item\\C[0]
+to get out of the maze.
+> CONTEXT: Map023/events/22/pages/1/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+I can't tell you where
+\\ITEM[301] is.
+You do your best to find it.
+> CONTEXT: Map023/events/22/pages/1/260/Dialogue < UNTRANSLATED
+
+> END STRING

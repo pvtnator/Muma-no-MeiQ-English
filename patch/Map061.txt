@@ -1,0 +1,44 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+火の意匠を象った　巨大な扉が
+行く手を　塞いでいる。
+突破しますか？
+> CONTEXT: Map061/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A huge door with a fire design
+blocks the way.
+Do you want to break through?
+> CONTEXT: Map061/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶頂の記録を　呼び覚ましますか？
+> CONTEXT: Map061/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたたちは超人等級　Lv\\v[59]に　昇級！
+> CONTEXT: Map061/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の波が　溢れ出している……。
+強敵たちとの連戦に　挑戦しますか？
+（見事　勝ち抜きで　報酬Get♪）
+> CONTEXT: Map061/events/4/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+E
+E
+E
+> CONTEXT: Map061/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

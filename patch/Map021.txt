@@ -1,0 +1,218 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+これより　セーヴデータの初期化を
+行います。復元は　二度と
+できませんが　よろしいですか？
+> CONTEXT: Map021/events/1/pages/8/24/Dialogue
+We will now initialize your save data.
+This cannot be undone.
+Are you sure you want to proceed?
+> END STRING
+
+> BEGIN STRING
+Save data will now be initialised.
+You will never be able to restore.
+Is that OK?
+> CONTEXT: Map021/events/1/pages/8/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Language Setting
+言語設定
+> CONTEXT: Map021/events/1/pages/8/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日本語
+> CONTEXT: Map021/events/1/pages/8/98/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+English
+> CONTEXT: Map021/events/1/pages/8/98/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャラクター　ドット描画
+ドット版は　戦闘時FC音声
+（後で　変更可能）
+> CONTEXT: Map021/events/1/pages/8/116/Dialogue
+Character pixel art
+FC voice acting during battles.
+(Can be changed later)
+> END STRING
+
+> BEGIN STRING
+ドット
+> CONTEXT: Map021/events/1/pages/8/120/Choice/0
+Pixel
+> END STRING
+
+> BEGIN STRING
+非ドット
+> CONTEXT: Map021/events/1/pages/8/120/Choice/1
+Non-pixel
+> END STRING
+
+> BEGIN STRING
+Display characters as dots?
+(Changeable)
+> CONTEXT: Map021/events/1/pages/8/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/1/pages/9/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは　性行為が　好きですか？
+（変更不可能）
+> CONTEXT: Map021/events/1/pages/8/155/Dialogue
+Do you enjoy sex?
+(Cannot be changed)
+> END STRING
+
+> BEGIN STRING
+Do you like sexual intercourse?
+(Unchangeable)
+> CONTEXT: Map021/events/1/pages/8/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうせ　こんなの　ただのゲームでしょ
+――って　思っていますよね？
+> CONTEXT: Map021/events/1/pages/9/30/Dialogue
+You probably think 
+this is just a game, right?
+> END STRING
+
+> BEGIN STRING
+良い答えだ。
+> CONTEXT: Map021/events/1/pages/9/37/Dialogue
+> CONTEXT: Map021/events/1/pages/9/59/Dialogue
+Good answer.
+> END STRING
+
+> BEGIN STRING
+そう。
+所詮は　ゲームだ。
+> CONTEXT: Map021/events/1/pages/9/39/Dialogue
+That's right.
+It's just a game, after all.
+> END STRING
+
+> BEGIN STRING
+生きることも　死ぬことも
+人の営み　すべて
+所詮は遊戯と　捉えればいい。
+> CONTEXT: Map021/events/1/pages/9/42/Dialogue
+Living and dying,
+all human endeavors,
+can be seen as a mere game.
+> END STRING
+
+> BEGIN STRING
+なればこそ　変えてみせろ。
+ゲームとは　選択である。
+> CONTEXT: Map021/events/1/pages/9/46/Dialogue
+That's why you should try to change things.
+A game is about choices.
+> END STRING
+
+> BEGIN STRING
+\\\>・・
+諸君の選択が　ゲームを――
+即ち世界を　変えるのだ。
+> CONTEXT: Map021/events/1/pages/9/49/Dialogue
+\\\>・・
+Your choices will change the game—
+and thus the world.
+> END STRING
+
+> BEGIN STRING
+ゲームとはいえ　それは現実の一部。
+> CONTEXT: Map021/events/1/pages/9/61/Dialogue
+Even though it's a game, 
+it's a part of reality.
+> END STRING
+
+> BEGIN STRING
+フィクションとは　現実の鏡であり
+常に　現実と虚構は　表裏一体。
+> CONTEXT: Map021/events/1/pages/9/63/Dialogue
+Fiction is a mirror of reality, 
+and reality and fiction are always 
+two sides of the same coin.
+> END STRING
+
+> BEGIN STRING
+ゲームにおける　選択が
+いつしか　現実での選択となる。
+> CONTEXT: Map021/events/1/pages/9/66/Dialogue
+The choices you make in a game 
+will eventually become the choices 
+you make in reality.
+> END STRING
+
+> BEGIN STRING
+\\\>・・
+諸君の意志が　現実を
+変えていくのだ。
+> CONTEXT: Map021/events/1/pages/9/69/Dialogue
+\\\>・・
+Your will, 
+will change reality.
+> END STRING
+
+> BEGIN STRING
+今のは　一体
+何だったのだろうか？
+> CONTEXT: Map021/events/1/pages/10/17/Dialogue
+What was that?
+> END STRING
+
+> BEGIN STRING
+考えを巡らすには　あなたの肉体は
+少々　疲れすぎている。
+> CONTEXT: Map021/events/1/pages/10/20/Dialogue
+Your body is too tired 
+to think things through.
+> END STRING
+
+> BEGIN STRING
+今夜は　もう寝よう。
+> CONTEXT: Map021/events/1/pages/10/23/Dialogue
+It's time to sleep now.
+> END STRING
+
+> BEGIN STRING
+寝よう。
+眠ろう……。
+眠ってしまおう…………。
+> CONTEXT: Map021/events/1/pages/10/26/Dialogue
+Lie down.
+Sleep...
+Just fall asleep...
+> END STRING
+
+> BEGIN STRING
+What the hell was that?
+> CONTEXT: Map021/events/1/pages/10/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But, your body is too tired
+to think.
+> CONTEXT: Map021/events/1/pages/10/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Let's go to bed tonight.
+> CONTEXT: Map021/events/1/pages/10/42/Dialogue < UNTRANSLATED
+
+> END STRING

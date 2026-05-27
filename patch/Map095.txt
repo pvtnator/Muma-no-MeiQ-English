@@ -1,0 +1,126 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[12]]
+あ〜ら　いらっしゃい♪
+待ってたよぉ。よく　ここまで
+来れたねぇ。頑張ったねぇ！
+> CONTEXT: Map095/events/24/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でも　頑張り屋さんの君には
+もうひと頑張り☆してもらうよ？
+私と……今から　戦うのっ！
+> CONTEXT: Map095/events/24/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君と私の　一対一の大勝負！
+君の成長を　確かめたいのっ。
+できるかなぁ？
+> CONTEXT: Map095/events/24/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+もちろん　見事　私を倒せたら
+約束の　えっち☆　たっぷりと
+させてあげるからね♪
+> CONTEXT: Map095/events/24/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+準備は　いいかなぁ？
+私と戦うよね？　ね？　戦って
+えっち☆したいよね？　ね？
+> CONTEXT: Map095/events/24/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら！？　急かしちゃったかな？
+ゴメンなさいね。準備ができたら
+もう一度　声を掛けてねっ。
+> CONTEXT: Map095/events/24/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+それじゃあ　行くよぉ！？
+君の強さを　私に
+いっぱいいっぱい　見せて！
+> CONTEXT: Map095/events/24/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ゴメンなさいっ！　ホントに
+殺しちゃうとこだった。
+危ない　危ない……。
+> CONTEXT: Map095/events/24/pages/1/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+でもね　ちゃんと
+私を　倒してくれないと
+色々　困っちゃうの。
+> CONTEXT: Map095/events/24/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+\\C[6]宝箱とか　もう一度よく見て\\C[0]
+それで　今度こそ
+上手く　立ち回ってみてね♪
+> CONTEXT: Map095/events/24/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+上出来　上出来ぃ♪
+君ったら　さすがだねっ！
+エライエライ♪
+> CONTEXT: Map095/events/24/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+これで　しっかり……ええ。
+私は君に　負かされたってことで
+つまり………………。
+> CONTEXT: Map095/events/24/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+いよいよ　君と初えっち☆だね♪
+二人きりの空間で　たっぷりと
+愛し合っちゃおうね♪
+> CONTEXT: Map095/events/24/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+さっ　こっちに来てぇ？
+心も体も　一つになって
+気持ち良くなろうね〜。
+> CONTEXT: Map095/events/24/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING

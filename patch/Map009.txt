@@ -1,0 +1,342 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+何か　ありそうだが
+今は　何も反応が無い……。
+> CONTEXT: Map009/events/4/pages/1/0/Dialogue
+> CONTEXT: Map009/events/5/pages/1/0/Dialogue
+> CONTEXT: Map009/events/6/pages/1/0/Dialogue
+Something seems to be going on, 
+but there's no reaction right now...
+> END STRING
+
+> BEGIN STRING
+このイドは　涸れ果てているようだ……。
+> CONTEXT: Map009/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+This id seems to have run dry.
+> CONTEXT: Map009/events/7/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこからか　声が聞こえる……。
+> CONTEXT: Map009/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと！？　今　その中に
+入っても　仕方ないでしょ！？
+やめときなさい！
+> CONTEXT: Map009/events/7/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+こらこら。
+どこ　行くの？
+そっちじゃないでしょ？
+> CONTEXT: Map009/events/7/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃん　あんちゃん！
+どこ　行く気や〜。
+ウチを　呼んでくれや〜。
+> CONTEXT: Map009/events/7/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まず　サキュバスたちと　\\C[6]対話\\C[0]をし
+話をよく　聞いておくべき……
+そんな　気がする。
+> CONTEXT: Map009/events/7/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとＨな夢魔の迷宮
+\\V[83]Ｆ
+> CONTEXT: Map009/events/7/pages/1/96/Dialogue
+> CONTEXT: Map023/events/22/pages/0/36/Dialogue
+> CONTEXT: Map009/events/7/pages/2/37/Dialogue
+> CONTEXT: Map023/events/22/pages/1/164/Dialogue
+> CONTEXT: Map023/events/22/pages/2/36/Dialogue
+> CONTEXT: Map009/events/7/pages/5/38/Dialogue
+> CONTEXT: Commonevents/85/6/Dialogue
+Slightly erotic Succubus Maze
+\\V[83]F
+> END STRING
+
+> BEGIN STRING
+Little H Muma no MeiQ
+\\V[83]Ｆ
+> CONTEXT: Map009/events/7/pages/1/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/2/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/1/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/2/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/5/43/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/85/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３人を揃えた状態で　ここに来るべき……
+そんな　気がする。
+> CONTEXT: Map009/events/7/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/3/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You think that you should come here
+with all three of the girls.
+> CONTEXT: Map009/events/7/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/3/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/3/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの鍵を　所持した状態で
+ここに来るべき……そんな　気がする。
+> CONTEXT: Map009/events/7/pages/3/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+さて……。これで　いよいよ
+ロゴスのところへ　向かうことに
+なったんだけど……うーん──
+> CONTEXT: Map009/events/7/pages/3/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+はよ　ロゴスんとこ　行こな！？
+な？　あんちゃん？
+セクロス☆したいんやろ？
+> CONTEXT: Map009/events/7/pages/3/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そうね♪　ロゴスさんが
+いなくなれば　いっぱいいっぱい
+えっち☆が　できちゃうもんね♪
+> CONTEXT: Map009/events/7/pages/3/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ　そうだけどっ！
+いや　そうじゃなくって！
+えーっと　だから……
+> CONTEXT: Map009/events/7/pages/3/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+\\n[11]のことなんか
+気にせんでええで　あんちゃん？
+後はもう　凸するだけや！
+> CONTEXT: Map009/events/7/pages/3/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ロゴスっちゅうんは　ホンマ
+悪いやっちゃねん！　名前がもう
+ラスボスっぽいやろ！？
+> CONTEXT: Map009/events/7/pages/3/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+まぁ　あたしたちの敵であるって
+事実は否定しない。そいつを
+これから　倒しに行くんだよ。
+> CONTEXT: Map009/events/7/pages/3/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せやけど　あんちゃんはもう
+ウチらと　来てくれるって
+同意済みなんやで！？
+> CONTEXT: Map009/events/7/pages/3/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+と言っても　\\C[6]ここから先は
+かなり　長い　長い　長〜い
+道のりになる\\C[0]みたいなの。
+> CONTEXT: Map009/events/7/pages/3/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そうだよ！
+だから \\C[6]準備は　ちゃんと
+出来てる\\C[0]の！？
+> CONTEXT: Map009/events/7/pages/3/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ。
+とりあえず　出直しね。
+> CONTEXT: Map009/events/7/pages/3/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/3/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Lvはこのまま　突入するから
+アイテムや　武器防具の装備品
+ちゃんと　持った！？
+> CONTEXT: Map009/events/7/pages/3/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+スキルポイントも　振れるだけ
+振り切ったかしら？
+\\C[6]後戻りは　できない\\C[0]みたいだし
+> CONTEXT: Map009/events/7/pages/3/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんや　よう知らんけど
+リセマラも　できんくなる
+みたいやで！？
+> CONTEXT: Map009/events/7/pages/3/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+お手洗いとか　お腹空いたとか
+大丈夫？　\\C[6]中断もできないから
+時間の余裕も　必要\\C[0]だよ？
+> CONTEXT: Map009/events/7/pages/3/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だから　あんたの都合によっては
+別日にしても　いいんだよ？
+それでも……今夜　突入するの？
+> CONTEXT: Map009/events/7/pages/3/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+因みに　次の選択肢で拒否ったら
+この一連の　やり取り
+もっかい☆やからな♪
+> CONTEXT: Map009/events/7/pages/3/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+もう一度　聞く……。
+本当に　あたしたちと
+一緒に　来てくれる？
+> CONTEXT: Map009/events/7/pages/3/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……分かった。
+じゃ　もう念を押さないから。
+> CONTEXT: Map009/events/7/pages/3/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+合意が得られて　嬉しいよ♪
+準備万端に　なってるなら
+この井戸に　入ってね。
+> CONTEXT: Map009/events/7/pages/3/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+最初に冒険した　ダンジョンの奥
+開かなかった扉を　その鍵で
+こじ開けていくんやで〜。
+> CONTEXT: Map009/events/7/pages/3/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このイドは　涸れ渇いてしまってる……。
+> CONTEXT: Map009/events/7/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+証明の秘水を　垂らせば
+このイドは　復活しそうだ。
+証明の秘水を　使用しますか？
+> CONTEXT: Map009/events/7/pages/4/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+If you use Secret Priming,
+then this id will be rivive.
+Will you use Secret Priming?
+> CONTEXT: Map009/events/7/pages/4/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+！？
+
+何かが　落ちている……。
+> CONTEXT: Map009/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

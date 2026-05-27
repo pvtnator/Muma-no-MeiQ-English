@@ -1,0 +1,112 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あなた
+> CONTEXT: Actors/1/name/
+You
+> END STRING
+
+> BEGIN STRING
+アスカ
+> CONTEXT: Actors/2/name/
+Asuka
+> END STRING
+
+> BEGIN STRING
+暗殺拳の達人を祖父にもつ少女。幼少のころからその技の
+すべてを叩き込まれている格闘術のエキスパート。
+> CONTEXT: Actors/2/description/
+Girl whose grandfather was a master assassin. Martial arts expert, 
+trained in all of those techniques since childhood.
+> END STRING
+
+> BEGIN STRING
+紅蓮の迅雷
+> CONTEXT: Actors/2/nickname/
+Crimson Lightning
+> END STRING
+
+> BEGIN STRING
+レイ
+> CONTEXT: Actors/3/name/
+Ray
+> END STRING
+
+> BEGIN STRING
+謀略により地位を剥奪された聖騎士。真の騎士道を極めるため
+各地をさまよい修練を重ねている。
+> CONTEXT: Actors/3/description/
+Holy knight stripped of rank through intrigue, 
+wanders the land, training and striving to master true chivalry.
+> END STRING
+
+> BEGIN STRING
+流浪の聖騎士
+> CONTEXT: Actors/3/nickname/
+Wandering Holy Knight
+> END STRING
+
+> BEGIN STRING
+カヲル
+> CONTEXT: Actors/4/name/
+Kaworu
+> END STRING
+
+> BEGIN STRING
+師匠の仇を探して旅を続ける剣士。剣に魔力を宿らせる技
+「魔法剣」を体得している。
+> CONTEXT: Actors/4/description/
+Swordsman in search of revenge for master's death. 
+Mastered sword imbuing, known as "Magic Sword."
+> END STRING
+
+> BEGIN STRING
+魔剣を継ぐ者
+> CONTEXT: Actors/4/nickname/
+Magic Sword Inheritor
+> END STRING
+
+> BEGIN STRING
+Bac
+> CONTEXT: Actors/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[8]]
+> CONTEXT: Actors/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔
+> CONTEXT: Actors/9/name/
+Succubus
+> END STRING
+
+> BEGIN STRING
+アッシェ
+> CONTEXT: Actors/11/name/
+> CONTEXT: Enemies/811/name/
+Asche
+> END STRING
+
+> BEGIN STRING
+ベラ
+> CONTEXT: Actors/12/name/
+> CONTEXT: Enemies/812/name/
+Bella
+> END STRING
+
+> BEGIN STRING
+キュミュ
+> CONTEXT: Actors/13/name/
+> CONTEXT: Enemies/813/name/
+Cumu
+> END STRING
+
+> BEGIN STRING
+ロゴス
+> CONTEXT: Actors/65/name/
+> CONTEXT: Enemies/865/name/
+Logos
+> END STRING

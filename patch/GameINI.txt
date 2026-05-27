@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Muma no MeiQ -Maze of Succubus- Ver.1.03
+> CONTEXT: GameINI/Title < UNTRANSLATED
+> CONTEXT: System/game_title/ < UNTRANSLATED
+
+> END STRING

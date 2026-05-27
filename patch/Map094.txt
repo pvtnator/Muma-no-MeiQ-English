@@ -1,0 +1,123 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[11]]
+ようやっと　お出ましね。
+待ちくたびれたよ……まったく。
+> CONTEXT: Map094/events/24/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……で　ここまで来てもらって
+なんだけど……今から　あたしと
+戦ってもらうから……！
+> CONTEXT: Map094/events/24/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+もちろん　一対一で！
+あたしと　タイマンすんの！
+わかったぁ！？
+> CONTEXT: Map094/events/24/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ　それで　もし
+あんたが　勝ったら
+約束の…………してあげるから。
+> CONTEXT: Map094/events/24/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+準備はいい？
+……ってか　あたしと
+戦うことに　同意……する？
+> CONTEXT: Map094/events/24/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……あっそ。言っとっけど
+手加減はしないから　ちゃんと
+準備してから　挑んできてよ！？
+> CONTEXT: Map094/events/24/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+じゃ　行くよ！
+手加減なんて　しないから！
+絶対……しないんだからっ！
+> CONTEXT: Map094/events/24/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと！？　何やってんの！？
+しっかり　しなさいっ！
+まったく　もう！
+> CONTEXT: Map094/events/24/pages/1/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+次は無いよ？　もう一度戦う前に
+\\C[6]宝箱を確かめたり\\C[0]　あと戦闘中も
+あたしの動きを　よく読んで
+> CONTEXT: Map094/events/24/pages/1/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+大技を出す前に　防御したり──
+って！　別にあんたに　塩を
+送ってるわけじゃないんだから！
+> CONTEXT: Map094/events/24/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……どうやら　これでＯＫ
+……ってことかな？
+> CONTEXT: Map094/events/24/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+なっ！
+なんでもない！　こっちの話！
+> CONTEXT: Map094/events/24/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ……それより
+や　や　約束は　ちゃんと
+果たすから……。
+> CONTEXT: Map094/events/24/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+こっちに……来て？
+来なさいっ！
+ちゃんと　や　や　やるよっ！
+> CONTEXT: Map094/events/24/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,1620 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+祝歌の呪剣
+> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔剣
+殺した数　\\v[564]
+> CONTEXT: Weapons/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウッドソード
+> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:平打
+訓練用に用いられる　切れ味の無い片手剣
+> CONTEXT: Weapons/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンズソード
+> CONTEXT: Weapons/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/\\C[6]音速青瞬\\C[0]
+青銅で鋳造された　一般的な片手剣
+> CONTEXT: Weapons/11/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スチールソード
+> CONTEXT: Weapons/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打
+鋼鉄製の片手剣　一人前の剣士たる証
+> CONTEXT: Weapons/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プラチナソード
+> CONTEXT: Weapons/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/\\C[6]隼風斬\\C[0]
+銀光沢を放つ　頑丈かつ美しい片手剣
+> CONTEXT: Weapons/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤソード
+> CONTEXT: Weapons/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/\\C[6]リアスラッシュ\\C[0]
+眩く輝く　切れ味も最上級の片手剣
+> CONTEXT: Weapons/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レイピア
+> CONTEXT: Weapons/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/\\C[6]デュエルランジ\\C[0]
+刺突に特化した片手剣　貴族や騎士が持つ
+> CONTEXT: Weapons/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青銅の大剣
+> CONTEXT: Weapons/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打〘両〙
+両手で扱う　大振りのブロンズソード
+> CONTEXT: Weapons/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄の大剣
+> CONTEXT: Weapons/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/\\C[6]アブゼッツェン\\C[0]〘両〙
+腕自慢の兵隊長も扱う　堂々たる両手剣
+> CONTEXT: Weapons/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の大剣
+> CONTEXT: Weapons/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/\\C[6]ドライヴンダー\\C[0]〘両〙
+携えば一目置かれる　銀光沢を放つ両手剣
+> CONTEXT: Weapons/23/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金剛の大剣
+> CONTEXT: Weapons/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打〘両〙
+剣聖と評される者が持つ　最上級の両手剣
+> CONTEXT: Weapons/24/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木刀
+> CONTEXT: Weapons/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:平打/\\C[6]小手突き\\C[0]〘両〙
+稽古用の和刀　斬るよりも殴る用
+> CONTEXT: Weapons/40/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+卸鉄之脇差
+> CONTEXT: Weapons/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突〘両〙
+補助的に使う小さな刀だが　切れ味は本物
+> CONTEXT: Weapons/41/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+玉鋼之打刀
+> CONTEXT: Weapons/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]無双逆流れ\\C[0]〘両〙
+腰に差して扱う　標準的な和刀
+> CONTEXT: Weapons/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白鋼之野太刀
+> CONTEXT: Weapons/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突〘両〙
+名立たる勇将が用いた　長大な太刀
+> CONTEXT: Weapons/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青生生魂大太刀
+> CONTEXT: Weapons/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]１６回斬り\\C[0]〘両〙
+アボイタカラ金属で作刀　最上級の和刀
+> CONTEXT: Weapons/44/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モノホシザオ
+> CONTEXT: Weapons/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]燕返し\\C[0]〘両〙
+あまりに長大で　武骨な野太刀
+> CONTEXT: Weapons/45/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+山刀
+> CONTEXT: Weapons/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/\\C[6]痺剣の舞\\C[0]
+湾曲した刀身が特徴の伐採用　中型刃物
+> CONTEXT: Weapons/51/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+三日月刀
+> CONTEXT: Weapons/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/\\C[6]眠剣の舞\\C[0]
+三日月のように鋭く湾曲した　片刃刀
+> CONTEXT: Weapons/52/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+柳葉刀
+> CONTEXT: Weapons/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/\\C[6]乱剣の舞\\C[0]
+斬撃に特化した　艶妖なる片刃の曲刀
+> CONTEXT: Weapons/53/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハルパー
+> CONTEXT: Weapons/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/\\C[6]巌剣の舞\\C[0]
+蛇頭を狩る鎌の如き　熟達者向けの曲刀
+> CONTEXT: Weapons/54/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【妖刀】
+> CONTEXT: Weapons/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突〘両〙
+
+> CONTEXT: Weapons/61/description/ < UNTRANSLATED
+> CONTEXT: Weapons/68/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村雨丸
+> CONTEXT: Weapons/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]氷結斬\\C[0]〘凡撃時急死〙〘両〙
+常に水気を帯びてる　鮮血を洗い流す妖刀
+> CONTEXT: Weapons/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムラマサソード
+> CONTEXT: Weapons/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+石器ナイフ
+> CONTEXT: Weapons/70/name/
+Stone Knife
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突
+硬い石を研いで作った　原始的なナイフ
+> CONTEXT: Weapons/70/description/
+Slashing/Thrusting
+Made by sharpening a hard stone.
+> END STRING
+
+> BEGIN STRING
+ブロンズダガー
+> CONTEXT: Weapons/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]レッグカット\\C[0]
+戦闘向けに研磨された　青銅製のナイフ
+> CONTEXT: Weapons/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スチールダガー
+> CONTEXT: Weapons/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]アームカット\\C[0]
+ナイフ使い用に鍛造された　鋼鉄製の短剣
+> CONTEXT: Weapons/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プラチナダガー
+> CONTEXT: Weapons/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]スペツナズ投法\\C[0]
+美しくも頑丈な　鉑製の戦闘用ナイフ
+> CONTEXT: Weapons/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤダガー
+> CONTEXT: Weapons/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]千のナイフ\\C[0]
+輝きに満ちた　最上級の戦闘用ナイフ
+> CONTEXT: Weapons/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青銅の刃針
+> CONTEXT: Weapons/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突
+戦場での使用を目的に作られた　鋭い針具
+> CONTEXT: Weapons/81/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄の刃針
+> CONTEXT: Weapons/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/\\C[6]目蓋縫い\\C[0]
+繊細な槌裁きで鍛造された　戦闘用の針具
+> CONTEXT: Weapons/82/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の刃針
+> CONTEXT: Weapons/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/\\C[6]避雷針\\C[0]
+高位の針使いが扱う　鋭く光る針具
+> CONTEXT: Weapons/83/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金剛の刃針
+> CONTEXT: Weapons/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突
+ダイヤモンドの煌めき放つ　最上級の針具
+> CONTEXT: Weapons/84/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペティナイフ
+> CONTEXT: Weapons/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突
+一般家庭の台所でも使われる　調理用包丁
+> CONTEXT: Weapons/91/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+超万能包丁
+> CONTEXT: Weapons/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突
+超人料理で使われる　あらゆる食材に対応
+> CONTEXT: Weapons/92/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶界包刀
+> CONTEXT: Weapons/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]世界の終わり\\C[0]
+悪しき種を根絶やした　聖夜の凶器
+> CONTEXT: Weapons/93/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+窓付き包丁
+> CONTEXT: Weapons/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突〘凡撃時寝落(低)〙
+刀身に謎の小窓　夢へと落ちる凶器
+> CONTEXT: Weapons/94/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竹槍
+> CONTEXT: Weapons/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突
+先端を削った竹竿　戦場で使うのは愚かだ
+> CONTEXT: Weapons/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンズスピア
+> CONTEXT: Weapons/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/殴打/\\C[6]ぶん回し\\C[0]
+穂先を青銅で鋳造した　初歩的な槍
+> CONTEXT: Weapons/101/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スチールスピア
+> CONTEXT: Weapons/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/殴打/\\C[6]無双迎撃\\C[0]
+多くの兵士が装備してる　一般的な槍
+> CONTEXT: Weapons/102/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プラチナスピア
+> CONTEXT: Weapons/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/殴打/\\C[6]長躯直入\\C[0]
+一流の槍使いが愛用する　美しき光沢の槍
+> CONTEXT: Weapons/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤスピア
+> CONTEXT: Weapons/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/殴打
+穂先に金剛石の輝き光る　最上級の槍
+> CONTEXT: Weapons/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランス
+> CONTEXT: Weapons/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突〘腕固耐性↑〙
+突貫攻撃に特化した　騎兵用の槍
+> CONTEXT: Weapons/105/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピッケル
+> CONTEXT: Weapons/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/殴打
+鉱山や雪山で用いられる　頑丈な鶴嘴
+> CONTEXT: Weapons/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉞
+> CONTEXT: Weapons/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打
+工具にも伐採用にもなる　刃渡りの広い斧
+> CONTEXT: Weapons/111/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バトルアックス
+> CONTEXT: Weapons/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打/\\C[6]トマホーク投法\\C[0]
+戦場向けに作られた　雄々しき戦斧
+> CONTEXT: Weapons/112/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+半月斧
+> CONTEXT: Weapons/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打/\\C[6]シャイニング\\C[0]
+人体を両断する　巨大な刃を持つ大斧
+> CONTEXT: Weapons/113/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+開天斧
+> CONTEXT: Weapons/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打
+世界を切り開くほど甚大な　最上級の斧
+> CONTEXT: Weapons/114/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハルバード
+> CONTEXT: Weapons/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/殴打
+斧頭に突起を備えた　玄人向けの長柄武具
+> CONTEXT: Weapons/115/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スミスハンマー
+> CONTEXT: Weapons/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打
+町の鍛冶屋でも使われてる　丈夫な鎚
+> CONTEXT: Weapons/120/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンズメイス
+> CONTEXT: Weapons/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]ハンマービート\\C[0]
+柄の先に青銅製の打撃部を付けた　鎚矛
+> CONTEXT: Weapons/121/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スチールメイス
+> CONTEXT: Weapons/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打
+頭部を鋼鉄で鍛造した　殴打用長柄武器
+> CONTEXT: Weapons/122/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プラチナメイス
+> CONTEXT: Weapons/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]打ち出の小槌\\C[0]
+銀光沢を放つ打撃部を持つ　高級長柄武器
+> CONTEXT: Weapons/123/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤメイス
+> CONTEXT: Weapons/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]殺生砕き\\C[0]
+柄の先端には光り輝く打撃部　最上級の鎚
+> CONTEXT: Weapons/124/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウォーハンマー
+> CONTEXT: Weapons/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打
+高度な鍛冶にも使われる　戦鎚
+> CONTEXT: Weapons/125/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+星球鎚矛
+> CONTEXT: Weapons/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/殴打
+柄の先端に棘状打撃部　モーニングスター
+> CONTEXT: Weapons/126/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムジョルニア
+> CONTEXT: Weapons/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]電漿打\\C[0]
+魔的な破壊力を誇る　異名を多く持つ戦鎚
+> CONTEXT: Weapons/128/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+欅の棒
+> CONTEXT: Weapons/130/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘両〙
+ケヤキ材を削って作った　簡素な武器
+> CONTEXT: Weapons/130/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白蝋棍
+> CONTEXT: Weapons/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘両〙
+初級武芸者が扱う　真っ白な棍棒
+> CONTEXT: Weapons/131/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紫檀棍
+> CONTEXT: Weapons/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]無双転地\\C[0]〘両〙
+非常に堅い木材で作られた　濃色の棍棒
+> CONTEXT: Weapons/132/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扶桑樹棍
+> CONTEXT: Weapons/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘両〙
+東の果てに生える　巨木の枝で作られた棍
+> CONTEXT: Weapons/133/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界樹棍
+> CONTEXT: Weapons/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]五輪砕\\C[0]〘両〙
+天を衝く大樹の枝で作られた　最上級の棍
+> CONTEXT: Weapons/134/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+樫木の杖
+> CONTEXT: Weapons/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]治癒の掲揚\\C[0]
+趣のあるカシ材の杖　僅かに霊力を高める
+> CONTEXT: Weapons/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桑木の杖
+> CONTEXT: Weapons/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]サイコウェポン\\C[0]
+霊力を宿すクワ材で作られた　術者用の杖
+> CONTEXT: Weapons/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扶桑樹の杖
+> CONTEXT: Weapons/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]復活の掲揚\\C[0]
+日出る国の巨木を削った　霊験灼然たる杖
+> CONTEXT: Weapons/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界樹の杖
+> CONTEXT: Weapons/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打
+世界を俯瞰する大樹より作成　最上級の杖
+> CONTEXT: Weapons/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+錫杖
+> CONTEXT: Weapons/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘口封耐性↑〙
+先端に付けた錫製の遊環が　術者を補助
+> CONTEXT: Weapons/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+皮鞭
+> CONTEXT: Weapons/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払
+丈夫で　よくしなる　革製の鎖物武器
+> CONTEXT: Weapons/150/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縄鏢
+> CONTEXT: Weapons/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/投刺
+鎖の先には突起物　鉤縄としても使えそう
+> CONTEXT: Weapons/151/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎖鎌
+> CONTEXT: Weapons/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/旋打
+鎖分銅を取り付けた鎌　扱いがやや難しい
+> CONTEXT: Weapons/152/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+超級搖搖
+> CONTEXT: Weapons/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/旋打
+遊具であるヨーヨーを　戦闘用に魔改造
+> CONTEXT: Weapons/153/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+流星錘
+> CONTEXT: Weapons/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋打
+長い鎖の先端に　煌めく星の錘が光る
+> CONTEXT: Weapons/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+八節棍
+> CONTEXT: Weapons/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/旋打/\\C[6]龍虎連舞\\C[0]
+８つの棍棒を鎖で繋げた　最上級の鈍器
+> CONTEXT: Weapons/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+丸木弓
+> CONTEXT: Weapons/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+簡素な素材のみで作られた　原始的な弓矢
+> CONTEXT: Weapons/160/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青銅の弓矢
+> CONTEXT: Weapons/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打/\\C[6]声帯殺し\\C[0]〘両〙
+木材と青銅を用いた複合弓　初歩的な弓矢
+> CONTEXT: Weapons/161/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄の弓矢
+> CONTEXT: Weapons/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打/\\C[6]影縫合\\C[0]〘両〙
+鋼鉄素材を用いた　本格的な弓矢
+> CONTEXT: Weapons/162/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の弓矢
+> CONTEXT: Weapons/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打/\\C[6]腕釣り矢\\C[0]〘両〙
+銀光沢を放つ鏃が　一流の弓士を讃える
+> CONTEXT: Weapons/163/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金剛の弓矢
+> CONTEXT: Weapons/164/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+最高級の素材で作られた　最上級の複合弓
+> CONTEXT: Weapons/164/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クロスボウ
+> CONTEXT: Weapons/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+膂力に依存しない　カラクリ式の射出武器
+> CONTEXT: Weapons/171/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火銃
+> CONTEXT: Weapons/172/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+火薬を用いて弾丸を発射する　原始的な銃
+> CONTEXT: Weapons/172/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連弩
+> CONTEXT: Weapons/173/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+矢の装填速度を早めた　改良型クロスボウ
+> CONTEXT: Weapons/173/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マスケット
+> CONTEXT: Weapons/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙
+特権階級のみが持つ　最先端の銃火器
+> CONTEXT: Weapons/174/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーバレスト
+> CONTEXT: Weapons/175/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:射撃/射体打〘両〙/\\C[6]ビッグショット\\C[0]
+バリスタとも呼ばれる　巨大な弩砲
+> CONTEXT: Weapons/175/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイブラスター
+> CONTEXT: Weapons/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:\\C[6]サイコビーム\\C[0]/射体打
+古代文明が残した　霊力を弾丸に変える銃
+> CONTEXT: Weapons/181/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メーザー砲
+> CONTEXT: Weapons/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:\\C[6]サイコビーム\\C[0]/射体打/\\C[6]バーンビーム\\C[0]
+古の竜使いも手にした　対象を燃やす霊銃
+> CONTEXT: Weapons/186/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木彫ブーメラン
+> CONTEXT: Weapons/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/旋打
+呪い文様で　使い手ならば　切断性あり
+> CONTEXT: Weapons/191/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄ブーメラン
+> CONTEXT: Weapons/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/\\C[6]ラウンダバウト\\C[0]
+鋼鉄製で　鋭い刃を備えたブーメラン
+> CONTEXT: Weapons/192/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黄金チャクラム
+> CONTEXT: Weapons/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃
+美しき輪環を　指先で回転させて投擲する
+> CONTEXT: Weapons/193/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+満月輪
+> CONTEXT: Weapons/194/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/\\C[6]ワールドツアー\\C[0]
+月の光が如く　鋭利な刃を持つ円盤状武器
+> CONTEXT: Weapons/194/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+棒手裏剣
+> CONTEXT: Weapons/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:投刺
+忍者が必ず携行する　棒状の手裏剣
+> CONTEXT: Weapons/201/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶手鏢
+> CONTEXT: Weapons/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:投刺
+十枚一式の鏢の切り札　達人のみが扱える
+> CONTEXT: Weapons/202/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+超級車剣
+> CONTEXT: Weapons/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/投刺/\\C[6]フランクスロー\\C[0]
+上忍以上が使用を許される　風車型手裏剣
+> CONTEXT: Weapons/203/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スターダート
+> CONTEXT: Weapons/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:投刺/\\C[6]ゼロワンゲーム\\C[0]
+貴族らの射的遊戯で使われる　手投げ矢
+> CONTEXT: Weapons/204/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+影刃手裏剣
+> CONTEXT: Weapons/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/投刺
+謎の宇宙素材による　鋭利な風車型手裏剣
+> CONTEXT: Weapons/205/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボーラ
+> CONTEXT: Weapons/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋打
+縄の先に球状の重石を付けた　投擲武器
+> CONTEXT: Weapons/211/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦球
+> CONTEXT: Weapons/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋打/\\C[6]強ストレート\\C[0]
+超人球技でも使われている　戦闘用の硬球
+> CONTEXT: Weapons/212/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+骨破微塵
+> CONTEXT: Weapons/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋打
+より強化されたボーラ　投げ当てれば粉々
+> CONTEXT: Weapons/213/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メテオスリング
+> CONTEXT: Weapons/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋打/\\C[6]クロスファイア\\C[0]
+宇宙規模の投石紐　最上級の投打武器
+> CONTEXT: Weapons/214/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒマンテス
+> CONTEXT: Weapons/220/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘肉弾技威力↑〙〘両〙
+拳に巻く堅い革紐　最低限の拳鍔
+> CONTEXT: Weapons/220/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉄甲
+> CONTEXT: Weapons/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突〘両〙
+拳に嵌めて使う　突起付ナックルダスター
+> CONTEXT: Weapons/221/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手甲鉤
+> CONTEXT: Weapons/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]キャットクロー\\C[0]〘両〙
+鋭利な鉄の爪を付けた　拳に嵌める暗器
+> CONTEXT: Weapons/222/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カエストス
+> CONTEXT: Weapons/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘肉弾技威力↑〙〘両〙
+金属を仕込み　攻撃性を増した拳鍔
+> CONTEXT: Weapons/223/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風火輪
+> CONTEXT: Weapons/224/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/旋刃〘両〙
+日輪を模した金属の環で　投擲も可
+> CONTEXT: Weapons/224/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最終バンテージ
+> CONTEXT: Weapons/225/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘肉弾技威力↑〙/\\C[6]邪雀拳\\C[0]〘両〙
+最強を志す格闘家が　拳に巻いたと伝わる
+> CONTEXT: Weapons/225/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竜の爪
+> CONTEXT: Weapons/228/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/\\C[6]燃焼貫\\C[0]〘両〙
+皇帝の証である　燃え盛る竜の五爪
+> CONTEXT: Weapons/228/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仕込み笛
+> CONTEXT: Weapons/230/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/平打/\\C[6]悲雨の旋律\\C[0]
+演奏用途にも対応　刃を潜ませた初級暗器
+> CONTEXT: Weapons/230/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バトルリュート
+> CONTEXT: Weapons/231/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:平打/\\C[6]狂雷の旋律\\C[0]
+武器としても使える　戦場用の弦楽器
+> CONTEXT: Weapons/231/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+突撃ラッパ
+> CONTEXT: Weapons/232/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:刺突/平打/\\C[6]憤炎の旋律\\C[0]
+突起状のミュートも付いた　兵隊用の楽器
+> CONTEXT: Weapons/232/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メタルハープ
+> CONTEXT: Weapons/233/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打
+金属製で重量もある　硬質で大型の竪琴
+> CONTEXT: Weapons/233/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毒手風琴
+> CONTEXT: Weapons/234/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打〘凡撃時被毒(中)〙
+ふいごの中に毒を潜めた　アコーディオン
+> CONTEXT: Weapons/234/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイカリンバ
+> CONTEXT: Weapons/235/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:平打
+霊力を宿した金属片で出来た　指ピアノ
+> CONTEXT: Weapons/235/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストラトスター
+> CONTEXT: Weapons/236/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]フルテンファズ\\C[0]
+星の加護を受けた　最上級の弦楽器
+> CONTEXT: Weapons/236/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉄扇
+> CONTEXT: Weapons/241/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:平打
+護身用にも使われる　鉄で出来た扇子
+> CONTEXT: Weapons/241/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メタルカード
+> CONTEXT: Weapons/242/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払
+様々な絵柄の描かれた　刃物のような札
+> CONTEXT: Weapons/242/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あかき焔槍
+> CONTEXT: Weapons/311/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/\\C[6]追炎貫\\C[0]
+己の容姿に似合うよう考え　デザインした槍
+> CONTEXT: Weapons/311/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あおき海斧
+> CONTEXT: Weapons/312/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打/\\C[6]追氷斬\\C[0]
+愛情と強権さを兼ね備えた　凍てつく戦斧
+> CONTEXT: Weapons/312/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むらさき靂鎚
+> CONTEXT: Weapons/313/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/\\C[6]追雷打\\C[0]
+嗜虐心をそそる　巨大で冒涜的なハンマー
+> CONTEXT: Weapons/313/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの大剣
+> CONTEXT: Weapons/651/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:切払/刺突/平打/武氣系スキル〘両〙
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/651/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの太刀
+> CONTEXT: Weapons/652/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/武氣系スキル〘両〙
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/652/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスのタスク
+> CONTEXT: Weapons/653/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/武氣系スキル
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/653/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの槍斧
+> CONTEXT: Weapons/654/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/刺突/殴打/武氣系スキル
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/654/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスのロッド
+> CONTEXT: Weapons/655/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:殴打/武氣系スキル
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/655/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの剛弓
+> CONTEXT: Weapons/656/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:弓射/射体打/武氣系スキル〘両〙
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/656/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの歯車
+> CONTEXT: Weapons/657/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:旋刃/投刺/旋打/武氣系スキル
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/657/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴスの竪琴
+> CONTEXT: Weapons/658/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習:斬撃/殴打/武氣系スキル
+両腕で掲げると　論理の防壁を顕現する
+> CONTEXT: Weapons/658/description/ < UNTRANSLATED
+
+> END STRING

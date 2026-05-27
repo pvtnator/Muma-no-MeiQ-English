@@ -1,0 +1,135 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\n[11]01if(s[289])
+> CONTEXT: Map018/events/1/pages/0/17/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/16/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]02if(s[286])
+> CONTEXT: Map018/events/1/pages/0/17/Choice/1 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/16/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]03if(s[283])
+> CONTEXT: Map018/events/1/pages/0/17/Choice/2 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/16/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]04if(s[5])
+> CONTEXT: Map018/events/1/pages/0/50/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]IFif(s[5])
+> CONTEXT: Map018/events/1/pages/0/50/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]01if(s[288])
+> CONTEXT: Map018/events/1/pages/0/72/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/71/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]02if(s[285])
+> CONTEXT: Map018/events/1/pages/0/72/Choice/1 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/71/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]03if(s[282])
+> CONTEXT: Map018/events/1/pages/0/72/Choice/2 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/71/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]04if(s[5])
+> CONTEXT: Map018/events/1/pages/0/105/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]IFif(s[5])
+> CONTEXT: Map018/events/1/pages/0/105/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]01if(s[287])
+> CONTEXT: Map018/events/1/pages/0/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/126/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]02if(s[284])
+> CONTEXT: Map018/events/1/pages/0/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/126/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]03if(s[281])
+> CONTEXT: Map018/events/1/pages/0/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/126/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]04if(s[5])
+> CONTEXT: Map018/events/1/pages/0/160/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]IFif(s[5])
+> CONTEXT: Map018/events/1/pages/0/160/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]04if(s[280])
+> CONTEXT: Map018/events/1/pages/1/49/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]IFif(s[271])
+> CONTEXT: Map018/events/1/pages/1/49/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]04if(s[279])
+> CONTEXT: Map018/events/1/pages/1/104/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]IFif(s[272])
+> CONTEXT: Map018/events/1/pages/1/104/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]04if(s[278])
+> CONTEXT: Map018/events/1/pages/1/159/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]IFif(s[273])
+> CONTEXT: Map018/events/1/pages/1/159/Choice/1 < UNTRANSLATED
+
+> END STRING

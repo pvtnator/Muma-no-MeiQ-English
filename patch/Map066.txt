@@ -1,0 +1,178 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\NAME[\\n[13]]
+でかしたで〜〜〜♪　あんちゃ〜ん♪
+ようやったなぁ〜♪
+ホンマ　ようやったなぁ〜♪
+> CONTEXT: Map066/events/2/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+すごい　すごい！　君ったら　ホントに
+あのロゴスさんを　壊しちゃったんだね♪
+とっても　とっても　エライよ〜〜〜♪
+> CONTEXT: Map066/events/2/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そう……。あんたが　破壊したんだよね。
+あたしたちも　手伝いはしたけど
+結局は　あんたが……。
+> CONTEXT: Map066/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+つまり……………………。
+\\\>・・・　・・・・・・・・・\\<
+これは　あんたが選んだ結果であって――
+> CONTEXT: Map066/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+………………………………………………。
+> CONTEXT: Map066/events/2/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+………………………………………………。
+> CONTEXT: Map066/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ホンマ　ようやってくれたな〜。
+これで　やっと　ウチらも
+好き勝手できるようなったわ〜。
+> CONTEXT: Map066/events/2/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私たち　本当に　困っていたんだよ？
+だから　君の力を　借りるしかなかった。
+君の意志で　やってもらうしかなかった。
+> CONTEXT: Map066/events/2/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+何度も　あんたに　確認したよね？
+その都度　あんたは　選択したんだ。
+この結果を……あんたは　選択したんだ。
+> CONTEXT: Map066/events/2/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチらを夢界中心に呼んで　仲魔として
+従えて　ロゴスを　破壊したんや。
+他でもない……人間の意志で！
+> CONTEXT: Map066/events/2/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+だからもう　どうすることもできない。
+この結果を　今更　変えることも
+やり直すことも　もう　できないの。
+> CONTEXT: Map066/events/2/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+全ては　あんたが――ノームの姿を借りて
+人類の集合意識として　選ばれたあんたが
+選択してしまったことなんだから……。
+> CONTEXT: Map066/events/2/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ごっそさ〜ん♪　もし　生きとったら
+また　セクロス☆させたるわ〜♪
+今度は　死ぬまでコースでな！
+> CONTEXT: Map066/events/2/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+気を悪くさせちゃったかしら？　でもね
+私たちも　こうするしかなかったんだよ？
+大変だと思うけど　がんばってね。
+> CONTEXT: Map066/events/2/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+………………。
+> CONTEXT: Map066/events/2/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+弁解はしないよ。あんたを利用した。
+それは事実だからね。あたしたちだって
+生き残る為には　こうするしか――
+> CONTEXT: Map066/events/2/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+でも……
+> CONTEXT: Map066/events/2/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+でも……あたしは　どこかで　悪いと
+思ってはいた……。今となっては
+ただの言い訳にしか　聞こえないけど。
+> CONTEXT: Map066/events/2/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だから　もし　どこかで　あたしたちに
+会うことがあったなら　その時は……
+遠慮なく……殺してくれていい。
+> CONTEXT: Map066/events/2/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなことが　本当に　できればの
+話……だけどね。
+> CONTEXT: Map066/events/2/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING

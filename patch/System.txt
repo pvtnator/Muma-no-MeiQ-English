@@ -1,0 +1,631 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+物理(不使用)
+> CONTEXT: System/elements/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吸収（不使用）
+> CONTEXT: System/elements/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+切斬
+> CONTEXT: System/elements/11/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+突貫
+> CONTEXT: System/elements/12/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+打壊
+> CONTEXT: System/elements/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火炎
+> CONTEXT: System/elements/14/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水氷
+> CONTEXT: System/elements/15/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷電
+> CONTEXT: System/elements/16/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無
+> CONTEXT: System/elements/17/ < UNTRANSLATED
+> CONTEXT: Classes/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+癒
+> CONTEXT: System/elements/18/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダミー(使用禁止)
+> CONTEXT: System/elements/22/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接
+> CONTEXT: System/elements/28/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肉弾
+> CONTEXT: System/elements/29/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MAX LP
+> CONTEXT: System/terms/params/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MAX EP
+> CONTEXT: System/terms/params/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ATK
+> CONTEXT: System/terms/params/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+DEF
+> CONTEXT: System/terms/params/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+PSY
+> CONTEXT: System/terms/params/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+-
+> CONTEXT: System/terms/params/5/ < UNTRANSLATED
+> CONTEXT: System/armor_types/3/ < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/6/3/Choice/3 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/7/9/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+AGI
+> CONTEXT: System/terms/params/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+CON
+> CONTEXT: System/terms/params/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: System/terms/etypes/0/
+Weapon
+> END STRING
+
+> BEGIN STRING
+盾類
+> CONTEXT: System/terms/etypes/1/
+Shield
+> END STRING
+
+> BEGIN STRING
+身體
+> CONTEXT: System/terms/etypes/2/
+Body
+> END STRING
+
+> BEGIN STRING
+外套
+> CONTEXT: System/terms/etypes/3/
+> CONTEXT: System/armor_types/8/
+Cloak
+> END STRING
+
+> BEGIN STRING
+装身
+> CONTEXT: System/terms/etypes/4/
+Clothes
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/
+Fight
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/
+Run
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: System/terms/commands/2/
+Attack
+> END STRING
+
+> BEGIN STRING
+Guard
+> CONTEXT: System/terms/commands/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Goods
+> CONTEXT: System/terms/commands/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: System/terms/commands/5/
+Skill
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/
+Equipment
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/
+Status
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/
+Sort
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/
+Save
+> END STRING
+
+> BEGIN STRING
+Quit Game
+> CONTEXT: System/terms/commands/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Weapon
+> CONTEXT: System/terms/commands/12/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Wear
+> CONTEXT: System/terms/commands/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Material
+> CONTEXT: System/terms/commands/14/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Change
+> CONTEXT: System/terms/commands/15/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Auto
+> CONTEXT: System/terms/commands/16/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Empty
+> CONTEXT: System/terms/commands/17/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+NEW GAME!
+> CONTEXT: System/terms/commands/18/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+CONTINUE
+> CONTEXT: System/terms/commands/19/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+END GAME...
+> CONTEXT: System/terms/commands/20/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Return to Title
+> CONTEXT: System/terms/commands/21/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cancel
+> CONTEXT: System/terms/commands/22/ < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/0/182/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/181/Choice/0 < UNTRANSLATED
+> CONTEXT: Map014/events/9/pages/0/7/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+超人等級
+> CONTEXT: System/terms/basic/0/
+Superman rank
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+LP
+> CONTEXT: System/terms/basic/2/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP
+> CONTEXT: System/terms/basic/4/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気
+> CONTEXT: System/terms/basic/6/
+> CONTEXT: System/terms/basic/7/
+> CONTEXT: States/401/name/
+Miasma
+> END STRING
+
+> BEGIN STRING
+Combat
+> CONTEXT: System/skill_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Journey
+> CONTEXT: System/skill_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+部位無依存
+> CONTEXT: System/skill_types/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目技
+> CONTEXT: System/skill_types/11/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口技
+> CONTEXT: System/skill_types/12/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+腕技
+> CONTEXT: System/skill_types/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足技
+> CONTEXT: System/skill_types/14/ < UNTRANSLATED
+> CONTEXT: Skills/89/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX不覚状態
+> CONTEXT: System/skill_types/20/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX目技
+> CONTEXT: System/skill_types/21/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX口技
+> CONTEXT: System/skill_types/22/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX腕技
+> CONTEXT: System/skill_types/23/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX足技
+> CONTEXT: System/skill_types/24/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Passive
+> CONTEXT: System/skill_types/60/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Move
+> CONTEXT: System/skill_types/61/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+片手剣
+> CONTEXT: System/weapon_types/1/ < UNTRANSLATED
+> CONTEXT: Classes/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+両手剣
+> CONTEXT: System/weapon_types/2/ < UNTRANSLATED
+> CONTEXT: Classes/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔剣
+> CONTEXT: System/weapon_types/3/ < UNTRANSLATED
+> CONTEXT: Classes/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+和刀
+> CONTEXT: System/weapon_types/4/ < UNTRANSLATED
+> CONTEXT: Classes/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+曲刀
+> CONTEXT: System/weapon_types/5/ < UNTRANSLATED
+> CONTEXT: Classes/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妖刀
+> CONTEXT: System/weapon_types/6/ < UNTRANSLATED
+> CONTEXT: Classes/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣
+> CONTEXT: System/weapon_types/7/ < UNTRANSLATED
+> CONTEXT: Classes/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+針
+> CONTEXT: System/weapon_types/8/ < UNTRANSLATED
+> CONTEXT: Classes/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+庖丁
+> CONTEXT: System/weapon_types/9/ < UNTRANSLATED
+> CONTEXT: Classes/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍
+> CONTEXT: System/weapon_types/10/ < UNTRANSLATED
+> CONTEXT: Classes/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧
+> CONTEXT: System/weapon_types/11/ < UNTRANSLATED
+> CONTEXT: Classes/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎚
+> CONTEXT: System/weapon_types/12/ < UNTRANSLATED
+> CONTEXT: Classes/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+棍棒
+> CONTEXT: System/weapon_types/13/ < UNTRANSLATED
+> CONTEXT: Classes/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+杖
+> CONTEXT: System/weapon_types/14/ < UNTRANSLATED
+> CONTEXT: Classes/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎖物
+> CONTEXT: System/weapon_types/15/ < UNTRANSLATED
+> CONTEXT: Classes/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓
+> CONTEXT: System/weapon_types/16/ < UNTRANSLATED
+> CONTEXT: Classes/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+銃
+> CONTEXT: System/weapon_types/17/ < UNTRANSLATED
+> CONTEXT: Classes/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霊銃
+> CONTEXT: System/weapon_types/18/ < UNTRANSLATED
+> CONTEXT: Classes/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回力鏢
+> CONTEXT: System/weapon_types/19/ < UNTRANSLATED
+> CONTEXT: Classes/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手裏剣
+> CONTEXT: System/weapon_types/20/ < UNTRANSLATED
+> CONTEXT: Classes/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+投球
+> CONTEXT: System/weapon_types/21/ < UNTRANSLATED
+> CONTEXT: Classes/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拳鍔
+> CONTEXT: System/weapon_types/22/ < UNTRANSLATED
+> CONTEXT: Classes/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽器
+> CONTEXT: System/weapon_types/23/ < UNTRANSLATED
+> CONTEXT: Classes/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+器物
+> CONTEXT: System/weapon_types/24/ < UNTRANSLATED
+> CONTEXT: Classes/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大盾
+> CONTEXT: System/armor_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小盾
+> CONTEXT: System/armor_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+重鎧
+> CONTEXT: System/armor_types/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+軽鎧
+> CONTEXT: System/armor_types/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘服
+> CONTEXT: System/armor_types/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+法衣
+> CONTEXT: System/armor_types/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装身具
+> CONTEXT: System/armor_types/11/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｍ
+> CONTEXT: System/currency_unit/ < UNTRANSLATED
+
+> END STRING

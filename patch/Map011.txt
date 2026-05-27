@@ -1,0 +1,673 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"対象：アッシェ"
+> CONTEXT: Map011/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"With Asche"
+> CONTEXT: Map011/events/1/pages/0/16/InlineScript/3:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同行交渉en(s[31])
+> CONTEXT: Map011/events/1/pages/1/25/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ　抜けとく？
+ま　いいけど……さ。
+あたし抜きでも　しっかり　やんなよ？
+> CONTEXT: Map011/events/1/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]が　仲魔から　はずれた。
+> CONTEXT: Map011/events/1/pages/1/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/106/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+仲魔になるのは　良いけど
+あたし任せにすんのは　ダメだからねっ！
+> CONTEXT: Map011/events/1/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]が　仲魔に　くわわった！
+> CONTEXT: Map011/events/1/pages/1/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/399/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+保管庫en(s[21])
+> CONTEXT: Map011/events/1/pages/1/121/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/86/11/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしの勝手知ったる　迷宮へ行くよ。
+準備は　いい？
+> CONTEXT: Map011/events/1/pages/1/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+備え有れば　憂い無しって言うからね。
+> CONTEXT: Map011/events/1/pages/1/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+３つの夢魔の迷宮は　５階ごとに
+階層分けされてるの。だから
+20Ｆまでで　４階層ってことね。
+> CONTEXT: Map011/events/1/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Mon3013_MF"
+> CONTEXT: Map011/events/1/pages/2/59/InlineScript/1:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+浅い階層で　気を付けるべき魔物と言えば
+コイツかな。とにかく　呪文を唱える前に
+速攻で倒すべし！　覚えとくようにっ。
+> CONTEXT: Map011/events/1/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+いきなり一気に　突き進まないこと！
+新しい階層に　入った辺りで
+一旦帰還するくらい　慎重にね！
+> CONTEXT: Map011/events/1/pages/2/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+たとえ　Lvはリセットされても
+装備は　持ち込めるんだから
+その分　有利に進めるでしょ？
+> CONTEXT: Map011/events/1/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+入手したアイテム　上手く活用してる？
+例えば　各種の精霊薬は　戦闘前に使って
+予め　バフを掛けておくことができるし
+> CONTEXT: Map011/events/1/pages/2/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+\\C[6]\\ITEM[231]を　戦闘中に　使えば
+敵陣の動きを　止めたりもできる\\C[0]よ？
+アイテムの活用を　常に考えるようにね！
+> CONTEXT: Map011/events/1/pages/2/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+スキルを　選択する時に　Ｙボタンを
+押すと　そのスキルの　Time Alter
+発動順変動値が　確認できるからね。
+> CONTEXT: Map011/events/1/pages/2/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+強力なスキルでも　発動が遅かったり
+他にも　注意事項が　チェックできるから
+特性を理解して　賢く立ち回るようにっ。
+> CONTEXT: Map011/events/1/pages/2/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+出現する敵の傾向から　対策となる装備を
+身に着けるのも　大事だよ？
+その階層を　ウロウロしてる魔物――
+> CONTEXT: Map011/events/1/pages/2/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Mon3049"
+> CONTEXT: Map011/events/1/pages/2/167/InlineScript/1:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+例えば　理性を失った魔物の夢魔たちは
+惑乱のバステを　仕掛けてくるから
+蒼玉の指輪を装備して　対策するとかね。
+> CONTEXT: Map011/events/1/pages/2/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+\\C[6]堅固な金属製の鎧や　大型の盾は
+\\ITEM[300]を　使わないと　開けられない
+宝箱からしか　手に入らない\\C[0]からね。
+> CONTEXT: Map011/events/1/pages/2/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+因みに　大型の盾は　防御力は高いけど
+\\C[6]両手武器が　装備できなくなる\\C[0]し
+ちょっと　動きづらいかもね。
+> CONTEXT: Map011/events/1/pages/2/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+近接攻撃で　魔物の息の根を　止めると
+稀に　迸る邪気が　反転反応を起こして
+スキルポイントとして　獲得できるから。
+> CONTEXT: Map011/events/1/pages/2/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+たまに　反応時の音が　聞こえるでしょ？
+攻撃スキルで『遠隔』って記載がない限り
+大体は　近接スキルだからね。
+> CONTEXT: Map011/events/1/pages/2/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+実は　メインに装備する武器種によって
+狙われやすさ――Hateが　変わるんだよ。
+\\i[201]\\i[202]\\i[204]\\i[211]とかは　狙われやすいかな。
+> CONTEXT: Map011/events/1/pages/2/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あと　サブ武器種のスキルを　使う時は
+ちゃんと　\\C[6]サブのATKの数値に依存する
+威力になる\\C[0]から　覚えとくんだよ？
+> CONTEXT: Map011/events/1/pages/2/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その……まぁ　あたしも　少しくらいは
+ダンジョン攻略中に　世間話とか……
+って　思わないことも……ないけどさ。
+> CONTEXT: Map011/events/1/pages/2/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+でも　そういうのは　二人きりの……時が
+良いっていうか……リ　リーダーとして！
+余所見してるとこ　見られたくないから！
+> CONTEXT: Map011/events/1/pages/2/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+はぁぁぁぁぁぁぁぁぁ！！！？？？
+聖焔のロザリオを　失くしたって！？
+知らないよ　そんなの！
+> CONTEXT: Map011/events/1/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+どうしてもって　言うんなら
+用意するけど　その代わり
+お代は　法外だからね！？
+> CONTEXT: Map011/events/1/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+しょうがないな……もうっ！
+何とかして　例の場所に　届けておくから
+回収して　あかき迷宮を　踏破しなさい！
+> CONTEXT: Map011/events/1/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+え？　聖焔のロザリオ！？
+それなら……確か　少し前に
+\\n[12]に　渡したような……。
+> CONTEXT: Map011/events/1/pages/3/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+とりあえず　あんたが迷宮を
+踏破してくれないことには
+どうにもできないからさ。
+> CONTEXT: Map011/events/1/pages/3/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+焦らずに　しっかりやってよ。
+あたしの迷宮なら　そんなに
+大変じゃないはずだし……。
+> CONTEXT: Map011/events/1/pages/3/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あんたのおかげで　少しだけ
+行動可能範囲が　広がったよ。
+……うんうんっ！
+> CONTEXT: Map011/events/1/pages/3/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だからって　気を抜かないようにねっ！
+夢魔の迷宮は　ナメてかかると
+すぐに　全滅しちゃうんだから！
+> CONTEXT: Map011/events/1/pages/3/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ってか　もはや　３人とも
+夢界中心に　来れるのか。
+……ってことは──
+> CONTEXT: Map011/events/1/pages/3/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ようやく　第一条件をクリア……ね。
+あとは　あたしら３人を　連れた状態で
+ロゴスのところへ　行くだけ……だよ。
+> CONTEXT: Map011/events/1/pages/3/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+うーん……。
+これで　いいんだよね……。
+だって　これが………………。
+> CONTEXT: Map011/events/1/pages/3/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+──ッ！？　何ッ！？　あんた！？
+さ　さぁ　早く！
+ロゴスのところへ　行くよっっ！！
+> CONTEXT: Map011/events/1/pages/3/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしの名前は　\\n[11]。
+サキュバス族　復興の為に　尽力する
+それが　あたしの使命なんだよ。
+> CONTEXT: Map011/events/1/pages/3/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ねぇ……あたしと　あんたって
+ずっと前にも　会っていたのかな？
+何か最近　そんな風に　思う時があって。
+> CONTEXT: Map011/events/1/pages/3/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+運命かもって　思われたら　迷惑？
+……ううん　なんでもないよっ！
+あ　あたしが勝手に　思ってるだけから！
+> CONTEXT: Map011/events/1/pages/3/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+はぁ……。あんたは　ここまで
+やってくれたってのに　あたしは
+どうして　素直に　なれないんだろ。
+> CONTEXT: Map011/events/1/pages/3/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+とりあえずさ……その……
+二人きりに　なることが　あったら
+あたしも　勇気……出してみるよ。
+> CONTEXT: Map011/events/1/pages/3/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あんたに　出会えて　良かったと思うよ。
+だから……いつまでかは　分からないけど
+ずっと一緒に　いてほしいかなって……。
+> CONTEXT: Map011/events/1/pages/3/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+うーん……あたしって　そんなに
+サキュバスとして　魅力ない……かなぁ？
+一度くらいなら――しても　いいじゃん。
+> CONTEXT: Map011/events/1/pages/3/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+こ……これっ！！！
+もらって！　いいから！　何も聞かずに！
+黙っておいてよっ！　ホラ！　しまって！
+> CONTEXT: Map011/events/1/pages/3/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]から　炎霊犀の鍵を
+ぶん投げられた！
+> CONTEXT: Map011/events/1/pages/3/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あんたが　手伝ってくれた　おかげで
+必要な物資は　あらかた　揃ったよっ！
+その……………………ありがとう。
+> CONTEXT: Map011/events/1/pages/4/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+これは　あくまで　慈善事業なんだから！
+で？　どれを　納品してくれんの？
+> CONTEXT: Map011/events/1/pages/4/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レザーアーマー　×３if(!s[121])
+> CONTEXT: Map011/events/1/pages/4/48/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブロンズメイス　×３if(!s[122])
+> CONTEXT: Map011/events/1/pages/4/48/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貘の直毛if(!s[123])
+> CONTEXT: Map011/events/1/pages/4/48/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ＯＫ！　ご苦労さんっ♪
+> CONTEXT: Map011/events/1/pages/4/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/225/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/264/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/327/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/362/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/395/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　レザーアーマーを　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと　足りないみたいだね。
+ま　預かっておくよ……。
+> CONTEXT: Map011/events/1/pages/4/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/287/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/457/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　レザーアーマーを　渡した！
+現在　\\V[161]個　納品済みだ！
+あと　\\V[41]個　必要のようだ！
+> CONTEXT: Map011/events/1/pages/4/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+現状　\\V[161]個　納品してるけど
+あと　\\V[41]個　必要なんだよね。
+> CONTEXT: Map011/events/1/pages/4/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+冷やかしは　やめなさいっ！
+> CONTEXT: Map011/events/1/pages/4/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/313/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/348/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/383/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/416/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/483/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　ブロンズメイスを　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　ブロンズメイスを　渡した！
+現在　\\V[162]個　納品済みだ！
+あと　\\V[41]個　必要のようだ！
+> CONTEXT: Map011/events/1/pages/4/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+現状　\\V[162]個　納品してるけど
+あと　\\V[41]個　必要なんだよね。
+> CONTEXT: Map011/events/1/pages/4/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　貘の直毛を　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スケイルメイルif(!s[124]&&s[121])
+> CONTEXT: Map011/events/1/pages/4/221/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦球　×３if(!s[125]&&s[122])
+> CONTEXT: Map011/events/1/pages/4/221/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逆鱗if(!s[126]&&s[123])
+> CONTEXT: Map011/events/1/pages/4/221/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　スケイルメイルを　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　戦球を　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　戦球を　渡した！
+現在　\\V[163]個　納品済みだ！
+あと　\\V[41]個　必要のようだ！
+> CONTEXT: Map011/events/1/pages/4/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+現状　\\V[163]個　納品してるけど
+あと　\\V[41]個　必要なんだよね。
+> CONTEXT: Map011/events/1/pages/4/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　逆鱗を　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オグルシールドif(!s[127]&&s[124])
+> CONTEXT: Map011/events/1/pages/4/358/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムジョルニアif(!s[128]&&s[125])
+> CONTEXT: Map011/events/1/pages/4/358/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地獄の邪核　×４if(!s[129]&&s[126])
+> CONTEXT: Map011/events/1/pages/4/358/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　オグルシールドを　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　ムジョルニアを　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　地獄の邪核を　渡した！
+謝礼を　受け取った！
+> CONTEXT: Map011/events/1/pages/4/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[11]に　地獄の邪核を　渡した！
+現在　\\V[164]個　納品済みだ！
+あと　\\V[41]個　必要のようだ！
+> CONTEXT: Map011/events/1/pages/4/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+現状　\\V[164]個　納品してるけど
+あと　\\V[41]個　必要なんだよね。
+> CONTEXT: Map011/events/1/pages/4/476/Dialogue < UNTRANSLATED
+
+> END STRING

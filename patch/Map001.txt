@@ -1,0 +1,677 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+スキルや　アイテムの名前は
+７文字以下が　好ましいでしょう
+モンスターは　７文字以下（Ａ含まず）
+> CONTEXT: Map001/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダンジョンのX1 Y1　には
+ダミー用変数397を使って
+一旦飛ぶので　何も置くなよ？
+> CONTEXT: Map001/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+図鑑　呼び出し
+> CONTEXT: Map001/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+83 ON
+> CONTEXT: Map001/events/1/pages/0/11/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map001/events/1/pages/0/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/211/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな　いつまでも　夢の中にいるような
+ふわふわした気分で　いつもと変わらぬ
+一日を　過ごしていると
+> CONTEXT: Map001/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしても　睡魔が……
+睡魔が　やってきて……
+夜でもないのに　うたた寝を……
+> CONTEXT: Map001/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"今日は何日？"
+> CONTEXT: Map001/events/1/pages/1/5/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[84]}日"
+> CONTEXT: Map001/events/1/pages/1/5/InlineScript/3:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Time"
+> CONTEXT: Map001/events/1/pages/1/10/InlineScript/1:5 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/2/52/InlineScript/9:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/72/InlineScript/9:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[41]}"
+> CONTEXT: Map001/events/1/pages/1/10/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウント開始(新規)
+> CONTEXT: Map001/events/1/pages/1/26/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウントみる
+> CONTEXT: Map001/events/1/pages/1/26/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[41]回　逃げた。
+> CONTEXT: Map001/events/1/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Battle Victory"
+> CONTEXT: Map001/events/1/pages/2/10/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/30/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[561]}"
+> CONTEXT: Map001/events/1/pages/2/10/InlineScript/3:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/30/InlineScript/3:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Turn"
+> CONTEXT: Map001/events/1/pages/2/10/InlineScript/6:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/30/InlineScript/6:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[591]}"
+> CONTEXT: Map001/events/1/pages/2/10/InlineScript/7:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/30/InlineScript/7:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[58]}"
+> CONTEXT: Map001/events/1/pages/2/19/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/39/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Chest Open"
+> CONTEXT: Map001/events/1/pages/2/19/InlineScript/5:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/39/InlineScript/5:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[572]}"
+> CONTEXT: Map001/events/1/pages/2/19/InlineScript/6:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/39/InlineScript/6:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Get M"
+> CONTEXT: Map001/events/1/pages/2/19/InlineScript/9:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/39/InlineScript/9:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[41]}Ｍ"
+> CONTEXT: Map001/events/1/pages/2/19/InlineScript/10:5 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/10:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Walk"
+> CONTEXT: Map001/events/1/pages/2/31/InlineScript/1:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/51/InlineScript/1:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[57]}"
+> CONTEXT: Map001/events/1/pages/2/31/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/51/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Arrival"
+> CONTEXT: Map001/events/1/pages/2/31/InlineScript/6:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/51/InlineScript/6:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[99]}Ｆ"
+> CONTEXT: Map001/events/1/pages/2/31/InlineScript/7:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MAX Lv"
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/1:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/60/InlineScript/1:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[59]}"
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/60/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Total Chest Open"
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/5:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/60/InlineScript/5:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[571]}"
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/6:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/60/InlineScript/6:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Total Get M"
+> CONTEXT: Map001/events/1/pages/2/40/InlineScript/9:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/60/InlineScript/9:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Analyzed Enemy"
+> CONTEXT: Map001/events/1/pages/2/52/InlineScript/1:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/72/InlineScript/1:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[70]}"
+> CONTEXT: Map001/events/1/pages/2/52/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/72/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Item Completion"
+> CONTEXT: Map001/events/1/pages/2/52/InlineScript/5:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/72/InlineScript/5:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[55]}％"
+> CONTEXT: Map001/events/1/pages/2/52/InlineScript/6:5 < UNTRANSLATED
+> CONTEXT: Commonevents/36/72/InlineScript/6:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from\\|\\|\\|\\|
+\\\>The Night-Hag Visiting Lapland Witches
+\\\>Henry Fuseli\\|\\|\\|\\|\\^
+> CONTEXT: Map001/events/1/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming music by\\|\\|\\|\\|
+\\\>Rêverie
+\\\>Claude Achille Debussy\\|\\|\\|\\|\\^
+> CONTEXT: Map001/events/1/pages/4/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+NCG
+> CONTEXT: Map001/events/1/pages/4/37/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A59
+> CONTEXT: Map001/events/1/pages/4/37/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+B59
+> CONTEXT: Map001/events/1/pages/4/37/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/1/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+C59
+> CONTEXT: Map001/events/1/pages/4/37/Choice/3 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日は　良い天気ね。ふふふっ。
+君が　汚しちゃったシーツ
+洗って　干しておいたからね♪
+> CONTEXT: Map001/events/1/pages/4/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃん　あんちゃん　ゲームやるで！
+今日も　ウチが　あんちゃんのこと
+ボッコボコに　してやんよぉ♪
+> CONTEXT: Map001/events/1/pages/4/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いっぱい……しよう　な？
+すべて　記憶に　焼き付いて
+どれも　一生の思い出に　残るように……！
+> CONTEXT: Map001/events/1/pages/4/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2
+> CONTEXT: Map001/events/1/pages/4/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/31/pages/0/18/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3
+> CONTEXT: Map001/events/1/pages/4/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+4
+> CONTEXT: Map001/events/1/pages/4/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+5
+> CONTEXT: Map001/events/1/pages/4/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/154/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+6
+> CONTEXT: Map001/events/1/pages/4/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……！
+> CONTEXT: Map001/events/1/pages/4/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+yoinn1
+> CONTEXT: Map001/events/1/pages/4/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+yoinn2
+> CONTEXT: Map001/events/1/pages/4/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ね？　私のこと　ママって思って……
+そしたら　君は　ママと　えっちをして
+君のママを　ママにしちゃうんだよ♡
+> CONTEXT: Map001/events/1/pages/4/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+12
+> CONTEXT: Map001/events/1/pages/4/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+11
+> CONTEXT: Map001/events/1/pages/4/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁぁぁんんん♡
+赤ちゃん汁いっぱ〜い♪
+> CONTEXT: Map001/events/1/pages/4/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒヒヒ♪　見えとるかぁ　あんちゃ〜ん？
+未来永劫　あんちゃんは　性奴隷やで？
+ウチが　あんちゃんを　支配するんや〜！
+> CONTEXT: Map001/events/1/pages/4/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/5/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[301]
+> CONTEXT: Map001/events/1/pages/6/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/7/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A81
+> CONTEXT: Map001/events/1/pages/6/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+B81
+> CONTEXT: Map001/events/1/pages/6/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+C81
+> CONTEXT: Map001/events/1/pages/6/3/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\.\\|\\^
+> CONTEXT: Map001/events/1/pages/6/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/7/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A路上
+> CONTEXT: Map001/events/1/pages/7/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+B路上
+> CONTEXT: Map001/events/1/pages/7/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+C路上
+> CONTEXT: Map001/events/1/pages/7/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+記事
+> CONTEXT: Map001/events/1/pages/8/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラスト
+> CONTEXT: Map001/events/1/pages/8/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つづける
+> CONTEXT: Map001/events/1/pages/9/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もどる
+> CONTEXT: Map001/events/1/pages/9/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かね？
+> CONTEXT: Map001/events/1/pages/11/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[Ｂさん]こんばんは♪
+> CONTEXT: Map001/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のせる
+> CONTEXT: Map001/events/4/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/6/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のせない
+> CONTEXT: Map001/events/4/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/6/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[Ｃさん]あんちゃん　スケベやんね〜。
+> CONTEXT: Map001/events/4/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃん？　まさかやけど
+こないＲＰＧ　たるいわ。
+はよスケベさせて　思うとる？
+> CONTEXT: Map001/events/4/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+matamodosu
+> CONTEXT: Map001/events/4/pages/3/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/4/pages/4/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A会話
+> CONTEXT: Map001/events/7/pages/0/0/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+B会話
+> CONTEXT: Map001/events/7/pages/0/0/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+C会話
+> CONTEXT: Map001/events/7/pages/0/0/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Next
+> CONTEXT: Map001/events/7/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/7/pages/0/13/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/7/pages/0/23/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Back
+> CONTEXT: Map001/events/7/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/7/pages/0/13/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/7/pages/0/23/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前の仲間たちの――
+> CONTEXT: Map001/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+存在を抹消する
+> CONTEXT: Map001/events/11/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+五分前仮説で現出させる
+> CONTEXT: Map001/events/11/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム全部くれ！
+> CONTEXT: Map001/events/11/pages/0/3/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lvを操作
+> CONTEXT: Map001/events/11/pages/0/3/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3人
+> CONTEXT: Map001/events/11/pages/0/20/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Aのみ
+> CONTEXT: Map001/events/11/pages/0/20/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bのみ
+> CONTEXT: Map001/events/11/pages/0/20/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cのみ
+> CONTEXT: Map001/events/11/pages/0/20/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上げる
+> CONTEXT: Map001/events/11/pages/0/63/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リセット
+> CONTEXT: Map001/events/11/pages/0/63/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦う相手は？
+> CONTEXT: Map001/events/17/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/17/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1
+> CONTEXT: Map001/events/31/pages/0/18/Choice/0 < UNTRANSLATED
+
+> END STRING

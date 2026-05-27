@@ -1,0 +1,10341 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+不正な操作を　感知しました。
+ゲームデータへの介入　改竄
+Reverse engineeringは　絶対禁止です。
+> CONTEXT: Commonevents/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/2/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/3/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/4/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/5/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/252/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/253/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/254/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/255/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/256/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/257/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/258/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/259/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/260/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/274/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[9]]あ
+あ
+あ
+> CONTEXT: Commonevents/7/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[9]]A
+A
+A
+> CONTEXT: Commonevents/7/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ
+あ
+あ
+> CONTEXT: Commonevents/7/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+All enemies were stanned!
+A
+A
+> CONTEXT: Commonevents/7/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[9]
+> CONTEXT: Commonevents/7/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと！？　何　そんなとこで
+野垂れ死んでんの！？
+しっかりしなさいっ！
+> CONTEXT: Commonevents/14/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/14/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしの魔力で　葬送の炎を
+退けられるのも　あと
+\\v[542]回までだからね！
+> CONTEXT: Commonevents/14/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+これ以上は　無理……。
+次　行き倒れになっても
+助けてあげれないからね。
+> CONTEXT: Commonevents/14/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の魔力を　解放するには
+もう少し　深く　迷宮を潜る必要が
+ありそうだ……。
+> CONTEXT: Commonevents/17/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は　そんなことをしてる場合じゃない！
+> CONTEXT: Commonevents/17/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このフロアで　事に及ぶには
+邪気の数を　あと\\V[41]つ
+消す必要がある。
+> CONTEXT: Commonevents/17/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし　相手がいなかった……。
+> CONTEXT: Commonevents/17/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今なら　夢魔の魔力を解放することで
+夢から　醒めてしまうものの
+性交渉を行うことが　できそうだ。
+> CONTEXT: Commonevents/17/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰を　選びますか？
+> CONTEXT: Commonevents/17/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]en(s[34])
+> CONTEXT: Commonevents/17/77/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]en(s[35])
+> CONTEXT: Commonevents/17/77/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]en(s[36])
+> CONTEXT: Commonevents/17/77/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+差し控える
+> CONTEXT: Commonevents/17/77/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+え　マジ？
+うーん……。
+……ま　まぁ　いいけど。
+> CONTEXT: Commonevents/17/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら……。
+> CONTEXT: Commonevents/17/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+へぇ〜〜〜……。
+> CONTEXT: Commonevents/17/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら？
+我慢できなくなっちゃった？
+じゃ……しよっか♪
+> CONTEXT: Commonevents/17/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あっそ……。
+勝手にすれば？
+> CONTEXT: Commonevents/17/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん……。
+> CONTEXT: Commonevents/17/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　奇遇やなー。
+ウチも　あんちゃんと
+ヤりたかったとこやでー♪
+> CONTEXT: Commonevents/17/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……好きにすれば？
+> CONTEXT: Commonevents/17/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　お盛んなのね……。
+> CONTEXT: Commonevents/17/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……それだけ　だった。
+> CONTEXT: Commonevents/20/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/79/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/93/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But nothing happens.
+> CONTEXT: Commonevents/20/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/60/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/83/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+床のトラップを　防止できる！
+> CONTEXT: Commonevents/29/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Can prevent floor traps!
+> CONTEXT: Commonevents/29/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+帰還処理――予定
+リレミトで　さよーならー
+> CONTEXT: Commonevents/34/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[89]}Ｍ"
+> CONTEXT: Commonevents/36/39/InlineScript/10:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[96]}Ｆ"
+> CONTEXT: Commonevents/36/51/InlineScript/7:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[90]}Ｍ"
+> CONTEXT: Commonevents/36/60/InlineScript/10:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[48]}"
+> CONTEXT: Commonevents/36/72/InlineScript/10:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宝箱は　空っぽだ……。
+> CONTEXT: Commonevents/46/1/Dialogue
+The chest is empty...
+> END STRING
+
+> BEGIN STRING
+The chest is empty...
+> CONTEXT: Commonevents/46/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱の蓋には　特殊な仕掛けが
+施されている！　これを　開けるには
+武力が　試されそうだ。
+> CONTEXT: Commonevents/53/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+There's a special trick on the lid of
+the chest! Seems to be a test of
+ATK to open this.
+> CONTEXT: Commonevents/53/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱の蓋には　特殊な仕掛けが
+施されている！　これを　開けるには
+霊力が　試されそうだ。
+> CONTEXT: Commonevents/53/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+There's a special trick on the lid of
+the chest! Seems to be a test of
+PSY to open this.
+> CONTEXT: Commonevents/53/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱の蓋には　特殊な仕掛けが
+施されている！　これを　開けるには
+集中力が　試されそうだ。
+> CONTEXT: Commonevents/53/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+There's a special trick on the lid of
+the chest! Seems to be a test of
+CON to open this.
+> CONTEXT: Commonevents/53/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宝箱の開封に　挑戦しますか？
+（EPを　消費します）
+> CONTEXT: Commonevents/53/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Do you want to try to open the chest?
+（Expends EP）
+> CONTEXT: Commonevents/53/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"誰が　挑戦しますか？"
+> CONTEXT: Commonevents/53/85/InlineScript/1:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Who is up to the challenge?"
+> CONTEXT: Commonevents/53/95/InlineScript/1:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし　\\N[\\V[575]]は　挑戦できるほど
+EPに　余裕がないようだ！
+> CONTEXT: Commonevents/53/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But \\N[\\V[575]] doesn't have EP
+enough to take on the challenge!
+> CONTEXT: Commonevents/53/115/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ま……やってみるよ。
+あまり　期待しないようにっ。
+> CONTEXT: Commonevents/53/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Well... I'll try.
+Don't expect too much.
+> CONTEXT: Commonevents/53/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+面白そうね！
+任せて♪　任せて♪
+> CONTEXT: Commonevents/53/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Sounds interesting.
+I'm on it!
+> CONTEXT: Commonevents/53/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+しゃ〜ないなぁ。
+あんちゃんの代わりに
+ウチが　やったるわー。
+> CONTEXT: Commonevents/53/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+You're a helpless little guy.
+I'll do it for you.
+> CONTEXT: Commonevents/53/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……もう　ひとふり！
+> CONTEXT: Commonevents/53/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Just one more ounce!
+> CONTEXT: Commonevents/53/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+──が！　箱が　開くよりも先に
+\\N[\\V[575]]の精神力が　尽きてしまった！
+> CONTEXT: Commonevents/53/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+──But! \\N[\\V[575]]'s esprit ran out
+before the chest could be opened!
+> CONTEXT: Commonevents/53/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロア内の邪気に　怯えの色を与えた！
+> CONTEXT: Commonevents/54/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It gave the Jaqi on the floor
+the color of fear!
+> CONTEXT: Commonevents/54/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵陣の　体勢を崩させた！
+> CONTEXT: Commonevents/54/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+All enemies were stanned!
+> CONTEXT: Commonevents/54/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロア内の邪気が　殺気を強めた！
+> CONTEXT: Commonevents/55/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The Jaqi on the floor was ready to kill!
+> CONTEXT: Commonevents/55/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロア内の邪気を　釘付けにした！
+> CONTEXT: Commonevents/56/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The Jaqi on the floor was nailed!
+> CONTEXT: Commonevents/56/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵陣を　麻痺させた！
+> CONTEXT: Commonevents/56/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+All enemies were paralyzed!
+> CONTEXT: Commonevents/56/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+音を殺して　走ることができる！
+> CONTEXT: Commonevents/57/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You can walk around killing the sound!
+> CONTEXT: Commonevents/57/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瓶の中から　煙がモクモク　立ち上がる！
+> CONTEXT: Commonevents/58/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Smoke billows up from the bottle!
+> CONTEXT: Commonevents/58/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想いの鍵を　発見！
+> CONTEXT: Commonevents/59/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Picked up Key of Will!
+> CONTEXT: Commonevents/59/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宝箱には　鍵が　掛かっている！
+想いの鍵を１個使って　蓋を開けますか？
+> CONTEXT: Commonevents/60/3/Dialogue
+The treasure chest is locked!
+Use one of the Keys of Will to open?
+> END STRING
+
+> BEGIN STRING
+宝箱には　鍵が　掛かっている！
+> CONTEXT: Commonevents/60/30/Dialogue
+The treasure chest is locked!
+> END STRING
+
+> BEGIN STRING
+The chest is locked!
+Will you use one of Key of Will
+to open the lid?
+> CONTEXT: Commonevents/60/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The chest is locked!
+> CONTEXT: Commonevents/60/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Save フォルダを　無暗にいじっては
+いけません。
+> CONTEXT: Commonevents/65/2/Dialogue
+Do not tamper with the Save folder.
+> END STRING
+
+> BEGIN STRING
+夢界中心
+> CONTEXT: Commonevents/65/21/Dialogue
+> CONTEXT: Commonevents/85/101/Dialogue
+Central Realms of Reverie
+> END STRING
+
+> BEGIN STRING
+Central Realms of Reverie
+> CONTEXT: Commonevents/65/25/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/85/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉には　鍵が　掛かっている！
+想いの鍵を１個使って　扉を開けますか？
+> CONTEXT: Commonevents/68/3/Dialogue
+The door is locked!
+Use one of your Keys of Will to open?
+> END STRING
+
+> BEGIN STRING
+The door is locked!
+Will you use one of Key of Will
+to open the door?
+> CONTEXT: Commonevents/68/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃走不可なボス戦では　ＢＧＭ変わらないとか
+> CONTEXT: Commonevents/70/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＢＧＭ　変わったら　おもしろいかも
+> CONTEXT: Commonevents/70/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+贄の血により　物理属性が強化された！
+> CONTEXT: Commonevents/71/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+贄の血により　化学属性が強化された！
+> CONTEXT: Commonevents/71/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[\\V[501]]は　物理属性が強化された！
+> CONTEXT: Commonevents/72/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[\\V[502]]は　物理属性が強化された！
+> CONTEXT: Commonevents/72/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[\\V[503]]は　物理属性が強化された！
+> CONTEXT: Commonevents/72/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[\\V[504]]は　物理属性が強化された！
+> CONTEXT: Commonevents/72/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瓶の中から　闇色の水が　溢れ出る！
+> CONTEXT: Commonevents/73/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Dark-colored water overflows
+from the bottle!
+> CONTEXT: Commonevents/73/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げちゃ　ダメだ！
+この戦いに　退路は存在しない……ッ！
+> CONTEXT: Commonevents/73/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/73/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/92/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/92/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You mustn't run away!
+There is no retreat in this battle!
+> CONTEXT: Commonevents/73/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/73/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/92/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/92/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異状無し。
+> CONTEXT: Commonevents/74/2/Dialogue
+No abnormalities found.
+> END STRING
+
+> BEGIN STRING
+Not particularly.
+> CONTEXT: Commonevents/74/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[301]を　鳴らし
+この夢からの覚醒を　望みますか？
+> CONTEXT: Commonevents/81/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あかき夢魔の迷宮
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Red Muma no MeiQ
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あおき夢魔の迷宮
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Blue Muma no MeiQ
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+むらさき夢魔の迷宮
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Purple Muma no MeiQ
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シン・夢魔の迷宮
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Shin Muma no MeiQ
+\\V[83]Ｆ
+> CONTEXT: Commonevents/85/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし　ここでは端末が起動しなかった！
+いよいよ　ヤバい領域ということだ！
+> CONTEXT: Commonevents/86/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マスタリスキルen(s[22])
+> CONTEXT: Commonevents/86/11/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蒐集図鑑en(s[23])
+> CONTEXT: Commonevents/86/11/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スコア
+> CONTEXT: Commonevents/86/11/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし　迷宮の邪気か　何かに遮断され
+通信は　圏外になってしまった！
+> CONTEXT: Commonevents/86/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/86/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+閉じる
+> CONTEXT: Commonevents/86/53/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[52]\\G　発見！
+> CONTEXT: Commonevents/87/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Picked up \\V[52]\\G！
+> CONTEXT: Commonevents/87/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドアの先に広がる暗闇の中　何者かが
+物品の売買を　行っている！
+> CONTEXT: Commonevents/88/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+In the abyss beyond the door,
+someone is opening a shop!
+> CONTEXT: Commonevents/88/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[590]回合目！
+> CONTEXT: Commonevents/90/3/Dialogue
+Turn \\V[590]!
+> END STRING
+
+> BEGIN STRING
+Turn \\V[590]!
+> CONTEXT: Commonevents/90/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　臨界点突破ッ！！！
+> CONTEXT: Commonevents/90/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気に　つかれきって　しまった！
+> CONTEXT: Commonevents/90/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is critical point!!!!!
+> CONTEXT: Commonevents/90/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You've been possessed by a Jaqi!
+> CONTEXT: Commonevents/90/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　もう限界だッ！！！
+> CONTEXT: Commonevents/90/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is at its limit!!!
+> CONTEXT: Commonevents/90/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　濃くなってきた！！
+> CONTEXT: Commonevents/90/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is getting denser!!
+> CONTEXT: Commonevents/90/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　濃くなってきた！
+> CONTEXT: Commonevents/90/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is getting denser!
+> CONTEXT: Commonevents/90/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　濃くなってきた……！
+> CONTEXT: Commonevents/90/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is getting denser.
+> CONTEXT: Commonevents/90/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪気の濃度が　濃くなってきた……。
+> CONTEXT: Commonevents/90/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Miasma of Jaqi is getting denser...
+> CONTEXT: Commonevents/90/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全てを　かなぐり捨てて　逃げ出した！
+> CONTEXT: Commonevents/92/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You ran away with everything!
+> CONTEXT: Commonevents/92/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[41] 歩
+> CONTEXT: Commonevents/101/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/201/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昨日の夜は　変な夢を　見たものだ。
+> CONTEXT: Commonevents/102/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だけど　あらゆる夢の記憶というものが
+そうであるように　昨日の夜に見たそれも
+今はもう　はっきりとは　思い出せない。
+> CONTEXT: Commonevents/102/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ一つ　あなたの中に　残っているのは
+得も言われぬ　快感の──
+> CONTEXT: Commonevents/102/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや　快感の余韻？
+あるいは　快感の予感？
+> CONTEXT: Commonevents/102/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かそういった　曖昧模糊とした
+残り香が……。
+> CONTEXT: Commonevents/102/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えと……その……あ　あ　あり──
+あえっと……あぁ　そうそう　これで
+夢界中心に　あたしは　来れたよ。
+> CONTEXT: Commonevents/103/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+通信端末のところに　いるからさ。
+\\C[6]預かり機能も　使えるようになった\\C[0]し
+あんたの冒険も　手助けできるから。
+> CONTEXT: Commonevents/103/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+理想を言えば　夢界中心の商店で売ってる
+『ロゴスの鍵』ってのが　必要なんだけど
+……まぁ　それは　ゆっくりでも……。
+> CONTEXT: Commonevents/103/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ってか　鍵　持ってんじゃん！
+……マジか。
+> CONTEXT: Commonevents/103/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+とにかく　その……たっ　助かったよ。
+うん……。
+………………あ　ありがとう。
+> CONTEXT: Commonevents/103/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+待ってたよ♪　英雄の登場♪
+君ったら　大活躍だったね！
+頑張ったね！　エライエライ！
+> CONTEXT: Commonevents/103/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+おかげさまで　夢界中心に来れちゃった♪
+君のおかげだね　本当にありがとうっ！
+私は　通信端末のところに　いるからね。
+> CONTEXT: Commonevents/103/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+次の目標は……何だったかしら？
+……ああ　そうそう。夢界中心のお店で
+売ってる　『ロゴスの鍵』を買うこと！
+> CONTEXT: Commonevents/103/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ちょっと大変かもだけど　私のところで
+\\C[6]ポイントに応じて　便利で強力なスキルも
+覚えられるようになった\\C[0]し　頑張ろうね！
+> CONTEXT: Commonevents/103/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら！？　もう　鍵を持ってたのね！？
+……君って　本当に　スゴイんだね。
+> CONTEXT: Commonevents/103/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+やったなっ　あんちゃん！　大手柄や〜。
+ウチも　夢界中心に　来れるよう
+なったで〜。あんがとな〜♪
+> CONTEXT: Commonevents/103/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+端末んとこ　おるから　いつでも来てや。
+\\C[6]あんちゃんが　見っけたもん　記録した
+図鑑ぽいもん　見せたる\\C[0]で〜。
+> CONTEXT: Commonevents/103/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+図鑑コンプとか　好きなんやろ〜？
+せやけど　一番　手に入れなあかんのは
+『ロゴスの鍵』っちゅう　アイテムやで？
+> CONTEXT: Commonevents/103/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+夢界中心のお店で　売っとるで〜。
+ごっつ高いけど　ウチも手伝うから
+あんちゃんでも　そのうち買えるはずや！
+> CONTEXT: Commonevents/103/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+──って！　もう　持っとるんかい！？
+どした　あんちゃん！？　やるやん♪
+> CONTEXT: Commonevents/103/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]……悪いとは　思うけど
+あたしは一旦　外れておくね。
+> CONTEXT: Commonevents/104/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]I'm sorry, but...
+I'm going to have to step off.
+> CONTEXT: Commonevents/104/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]ごめんねぇ。君の活躍を
+陰ながら　応援してるね。
+> CONTEXT: Commonevents/104/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Sorry boy, I'll support you
+from behind the scenes.
+> CONTEXT: Commonevents/104/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]すまんなぁ　あんちゃん。
+ウチは　手伝えへんのやぁ〜。
+> CONTEXT: Commonevents/104/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]Sorry brudda,
+but I can't help you.
+> CONTEXT: Commonevents/104/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……悪いとは　思うけど
+なんか制約があって　あたしは
+夢界中心に　戻っとくから。
+> CONTEXT: Commonevents/106/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]が　同行できるのは
+あと　\\V[381]フロアまでのようだ。
+> CONTEXT: Commonevents/106/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11] can only accompany you for
+\\V[381] more floors.
+> CONTEXT: Commonevents/106/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ごめんねぇ。色々ワケあって
+私とは　ここで　お別れなの。
+夢界中心に　戻ってるからね。
+> CONTEXT: Commonevents/106/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]が　同行できるのは
+あと　\\V[382]フロアまでのようだ。
+> CONTEXT: Commonevents/106/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12] can only accompany you for
+\\V[381] more floors.
+> CONTEXT: Commonevents/106/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+すまんなぁ　あんちゃん。
+めんどいことなんやけど　ウチは
+夢界中心に　戻っとるわ〜。
+> CONTEXT: Commonevents/106/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]が　同行できるのは
+あと　\\V[383]フロアまでのようだ。
+> CONTEXT: Commonevents/106/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13] can only accompany you for
+\\V[381] more floors.
+> CONTEXT: Commonevents/106/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]と　極上のベッドイン♡
+しますか？
+> CONTEXT: Commonevents/108/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その……ちょっと　気分
+変えた感じの　しても
+いいけど……する？
+> CONTEXT: Commonevents/108/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]と　極上のベッドイン♡
+しますか？
+> CONTEXT: Commonevents/108/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ちょっと　気分を変えて
+イケナイ☆親子プレイ♪
+……しちゃう？
+> CONTEXT: Commonevents/108/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]と　極上のベッドイン♡
+しますか？
+> CONTEXT: Commonevents/108/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチに　ボッコボコ☆にされる
+廃人コース☆プレイ
+したいやろ？　な？
+> CONTEXT: Commonevents/108/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……どう？
+今　手に入れた　ソレ
+ダンジョン攻略に　役立ちそう？
+> CONTEXT: Commonevents/111/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そっかっ。それなら　良かった。
+ちゃんと　使い所を　見極めて
+無駄に　消費しないようにねっ！
+> CONTEXT: Commonevents/111/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……あ　そう？　けど　無用でも
+売って　資金にできるんだから
+無駄とか　思わないようにね！
+> CONTEXT: Commonevents/111/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+How's...? Now that you've
+got it, is it going to be
+useful for dungeon busting?
+> CONTEXT: Commonevents/111/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+I see. That's good. You have
+to find the right use for it.
+Don't consume it unnecessarily!
+> CONTEXT: Commonevents/111/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Oh, yeah?　But even if it's
+useless.  You can sell it,
+Don't feel like wasting!
+> CONTEXT: Commonevents/111/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ペース配分　大丈夫？
+ちゃんと　先々のことを考えて
+やりくりしてる？
+> CONTEXT: Commonevents/111/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そう？
+ま　あんたが　そう言うなら
+とりあえず　信じるけど。
+> CONTEXT: Commonevents/111/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ちょっと！？　真面目にやって！
+いつ　何時　ピンチになるか
+わかんないんだからねっ！
+> CONTEXT: Commonevents/111/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Are you okay with the pacing?
+Are you thinking ahead
+and making ends meet?
+> CONTEXT: Commonevents/111/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+...Really?
+Well, if you say so.
+I'll believe it for now.
+> CONTEXT: Commonevents/111/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hey!? Be serious!
+You never know when
+we'll be in trouble.
+> CONTEXT: Commonevents/111/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+んとさ。
+もう　慣れた？
+つまり　この迷宮に……。
+> CONTEXT: Commonevents/111/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ふーん。
+あんたって　意外と有能？
+でも　油断は禁物だからねっ！
+> CONTEXT: Commonevents/111/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ま……こんな迷路なんて
+あんたの世界に　ないもんね。
+でも　へこたれないで頑張って！
+> CONTEXT: Commonevents/111/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Well...
+Are you used to it by now?
+So...this maze.
+> CONTEXT: Commonevents/111/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hmmm.
+Are you surprisingly competent?
+But you can never be too careful!
+> CONTEXT: Commonevents/111/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Well, there is no maze like
+this in your world. But don't
+be discouraged! Keep at it!
+> CONTEXT: Commonevents/111/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あのさ。妙なこと　聞いていい？
+フランクフルトに　マスタードを
+ベッタリつけるのって　変かな？
+> CONTEXT: Commonevents/111/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+うーん……やっぱ　そうなのか。
+\\n[13]が　煽ってきたけど
+間違ってなかったのね……。
+> CONTEXT: Commonevents/111/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+変じゃないよねっ！　それに
+味の好みは　それぞれだし！
+よかったっ！
+> CONTEXT: Commonevents/111/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Can I ask you a weird question?
+Is it strange to put a lot of
+mustard on a frankfurter?
+> CONTEXT: Commonevents/111/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Hmmm......I knew it.
+ \\n[13] teased me about it,
+but...she weren't wrong.
+> CONTEXT: Commonevents/111/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+That's not weird! What is more,
+everyone has their own taste
+preferences! That's a relief.
+> CONTEXT: Commonevents/111/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしが　人間界の食べ物に
+興味があるのって　気になる？
+夢魔なのに……って　思う？
+> CONTEXT: Commonevents/111/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+文化としては　あるんだよ。
+ずっと昔からね。でも　所詮
+夢の中の料理だけどね。
+> CONTEXT: Commonevents/111/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そうね。別に不思議じゃないよ。
+でも　あんた　細かいことは
+気にしないタイプなの？
+> CONTEXT: Commonevents/111/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+The other day. Were you
+wondering if succubus eat
+human food?
+> CONTEXT: Commonevents/111/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+It's part of our culture, been
+around for a long time. But
+it's not an authentic taste.
+> CONTEXT: Commonevents/111/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Right. No wonder.
+Are you the type of person
+who doesn't care about details?
+> CONTEXT: Commonevents/111/341/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+\\n[12]に　何か渡しておくと
+いつも　失くすんだよね。
+あんたは　失くし物　しない方？
+> CONTEXT: Commonevents/111/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+物の管理は　しっかりしてる
+ってことね？　見直したよ。
+そうそう　何事もしっかりとね！
+> CONTEXT: Commonevents/111/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あんたもか……。やれやれ。
+身の回りの事を　疎かにしてると
+手痛い失敗を　するんだからね？
+> CONTEXT: Commonevents/111/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+手に入れたアイテムを　道具袋に
+収納してると　思うけど
+ちゃんと　整理整頓できてる？
+> CONTEXT: Commonevents/111/432/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+きちんと　収納できてるのね。
+戦闘中も　すぐに取り出せるよう
+管理は　しっかりとね！
+> CONTEXT: Commonevents/111/443/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+はぁぁぁ！？　まさか　あんた
+上から　突っ込んでるんじゃ！？
+ダメだよ　そんなことじゃ！
+> CONTEXT: Commonevents/111/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……ねぇ　改まってだけど
+あたしって……小言が多い？
+小うるさいって　思ってる？
+> CONTEXT: Commonevents/111/503/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ　そっか。
+う〜ん……良くないなぁ。
+ちょっと　気を付けるよ。
+> CONTEXT: Commonevents/111/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ　そう？　べ　別に
+気を遣わなくても　良いんだから
+正直に　言っても　別に……。
+> CONTEXT: Commonevents/111/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+\\n[12]が　あんたのこと
+子ども扱いしてるみたいだけど
+あんたは……嫌だったりする？
+> CONTEXT: Commonevents/111/578/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だよね。やっぱり　あんたも
+男としてのプライド？　とかさ
+あるもんね。……ね？
+> CONTEXT: Commonevents/111/589/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ？　気にならないの？
+まさか　喜んでるんじゃ
+ないでしょうねぇ？
+> CONTEXT: Commonevents/111/598/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+はぁ………………。\\|あっ！？
+な　なんでもない！　昨日
+ちょっと――き　気にしないで！
+> CONTEXT: Commonevents/111/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ　そう……気にしない！
+うんうん　気にしない気にしない
+さっ　気を　引き締めて進むよ！
+> CONTEXT: Commonevents/111/660/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えと……夢をね　見て
+他人のだけど……それが
+ロマンチックで……もじもじ。
+> CONTEXT: Commonevents/111/671/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ねぇ……ちょっと　聞いていい？
+学園生活って　楽しいんでしょ？
+あたしでも　できるかな？
+> CONTEXT: Commonevents/111/724/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だよね！　あたしが着てる
+この服なら　学校に通ってても
+全然　違和感ないはずだよね！？
+> CONTEXT: Commonevents/111/735/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そう？　えと……ゾンビが
+襲ってくるんだっけ？　別に
+そんぐらい　大したことないよ？
+> CONTEXT: Commonevents/111/744/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そういえば　迷宮で襲ってくる
+夢魔の魔物が　いるでしょ？
+アレ　気になった？
+> CONTEXT: Commonevents/111/795/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あいつらは　邪気が強まって
+魔物化した　連中だからね。
+気にしないで　殺していいよ。
+> CONTEXT: Commonevents/111/804/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そう？　一応言っておくと
+魔族は　邪気が強まると
+魔物に　成れ果てるんだよ。
+> CONTEXT: Commonevents/111/813/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+別に　調べたりしてないけど
+お洒落な　デートスポットが
+人間界には結構あるって　本当？
+> CONTEXT: Commonevents/111/862/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ　そっか……。あ　あんたも
+そういうとこ　行ったり……
+行きたかったり……何でもない！
+> CONTEXT: Commonevents/111/873/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……え！？　ないの？　あ
+もしかして　知らないだけ？
+そっか………………よしっ！
+> CONTEXT: Commonevents/111/884/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ……あんたはさ　異種族と
+デートしたり　交際したり
+するのって……抵抗ある方？
+> CONTEXT: Commonevents/111/937/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+フンっ。あっそ！！！！
+別に　どうでもいいよね！！
+変なこと聞いて　悪かったね！！
+> CONTEXT: Commonevents/111/946/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だよねっ！　関係ないよね
+種族とか……あ　いや　別に
+あんたとって　意味じゃないし！
+> CONTEXT: Commonevents/111/957/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ねぇ　学校には　学園祭？
+って行事が　あるんでしょ？
+思い出いっぱい　作れるのかな？
+> CONTEXT: Commonevents/111/1008/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+フランクフルトに　マスタード
+たっぷり塗って　お化け屋敷に
+演劇……後夜祭で告白したり♪
+> CONTEXT: Commonevents/111/1019/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+え？　そうなの？　あ　あれか
+何日も何日も　学園祭の前日を
+繰り返しちゃうんだっけ？
+> CONTEXT: Commonevents/111/1028/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+よく　考えたら　あんたと
+二人きりで　こうしてるのって
+デ　デート……みたいな？
+> CONTEXT: Commonevents/111/1079/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+だよねっ！　これって　デート！
+……あ！？　違う　違う　違う！
+そ　そんな浮かれてないってっ！
+> CONTEXT: Commonevents/111/1090/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ　そうだよね。あたしも
+別に　そんなつもりじゃないし。
+うん……分かってるから　うん。
+> CONTEXT: Commonevents/111/1099/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あのさ……\\n[13]がさ
+すぐに　セ――……したがるけど
+あんたも　すぐ　したいの？
+> CONTEXT: Commonevents/111/1150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ふーん。そ　そうなんだ。
+やっぱ　オスの本能とか？
+でもなぁ……。う〜ん。
+> CONTEXT: Commonevents/111/1159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そうだよね！　やっぱり
+そういうのは　段階が大事だし
+お互いの気持ちが　一番大事！
+> CONTEXT: Commonevents/111/1170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+こう……今更なんだけど
+理想の　は　初めてって……
+そういうの　考えたことある？
+> CONTEXT: Commonevents/111/1221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+うんうん♪　あるよねっ！
+好きって　伝え合った後に
+見つめ合って――んんっ♡
+> CONTEXT: Commonevents/111/1232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そう？　あんまり　興味ない？
+まぁ　今更ってのも　あるか。
+そんなもんか。はぁぁ……。
+> CONTEXT: Commonevents/111/1241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えと……学校で　告白するのって
+て　定番みたいだね？
+> CONTEXT: Commonevents/111/1292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+屋上とか　桜の木の下とか
+体育館裏とか……色んな話
+聞いたこと　あ　あるからっ！
+> CONTEXT: Commonevents/111/1302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+え？　そ　そうなんだ。ふーん。
+あ……あんたに　その機会が
+無かったとか？
+> CONTEXT: Commonevents/111/1311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ　愛の告白から　キ　キスして
+そのまま　服を……ってシチュに
+憧れてても　別に　いいよね？
+> CONTEXT: Commonevents/111/1362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+変じゃないよねっ！　いいよね！
+……あ　べ　べ　別に　あんたと
+そうしたいとかじゃ――――！！
+> CONTEXT: Commonevents/111/1373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+やっぱ　ちょっと　あたし
+変なのかなぁ。うーん。
+でも　ま　それが　あたしだし。
+> CONTEXT: Commonevents/111/1382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えと……あのさ　喋る内容が
+無くなっちゃって　同じ話題を
+繰り返しても　別に　いいよね？
+> CONTEXT: Commonevents/111/1433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……そ。ま　あんたとなら
+生産性のない話を　してても
+良いかなって　思ってるよ。
+> CONTEXT: Commonevents/111/1444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+そ……そっか。う〜ん。
+まぁ　でも　こればっかりは
+許容してもらうしかないかな〜。
+> CONTEXT: Commonevents/111/1453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……どうかしら？
+何か良い物　見つかった？
+> CONTEXT: Commonevents/112/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そう。なら　大切にしないとね。
+厳重に仕舞いこんで　蓋をして
+宝物にしましょ♪
+> CONTEXT: Commonevents/112/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらそう？　でも品物って
+年月が経てば　価値が出るもの。
+保管しておくのも　ありだよ。
+> CONTEXT: Commonevents/112/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+What about?
+Did you find anything good?
+> CONTEXT: Commonevents/112/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Yes. Then you must take good
+care of it. Put it away tight,
+put a lid, and be treasure.
+> CONTEXT: Commonevents/112/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh, really? But goods do
+become more valuable over
+time. It's OK to keep it.
+> CONTEXT: Commonevents/112/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君……疲れてない？
+無理はしないでね。
+大丈夫かな？
+> CONTEXT: Commonevents/112/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+大丈夫なのね。
+強い子　強い子♪
+その調子で　進んで行きましょ♪
+> CONTEXT: Commonevents/112/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら　大丈夫？
+疲れたら　いつでも
+私の胸に　飛び込んできてね♪
+> CONTEXT: Commonevents/112/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Are you...tired?
+Take it easy,
+Are you okay?
+> CONTEXT: Commonevents/112/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+It's all right, isn't it?
+Strong boy, strong boy.
+Keep going, keep going!
+> CONTEXT: Commonevents/112/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh, my God. Are you okay?
+Whenever you're tired,
+Come and jump into my chest!
+> CONTEXT: Commonevents/112/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+どうかな？
+そろそろ　この迷宮にも
+慣れてきた頃合いかしら？
+> CONTEXT: Commonevents/112/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら　嬉しい♡
+とっても　居心地良いでしょう？
+抜け出せなくなっちゃうよね♪
+> CONTEXT: Commonevents/112/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+それは良くないね。そしたら
+もっと歩き回って　実家のような
+安心感を　感じてね♪
+> CONTEXT: Commonevents/112/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+I don't know, do you? It's time
+to get to know this maze.
+Are you getting used to it?
+> CONTEXT: Commonevents/112/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh, my goodness.
+Very cosy, isn't it?
+You won't be able to get out...
+> CONTEXT: Commonevents/112/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+That's not good.
+Walk around more, feel safe
+here, like you're at home.
+> CONTEXT: Commonevents/112/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ふふふ。普段　私たち夢魔が
+どんな暮らしをしてるか
+気になったりする？
+> CONTEXT: Commonevents/112/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そんなに　変わらないよ。
+君たちの世界と……。
+現実じゃないってだけで。
+> CONTEXT: Commonevents/112/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら？　気にならない？
+君って　落ち着いてるのね。
+なんだか　頼り甲斐があるかも？
+> CONTEXT: Commonevents/112/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Mm-hmm. Do you wonder
+what life is usually like
+for us succubus?
+> CONTEXT: Commonevents/112/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Not so different.
+Your world and.......
+Just that it's not real.
+> CONTEXT: Commonevents/112/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh?　Don't you care?
+You're so calm.
+Maybe I'm kind of dependable?
+> CONTEXT: Commonevents/112/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+夢魔の歴史は　とても古いの。
+君って　歴史に興味はある？
+> CONTEXT: Commonevents/112/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ　そうなの？
+歴史は　イイものだよね！
+色々　教えてあげたいな♪
+> CONTEXT: Commonevents/112/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら　そう？　もしかして
+過去は振り返らない的な？
+君は　生きる伝説なのかな？
+> CONTEXT: Commonevents/112/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Succubus have a very long
+history. Are you interested in
+history?
+> CONTEXT: Commonevents/112/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh, really? History is good,
+isn't it? I wish I could tell
+you all about it!
+> CONTEXT: Commonevents/112/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Oh, yeah? By any chance...
+You don't look back?
+Are you a living legend?
+> CONTEXT: Commonevents/112/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君が　お利口さんになれるように
+歴史のお勉強を　しましょう！
+準備は　いいかな？
+> CONTEXT: Commonevents/112/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+じゃ　さっそく――
+あら？　何から教えたら
+いいのかしら？
+> CONTEXT: Commonevents/112/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+え？　今はそんなことしてる
+場合じゃない？　……まぁ！
+君　賢いんだね。
+> CONTEXT: Commonevents/112/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+迷宮を　冒険するのって
+なんだか　楽しいよね？
+遠足みたいで♪
+> CONTEXT: Commonevents/112/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ふふふっ♪　遠足気分で
+らんらんらん♪　おやつは
+3Ｍまでですよ〜。
+> CONTEXT: Commonevents/112/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら？　あんまり楽しめてない？
+じゃあ　一緒に　歌いましょ♪
+ラララ〜ララ〜♪
+> CONTEXT: Commonevents/112/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+この耳のイヤリング☆
+お気に入りなの♪
+君も　つけてみる？
+> CONTEXT: Commonevents/112/504/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君を　可愛く　着飾っちゃうね。
+――って　あら？　取れない？
+外し方　忘れちゃったみたい。
+> CONTEXT: Commonevents/112/515/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらそう……残念。
+でも　君には　もっと
+男っぽい装飾品が　お勧めかな？
+> CONTEXT: Commonevents/112/524/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君は　観光地巡りとか
+興味あるかな？
+> CONTEXT: Commonevents/112/575/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　本当？　じゃあ　いつか
+一緒に　古城巡りとかしたいね。
+博物館も　行ってみたいな♪
+> CONTEXT: Commonevents/112/585/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……え　本当に？
+私は　人間界の名所とか
+行ってみたいんだけど……そう？
+> CONTEXT: Commonevents/112/594/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ねぇ　君は魔物さんたちを
+殺しちゃうことに　心が
+痛んだりするのかな？
+> CONTEXT: Commonevents/112/645/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君は優しい心の持ち主なんだね♪
+でも　大丈夫。魔物さんたちには
+心が無いから　殺し放題だよ☆
+> CONTEXT: Commonevents/112/656/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+勇ましいんだね！　魔物さんには
+心が無いから　たくさんたくさん
+勇者の伝説を　作っちゃってね！
+> CONTEXT: Commonevents/112/667/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+白身魚のマリネ　海老の生春巻き
+今夜のおかずは　何が良いかな♪
+君も　おかずを　考えちゃう？
+> CONTEXT: Commonevents/112/720/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+お料理の献立　考えるの
+楽しいよね。……って　私の体を
+ジロジロ見て　どうしたのかな？
+> CONTEXT: Commonevents/112/731/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+じゃあ　君の今晩のおかずは
+私が　用意しちゃうね♪
+残らず食べないと　ダメだよぉ？
+> CONTEXT: Commonevents/112/742/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+お勉強で　悩んでることはない？
+私が　家庭教師になって
+何でも　教えてあげちゃうよ？
+> CONTEXT: Commonevents/112/795/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+任せて！　じゃあ　まずは……
+えっと　君の使ってる文字を
+私に　教えてもらえるかしら？
+> CONTEXT: Commonevents/112/806/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　君ってば
+博識だったんだね！　これからは
+大賢者様って　呼ばなきゃね？
+> CONTEXT: Commonevents/112/815/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+実はね　私たちは　魔族なの♪
+魔族と　魔物の違いを
+君は　知ってるかなぁ？
+> CONTEXT: Commonevents/112/866/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　知ってたのね！
+恐れ入っちゃった！　君ってば
+本当に　何でも知ってるんだね♪
+> CONTEXT: Commonevents/112/875/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+微妙に違いがあって　魔物さんは
+理性？　が無くて　下等な存在？
+……って　感じだったかしら？
+> CONTEXT: Commonevents/112/884/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+実は私って　音楽が好きなの♪
+オーケストラのコンサートや
+オペラに　君も興味ある？
+> CONTEXT: Commonevents/112/933/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+一緒に　行きたいね！　あ　でも
+会場では静かにしないと　メっ！
+だからね？　大丈夫かな？
+> CONTEXT: Commonevents/112/944/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらそう？　もしかして
+今の若い子の間では
+流行ってないってことなのかな？
+> CONTEXT: Commonevents/112/953/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あ！　\\|――つい
+お手々　握っちゃった☆
+君　ちゃんと　ついてきてる？
+> CONTEXT: Commonevents/112/1004/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+だよね☆　すっかり迷宮にも
+慣れてきて　立派に凛々しく
+育っちゃってるもんね〜。
+> CONTEXT: Commonevents/112/1015/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら　やっぱり私が居ないと
+ダメダメちゃんなのかなぁ〜？
+ホラ　手ぇ繋いで　歩きましょ♪
+> CONTEXT: Commonevents/112/1026/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+一度　言ってみたかったの
+言うね？　今夜は何が食べたい？
+つまり……私を　食べたい？
+> CONTEXT: Commonevents/112/1079/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ　嬉しい！　じゃあ
+私の尻尾のとこ　斬り落として
+サラダにしてあげるね♪
+> CONTEXT: Commonevents/112/1090/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　お口に合わない？
+う〜ん……君の好みを　もっと
+研究しなきゃだね。
+> CONTEXT: Commonevents/112/1099/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ねぇ　疲れてない？
+私の　おっぱい☆　飲むぅ？
+> CONTEXT: Commonevents/112/1150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ふふっ♪　まろやかジューシー
+サキュバスミルクを　いっぱい
+頬張ってね♡　むぎゅ〜〜〜♪
+> CONTEXT: Commonevents/112/1160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら？　いらない？　それとも
+恥ずかしがってるのかなぁ？
+遠慮なんか　しないでいいよ♪
+> CONTEXT: Commonevents/112/1169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君が　よく眠れるように
+私が　子守唄を
+歌ってあげようかな？
+> CONTEXT: Commonevents/112/1220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ＯＫ♪　でも　今は冒険中だから
+ぴゅっぴゅ☆した後で
+寝かしつけてあげるからね♪
+> CONTEXT: Commonevents/112/1231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらあら　大丈夫？
+寝付きは　良い方なのかな？
+エライねぇ　エライエライ♪
+> CONTEXT: Commonevents/112/1240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君の後ろを　歩いてたら
+お尻の催淫針　刺したくなって
+きちゃった……いいよね？
+> CONTEXT: Commonevents/112/1291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+まぁ！　それじゃあ　いつでも
+発情できちゃうね♪　任せて？
+君を私の　虜にしちゃうから♪
+> CONTEXT: Commonevents/112/1302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+さすがに　今はマズいんだよね。
+うん……私だって　それくらいは
+空気　読めるよ……。
+> CONTEXT: Commonevents/112/1311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+君を　私のゆりかごの中に
+閉じ込めて　誰にも渡さない
+……君も　それを望んでるかな？
+> CONTEXT: Commonevents/112/1362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+良かった☆　じゃあ気兼ねなく
+君を　独り占めしていいんだね。
+ふふふ……フフフ……フフフ♪
+> CONTEXT: Commonevents/112/1373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……逃げちゃうの？　そう
+君は　行ってしまうんだね。
+それもまた　人生かな……。
+> CONTEXT: Commonevents/112/1382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あら　いけない！　私ったら
+会話のネタに　詰まっちゃった☆
+リサイクルしても　いいよね？
+> CONTEXT: Commonevents/112/1433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そうね♪　君となら　どんなに
+話題を　使い古しても
+楽しいもんね！　るんるん♪
+> CONTEXT: Commonevents/112/1444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+あらそう？　でも　ダメだよ？
+何度も　同じ話をすることで
+分かることも　あるんだからね！
+> CONTEXT: Commonevents/112/1453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+どやどや？　あんちゃ〜ん♪
+なんか　ええもん
+見つけたんやないかぁ？
+> CONTEXT: Commonevents/113/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん。じゃ　ソレ使って
+あんちゃんのアソコ☆
+ウチが　イジメてあげんよぉ♪
+> CONTEXT: Commonevents/113/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　そうなん？
+なら　ウチに　くれやぁ♪
+大人の玩具に　改造しちゃる♪
+> CONTEXT: Commonevents/113/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+How's it going brudda?
+I think you found something
+good, yeah?
+> CONTEXT: Commonevents/113/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh, really?
+Then I'll use it
+to tease your dick!
+> CONTEXT: Commonevents/113/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh?　Is that so?
+Then give it to me. I'll turn
+you into an adult toy.
+> CONTEXT: Commonevents/113/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ヒヒヒ♪
+そろそろ　ダンジョン攻略も
+疲れてきたやろぉ？
+> CONTEXT: Commonevents/113/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　もう音を上げるん？
+あんちゃん　雑魚やなぁ♪
+雑魚ちんちん☆なんやなぁ♪
+> CONTEXT: Commonevents/113/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+へぇ〜。ホンマかぁ？
+無理してんちゃう？　なら
+ウチが　もっと責めたげるよぉ♪
+> CONTEXT: Commonevents/113/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Hahaha. It's about time you
+took on the dungeons. You're
+getting tired, yes?
+> CONTEXT: Commonevents/113/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Wow! You're going to give up?
+You little fish...
+What a little fish...
+> CONTEXT: Commonevents/113/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Huh. Really? Are you pushing
+yourself?　If so...
+I'll make it harder for you.
+> CONTEXT: Commonevents/113/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+どやどやどやぁ〜？
+あんちゃん　この迷宮にゃ
+もう　慣れてきたんやろ？
+> CONTEXT: Commonevents/113/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ヒヒヒ♪　慣れてきた頃にこそ
+手痛い失敗を　しでかすもんや！
+ワクワク♪　ワクワク♪
+> CONTEXT: Commonevents/113/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　まだ　死に足りないんか？
+なら　もっともっと　ウチの前で
+無様に　全滅せ〜や〜♪
+> CONTEXT: Commonevents/113/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+How! How! How's it going
+brudda? You're getting used to
+this maze, aren't you?
+> CONTEXT: Commonevents/113/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Hahaha. It's only when you get
+used to it that you make the
+painful mistakes. I wanna see.
+> CONTEXT: Commonevents/113/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh?　Not dead enough for you?
+Then you're going to screw up
+a lot more in front of me.
+> CONTEXT: Commonevents/113/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なぁ　あんちゃん？
+エクレア　好きか？
+好きやろ？　あれ美味いよな！？
+> CONTEXT: Commonevents/113/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+やっぱな！　ウチは　デカいの
+好きやで！　あんちゃんの股間の
+エクレアも　頬張ったるで！
+> CONTEXT: Commonevents/113/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+えー！　まさか　あんちゃんも
+\\n[11]と　同じで辛党なん？
+ガッカリや〜〜〜。
+> CONTEXT: Commonevents/113/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Hey, brudda? Do you like eclair?
+You like it, don't you?
+That's delicious, isn't it?
+> CONTEXT: Commonevents/113/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+I knew it! I like big ones!
+So I'll even chew the eclair
+between your legs for you!
+> CONTEXT: Commonevents/113/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Ew! Don't tell me you're just
+as spicy as \\n[11]?
+Disappointed...
+> CONTEXT: Commonevents/113/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+人間界にゃ　美味い食いもん
+いっぱい　あるよな〜？
+あんちゃんも　よう食うん？
+> CONTEXT: Commonevents/113/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+バクバク　食っとるんか？
+手当たり次第に　女を！？
+へぇ〜　ほーん　へぇ〜♪
+> CONTEXT: Commonevents/113/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　少食なん？　なら
+ウチの　このカラダで
+女体盛り☆してみるかぁ〜？
+> CONTEXT: Commonevents/113/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+The human world is full of
+delicious food.
+Do you eat a lot, too?
+> CONTEXT: Commonevents/113/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+You're eating a lot of girls?
+Heh, heh, heh!
+> CONTEXT: Commonevents/113/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Oh? Do you eat little?
+Then let's use my body to make
+a Nyotai-moli!
+> CONTEXT: Commonevents/113/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃん？　まさかやけど
+『こないＲＰＧ　たるいわ
+はよスケベさせて』思うとる？
+> CONTEXT: Commonevents/113/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せっかち☆やなぁ〜！
+言うても　ウチかて
+はよ　セクロス☆したいで？
+> CONTEXT: Commonevents/113/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　わかっとるやん♪
+苦労した分だけ　いざ本番で
+気持ちよう　イケるもんやで！
+> CONTEXT: Commonevents/113/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+……あんちゃん　なかなか
+エエ尻☆しとんなぁ♪
+後ろから　触ってもええか？
+> CONTEXT: Commonevents/113/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　したら
+あんちゃんが　ピンチん時に
+ベタベタ　触ってやんよ♪
+> CONTEXT: Commonevents/113/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+え！？　あかんて？
+まさか　あんちゃん　痔持ちか？
+かわいそうやなぁ〜。
+> CONTEXT: Commonevents/113/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+今更やけど……ぶっちゃけ
+あんちゃんて　攻められるの
+好きか？　マゾやろ？
+> CONTEXT: Commonevents/113/506/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ヒヒヒ♪　せやろ　せやろ？
+ウチに　バッキバキに
+イジメられたいんやもんなぁ♪
+> CONTEXT: Commonevents/113/517/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+へぇ〜。そうやったんか？
+まぁ　それ聞いたとて　ウチは
+手加減なんか　せえへんけどな！
+> CONTEXT: Commonevents/113/526/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃんて　ガチャ☆好きか？
+出るか　出ないんか　わからん
+スリルに　酔うタイプか？
+> CONTEXT: Commonevents/113/577/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほならね　ウチが　10連ガチャ
+ならぬ　10連シコ☆で
+UR精子　出したるわ♪
+> CONTEXT: Commonevents/113/586/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　射幸心は煽られんと？
+それとも酔うなら　ウチみたいに
+色欲に　酔いしれたいんか？
+> CONTEXT: Commonevents/113/597/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+どうでもええけど　あんちゃんて
+お化けとか　幽霊とか
+オカルト　信じる方か？
+> CONTEXT: Commonevents/113/648/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ま　せやろな！
+夢魔と　セクロス☆してる時点で
+信じるも信じないも　あらへん♪
+> CONTEXT: Commonevents/113/657/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ちゅうことは　まさか怖いんか？
+ヒヒヒ♪　ビビらせたるで？
+恐がるあんちゃん　見モノやな。
+> CONTEXT: Commonevents/113/668/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なぁ　あんちゃん……？
+オナニー好きか？　つまり
+一人えっち☆　好きかー！？
+> CONTEXT: Commonevents/113/719/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　やっぱなぁ☆
+ほなら　シコってるとこ　ウチが
+ジーッと　見ててやろか？
+> CONTEXT: Commonevents/113/730/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+嘘こけぇ！　なぁに今更
+恥ずかしがっとんのや！
+ホンマは　好きなんやろ？
+> CONTEXT: Commonevents/113/739/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃんも　やっぱり
+ウチは　リーダーみたいなガラや
+ないって　思うんか？
+> CONTEXT: Commonevents/113/790/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せやなぁ。\\n[11]みたいに
+几帳面やないし　愉しめれば
+それでええって　考えやもんな☆
+> CONTEXT: Commonevents/113/799/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うて　\\n[12]よりかは
+務まるやろけど　ウチは　あんま
+纏め役とか　好かんしなぁ〜。
+> CONTEXT: Commonevents/113/808/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+どうでもええ　豆知識が
+あるんやけど……
+聞きたいか？
+> CONTEXT: Commonevents/113/857/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチら夢魔は　魔族っちゅう
+種族の一派なんや。広い意味では
+魔族なんやで？　覚えときー。
+> CONTEXT: Commonevents/113/866/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+やるな〜　あんちゃん！
+ウチのフリを　華麗にいなすたぁ
+成長したもんやな〜！
+> CONTEXT: Commonevents/113/877/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ヒヒヒ♪　あんちゃんはぁ〜
+なんで　中出し☆が　あんな
+気持ちぃか　知っとるか？
+> CONTEXT: Commonevents/113/928/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+それはな！　子孫作れるかもって
+可能性を感じて　肉体が
+はしゃいでまうからなんや！
+> CONTEXT: Commonevents/113/939/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　わからんと？
+ほなら　もっと　ウチと
+中出し☆セクロス　せんとなぁ♪
+> CONTEXT: Commonevents/113/948/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃんて　変態やろ？
+それも　重度の変態やろ？
+な？
+> CONTEXT: Commonevents/113/999/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　隠す気０やん！
+ほな　今すぐ　全裸んなって
+公開ＳＥＸでも　しよかぁ？
+> CONTEXT: Commonevents/113/1010/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+冗談やろぉ？　あんちゃん
+変態やなかったんか？
+……信じられんわ。
+> CONTEXT: Commonevents/113/1019/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あ〜〜〜〜……性欲
+溜まってきたわぁ。あんちゃんも
+ムラムラ☆してきとるんやろ？
+> CONTEXT: Commonevents/113/1070/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+やっぱなぁ☆　あんちゃんも
+立派なＳＥＸ中毒や♪
+ウチと　同じやな♪
+> CONTEXT: Commonevents/113/1081/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+まぁた　強がってからにぃ。
+ウチの　エロテクで　本能を
+剥き出しに　剥いたるでぇ？
+> CONTEXT: Commonevents/113/1090/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+もしかして　あんちゃん
+ウチが　下ネタ以外のトークネタ
+無いんと　思っとるんちゃう？
+> CONTEXT: Commonevents/113/1141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+よう　わかっとるやん♪
+せやけど　あんちゃんも
+同じやろ？　な？
+> CONTEXT: Commonevents/113/1152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お？　意外と　真面目な話も
+聞きたいんか？　……あれか？
+賢者タイムなってもうたか？
+> CONTEXT: Commonevents/113/1161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃ〜ん？？？
+対戦ゲームって　好きか〜？
+> CONTEXT: Commonevents/113/1212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほなら　強力ヴァイブ付けて
+ウチと勝負や〜！　負けたら
+射精確定☆な！
+> CONTEXT: Commonevents/113/1222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん。……ま　最初から
+ウチには　勝てへんて
+分かっとるもんなぁ。
+> CONTEXT: Commonevents/113/1231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あー　セクロス☆したい〜。
+今すぐ　あんちゃんを
+凌辱したいわ。ええやろ？
+> CONTEXT: Commonevents/113/1282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+うっひゃ☆　気持ち通じとるな！
+ぴーぴー　泣かしたるでぇ！
+あんちゃんは　ウチの奴隷やし！
+> CONTEXT: Commonevents/113/1293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんでや！？　あんちゃん
+ウチの性奴隷や　なかったんか？
+まさか……下剋上か！？
+> CONTEXT: Commonevents/113/1302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃん　ウチを孕ませる
+自信あるかぁ？　その精子で
+妊娠させる　自信はあるかぁ！？
+> CONTEXT: Commonevents/113/1353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ええ返事や！　せやけど
+膣内射精されたとて　そう簡単に
+問屋は　降ろさへんで〜？
+> CONTEXT: Commonevents/113/1364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん。自信はないと？
+ほな　強気になれるまで
+キツイＥＤ荒療治が　必要やな！
+> CONTEXT: Commonevents/113/1375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+お！　残念やな〜　あんちゃん？
+話題　ネタ切れなってもうたわ。
+ループんなるけど　ええやろ？
+> CONTEXT: Commonevents/113/1428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+せやろ　せやろ！　あんちゃんは
+末永く　ウチの玩具やもんな。
+なんぼでも　ウチとダベろうや♪
+> CONTEXT: Commonevents/113/1439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほーん？　No　選んでも
+結果は同じって　分かってて
+答えたん？　合ってっけど。
+> CONTEXT: Commonevents/113/1448/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……あ　シン・夢魔の迷宮は　違うから。
+注意っ！
+> CONTEXT: Commonevents/118/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+……けど　シン・夢魔の迷宮は
+ちょっと　違うんだけどね。
+> CONTEXT: Commonevents/118/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+……言うて　シン・夢魔の迷宮は
+ちゃうんやけどな〜。
+> CONTEXT: Commonevents/118/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一時間以内に20Ｆ炎貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一時間以内に20Ｆ氷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]一時間以内に20Ｆ雷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]宝箱開封20箱以下で炎貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]宝箱開封20箱以下で氷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]宝箱開封20箱以下で雷貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>トロフィー
+\\\>\\C[6]勝利回数20以下で20Ｆ貘獣王竜を殲滅！\\C[0]
+\\\>を　達成！
+> CONTEXT: Commonevents/119/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[51]が　箱から飛び出した！
+> CONTEXT: Commonevents/120/20/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/121/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この場所では　何故か　箱のリボンは
+解けないようだ！
+> CONTEXT: Commonevents/120/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/121/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トロフィーの中身は　空っぽだった……。
+お店に苦情を　入れに行こう……。
+> CONTEXT: Commonevents/122/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+差し出された　トロフィーの中には
+\\v[51]が　入っていた！
+> CONTEXT: Commonevents/122/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+更に　ビックリ★バコを　発見！！！！！
+> CONTEXT: Commonevents/122/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+更に　ビックリ☆バコを　発見！
+> CONTEXT: Commonevents/122/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+こういうの　好きなんやろ〜？
+> CONTEXT: Commonevents/123/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！en(s[521])if(v[521]==0)
+> CONTEXT: Commonevents/123/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！if(v[521]\>0)en(!s[521])
+> CONTEXT: Commonevents/123/8/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+おめっとさ〜ん！
+ほい！　これが　報酬みたいやで！
+> CONTEXT: Commonevents/123/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/78/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/94/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/126/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/142/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/158/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/174/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/190/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/123/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！en(s[522])if(v[522]==0)
+> CONTEXT: Commonevents/123/24/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！if(v[522]\>0)en(!s[522])
+> CONTEXT: Commonevents/123/24/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！en(s[523])if(v[523]==0)
+> CONTEXT: Commonevents/123/40/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！if(v[523]\>0)en(!s[523])
+> CONTEXT: Commonevents/123/40/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一時間以内に20Ｆ炎貘獣王竜を殲滅！　en(s[524])if(v[524]==0)
+> CONTEXT: Commonevents/123/56/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一時間以内に20Ｆ炎貘獣王竜を殲滅！　if(v[524]\>0)en(!s[524])
+> CONTEXT: Commonevents/123/56/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一時間以内に20Ｆ氷貘獣王竜を殲滅！　en(s[525])if(v[525]==0)
+> CONTEXT: Commonevents/123/72/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一時間以内に20Ｆ氷貘獣王竜を殲滅！　if(v[525]\>0)en(!s[525])
+> CONTEXT: Commonevents/123/72/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]一時間以内に20Ｆ雷貘獣王竜を殲滅！　en(s[526])if(v[526]==0)
+> CONTEXT: Commonevents/123/88/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]一時間以内に20Ｆ雷貘獣王竜を殲滅！　if(v[526]\>0)en(!s[526])
+> CONTEXT: Commonevents/123/88/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！en(s[527])if(v[527]==0)
+> CONTEXT: Commonevents/123/104/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！if(v[527]\>0)en(!s[527])
+> CONTEXT: Commonevents/123/104/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！en(s[528])if(v[528]==0)
+> CONTEXT: Commonevents/123/120/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！if(v[528]\>0)en(!s[528])
+> CONTEXT: Commonevents/123/120/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！en(s[529])if(v[529]==0)
+> CONTEXT: Commonevents/123/136/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！if(v[529]\>0)en(!s[529])
+> CONTEXT: Commonevents/123/136/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]宝箱開封20箱以下で炎貘獣王竜を殲滅！en(s[530])if(v[530]==0)
+> CONTEXT: Commonevents/123/152/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]宝箱開封20箱以下で炎貘獣王竜を殲滅！if(v[530]\>0)en(!s[530])
+> CONTEXT: Commonevents/123/152/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]宝箱開封20箱以下で氷貘獣王竜を殲滅！en(s[531])if(v[531]==0)
+> CONTEXT: Commonevents/123/168/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]宝箱開封20箱以下で氷貘獣王竜を殲滅！if(v[531]\>0)en(!s[531])
+> CONTEXT: Commonevents/123/168/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]宝箱開封20箱以下で雷貘獣王竜を殲滅！en(s[532])if(v[532]==0)
+> CONTEXT: Commonevents/123/184/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]宝箱開封20箱以下で雷貘獣王竜を殲滅！if(v[532]\>0)en(!s[532])
+> CONTEXT: Commonevents/123/184/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[0]勝利回数20以下で20Ｆ貘獣王竜を殲滅！en(s[533])if(v[533]==0)
+> CONTEXT: Commonevents/123/200/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]勝利回数20以下で20Ｆ貘獣王竜を殲滅！if(v[533]\>0)en(!s[533])
+> CONTEXT: Commonevents/123/200/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Back if(v[534] < 100)
+> CONTEXT: Commonevents/123/216/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[37]蒐集図鑑を全て埋め尽くしてしまった！if(v[534]\>99)en(!s[534])
+> CONTEXT: Commonevents/123/216/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+まさか　ホンマに　やってまうとは
+思っとらんかったわ！
+> CONTEXT: Commonevents/123/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さる識者によると　人類滅亡まで
+あと　\\V[228]ターン　らしい……。
+それはそれとして……
+> CONTEXT: Commonevents/195/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+犯罪の抑制と　治安維持の為に
+いっそ　国営の風俗店を作れ！
+という　意見が　挙がっている。
+> CONTEXT: Commonevents/195/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この意見に　賛同しますか？
+> CONTEXT: Commonevents/195/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/25/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/102/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/140/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/178/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/216/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/253/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/290/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/328/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/366/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/406/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/444/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/482/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/520/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/558/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/596/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/634/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/670/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/707/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/744/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/782/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご回答　ありがとうございました！
+あなたの　その意見が　社会を
+明るい方向へと　変えていくのです！
+> CONTEXT: Commonevents/195/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご回答　ありがとうございました……。
+> CONTEXT: Commonevents/195/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界は　今日も　平和だった……。
+> CONTEXT: Commonevents/195/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界中で　強姦・強盗・殺人・放火
+破壊活動・集団自殺――種々様々な
+凶悪事件で　死傷者が　続出している。
+> CONTEXT: Commonevents/195/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日は　これ以上　読みたいと思う記事は
+見受けられない。
+> CONTEXT: Commonevents/195/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/195/408/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/195/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日は　これ以上　読みたいと思う記事は
+見受けられない――が　何か　世間全般が
+ざわついている……そんな印象を受ける。
+> CONTEXT: Commonevents/195/462/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とある公的機関のＰＲとして　採用された
+キャラクターが　性的だという指摘を受け
+ネット界隈で　絶賛炎上中の模様だ。
+> CONTEXT: Commonevents/196/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性的なキャラクターを　使用するな！
+ゾーニングを　しっかりすべき！
+との意見が上がっている。
+> CONTEXT: Commonevents/196/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しばしば　炎上の火種となってしまう
+女性キャラクターの在り方について
+とある　コメンテイターの見解は――
+> CONTEXT: Commonevents/196/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+過剰反応としか　言えませんね。
+表現の自由に対する　挑戦とも
+受け取れますし　話になりませんね。
+> CONTEXT: Commonevents/196/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近年　大きな賑わいを見せている
+スポーツニュース。我が国を代表する
+選手が数多く　世界規模で活躍している。
+> CONTEXT: Commonevents/196/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連日　ニュース番組をはじめとする
+各メディアで　大々的に取り上げられ
+人々の関心と　注目を集めている。
+> CONTEXT: Commonevents/196/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが　そうした報道を　度の超えた
+もはや　一種のハラスメントだと
+非難する声も　上がっているようだ。
+> CONTEXT: Commonevents/196/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+国内の問題から　大衆の目を背ける為に
+やたらとスポーツの話題を流す　俗に言う
+スピン報道というやつですな。やれやれ。
+> CONTEXT: Commonevents/196/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スマートフォンで　プレイする
+所謂ソシャゲに　多額の課金を続ける
+廃課金ユーザーの実例を　紹介する。
+> CONTEXT: Commonevents/196/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ａさんは　ピックアップガチャの度に
+月々の給料の　ほとんど全てをつぎこみ
+時には　消費者金融にも手を出すという。
+> CONTEXT: Commonevents/196/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうした　ソシャゲの廃課金問題に対し
+とあるゲーム開発者が　匿名で
+私見を　語ってくれた。
+> CONTEXT: Commonevents/196/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+我々にだって　生活があるんですから
+ユーザーが　いくらお金を使おうと
+特に　罪の意識なんてありませんね。
+> CONTEXT: Commonevents/196/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+著名人による　性加害事件が
+被害者による　告発などによって
+近頃　立て続けに話題になっている。
+> CONTEXT: Commonevents/196/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に男性の不倫や　浮気といったものから
+セフレとして扱い　準強姦の判例
+強制猥褻の罪に　問われる者も。
+> CONTEXT: Commonevents/196/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一方で　相手の女性に関して
+自業自得じゃないかと言う　見解を示す
+ネットの声も　一部にはある。
+> CONTEXT: Commonevents/196/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+有名人だろうと　所詮はオスですからね。
+女の方だって　好きで近づいたんだろうし
+殊更　男が悪いとは言い切れないでしょ！
+> CONTEXT: Commonevents/196/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+芸能人たちの　相次ぐ
+覚醒剤取締法違反による　逮捕劇。
+その実例には　枚挙に暇がない。
+> CONTEXT: Commonevents/196/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何故　彼ら彼女らは
+クスリに　手を出してしまうのか。
+何故　再犯を繰り返すのか？
+> CONTEXT: Commonevents/196/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さる芸能ライターは　タレントたちの
+根源的な　快楽を求める本質が
+薬物依存への　原因だと分析する。
+> CONTEXT: Commonevents/196/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+鬱屈した人生を　輝かせる為に
+快感を求めていった　結果ですからね。
+多少は止む無しとも　思いませんか？
+> CONTEXT: Commonevents/196/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世は　一億総ＳＮＳ時代！
+老いも若きも　日々　ネット上で
+自己のコンテンツを　発信し続けている。
+> CONTEXT: Commonevents/196/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バズれば　一躍人気者になれる……
+この誘惑に駆られ　倫理観にもとる行為や
+悪質な悪戯を行う者が　後を絶たない。
+> CONTEXT: Commonevents/196/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先日も迷惑行為で炎上した　とある人物に
+極秘裏に接近し　話を伺ってみた。
+彼の回答によると――
+> CONTEXT: Commonevents/196/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+やっぱ　バズった時の快感ていうか……
+店だって　知名度　上がったんだし
+別に　文句言われる筋合いないでしょ？
+> CONTEXT: Commonevents/196/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昨今　アニメ作品は　すっかり大衆化し
+かつての　アングラなイメージは
+もはや　薄れてきている。
+> CONTEXT: Commonevents/196/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歴代興行収入記録を　更新する
+大ヒットアニメ映画も　多く登場する中
+作中の過激描写が　物議をかもすことも。
+> CONTEXT: Commonevents/196/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+休日に　親子で　映画館に足を運んだ
+とある主婦の方に　話を伺ってみた。
+> CONTEXT: Commonevents/196/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+流行ってるというので　観てみたのですが
+ちょっと刺激が　強すぎるのでは？
+相応しい内容とは　思えませんでした。
+> CONTEXT: Commonevents/196/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異世界に転生して無双する　ＷＥＢ小説が
+エンタメ業界で未だ　流行ってるようだ。
+> CONTEXT: Commonevents/196/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現実がツラいからこそ　空想の世界で
+楽をして　快楽を得たいという物語構造が
+広く　多くの人に　刺さってるようだが
+> CONTEXT: Commonevents/196/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+苦言を呈するクリエイターも　多いのが
+現実で　中には　危険視までする
+こんな意見も――
+> CONTEXT: Commonevents/196/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+努力もしないで　結果は得られない。
+そんな大切なことすら　忘れてしまうのは
+もはや　人間性の堕落だと　思いますよ。
+> CONTEXT: Commonevents/196/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大手メディアが　取り上げないだけで
+地方新聞の三面記事には　興味深く
+そして　どす黒い事実も掲載されている。
+> CONTEXT: Commonevents/196/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+都心から　だいぶ離れた
+とある郊外の田舎町で　中年男性の乗った
+自動車が　崖から転落したらしい。
+> CONTEXT: Commonevents/196/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら　警察に飲酒運転を咎められ
+逃走を企てた際に　パトカーに追われて
+その結果　転落死してしまったようだ。
+> CONTEXT: Commonevents/196/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+田舎じゃ　飲み屋に駐車場なんて当たり前
+なのに　追い回した挙句　殺したんだ。
+警察だから　無罪なんておかしいよ！
+> CONTEXT: Commonevents/196/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四年に一度開催される　オリンピック。
+各国で　熾烈な競争を勝ち抜いた
+トップアスリートたちの　祭典だ。
+> CONTEXT: Commonevents/196/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが　この祭典には　昔から
+一般人には秘密の　性の祭典
+所謂　夜のオリンピックがあるという。
+> CONTEXT: Commonevents/196/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選手村には　大量のコンドームが配布され
+競技を終えた　アスリートたちが
+夜通し　乱交を繰り広げるという。
+> CONTEXT: Commonevents/196/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+別にどうでもいいでしょ？　選手たちは
+禁欲を強いられてるんだし　生物として
+健全な姿だとは　思いませんか？
+> CONTEXT: Commonevents/196/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一見　華やかに見える芸能界。
+だが　その裏側では　往々にして
+どす黒い欲望の闇が　蠢いている。
+> CONTEXT: Commonevents/196/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ａさんは　アイドルになる夢を叶える為
+過酷な競争を勝ち抜いて　デビューしたが
+待っていたのは　性的圧力ばかりだった。
+> CONTEXT: Commonevents/196/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+枕営業は勿論のこと　売れたければ
+わかるよね？　といって　ホテルに
+連れ込まれたことも　度々――
+> CONTEXT: Commonevents/196/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+でも　しょうがないのかなって……。
+生き残るには　そうするしかないし
+今更　業界の慣習は変わらないだろうし。
+> CONTEXT: Commonevents/196/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつては　市井の人々からすると
+遠い存在だった　クリエイターや
+アーティストが　今では　身近な存在に。
+> CONTEXT: Commonevents/196/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有名漫画家やアニメーター　俳優や声優
+作曲家に歌手　監督クラスの人物まで
+個人のＳＮＳアカウントを　持っている。
+> CONTEXT: Commonevents/196/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが　そうした　ものつくりの人物こそ
+私生活を切り売りせず　実直に　淡々と
+作品に向き合ってほしいという意見も――
+> CONTEXT: Commonevents/196/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+昔から作品は好きだったのに　ＳＮＳで
+炎上してて……やっぱり　作家たるもの
+ＳＮＳは　やっちゃダメだと　思います！
+> CONTEXT: Commonevents/196/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒットチャートというものは　昔から
+よくわからないもので　人々の流行とは
+常に　移ろいゆくものである。
+> CONTEXT: Commonevents/196/459/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とはいえ　一部の熱狂的なファン層――
+ファンダムと呼ばれる　一派が
+自分たちの推しを　押し上げる為に
+> CONTEXT: Commonevents/196/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャートに影響を及ぼすほどの　活動を
+行っている。それを疑問視する声もあるが
+中には　こんな見方をする人も――
+> CONTEXT: Commonevents/196/467/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+人気なんてものに　公正さなんてない。
+工作やステマなんて当たり前　それ含めて
+要は　やったもん勝ちの世界でしょ？
+> CONTEXT: Commonevents/196/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+芸能界でも　トップタレントとされる
+大物人物の　スキャンダルが
+週刊誌によって　告発された。
+> CONTEXT: Commonevents/196/497/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+合コンと称して　集められた女性たちが
+性加害に遭ったと　訴える内容だが
+意外にも　世間の意見は一様ではない。
+> CONTEXT: Commonevents/196/501/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+既に　大御所ともいえる　その人物を
+支持する声も　多く
+中には　こんな意見も――
+> CONTEXT: Commonevents/196/505/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+週刊誌の　意地汚い　稼ぎ方だよ。
+それに　天下取ってんだから　女ぐらい
+好きに抱いてても　文句ないだろ？
+> CONTEXT: Commonevents/196/510/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+漫画や小説を　原作として
+メディアミックスするのは　もはや常識。
+だが　映像化には　しばしば　問題も。
+> CONTEXT: Commonevents/196/535/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+所謂　原作クラッシャーと揶揄される
+大幅な改変に　原作ファンのみならず
+原作者自らが　嘆きの声を上げることも。
+> CONTEXT: Commonevents/196/539/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今回は　メディアミックスする側の
+脚本家に　意見を伺った。
+気持ちは分かると　前置きしつつも――
+> CONTEXT: Commonevents/196/543/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+確かに　原作は　大事です。でも
+よりマスに刺すなら　ある程度の改変は
+必要かなと……勿論　誠意をもって！
+> CONTEXT: Commonevents/196/548/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オンラインゲームで　知り合った
+年下の男子学生に　猥褻な行為を
+行ったとして　20代の女が逮捕された。
+> CONTEXT: Commonevents/196/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが　この記事に対するコメントには
+不謹慎な意見だとは　弁えつつも
+やはり　歪んだ羨望も　見受けられる。
+> CONTEXT: Commonevents/196/577/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年上の女性から　所謂　筆卸しを
+施されたと　事件を捉える
+男性は――
+> CONTEXT: Commonevents/196/581/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+まったく羨ま――けしからん事件です！
+年上のお姉さんに……畜生ッ！
+なんで　俺じゃないんだぁ！！！
+> CONTEXT: Commonevents/196/586/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昨今　貧富の差が開くばかりと
+無策な経済対策や　社会情勢を嘆く声が
+人々の間で　多く囁かれている。
+> CONTEXT: Commonevents/196/611/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが　貧困層が貧困から抜け出せないのは
+ある程度　当人たちの問題ではないかと
+厳しい意見を　呈する人もいる。
+> CONTEXT: Commonevents/196/615/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+社会保障は　ちゃんと機能してるのに
+いつまでも　貧しいままなのは
+生活態度に　所以してるのではないかと。
+> CONTEXT: Commonevents/196/619/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+毎晩お酒を飲んだり　ギャンブルしたり
+そういう無駄遣いを　徹底して節制すれば
+もう少し　暮らしは楽になるでしょうに！
+> CONTEXT: Commonevents/196/624/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイドルや　美人声優との結婚を報じる
+野球選手の祝砲が　連打を続けている。
+> CONTEXT: Commonevents/196/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+野球選手たちは　美人との出会いを求め
+頻繁に合コンを　セッティングしている。
+> CONTEXT: Commonevents/196/652/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一方で　アイドルファンたちにとっては
+天が落ちたも同然で　悲嘆に暮れたり
+中には　凶暴な牙を剥く者も――
+> CONTEXT: Commonevents/196/655/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+裏切ったな！　絶対に許さないぞ！
+アイドルは　恋愛禁止なはずだろ！？
+こんなこと　あっていいわけがないッ！
+> CONTEXT: Commonevents/196/660/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近頃　ＳＮＳ上に　センシティヴな動画の
+アップロードが　横行しているようだ。
+> CONTEXT: Commonevents/196/686/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勿論　そういった動画投稿は　以前からも
+見受けられていたものだが　どうにも最近
+一種の流行りのような様相を呈している。
+> CONTEXT: Commonevents/196/689/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グループＳＥＸが趣味だという　男性に
+ちょっとした　取材を行ってみた――
+> CONTEXT: Commonevents/196/693/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+なんか最近　妙にムラムラするんスよね。
+友達とかも　そんな感じで。いや別に
+そんな悪いこと　してないっスよね？
+> CONTEXT: Commonevents/196/697/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今月に入って　全国各地で　しばしば
+性犯罪事件の発生が　相次いでいる。
+> CONTEXT: Commonevents/196/722/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+社会の乱れは　心の乱れなのだろうか。
+特に　歓楽街を中心に
+犯罪発生率が　高まっているという。
+> CONTEXT: Commonevents/196/725/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我々は　日夜　犯罪と隣り合わせにある
+大都会の暗黒街に　駐在する
+とある警察官に　話を伺ってみた――
+> CONTEXT: Commonevents/196/729/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+ちょっと前まで　売春取締とかだったのが
+今じゃ　路上で強姦事件ばっかりですよ。
+皆　どうかしちゃってるんじゃないの？
+> CONTEXT: Commonevents/196/734/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今や誰しもが　容易にネットにアクセスし
+様々なコンテンツに　触れるようになった
+一方で　表現規制に関する問題も……
+> CONTEXT: Commonevents/196/759/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+過剰なコンプラ意識の席巻によって
+作品が歪曲され　陳腐化されてると
+主張する作家や　ファンも多くなった。
+> CONTEXT: Commonevents/196/763/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+創作は　あくまで　創作！
+フィクションの世界を　侵蝕するなと
+昨今の情勢に　警鐘を鳴らす作家は――
+> CONTEXT: Commonevents/196/767/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[コメンテーター]
+夢と現実を　同一化してしまってる。
+それは想像力の欠如であり　自己弁護
+などではなく　創造性の危機だ！
+> CONTEXT: Commonevents/196/772/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご回答　ありがとうございました。
+> CONTEXT: Commonevents/196/795/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！
+> CONTEXT: Commonevents/211/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Commonevents/211/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えと……じゃあ　ここは　学園。
+あんたとあたしが通ってる学校で
+あたしは一応　学級委員長で。
+> CONTEXT: Commonevents/264/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+で……えと　そう！　あんたが
+無理矢理　あたしを　保健室に
+呼び出して　つまり　その――
+> CONTEXT: Commonevents/264/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホ　ホントは　ダメなんだからねっ！
+こういうこと……学校の　ほ　保健室で
+するなんて……こ　校則違反？　だから。\\.\\|\\^
+> CONTEXT: Commonevents/264/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え？　学校の保健室には　こんな豪華な
+ベッドは無い？　なんで全裸なのかって？
+いいのっ！　細かいこと　気にすんなっ！\\.\\|\\^
+> CONTEXT: Commonevents/264/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく　あたしたちは　授業をサボって
+保健室で　制服　脱いで　犯ってるのっ！
+セ　セ　セックスを……してるのっ！！\\.\\|\\^
+> CONTEXT: Commonevents/264/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見付かったら　停学処分かもだけど
+今は　誰もいないし　休み時間までに
+済ませれば　バレないでしょ？\\.\\|\\^
+> CONTEXT: Commonevents/264/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに　あんたが　悪いんだからねっ！
+授業中に　いきなり『やりたい』だなんて
+メッセ　送ったりすっから。\\.\\|\\^
+> CONTEXT: Commonevents/264/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしたちが付き合ってるの　クラスの皆
+知ってるし……二人で　授業フケてたら
+ナニしてたのって言われるかも？　あん♡\\.\\|\\^
+> CONTEXT: Commonevents/264/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次の授業までに　戻れば――あ♡　ダメっ
+声……出ちゃう。教員に　聞かれたら
+ヤバいッ！\\|　廊下……誰もいない？\\.\\|\\^
+> CONTEXT: Commonevents/264/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし　イケナイことしてる……んっ♡
+学級委員長なのに　こんなことしてちゃ
+イケナイのに……あっ♡　あっ♡\\.\\|\\^
+> CONTEXT: Commonevents/264/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤバっ　オルガスムスが　近いっ！
+声――あ♡　抑えられないッ！　あんたの
+ペニスが　あたしのヴァギナを――くっ♡\\.\\|\\^
+> CONTEXT: Commonevents/264/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センコーや　クラスメイトに　バレたら
+大事になるのに　学校で　全裸でセックス
+してる……なんて――ああぁ♡\\.\\|\\^
+> CONTEXT: Commonevents/264/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたがっ　あんたが　悪いんだから
+責任　取りなさいよ？　んっ♡
+もし見つかっても　責任は――ぁんっ♡\\.\\|\\^
+> CONTEXT: Commonevents/264/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホラ！　このままザーメン　出しなさい！
+ぁ♡　出して！　あたしの……ヴァギナに
+いっぱい　出してえええぇぇぇ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/264/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あくぅぅぅんんん♡♡♡　カレシと……
+学校で　セックスしちゃったぁぁぁ……！\\.\\|\\^
+> CONTEXT: Commonevents/264/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァ……ハァ……やっちゃったね。
+ザーメン　大丈夫かな？　シーツに
+ついっちゃったかも？\\.\\|\\^
+> CONTEXT: Commonevents/264/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ　保健のセンコーが　戻ってくる前に
+全部　キレイに　片付けて……
+制服に　着替えて　教室……戻ろう？\\.\\|\\^
+> CONTEXT: Commonevents/264/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それで……放課後さ　サボった分の勉強
+あんたんちに行って……で　その後で
+良かったら　また………………しよ？\\.\\|\\^
+> CONTEXT: Commonevents/264/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+それじゃあ　今から　君は〜
+私の息子だよ♪　私は君のママ♪
+あれ？　というか　そもそも……
+> CONTEXT: Commonevents/265/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+最初から　そうだったよね？
+君は　私が　産んだ　私の子供
+ずっと昔から　そうだったよね？
+> CONTEXT: Commonevents/265/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かわいいボク♪　上手に　おっき☆させた
+おちんちん☆　ママのオマンコの中に
+ずっぷり☆挿れられて　エライね♡\\.\\|\\^
+> CONTEXT: Commonevents/265/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これから　そのおちんちんを
+ママのお腹に　向かって　ズコバコ☆
+いっぱい　ツンツンするんでちゅよ？\\.\\|\\^
+> CONTEXT: Commonevents/265/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たっくさん　ジュポジュポして
+ボクちゃんの　おちんぽ☆ミルクを
+ママのお腹に　いっぱい出さなきゃね♪\\.\\|\\^
+> CONTEXT: Commonevents/265/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁん♡　そうそう♪　ボクちゃんが
+産まれてきた　ママのオマンコ
+ママの赤ちゃんルームを　おちんちんで\\.\\|\\^
+> CONTEXT: Commonevents/265/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐちゃぐちゃ☆トロトロにして　濃厚な
+おちんぽ☆ミルク　注いじゃって
+ママをまた　ママにしちゃうんでちゅよ？\\.\\|\\^
+> CONTEXT: Commonevents/265/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派に育った実の息子に　赤ちゃんを
+作らされちゃうママ♪　それが　私♪
+ボクちゃんが　ママをママにするの！\\.\\|\\^
+> CONTEXT: Commonevents/265/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらあら♡　ついこないだまで　あんなに
+小さかったのに　今は立派なおちんちんで
+ママのお腹に　お射精しようとしてるぅ！\\.\\|\\^
+> CONTEXT: Commonevents/265/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お利口さんな　ボクちゃん♪　はぅん♡
+エライよぉ！　しっかり　ママを
+妊娠させて　パパにならなくっちゃね！\\.\\|\\^
+> CONTEXT: Commonevents/265/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派な息子の――んっ♡　立派なムスコで
+妊娠させられちゃうぅ♡　ママ　幸せ♡
+こんなに嬉しいこと　この世にないよ〜♡\\.\\|\\^
+> CONTEXT: Commonevents/265/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ママのおっぱい飲んでた　ボクちゃんが
+元気な赤ちゃん　ママのお腹に作って
+母乳をまた　出るようにしちゃうのぉ♡\\.\\|\\^
+> CONTEXT: Commonevents/265/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁん♡　可愛くって　立派なボクぅ♪
+ママのオマンコに　たっぷり　お射精して
+パパになろうね　パパになろうね♪\\.\\|\\^
+> CONTEXT: Commonevents/265/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら♡　がんばれ♡がんばれ♡
+立派なパパになれるよう　お精子いっぱい
+注いじゃってぇぇぇえええ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/265/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ママ　幸せだよぉお♡♡♡
+はぁぁぁんんんっっっ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/265/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァハァ……上手に　出来ましたぁ♪\\|
+これは　きっと　赤ちゃんも
+出来ちゃったはずだよね♪\\.\\|\\^
+> CONTEXT: Commonevents/265/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派だよぉ　ボクちゃん♪　自分のママを
+またママに　出来るなんて　なかなか
+できることじゃないよ？\\.\\|\\^
+> CONTEXT: Commonevents/265/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっ　ママのお胸で　お休み？\\|
+お腹に耳を　当てたら　赤ちゃんの声が
+聞こえてきちゃうかもね……♪\\.\\|\\^
+> CONTEXT: Commonevents/265/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+よう　やったな〜　あんちゃん♪
+ウチの　隠しコードを　暴いて
+裏プレイを　解禁させるたぁ！
+> CONTEXT: Commonevents/266/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ヘルモードや！　あんちゃんが
+マジ泣きするまで　ボッコボコに
+犯すのを　やめへんで〜〜〜！
+> CONTEXT: Commonevents/266/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんやぁ〜？　この性奴隷のチンポ☆
+まだ　挿れたばっかやのに　さっそく
+我慢汁　漏れ始めとるで〜？\\.\\|\\^
+> CONTEXT: Commonevents/266/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰が　漏らしていい　言うたぁ？
+こんなすぐ　お漏らししてまうチンコ
+真性の雑魚やん！　この　雑〜〜〜魚♡\\.\\|\\^
+> CONTEXT: Commonevents/266/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご主人様であるウチを　満足させんと
+あかんやろ？　何　勝手しとんねん♪
+あんちゃん　分かっとるんかぁ？\\.\\|\\^
+> CONTEXT: Commonevents/266/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ご主人様の許可なく　精子☆漏らすなんて
+性奴隷にあるまじきやで！？　ホレ！
+あんちゃん　謝罪せぇや！　謝罪☆謝罪♪\\.\\|\\^
+> CONTEXT: Commonevents/266/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キュミュちゃん　ごめんなさい――って！
+許してください　ご主人様〜――って！
+僕は変態の雑魚です――って　言えやぁ♪\\.\\|\\^
+> CONTEXT: Commonevents/266/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+明日も　明後日も　犯してください〜
+僕はご主人様の都合の良い　性奴隷ですぅ
+って　大声で宣言せぇや！　きゃははは☆\\.\\|\\^
+> CONTEXT: Commonevents/266/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しゃぁないなぁ♪　あんちゃんは　ウチに
+犯される以外　脳のない　雑魚やもんな☆
+骨の髄まで　犯しまくったるで〜♪\\.\\|\\^
+> CONTEXT: Commonevents/266/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このままウチに搾られて　廃人コースや♪
+最後は　ウチの肉椅子にしたるわ。
+ウチに搾られまくった挙句　人間卒業や♪\\.\\|\\^
+> CONTEXT: Commonevents/266/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあぁ♡　ホレ！　今日も　雑魚☆精子
+ウチに中出し☆すんやろ？　ご主人様の
+マンコに　クソ雑魚精子　ご奉仕やろ？\\.\\|\\^
+> CONTEXT: Commonevents/266/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変態でごめんなさい！　中出しさせて頂き
+ありがとうございます！　って　大声で
+叫びながら　雑魚☆精子　ぶっぱせや！？\\.\\|\\^
+> CONTEXT: Commonevents/266/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチが　雑魚☆精子を残らず搾り取ってぇ
+あんちゃんは　涸れ果てて　廃人なって
+肉椅子に　成れ果ててぇ　人間卒業やぁ♪\\.\\|\\^
+> CONTEXT: Commonevents/266/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホレホレホレぇ　人間卒業♪　人間卒業♪
+このまま　成れ果てろ　成れ果てろ
+成れ果てろやあああぁぁぁ♡♡♡！！！\\.\\|\\^
+> CONTEXT: Commonevents/266/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほい　廃人確定〜〜〜〜〜〜〜〜〜♡♡♡
+くっはぁぁぁ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/266/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごっそさ〜ん♪　かわええ顔しとるで
+あんちゃん？　また一歩　性奴隷から
+廃人へと　近づいたなぁ♪\\.\\|\\^
+> CONTEXT: Commonevents/266/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチに犯され続けて　そのうち人の言葉も
+分からんくなってくで？　楽しみやなぁ♪\\|
+けど　何も問題あらへんよな？\\.\\|\\^
+> CONTEXT: Commonevents/266/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんは　未来永劫　ウチの玩具や♪
+心配せんでも　大切に　扱ったるで？\\|
+嬉しいやろ？　\\|泣いてもええんやで？\\.\\|\\^
+> CONTEXT: Commonevents/266/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっと　あんた！？　早く起きなさい！
+遅刻したら　また生活指導のセンコーに
+怒鳴られるでしょーが！\\.\\|\\^
+> CONTEXT: Commonevents/271/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+折角　起こしにやってきたってのに
+いつまで　惰眠を貪って――――ッ！？\\|
+って！？　あんたさぁ……もう！！！\\.\\|\\^
+> CONTEXT: Commonevents/271/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ……仕方ないか。朝なんだし。
+だ……男性の　生理的な反応？
+なんでしょ？\\|　いいよ　わかったから！\\.\\|\\^
+> CONTEXT: Commonevents/271/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっさと　ベッドから　出て
+顔　洗って　髪　梳かして　制服　着て
+学校………………一緒に　行くよ？\\.\\|\\^
+> CONTEXT: Commonevents/271/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うふふっ♪　きょ・う・は　良い天気〜♪
+お洗濯も　捗っちゃう〜♪
+お日様　サンサンサン　太陽〜〜〜♪\\.\\|\\^
+> CONTEXT: Commonevents/272/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ　そうそう！　君が　汚しちゃった
+シーツも　洗って　干しておいたからね♪
+私の洗浄パワーで　バッチリ　キレイに☆\\.\\|\\^
+> CONTEXT: Commonevents/272/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん？　そんな　恥ずかしそうな顔して……
+もしかして　シーツのシミのこと
+気にしちゃってるのかな？\\.\\|\\^
+> CONTEXT: Commonevents/272/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいんだよ♪　男の子なら　誰しも
+通る道なんだから　胸を張って！
+今夜は　お赤飯を　炊いてあげるね☆\\.\\|\\^
+> CONTEXT: Commonevents/272/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃん　あんちゃん　ホレホレホレ！
+ゲームやるで！　ゲーム　ゲーム！
+ここ　座って　な？　ゲームやるでー！\\.\\|\\^
+> CONTEXT: Commonevents/273/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほい！　コントローラー　握ったか？
+今日も　ウチが　あんちゃんのこと
+ボッコボコにしてやんよ♪\\.\\|\\^
+> CONTEXT: Commonevents/273/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんは　ドＭな雑魚やから
+ウチに　ボコボコにされんの
+快感なんやろ？　知っとるで？\\.\\|\\^
+> CONTEXT: Commonevents/273/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せやから　ウチがあんちゃんのこと
+た〜〜〜っぷり　可愛がったるわ♪
+どこにも　行かせへんで？　あんちゃん♡\\.\\|\\^
+> CONTEXT: Commonevents/273/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほな　今なら　誰もおらへんから
+二人っきりで　ドスケベなこと
+なんぼでも　できるで〜♪
+> CONTEXT: Commonevents/275/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチと　セクロス☆したくて
+ずっと　甘勃ちさせとったもんな
+ええで？　かわいがっちゃる♪
+> CONTEXT: Commonevents/275/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんたら　やっぱ
+スケベさんやな〜♪　ところかまわず
+セクロス☆したくなってまうなんて。\\.\\|\\^
+> CONTEXT: Commonevents/275/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ〜のっ　ド変態♡
+それとも　そんなにウチのこと
+惚れてもうたんか？\\.\\|\\^
+> CONTEXT: Commonevents/275/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほなら　あんちゃんは　ウチの性奴隷な♪
+ウチもセクロス大好きやから　四六時中
+あんちゃんと　スケベ……してやんよ♡\\.\\|\\^
+> CONTEXT: Commonevents/275/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチのマンコん中　気持ちえぇやろ？
+揺れてるデカパイも　よう見てや〜？
+こんなエロいサキュバス　他におらんで？\\.\\|\\^
+> CONTEXT: Commonevents/275/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お？　お？　あんちゃんのチンコも
+ウチのＧスポット☆　突いとるで♪
+んっ♡　んあっ♡　やるやん　やるやん♪\\.\\|\\^
+> CONTEXT: Commonevents/275/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性奴隷かて　ウチの鬼責めに
+即負けせんよう　気張っとるんかぁ？
+あんちゃんのチンコ　ええ感じやで！？\\.\\|\\^
+> CONTEXT: Commonevents/275/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チンコん先から　出とる　我慢汁と
+ウチのマンコん中　溢れとる　マン汁が
+ぐちょぐちょに　混ざり合ってくな〜♪\\.\\|\\^
+> CONTEXT: Commonevents/275/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やらしぃな〜♪　気持ちぃな〜♪
+このまま　ウチの生マンコん中
+大量射精してまうな〜〜〜♡\\.\\|\\^
+> CONTEXT: Commonevents/275/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雑魚精子☆　ぎょーさん出せや？
+あんちゃんの赤ちゃん汁　ウチの子宮に
+向かって　大量に　ぶっぱ☆せや〜♪\\.\\|\\^
+> CONTEXT: Commonevents/275/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんは　ウチの性奴隷なんやから
+無限恒久　永遠ご奉仕やで？
+涸れ果てるまで　精液　搾って　搾って\\.\\|\\^
+> CONTEXT: Commonevents/275/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生中☆射精や！　いくで　いくでー！？
+ウチを　孕ますくらいの勢いで
+雑魚精子　ぶっしゃあああぁぁぁ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/275/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんあああぁぁぁっっっ♡♡♡
+出まくっとるやぁぁぁんんん！！！\\.\\|\\^
+> CONTEXT: Commonevents/275/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あちゃ〜〜〜　こんな　ぎょーさん
+ウチの生マンコん中　精子　出しまくって
+ややこ出来とったら　どないするん？\\.\\|\\^
+> CONTEXT: Commonevents/275/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんが　悪いんやで？
+あんちゃんが　責任取るんやで♪
+ウチのこと　孕ましとったら……\\.\\|\\^
+> CONTEXT: Commonevents/275/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+へ？　サキュバスが　妊娠するんかって？
+知らんけど！　そんなん　気持ち良ければ
+どうでもええやろ？　な？　あんちゃん♡\\.\\|\\^
+> CONTEXT: Commonevents/275/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあっ♡　んあぁ！？　……なんやコレ
+ちょっ　待っ──あかん！
+あかんて……気持ち……良すぎや！\\.\\|\\^
+> CONTEXT: Commonevents/275/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチともあろうもんが　どないしょ
+どないしょ！　こない　感じまくって
+アヘってまうなんてぇ！　んはぁ♡\\.\\|\\^
+> CONTEXT: Commonevents/275/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんのチンコ　気持ち良すぎて
+ウチ　頭おかしなるで！　んはぁ♡
+このままやと　ウチ　おかしなるでぇえ！\\.\\|\\^
+> CONTEXT: Commonevents/275/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃん　最高や♡　んあっ♡
+こんなん　気持ちえぇセクロス☆
+ウチ　病み付きんなってまうぅぅ！\\.\\|\\^
+> CONTEXT: Commonevents/275/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんな……ウチ　めっちゃ好きや！
+こないセクロスできる　あんちゃんのこと
+ウチ　めっちゃ　好きやねん♡\\.\\|\\^
+> CONTEXT: Commonevents/275/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好きや　好きや　大好きや〜〜〜♡
+あんちゃんは　最っ高の性奴隷やぁ♡
+ウチの　最推し性奴隷やぁ……♡\\.\\|\\^
+> CONTEXT: Commonevents/275/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　あかん　あかん♡　このまま
+精子出しおったら　ウチ　孕んでまうぅぅ
+好きすぎて　孕んでまうぅぅぅ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/275/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあああああああああああぁぁぁ♡
+気持ち良すぎやろぉぉぉおおお♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/275/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒヒヒ♪　こりゃ　妊娠確定やな♡\\|
+あんちゃんと　ウチの変態ややこ
+子宮ん中に　絶対　出来とるわ……♡\\.\\|\\^
+> CONTEXT: Commonevents/275/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生まれてくるんは　あんちゃんそっくりの
+ド変態な　エロエロ娘やろな……きっと♡\\|
+救いようのない　変態ベイビーや♪\\.\\|\\^
+> CONTEXT: Commonevents/275/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いずれは　ウチと　変態娘の３人で
+親子丼セクロスや♡\\|　親子３人で
+犯って犯って犯りまくりの　\\|未来や〜♡\\.\\|\\^
+> CONTEXT: Commonevents/275/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+誰か　いませんかー？
+誰も　いませんねー？
+ね？　ね？　ね？　……ヨシ！
+> CONTEXT: Commonevents/276/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+人払いは　バッチリ☆
+思う存分　えっち☆しちゃお♪
+ホラ　ヌギヌギおっき☆して？
+> CONTEXT: Commonevents/276/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふふっ♪　冒険の途中なのに
+私とえっち☆したくなっちゃうなんて
+君ってば　イケナイ子だねぇ♪\\.\\|\\^
+> CONTEXT: Commonevents/276/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも　私も　おんなじ♪
+おちんちんとオマンコ　ドッキング☆して
+君を　可愛がってあげたかったんだよ〜♪\\.\\|\\^
+> CONTEXT: Commonevents/276/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれあれ？　おちんちんの勃ち具合
+あんまり　よくないよ？
+もしかして　緊張してるのかな？\\.\\|\\^
+> CONTEXT: Commonevents/276/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダメでしょ？　しっかりと　硬くなって
+私のオマンコ　ヌルヌルにしなくっちゃ！
+……じゃあ　いつものを　あげよっかな？\\.\\|\\^
+> CONTEXT: Commonevents/276/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぉら♡　催淫液を　私の尻尾針から
+ジュゥゥゥーッ！！　君の玉裏に
+注入ゥゥゥーッ！！　超エクスタシー♪\\.\\|\\^
+> CONTEXT: Commonevents/276/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑞々しくも　イヤらしい　私の体液が
+君の全身に　行き渡っていって　カラダの
+隅々まで　性感帯になってっちゃう♪\\.\\|\\^
+> CONTEXT: Commonevents/276/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほらほら！　感度が　どんどん
+上がってくよ？　ビクビク
+ビンビン　上がってっちゃうよ〜？\\.\\|\\^
+> CONTEXT: Commonevents/276/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ〜らあらあら　おちんちん　すっかり
+硬くなって　びしょびしょオマンコの中
+ぐちゅぐちゅ　掻き乱しちゃってるねぇ！\\.\\|\\^
+> CONTEXT: Commonevents/276/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいよ♪　いいよ♪　……あん♡　んっ♡
+もっと　激しく　腰をフリフリして
+もっともっと　気持ち良くしちゃって♡\\.\\|\\^
+> CONTEXT: Commonevents/276/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君のタマタマの中　はち切れそうになって
+プクプク泳いでる　お精子ちゃんを
+い〜〜〜っぱい　私にちょうだいね♪\\.\\|\\^
+> CONTEXT: Commonevents/276/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま　お射精しましょ♡　しましょ♡
+私の中に　思いっきり　お精子ちゃんを
+ほぉら……流し込んでぇぇぇえええ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/276/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああぁぁぁんんん♡♡♡
+おちんぽミルク☆気持ちいぃぃぃ！！！\\.\\|\\^
+> CONTEXT: Commonevents/276/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上手に　お射精できたねぇ♪
+エライエライ♪　立派だよぉ？
+よく　がんばったねぇ♪\\.\\|\\^
+> CONTEXT: Commonevents/276/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グッタリしちゃって……今日はもう
+お疲れちゃんで　冒険は無理だけど
+また明日から　がんばろうね♪\\.\\|\\^
+> CONTEXT: Commonevents/276/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もちろん　またまた冒険の途中で
+ムラムラしちゃったら　私とがっちんこ☆
+おせっせ☆しちゃうのも　ＯＫだからね♪\\.\\|\\^
+> CONTEXT: Commonevents/276/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらあら　すっかり敏感になっちゃって
+感じてる君が　頑張って　腰　振ってるの
+見てたら　なんだか私も――あぁん♡\\.\\|\\^
+> CONTEXT: Commonevents/276/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごい♡　催淫液　逆流してるみたいに
+私まで――はぁ♡　はぁ♡　興奮して
+君のこと　堪らなく　愛しくなっちゃう♡\\.\\|\\^
+> CONTEXT: Commonevents/276/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+止まらない！　止められないよぉ！
+催淫液も　もっともっと卑猥で
+刺激的な濃度に　なってっちゃうよぉ！\\.\\|\\^
+> CONTEXT: Commonevents/276/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁん♡　はぁん♡　こぉんな可愛い子が
+私の胸の谷間で　一生懸命　腰をフリフリ
+オマンコ　じゅぼじゅぼ　張り切ってる！\\.\\|\\^
+> CONTEXT: Commonevents/276/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かわいい♡　かわいい♡　かわいい♡
+私の中に　沈めたいよぉ♡
+子宮に閉じ込めて　たくさん可愛がって\\.\\|\\^
+> CONTEXT: Commonevents/276/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イケナイお精子ちゃん　いっぱい搾って♡
+私のナカに　いっぱい　ちょうだ〜い♡
+君のお精子ちゃん　欲しいのぉ！\\.\\|\\^
+> CONTEXT: Commonevents/276/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょうだぁい♡　ちょうだぁい♡
+かわいい君の　おちんぽミルクぅぅぅ
+いっぱい　お射精してちょぉだぁい！！！\\.\\|\\^
+> CONTEXT: Commonevents/276/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁぁぁんんん♡♡♡
+おちんぽ☆ミルクの　大津波〜〜〜♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/276/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うふふふふふふふ……\\|ふふふ……。\\|
+オマンコに　君のお精子ちゃんが
+ふよふよ　いっぱい♡　泳いでるぅ♪\\.\\|\\^
+> CONTEXT: Commonevents/276/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま　ドロドロぐちゃぐちゃになった
+私の子宮の沼に……君を溺れさせて
+ふふふ……\\|ずっと閉じ込めて……。\\.\\|\\^
+> CONTEXT: Commonevents/276/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毎晩　毎晩　おせっせ　おせっせ♡
+いっぱい　いっぱい　可愛がって\\|
+明日なんか　来なくなれば……。\\.\\|\\^
+> CONTEXT: Commonevents/276/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……じゅ　準備なら
+できてるから……多分。
+> CONTEXT: Commonevents/277/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+しっかり　エレクチオンして！
+や……やるんでしょ？
+今　から……。
+> CONTEXT: Commonevents/277/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ってか　本当に……今　やるの？
+正直言うと　あたしは　あんまり
+賛同　できないんだけどな……。\\.\\|\\^
+> CONTEXT: Commonevents/277/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも　そんなに　あたしと
+セックス……したかったって　こと……？
+我慢できない……くらいに？\\.\\|\\^
+> CONTEXT: Commonevents/277/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま　まぁ　いいけど……
+気持ち良くしてくれるなら……
+雑なのは　許さないよ？\\.\\|\\^
+> CONTEXT: Commonevents/277/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃんと　気持ちを込めて
+大切に大切に　あたしの　ヴァギナに
+あんたのペニスを　通しなさい……！\\.\\|\\^
+> CONTEXT: Commonevents/277/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁん♡　きた……感じてきた……
+しっかりと　エレクチオンした　ペニスが
+入ってる……セックスの　この感じ……。\\.\\|\\^
+> CONTEXT: Commonevents/277/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたのペニスの　あたたかい熱が
+あたしのヴァギナに　伝わって
+全身が　ぽかぽかしてきて……。\\.\\|\\^
+> CONTEXT: Commonevents/277/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心の芯から　何か……満たされてく感じ。\\|
+あたしの体が　反応してる……んっ♡
+全身に　行き渡ってく　この感じ……♡\\.\\|\\^
+> CONTEXT: Commonevents/277/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うんっ♡　うんっ♡
+きてる　きてる……込み上げて
+きてる……あんたと　あたしの熱が──\\.\\|\\^
+> CONTEXT: Commonevents/277/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+混ざり合って　とろけていく……♡
+あんたの気持ちが　入ってくるよ
+あたしのヴァギナの　奥の奥までっ♡\\.\\|\\^
+> CONTEXT: Commonevents/277/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　感じるっ　感じるっ！
+あんたの熱いスペルマ　あたしの中に
+これから　入ってくるんだ……っ♡\\.\\|\\^
+> CONTEXT: Commonevents/277/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡ あぁ♡ 　いく？　いく？
+あたしも　そろそろ……いくから
+呼吸　合わせて　一緒にぃぃぃ……♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/277/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ……！
+……っ　くっ　……ううんんん♡♡\\.\\|\\^
+> CONTEXT: Commonevents/277/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァ……ハァ……ハァ……ハァ……
+悪く……な　なかったかも
+……まぁ　あたしもサキュバスだしね。\\.\\|\\^
+> CONTEXT: Commonevents/277/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたは……ど　どうだった？
+ちゃんと　いけたよね……？\\|
+だったら……よかった。\\.\\|\\^
+> CONTEXT: Commonevents/277/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも……うん。セックスも　良いとは
+思うけど　もっと　何て言うか……\\|
+一緒に時間を　過ごしたかった……かな。\\.\\|\\^
+> CONTEXT: Commonevents/277/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　あれ？　なんか　おかしい……
+熱が　どんどん……昂ってきて
+あんたの　ペニスが　すごい　硬く……\\.\\|\\^
+> CONTEXT: Commonevents/277/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱を　帯びて……熱く　硬く　鋭く
+あたしの　気持ちの良いところ……
+突かれる度に　来るッ　くるぅぅぅ！\\.\\|\\^
+> CONTEXT: Commonevents/277/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっと……突いて　突いて♡
+すごい　良いの♡　あんたに　突かれるの
+すごく　良いっ♡　良いっ♡　良いっ♡\\.\\|\\^
+> CONTEXT: Commonevents/277/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝わってくる……！　繋がってる
+あんたから　気持ちが……快感が♡
+あんたの　ペニスから　気持ちが……！\\.\\|\\^
+> CONTEXT: Commonevents/277/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+焼かれるみたいに……何　コレ！？
+頭が　湯立ってく……くぅっ！
+あたし　どうなっちゃうの……！？\\.\\|\\^
+> CONTEXT: Commonevents/277/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁぁ♡　沸騰しそう♡　ダメっ♡
+おかしくなる……おかしくなっちゃうっ
+ダメ♡　ダメっ♡　もう　あたし――\\.\\|\\^
+> CONTEXT: Commonevents/277/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ♡　あっ♡　あ……あんたの……
+あんたのことしか　見えない
+考えられない……もう　もうっ！！！\\.\\|\\^
+> CONTEXT: Commonevents/277/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好きぃぃぃいいいぃぃぃいいい♡♡♡
+あぁぁぁぁぁんんんん♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/277/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えへ……へへ……えへへ……
+しゅ　しゅきぃ……\\|
+だ……大好き……大好き……♡\\.\\|\\^
+> CONTEXT: Commonevents/277/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭　おかしく　なっちゃったよ……
+あんたのことで　いっぱいで
+あぁん♡　ハァハァ……これって\\.\\|\\^
+> CONTEXT: Commonevents/277/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恋……そうだ　恋だ。\\|
+あたし……あんたのことが──\\|
+あぁ……♡\\.\\|\\^
+> CONTEXT: Commonevents/277/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ホレ！　あんちゃん！？
+まっぱ☆なったかー？
+ウチも　全裸やで？
+> CONTEXT: Commonevents/281/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+たまには　正統派セクロス☆
+してみよか？　ほな　ベッドに
+仰向けんなってもろて――
+> CONTEXT: Commonevents/281/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これが　ウチの正統派セクロス☆
+屈辱チングリ返し☆竿潰しプレス体位や！
+ヒヒヒ♪　無様な格好やな　あんちゃん？\\.\\|\\^
+> CONTEXT: Commonevents/281/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチに完全敗北しとる姿　最高やで〜♡
+雑魚のあんちゃんに　ぴったり☆な
+ボロ負け体位や♪　この雑〜〜〜魚♡\\.\\|\\^
+> CONTEXT: Commonevents/281/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言うても　あんちゃんのことは好きやで？
+こぉんな　かわええ声で啼くんやもん
+あんちゃんが惨めな姿で　苦しんどる顔\\.\\|\\^
+> CONTEXT: Commonevents/281/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最の高に　そそるわ〜〜〜♡　んあぁ♡
+あんちゃんは　ウチの最推し性玩具や！
+とっことん　遊び倒して　辱めんとな♪\\.\\|\\^
+> CONTEXT: Commonevents/281/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せやで？　あんちゃんは　もはや
+ウチに　最高のエロスを　提供してくれる
+ウチ専用の　性奴隷チンポ☆玩具やで？\\.\\|\\^
+> CONTEXT: Commonevents/281/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチが命令したら　いつ　なんどきでも
+全裸んなって　股広げて　チンコ☆勃てて
+ウチの言いなりんなって　嬲られるんや！\\.\\|\\^
+> CONTEXT: Commonevents/281/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+眠くても　腹減ってても　容赦せんでぇ！
+ウチがエロリモコンのスイッチ　入れたら
+５秒で　フル勃起☆生挿入や！\\.\\|\\^
+> CONTEXT: Commonevents/281/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸せやろ？　ウチに　犯されるだけの
+変態☆人生　最高やろ？　変態やもんな〜
+あんちゃんは――お？　あっ！？\\.\\|\\^
+> CONTEXT: Commonevents/281/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあ♡　あかんっ　どしたんや？
+ウチまで　感じ始めてきよったわ……ん♡
+マンコん奥に　チンコ……当たって　あ♡\\.\\|\\^
+> CONTEXT: Commonevents/281/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんちゅう玩具で　遊んどったら
+気持ち良すぎて　マン汁ドバドバ出とる！
+ますます　病み付きんなってまうー！\\.\\|\\^
+> CONTEXT: Commonevents/281/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やるやん♡　雑魚やと　思っとったのに
+明日も明後日も　あんちゃんちゅう玩具で
+ウチ　遊んでたいわ〜……壊れるまで！\\.\\|\\^
+> CONTEXT: Commonevents/281/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ？　壊してもうたら　遊べなくなる！？
+あかん……壊れるまで　犯したいのに
+壊したら　遊べなくなってまうやん！？\\.\\|\\^
+> CONTEXT: Commonevents/281/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どしたらええ？　どしたら――せや！
+このまま　ややこ作って　エロ娘　産んで
+ほんで　親子丼ＳＥＸしまくって――あぁ♡\\.\\|\\^
+> CONTEXT: Commonevents/281/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変態子孫　作ってぇ　あんちゃんとウチの
+エロエロファミリー☆永久機関　作ってぇ
+無限ループ☆セクロス三昧やぁぁぁ！\\.\\|\\^
+> CONTEXT: Commonevents/281/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ド変態のあんちゃんと　ウチの間に出来た
+子孫たちが　朝から晩まで　変態ＳＥＸ
+犯りまくる　エロエロ未来！　これやぁ！\\.\\|\\^
+> CONTEXT: Commonevents/281/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほな　イケ！　イケ！　あんちゃん♡
+変態精子　ウチのマンコに　ぶっぱ☆して
+ウチを　孕ませろやぁぁぁあああ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/281/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあああ♡♡♡　無限ループＳＥＸ……
+エロエロファミリー……確定やぁ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/281/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んはぁ……♡　んはぁ……♡\\|
+大満足やで　あんちゃん♡
+ようやったなぁ〜♪　ヒヒヒ♪\\.\\|\\^
+> CONTEXT: Commonevents/281/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔族を　孕ましたったら
+どんな未来んなるか……愉しみやな♪
+あんちゃんと　ウチが……\\.\\|\\^
+> CONTEXT: Commonevents/281/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人類滅亡の　その時まで　変態セクロス☆
+犯りまくって　ぎょーさん　ウチらの
+変態子孫で　埋め尽くすんや…………♡\\.\\|\\^
+> CONTEXT: Commonevents/281/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ふふふっ　ドキドキしちゃうね♪
+二人で　ヌギヌギ　脱がしっこ☆
+すっぽんぽんに　なっちゃうよ？
+> CONTEXT: Commonevents/282/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+立派に　おっき☆させた
+おちんちんを……私のナカに
+じゅっぽり☆　挿れちゃって？
+> CONTEXT: Commonevents/282/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁん♡　まだ　挿れたばっかりなのに
+すっっっごい　ビクン☆　ビクン☆て
+なってるの〜〜〜……あふぅん♡\\.\\|\\^
+> CONTEXT: Commonevents/282/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君の　おちんちんから　私の全身に
+染み渡ってくみたいに　じゅんっ♡って
+気持ちの良い波が　伝わってくるのぉ♪\\.\\|\\^
+> CONTEXT: Commonevents/282/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頑張って腰　振ってる　君の可愛い顔……
+君が　一生懸命　私のオマンコ☆
+おちんちんで　ズコバコ☆　してるの\\.\\|\\^
+> CONTEXT: Commonevents/282/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見ていると　ますます　感じてきちゃう♡
+オマンコから　イヤらしい濃厚☆お汁
+ビシャビシャ　溢れてきちゃうぅ♡\\.\\|\\^
+> CONTEXT: Commonevents/282/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら？　――あっ♡　すごいっ！
+君の　おちんちん☆　私の　オマンコの
+敏感なとこ　トントン　突いちゃってる！\\.\\|\\^
+> CONTEXT: Commonevents/282/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君ってば　テクニシャンになったね♪
+おちんちんも　前より　もっと　硬く
+大きく　立派に　なってきてるよぉ？\\.\\|\\^
+> CONTEXT: Commonevents/282/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも　もしかして……私の感度が
+上がり過ぎちゃってるから？　んっ♡
+君とのえっち☆に　感激しすぎちゃって？\\.\\|\\^
+> CONTEXT: Commonevents/282/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって……君のこと　好き過ぎちゃって
+悦びの愛液が　私の全身から――ぁんっ♡
+溢れて　溢れて　止まらないのぉぉぉ！\\.\\|\\^
+> CONTEXT: Commonevents/282/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　あぁっ♡　ダメっ　すごぉい♡
+私のオマンコ　おちんちんで　ズボズボ
+しちゃってる　君のこと　考えたら……\\.\\|\\^
+> CONTEXT: Commonevents/282/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ますます　愛おしくなってきちゃって……
+もっと　気持ち良くなりたいぃ♡　ほら！
+クリちゃんも　手で弄ってるうぅぅぅ♡\\.\\|\\^
+> CONTEXT: Commonevents/282/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸せ……感じて　君の魅力に　溺れたい！
+健気で　一生懸命な君が　私の……全て♡\\|
+んっ♡　私……君に　溺れてっちゃうぅ！\\.\\|\\^
+> CONTEXT: Commonevents/282/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頑張って　私を　気持ち良くしてる君……
+愛おしすぎて　愛おしすぎて　私　私……
+自分が……分からなくなっちゃうよぉぉ！\\.\\|\\^
+> CONTEXT: Commonevents/282/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁっ♡　しゅごいよぉぉぉ　君ぃ♪
+大〜〜〜好きぃ♡　しゅきしゅきぃ♡
+しゅきすぎて　とろけちゃうぅぅ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/282/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君の真っ白な　おちんぽミルク♡
+私に　ちょうだ〜〜〜い♡　いっぱぁい♡
+私のイケナイ子宮に　いっぱい注いでぇ♡\\.\\|\\^
+> CONTEXT: Commonevents/282/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君の赤ちゃん♡　素敵な君の赤ちゃん♡
+ひゃぁぁあ♡　赤ちゃん　欲しいのぉ♡
+君が　私を　ママにしちゃうのぉぉぉ♡\\.\\|\\^
+> CONTEXT: Commonevents/282/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほらほら！　お射精♡　お射精♡
+君の　おちんぽミルクで　私を　私を……
+ママに　しちゃってぇぇぇえええ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/282/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっふぅぅぅううう♡♡♡
+いっぱい　もらっちゃったぁぁぁ♡♡♡
+あはぁん♡\\.\\|\\^
+> CONTEXT: Commonevents/282/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぅ……♡　ふぅ……♡　ふぅ……♡\\|
+あ〜あ♡　たぁっくさん　泳いでるぅ♡
+私のイケナイ子宮に　君のお精子ちゃんが\\.\\|\\^
+> CONTEXT: Commonevents/282/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふよふよしてるの……絶対に
+逃がさないからね？\\|　君と同じように
+私の　愛の溜め池の中に　このまま……\\.\\|\\^
+> CONTEXT: Commonevents/282/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+深く沈めて……どんなに　時が経っても
+君のこと　奪わせないから……
+もう　再び……\\|ふふふっ♡　ふふふっ♡\\.\\|\\^
+> CONTEXT: Commonevents/282/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あ……ありがとう。
+手　繋いでてくれて。
+でも　ちょっと　離していい？
+> CONTEXT: Commonevents/283/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+あたしの……生まれたままの姿
+あんたに　見てもらって
+そのまま　したい……からっ！
+> CONTEXT: Commonevents/283/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ♡　はぁ♡　繋がってる……
+繋がってるよね？　あたしと　あんた……
+ペニスとヴァギナで　深く……強く……\\.\\|\\^
+> CONTEXT: Commonevents/283/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今更だけど　セックスって　不思議……
+体の芯から　ぽかぽかして　温かくて……
+ねぇ　あんたはさ……覚えてる？\\.\\|\\^
+> CONTEXT: Commonevents/283/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初めて――んっ♡　……した時のこと
+あんたは……覚えてる……？
+あたしはさ……その　恥ずかしいんだけど\\.\\|\\^
+> CONTEXT: Commonevents/283/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自分のことで　頭いっぱいで……
+燃え尽きちゃって……想像してたより
+衝撃が　大き過ぎちゃってさ……ははは。\\.\\|\\^
+> CONTEXT: Commonevents/283/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんかね　煙が　掛かってるみたいに
+記憶が　曖昧で……初めての　相手が
+誰だったのかも　思い出せなくって……\\.\\|\\^
+> CONTEXT: Commonevents/283/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも　焦げ跡みたいに　残ってるのは
+嬉しかったって　気持ちと……
+忘れたくないって　気持ち……\\.\\|\\^
+> CONTEXT: Commonevents/283/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+忘れてるのにね……よっぽど
+大事な人だったのかな？　なんとなく
+あんたに似てたような　そんな気が……。\\.\\|\\^
+> CONTEXT: Commonevents/283/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初めての相手が　あんたなら良かったのに
+って　考えてたら　いつの間にか……
+あんたのことに　しちゃってるのかも……\\.\\|\\^
+> CONTEXT: Commonevents/283/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それって　あんただから　許せるんだよ？
+だって　あんたは　あたしのことを
+変えてくれた……から。んっ♡\\.\\|\\^
+> CONTEXT: Commonevents/283/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバスなのに　奥手なの……ずっと
+コンプレックスだったけど　あんたは
+受け入れてくれて……優しく　してくれて\\.\\|\\^
+> CONTEXT: Commonevents/283/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今こうして　セックスしてても　素直に
+嬉しいって　思えて　自分を肯定できる
+……それって　あんただからなんだよ？\\.\\|\\^
+> CONTEXT: Commonevents/283/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全部　全部　あんただから……ぁ♡
+もしかして　運命かもって　思えるくらい
+つまり――あっ♡　つまり　その……\\.\\|\\^
+> CONTEXT: Commonevents/283/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたのこと……好きっ♡　好きっ！
+好きに……なっちゃったんだよっ！
+今は……今だけは　素直に　言えるよっ♡\\.\\|\\^
+> CONTEXT: Commonevents/283/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしの……運命の相手♡　それが……
+ぁ♡　あ♡　あんた……だからっ！
+だからさ……あんたもさ……\\.\\|\\^
+> CONTEXT: Commonevents/283/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたしのこと……ずっと　ずっと
+好きでいて……？　いや……いなさいっ！
+あたしのこと　ずっと好きでいなさいっ！\\.\\|\\^
+> CONTEXT: Commonevents/283/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ♡　あっ♡　イク！　あんたへの気持ち
+抱き締めたまま　あたし……このまま――
+イク♡　イク♡　イクよぉぉぉ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/283/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああぁぁぁんんんっっっ♡♡♡
+この……愛は　永遠だから……
+今度こそ……っ！\\.\\|\\^
+> CONTEXT: Commonevents/283/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ……♡　はぁ……♡　はぁ……♡
+ずっと……ずっと……このまま……
+繋がって……結ばれていような？\\.\\|\\^
+> CONTEXT: Commonevents/283/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+離れたくない……もう　二度と……
+あんたと　離れ離れになんか
+なりたく……ないから……。\\.\\|\\^
+> CONTEXT: Commonevents/283/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま　時を止めて　永遠に……
+あんたの　優しい体温……感じていたい。
+………………大好き　だよ♡\\.\\|\\^
+> CONTEXT: Commonevents/283/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほな　あんちゃん♪
+寝っ転がって　チンコ☆
+おっ勃ててや〜♪
+> CONTEXT: Commonevents/284/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチのオハコは　騎乗位や！
+あんちゃんのこと　見下しながら
+気持ちよぅ　イかしたるわ〜♪
+> CONTEXT: Commonevents/284/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お？　お？　おほぉ？
+どや〜？　あんちゃ〜ん？
+あんちゃんの　ガチ☆勃起チ・ン・コが〜\\.\\|\\^
+> CONTEXT: Commonevents/284/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチの　トロットロ☆マンコん中
+入ってもうたで〜？　気持ちぃか？
+気持ちぃか？　気もちぃやろ？\\.\\|\\^
+> CONTEXT: Commonevents/284/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんのチンコが　ウチのマンコん中
+ピクピク　動いてて　喜んでんのが
+膣肉伝いに　伝わってくるわ〜♪\\.\\|\\^
+> CONTEXT: Commonevents/284/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ずっと　ウチと　こうやって　セクロス☆
+したかったんやろ？　シたくて　シたくて
+ようやっと　結合できたもんな〜♪\\.\\|\\^
+> CONTEXT: Commonevents/284/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そら嬉しいわな〜。感激☆セクロスや〜。
+せやけど　嬉しいからって
+そう簡単にゃ　イかせへんで？\\.\\|\\^
+> CONTEXT: Commonevents/284/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチの膣圧コントロールで〜　チンコを
+ギュッ！　きゅっ　ギュッ！　にゅっ
+締め付けたり　いたぶったり　宥めたり\\.\\|\\^
+> CONTEXT: Commonevents/284/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弄びまくって　ボロボロに泣かせてくで？
+ホレ！　チンコん先から　涙代わりの
+我慢汁が　零れ出てきとるやろ〜？\\.\\|\\^
+> CONTEXT: Commonevents/284/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+苦しくて　ツラくて　気持ちえぇやろ？
+ウチとのセクロス……最高やろぉ？
+気持ち良すぎて　頭飛びそぅなるやろぉ？\\.\\|\\^
+> CONTEXT: Commonevents/284/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピストンするたんびに　ウチのパイオツも
+ぶるん☆ぶるん　揺れとるな〜♪
+エロイな〜　エロエロやな〜♪\\.\\|\\^
+> CONTEXT: Commonevents/284/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こらもう　堪えられへんやろぉ？
+あんちゃんの　ボロ負け確定や♪
+このままウチに　完全敗北してまえ！\\.\\|\\^
+> CONTEXT: Commonevents/284/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホレホレホレ！　あんちゃ〜ん♡
+大泣きのチンコから　真っ白な
+涙の雑魚精子☆　ぶちまけるんや〜♪\\.\\|\\^
+> CONTEXT: Commonevents/284/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま　ウチの生マンコん中
+ぶちまけるんやで！？　ゴムなんか
+あらへん……夢の生中出しや！\\.\\|\\^
+> CONTEXT: Commonevents/284/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんは　雑魚☆雑魚やから
+せいぜい　ウチのマンコん中くらいにしか
+雑魚精子☆ぶっぱ　できひんもんな〜♪\\.\\|\\^
+> CONTEXT: Commonevents/284/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+負けろや！　負けろっ！　あんちゃん♪
+生中キメて　ウチに完全敗北の
+雑魚精子　ぶちまけろやぁぁぁ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/284/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んあああぁぁぁっっっ♡♡♡
+マンコん中　めっちゃ出とるぅぅぅ！！！\\.\\|\\^
+> CONTEXT: Commonevents/284/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ〜あ〜あ〜あ〜。
+こんなん　出しよってからにぃ……
+こらもう　あんちゃんの大負けやな！\\.\\|\\^
+> CONTEXT: Commonevents/284/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんは　ウチの性奴隷確定な！
+奴隷なったんやから　ウチの言うことは
+これから　なんでも　聞くんやで〜？\\.\\|\\^
+> CONTEXT: Commonevents/284/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウチらの頼みを　聞いてくれたら
+毎日　毎晩　いつなんどきでも
+セクロス……させたっからな♪\\.\\|\\^
+> CONTEXT: Commonevents/284/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+さっ！　しっかりと
+おちんちん……おっき☆
+できてるかなぁ？　そしたら――
+> CONTEXT: Commonevents/285/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+おっき☆したまま　立っちしてぇ
+かた〜くなった　おちんちんを
+私のナカに　ぐ〜っと挿れて――
+> CONTEXT: Commonevents/285/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぎゅ〜〜〜♡
+おっぱいの谷間に　君の頭を挟んで
+抱き締めながら　おせっせしてくよぉ♡\\.\\|\\^
+> CONTEXT: Commonevents/285/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君のナマおちんぽ☆　私のオマンコの中
+行ったり来たり♪　行ったり来たり♪
+じゅるじゅる　ぐちゅぐちゅ　ずぽずぽ♪\\.\\|\\^
+> CONTEXT: Commonevents/285/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+楽しいね♪　楽しいね♪
+君と私　今　繋がっちゃってるよぉ？
+ナマえっち☆　しちゃってるんだよぉ？\\.\\|\\^
+> CONTEXT: Commonevents/285/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んん〜〜　どぉしたのかなぁ？
+そんな　苦しそうに　モゾモゾしちゃって
+腰もヒクヒク　浮いちゃってるよぉ？\\.\\|\\^
+> CONTEXT: Commonevents/285/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私の大きなおっぱいで　溺れちゃいそう？
+ふふふ♪　そんな君が　かわいいから
+ますます　締め付けちゃうね♡\\.\\|\\^
+> CONTEXT: Commonevents/285/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱいの大海原に　どぼ〜ん！
+窒息寸前の苦しさで　君の性感が
+もっともっと　高まっちゃうの！\\.\\|\\^
+> CONTEXT: Commonevents/285/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それだけじゃないよぉ？
+今から　私の『とっておき』を
+してあげるねぇ？　何だと思う？\\.\\|\\^
+> CONTEXT: Commonevents/285/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ・れ・は……君の　お尻の間から
+突き刺してる……私の　尻尾針！
+針の先端が　君の　タマ裏にぃぃぃ♪\\.\\|\\^
+> CONTEXT: Commonevents/285/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この尻尾針から　催淫液を注入〜♡
+君のタマタマの裏側に　注入〜♡
+ドクドクドクドク　えっちな液が注入〜♪\\.\\|\\^
+> CONTEXT: Commonevents/285/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱい圧迫と　尻尾針の催淫液でぇ〜
+頭の中　真っ白に　溶けてっちゃうねぇ♪
+このまま君　どうなっちゃうのかなぁ？\\.\\|\\^
+> CONTEXT: Commonevents/285/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら　搾って　搾ってぇ？
+濃厚ドロドロ☆圧縮おちんぽ☆ミルク
+どぴゅどぴゅ〜って　いっぱい出そうね？\\.\\|\\^
+> CONTEXT: Commonevents/285/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このまま　私のオマンコの中
+大洪水にしようね？　しようね？
+密着したまま　ダムが決壊するみたいに♪\\.\\|\\^
+> CONTEXT: Commonevents/285/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+思いっきりぃ　お射精するんだよ？
+遠慮なんかしちゃ　ダメっ！
+いっぱいいっぱい　私にちょうだ〜い♡\\.\\|\\^
+> CONTEXT: Commonevents/285/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁん♡　お射精☆お射精☆
+どぴゅどぴゅどっぴゅん♡ 　私のナカに
+出して　出して　出してぇぇぇ！！！\\.\\|\\^
+> CONTEXT: Commonevents/285/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きゃあああぁぁぁっっっ♡♡♡
+すっごい……ジューシー♡\\.\\|\\^
+> CONTEXT: Commonevents/285/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うふっ♪　いっぱい出せて　エライよぉ？
+まだ繋がったままだから　体　離したら
+真っ白な滝になって　零れちゃうね。\\.\\|\\^
+> CONTEXT: Commonevents/285/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君のおちんぽ☆ミルク　このままもう少し
+私のオマンコの中で　たぷたぷ♪
+お精子ちゃんを　泳がせておこうね？\\.\\|\\^
+> CONTEXT: Commonevents/285/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+――って　君？　息……してないけど
+まさか　ホントに　溺れちゃった？\\|
+ふふふっ♪　私に　溺れちゃったんだね。\\.\\|\\^
+> CONTEXT: Commonevents/285/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+ハァ……ハァ……。
+つ　ついに　やるのね
+セ……セ……ックス。
+> CONTEXT: Commonevents/286/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+き……緊張してなんか
+ないったら！　ホラ！
+ちゃんと　エレクチオンして！
+> CONTEXT: Commonevents/286/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一応　言っておくけど……そのっ
+や……優しく　や　やってよね？
+わ……わかってる？\\.\\|\\^
+> CONTEXT: Commonevents/286/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優しくって言うのは　丁寧にっていうか
+ちゃんと　気持ち　込めてっていうか
+とにかく　雑にすんなってことで\\.\\|\\^
+> CONTEXT: Commonevents/286/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんた　わかってんの？
+ってか　あんたの方は　その……
+セ　セックスの経験　とかは──\\.\\|\\^
+> CONTEXT: Commonevents/286/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痛……ッ！
+い　いや　違くて……
+今のは　あんたが悪くって……\\.\\|\\^
+> CONTEXT: Commonevents/286/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅ……良くないなぁ　あたし。
+わ　わかったよ……もう　言うから
+白状するから　だから優しく……して？\\.\\|\\^
+> CONTEXT: Commonevents/286/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初めて……なんだよ。
+笑うなよ？　サキュバスなのに
+処女だなんて……気にしてたんだから。\\.\\|\\^
+> CONTEXT: Commonevents/286/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも　あたし　ちゃんと　やるから
+だから　あんたも　ちゃんと　あたしと
+セックスしなさいってこと……っ♡\\.\\|\\^
+> CONTEXT: Commonevents/286/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァ……ハァ……んっっ♡
+ちょっと……慣れてきた……かも？
+体の芯から　火照ってくる感じがして\\.\\|\\^
+> CONTEXT: Commonevents/286/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんたのペニスが　あたしのヴァギナを
+行き来……するたびに　伝わって……くる
+あたたかい熱と　何かの……感情？\\.\\|\\^
+> CONTEXT: Commonevents/286/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セ　セックス……これが……
+あたしと　あんたが　繋がって
+今　こうして　やってること……！\\.\\|\\^
+> CONTEXT: Commonevents/286/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぁ♡　あぁ♡　何これ？　込み上げてくる
+熱い……何かに　まるで　理性が
+とろけてくみたいに……っっ♡\\.\\|\\^
+> CONTEXT: Commonevents/286/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱い……熱い……はぁん♡
+頭が　沸騰する……何も　わからなく
+なってっちゃう……な　何コレ！？\\.\\|\\^
+> CONTEXT: Commonevents/286/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなに速く　あたしのヴァギナ
+擦って……あんた　もう　出すの？
+スペルマ　出すの？　あたしの中に……！\\.\\|\\^
+> CONTEXT: Commonevents/286/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　ってか　もうダメっ　ダメっ♡
+もう　もう　何も　考えられない！
+こ　これが　セックスなのぉぉぉ♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/286/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくうううぅぅぅうううぅぅぅ♡♡♡
+ぁ……っ　ぁ……んんん♡♡♡\\.\\|\\^
+> CONTEXT: Commonevents/286/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァハァ……やったっ
+あたし　セックス……やったんだ
+ちゃんと　やれたんだ……。\\.\\|\\^
+> CONTEXT: Commonevents/286/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ　それに……む　結ばれたって
+ことだよね……あんたと　あたし。
+……ううん。いや　わかってるよ。\\.\\|\\^
+> CONTEXT: Commonevents/286/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも……きっと　あたしは
+忘れないと……思う。\\|この先　ずっと……\\|
+初めての……あんたとの……こと。\\.\\|\\^
+> CONTEXT: Commonevents/286/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんや　あんちゃん？
+そんなにウチと　スケベ☆
+したかったんかぁ？
+> CONTEXT: Commonevents/287/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃんたら　ウチの胸んとこ
+ず〜っと　見とったもんな〜♪
+こ〜の　変〜態♪
+> CONTEXT: Commonevents/287/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どや〜？　ウチの爆乳☆おっぱいで
+あんちゃんのチンコ☆　挟んどるで〜。
+気持ちえぇやろ〜♪\\.\\|\\^
+> CONTEXT: Commonevents/287/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒヒヒ♪　本番のセクロスやなくて
+残念やったなぁ〜。
+できんもんは　できんのや〜。\\.\\|\\^
+> CONTEXT: Commonevents/287/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せやけど　あんちゃん　雑魚雑魚やから
+ウチのパイズリでも　あっちゅう間に
+イってまうんやろ？\\.\\|\\^
+> CONTEXT: Commonevents/287/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言うても　簡単にゃ　イかせへんで〜♪
+あんちゃんのチンコ☆　た〜〜〜っぷり
+イジメてイジメて　イジメ抜いたるで♪　\\.\\|\\^
+> CONTEXT: Commonevents/287/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イキそうなったら　おっぱい☆ギュ〜って
+あんちゃんの精子が　飛び出さんように
+胸の肉で圧迫して　出口　塞いだるわ♪\\.\\|\\^
+> CONTEXT: Commonevents/287/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+嬉しいやろ？　ん〜？　嬉しくないんか？
+あんちゃん　ちょっと　まだ　チンコ☆
+やらかいやんか。どした？　どした？\\.\\|\\^
+> CONTEXT: Commonevents/287/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しゃぁないな〜。
+ほなら　特別に──\\.\\|\\^
+> CONTEXT: Commonevents/287/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どや？　どや？　どやぁ？
+ウチの生乳首☆　見えとるやろ？
+良かったなぁ　あんちゃん♪\\.\\|\\^
+> CONTEXT: Commonevents/287/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子の生乳首やで？　それも年下のぉ♪
+ヒヒヒ♪　\\|最高やろ？　眼福やろ？
+嬉しすぎて　ガチ勃起確定やろぉぉぉ？\\.\\|\\^
+> CONTEXT: Commonevents/287/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかも　ウチの生乳首☆拝みながら
+その胸肉で　シコシコ☆パイズリや！
+精子も　ぎょーさん　集まってくるなぁ♪\\.\\|\\^
+> CONTEXT: Commonevents/287/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+良かったなぁ　あんちゃん♪
+ウチを　選んで　正解や。
+一番エロいプレイできるんは　ウチやで！\\.\\|\\^
+> CONTEXT: Commonevents/287/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんのカラダに　教え込んだるわ。
+そしたらもう　ウチ無しじゃいられんよう
+なってまうな〜♪　ヒヒヒ♪\\.\\|\\^
+> CONTEXT: Commonevents/287/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あぁ♡　ええで　ええで　あんちゃ〜ん♪
+ウチの胸の谷間から　情けない精子が
+先走って　漏れ出しとるわ〜♪\\.\\|\\^
+> CONTEXT: Commonevents/287/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この我慢汁は　あんちゃんの悲鳴や♪
+キュミュちゃん　これ以上イジメないで
+言うとる　あんちゃんのチンコの悲鳴や♪\\.\\|\\^
+> CONTEXT: Commonevents/287/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+けど　あんちゃんて　変態やから
+イジメれば　イジメるほど
+喜んでまうんやろぉ？　知っとるで♪\\.\\|\\^
+> CONTEXT: Commonevents/287/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホレホレホレ！　年下サキュバスの爆乳に
+挟まれたまま　情けな〜い精子☆
+出したいんやろ？　イってまうんやろ？\\.\\|\\^
+> CONTEXT: Commonevents/287/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+情けないなぁ　あんちゃん♪
+ホンマ　雑魚やなぁ♪　雑魚♡雑ぁ魚♡
+本番セクロスする前に　もう降参かぁ？\\.\\|\\^
+> CONTEXT: Commonevents/287/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええでええで　負けてまえ　負けてまえ♪
+これから　もっと　もっと　も〜っと
+ウチにイジメられて　射精してくんや。\\.\\|\\^
+> CONTEXT: Commonevents/287/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+負け癖　付けたるで♪　な？　な？
+ウチのおっぱいに負けて　雑魚確定や☆
+イケ♪　イケ♪　あんちゃ〜〜〜ん♪\\.\\|\\^
+> CONTEXT: Commonevents/287/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっひゃ☆
+めっちゃ　射精しまくりやーーー！\\.\\|\\^
+> CONTEXT: Commonevents/287/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ〜あ　こんなにウチの顔
+汚してまうなんて　あんちゃん
+ホンマ　しゃーないやっちゃなぁ。\\.\\|\\^
+> CONTEXT: Commonevents/287/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あんちゃんの　雑魚精子にも
+負け癖の味が　染み込んどるわ。
+ペロっ……ええ味やん。\\.\\|\\^
+> CONTEXT: Commonevents/287/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次は　約束通り　セクロスさせたるわ。
+……ちょい　大変かもしれへんけど
+なんとか　ウチんとこまで　来てくれな？\\.\\|\\^
+> CONTEXT: Commonevents/287/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+頑張った君には　ちゃ〜んと
+ご褒美♡　あげないとね！
+さっ　横になってごらん？
+> CONTEXT: Commonevents/288/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+現状できる範囲で　めいっぱい
+気持ちよ〜く　ぴゅっぴゅ☆
+させてあげるからね〜。
+> CONTEXT: Commonevents/288/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ〜ら　どう？　気持ち良いかなぁ？
+君のおちんちん☆　私の太ももで
+挟んじゃってるよ〜♪\\.\\|\\^
+> CONTEXT: Commonevents/288/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水枕みたいに　ふわふわの　ぷにぷにで
+ぎゅっ☆て圧迫感のある　私の太ももで
+君のおちんちんを　ぱっくんちょ♪\\.\\|\\^
+> CONTEXT: Commonevents/288/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きゅっきゅ　きゅっきゅって
+ヌキヌキ　ヌキヌキ　扱いて　扱いて
+弄んじゃってるよ〜？\\.\\|\\^
+> CONTEXT: Commonevents/288/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら？　でも　君のおちんちん☆
+まだまだ柔らかい　ふにゃちんさんの
+ままだねぇ。どうしてかなぁ？\\.\\|\\^
+> CONTEXT: Commonevents/288/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちゃ〜んと　おっき☆しないと
+ダメでしょぉ？　男の子なんだから
+しっかりと……大きくならないとっ！\\.\\|\\^
+> CONTEXT: Commonevents/288/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも　太ももだけじゃ
+満足できないのかなぁ？
+君って意外と　我が儘さんなのかなぁ？\\.\\|\\^
+> CONTEXT: Commonevents/288/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+も〜う　しょうがないなぁ……。
+そ・れ・な・ら──\\.\\|\\^
+> CONTEXT: Commonevents/288/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど〜かなぁ？
+君の位置から　見えるかなぁ？
+私の　おっぱい☆　見・え・る・か・な♪\\.\\|\\^
+> CONTEXT: Commonevents/288/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特別　大サービスだよぉ？
+私の　生の　おっぱいを〜
+君に……見せつけちゃってる♪\\.\\|\\^
+> CONTEXT: Commonevents/288/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら　見てごら〜ん？
+太もも　きゅっきゅする動きに合わせて
+おっぱいも　ぷるんぷるん　揺れてるよ♪\\.\\|\\^
+> CONTEXT: Commonevents/288/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+揺れるおっぱい☆　好き？
+揺れてるおっぱい☆　好きぃ？
+好きだよねぇ？　ね？　好きでしょぉ？\\.\\|\\^
+> CONTEXT: Commonevents/288/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おちんちん☆　太ももで
+きゅっきゅされながら　揺れるおっぱい☆
+と〜っても　気持ち良くなれちゃうねっ♪\\.\\|\\^
+> CONTEXT: Commonevents/288/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもね　気持ち良いからって
+すぐに　ぴゅ〜しちゃうのは
+許さないからね？\\.\\|\\^
+> CONTEXT: Commonevents/288/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ギリギリまで　我慢して　我慢して
+め〜いっぱい　搾って　搾って
+力いっぱい　お射精しないとねっ！\\.\\|\\^
+> CONTEXT: Commonevents/288/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我慢すればするほど　た〜っくさん
+ぴゅ〜ってできるし　我慢した分だけ
+気持ち良〜く　なれるんだから☆\\.\\|\\^
+> CONTEXT: Commonevents/288/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら！　もっと　もっと　もーっと
+ぎゅ〜って　かき集めて！
+君の……お・ち・ん・ぽ・ミルク☆\\.\\|\\^
+> CONTEXT: Commonevents/288/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いっぱい出そうね♪　いっぱい出そうね♪
+ほらほらほらほら！　太ももきゅっきゅと
+おっぱい☆　ぷるんぷるんで\\.\\|\\^
+> CONTEXT: Commonevents/288/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私に　見せて？　君のおちんぽミルクが
+い〜っぱい　出ちゃうところ
+私に　見せてぇ？　私に　掛けてぇ？\\.\\|\\^
+> CONTEXT: Commonevents/288/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ　ん♡　出ちゃうね　コレ。
+太ももに　搾られて　おちんぽミルク☆
+出ちゃう　出ちゃうっ　出ちゃうぅぅっ！\\.\\|\\^
+> CONTEXT: Commonevents/288/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらあら！　太ももの間から
+白い噴水が　ぴゅ〜〜〜〜〜〜〜〜〜♪\\.\\|\\^
+> CONTEXT: Commonevents/288/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うふふふふ……。
+た〜っくさん　私のお膝に
+出しちゃったねぇ♪\\.\\|\\^
+> CONTEXT: Commonevents/288/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気持ち良かったぁ？
+だったら　私も嬉しいな♪\\|
+今回は　太ももまでだったけど……\\.\\|\\^
+> CONTEXT: Commonevents/288/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次は　私のナカに　挿れてあげるね♪\\|
+だから　絶対　\\|私のところまで
+会いに……来てね？\\.\\|\\^
+> CONTEXT: Commonevents/288/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+こ……これは　仕方なくだから！
+と　等価交換てやつ！
+わかったぁ！？
+> CONTEXT: Commonevents/289/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+わ　分かったんなら
+とっとと　脱ぎなさいっ！
+ホ……ホラっ！　早く！
+> CONTEXT: Commonevents/289/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわ……っ　なんか　生温かい……コレ。
+え　えと……こ　こうやって握れば
+いいの…………かなぁ？\\.\\|\\^
+> CONTEXT: Commonevents/289/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞いてたのより　随分と　柔らかいけど
+こ……こんなもんなの？
+そ　その……ペ　ペニスってっ。\\.\\|\\^
+> CONTEXT: Commonevents/289/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？　でも　なんか　だんだん
+硬く　大きく？　なってくけど……
+何コレっ！？　これが……ペニスっ！？\\.\\|\\^
+> CONTEXT: Commonevents/289/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ！？
+ちょっと　何　あんた！？
+その目線は！？　馬鹿にしてんの！？\\.\\|\\^
+> CONTEXT: Commonevents/289/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっさいなぁ！　慣れてないんだよ！
+悪い？　文句あんなら
+ここで　やめてもいいんだよ！？\\.\\|\\^
+> CONTEXT: Commonevents/289/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも　あたしの手なんかじゃ
+ちゃんと　エ……エレクチオン
+できないっていうわけ！？\\.\\|\\^
+> CONTEXT: Commonevents/289/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぅ……っ！
+だ　だったら──\\.\\|\\^
+> CONTEXT: Commonevents/289/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホ……ホラぁ　あたしの胸……
+み　見せてあげてるんだから　もう少し
+感じてるフリ……でもしたら　どうなの？\\.\\|\\^
+> CONTEXT: Commonevents/289/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だいたいさ……あたしは
+聞いてなかったんだよ　こんなの……
+ご　ご褒美……するなんて。\\.\\|\\^
+> CONTEXT: Commonevents/289/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃ　うちらの事情で
+一方的に　あんたの手を
+煩わすことに　なるんだから\\.\\|\\^
+> CONTEXT: Commonevents/289/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+せめて　見返りとして　あたしの手で
+こ　これくらいはしなきゃって
+思うけど……。\\.\\|\\^
+> CONTEXT: Commonevents/289/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……いや　良くないな。義務感丸出しは。
+うーん。で？　あんたは　どうなの？
+あんたも　気持ち良くなってきてるの？\\.\\|\\^
+> CONTEXT: Commonevents/289/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い　いや　『あんたも』って
+その　あたしは別に　気持ち良くなんか
+なってないし……勘違いすんな！\\.\\|\\^
+> CONTEXT: Commonevents/289/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+か　顔が赤いって！？
+そ　そ　そんなの　ちょっと
+緊張してるだけだよ！\\.\\|\\^
+> CONTEXT: Commonevents/289/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つべこべ言わずに　あんたは　大人しく
+あたしの手の中で　さっさと
+出しちゃえよ！　ザ……ザーメンをさ。\\.\\|\\^
+> CONTEXT: Commonevents/289/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホ……ホラっ！　こうやって
+ペニスをシコシコすれば　ザーメン……
+つまり　スペルマが　出るんでしょ！？\\.\\|\\^
+> CONTEXT: Commonevents/289/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ってか　なんか　あんたのペニス
+ビクビクしてるし　先っぽから
+変な汁　出てるし　どうなってんの！？\\.\\|\\^
+> CONTEXT: Commonevents/289/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ？　あっ？　何コレ？
+え　出るの？　このまま　あんた……
+あたしの手に　スペルマ　出すっての！？\\.\\|\\^
+> CONTEXT: Commonevents/289/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うわっ！？　なんか　来る……！
+ドクドクって　あたしの手の中で
+ドクドクドクドク……来るっ！　来るッ！\\.\\|\\^
+> CONTEXT: Commonevents/289/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きゃっ　きゃぁぁぁぁぁぁっ！
+何　この勢い！？\\.\\|\\^
+> CONTEXT: Commonevents/289/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハァ……ハァ……すごい　すごいなっ
+こんなに　いっぱい……で　出るなんてっ
+ハァ……ハァ……　\\|マジか。\\.\\|\\^
+> CONTEXT: Commonevents/289/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+顔に掛かったし……生温かくて
+べっとり……これが　スペルマ？\\|
+あんたの……ザーメン　なのか。\\.\\|\\^
+> CONTEXT: Commonevents/289/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+覚えておかなきゃ……。
+この匂いも……。記憶に　留めて……。
+………………うん　悪くないな。\\.\\|\\^
+> CONTEXT: Commonevents/289/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目覚めのベルが　負荷により
+ドロドロに　溶けてしまった！
+> CONTEXT: Commonevents/291/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[301] was melted to mush
+by the load!
+> CONTEXT: Commonevents/291/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘未識別:効果不明〙
+瓶詰の蓋が　容器の中身を秘匿してる"
+> CONTEXT: Commonevents/293/6/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Unidentified:????〙
+Coloured Jar lids conceal the contents"
+> CONTEXT: Commonevents/293/11/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Red Jar"
+> CONTEXT: Commonevents/293/22/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Blue Jar"
+> CONTEXT: Commonevents/293/34/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Silver Jar"
+> CONTEXT: Commonevents/293/46/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Gold Jar"
+> CONTEXT: Commonevents/293/58/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Green Jar"
+> CONTEXT: Commonevents/293/70/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Purple Jar"
+> CONTEXT: Commonevents/293/82/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Black Jar"
+> CONTEXT: Commonevents/293/94/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"White Jar"
+> CONTEXT: Commonevents/293/106/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Light Pink Jar"
+> CONTEXT: Commonevents/293/118/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Maroon Jar"
+> CONTEXT: Commonevents/293/130/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Dull Red Jar"
+> CONTEXT: Commonevents/293/142/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Orange Jar"
+> CONTEXT: Commonevents/293/154/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Geraldine Jar"
+> CONTEXT: Commonevents/293/166/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Pink Jar"
+> CONTEXT: Commonevents/293/178/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Deep Blush Jar"
+> CONTEXT: Commonevents/293/190/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Fandango Jar"
+> CONTEXT: Commonevents/293/202/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Light Plum Jar"
+> CONTEXT: Commonevents/293/214/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bluepurple Jar"
+> CONTEXT: Commonevents/293/226/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lapis Blue Jar"
+> CONTEXT: Commonevents/293/238/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Dull Blue Jar"
+> CONTEXT: Commonevents/293/250/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Indigo Jar"
+> CONTEXT: Commonevents/293/262/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Azure Jar"
+> CONTEXT: Commonevents/293/274/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Green Blue Jar"
+> CONTEXT: Commonevents/293/286/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Jade Jar"
+> CONTEXT: Commonevents/293/298/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Evergreen Jar"
+> CONTEXT: Commonevents/293/310/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Casal Jar"
+> CONTEXT: Commonevents/293/322/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Moss Green Jar"
+> CONTEXT: Commonevents/293/334/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lightgreen Jar"
+> CONTEXT: Commonevents/293/346/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Pale Olive Jar"
+> CONTEXT: Commonevents/293/358/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Citrine Jar"
+> CONTEXT: Commonevents/293/370/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Yellow Jar"
+> CONTEXT: Commonevents/293/382/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Raw Sienna Jar"
+> CONTEXT: Commonevents/293/394/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Brown Jar"
+> CONTEXT: Commonevents/293/406/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Amber Jar"
+> CONTEXT: Commonevents/293/418/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lightbrown Jar"
+> CONTEXT: Commonevents/293/430/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ocher Jar"
+> CONTEXT: Commonevents/293/442/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Rose Ebony Jar"
+> CONTEXT: Commonevents/293/454/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Iridium Jar"
+> CONTEXT: Commonevents/293/466/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Spun Pearl Jar"
+> CONTEXT: Commonevents/293/478/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Grey Jar"
+> CONTEXT: Commonevents/293/490/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Friar Grey Jar"
+> CONTEXT: Commonevents/293/502/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ebony Jar"
+> CONTEXT: Commonevents/293/514/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Onyx Jar"
+> CONTEXT: Commonevents/293/526/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘未識別:効果不明〙\\\\i[29]
+紐の紋飾りが　中身の呪文を秘匿してる"
+> CONTEXT: Commonevents/294/6/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Unidentified:????〙\\\\i[29]
+String heraldry hides the spell inside"
+> CONTEXT: Commonevents/294/11/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鼠紋の巻物"
+> CONTEXT: Commonevents/294/18/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Rat Scroll"
+> CONTEXT: Commonevents/294/22/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"牛紋の巻物"
+> CONTEXT: Commonevents/294/30/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ox Scroll"
+> CONTEXT: Commonevents/294/34/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"虎紋の巻物"
+> CONTEXT: Commonevents/294/42/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Tiger Scroll"
+> CONTEXT: Commonevents/294/46/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"兎紋の巻物"
+> CONTEXT: Commonevents/294/54/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Rabbit Scroll"
+> CONTEXT: Commonevents/294/58/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"龍紋の巻物"
+> CONTEXT: Commonevents/294/66/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Dragon Scroll"
+> CONTEXT: Commonevents/294/70/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"蛇紋の巻物"
+> CONTEXT: Commonevents/294/78/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Snake Scroll"
+> CONTEXT: Commonevents/294/82/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"馬紋の巻物"
+> CONTEXT: Commonevents/294/90/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Horse Scroll"
+> CONTEXT: Commonevents/294/94/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"羊紋の巻物"
+> CONTEXT: Commonevents/294/102/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Sheep Scroll"
+> CONTEXT: Commonevents/294/106/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"猿紋の巻物"
+> CONTEXT: Commonevents/294/114/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Monkey Scroll"
+> CONTEXT: Commonevents/294/118/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鶏紋の巻物"
+> CONTEXT: Commonevents/294/126/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Rooster Scroll"
+> CONTEXT: Commonevents/294/130/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"犬紋の巻物"
+> CONTEXT: Commonevents/294/138/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Dog Scroll"
+> CONTEXT: Commonevents/294/142/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"猪紋の巻物"
+> CONTEXT: Commonevents/294/150/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boar Scroll"
+> CONTEXT: Commonevents/294/154/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"猫紋の巻物"
+> CONTEXT: Commonevents/294/162/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Cat Scroll"
+> CONTEXT: Commonevents/294/166/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"豹紋の巻物"
+> CONTEXT: Commonevents/294/174/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Panther Scroll"
+> CONTEXT: Commonevents/294/178/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獅子紋の巻物"
+> CONTEXT: Commonevents/294/186/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lion Scroll"
+> CONTEXT: Commonevents/294/190/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"熊紋の巻物"
+> CONTEXT: Commonevents/294/198/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bear Scroll"
+> CONTEXT: Commonevents/294/202/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鰐紋の巻物"
+> CONTEXT: Commonevents/294/210/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Croco Scroll"
+> CONTEXT: Commonevents/294/214/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"蜥蜴紋の巻物"
+> CONTEXT: Commonevents/294/222/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lizard Scroll"
+> CONTEXT: Commonevents/294/226/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鮫紋の巻物"
+> CONTEXT: Commonevents/294/234/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Shark Scroll"
+> CONTEXT: Commonevents/294/238/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鯨紋の巻物"
+> CONTEXT: Commonevents/294/246/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Whale Scroll"
+> CONTEXT: Commonevents/294/250/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"鷹紋の巻物"
+> CONTEXT: Commonevents/294/258/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Falcon Scroll"
+> CONTEXT: Commonevents/294/262/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"蜘蛛紋の巻物"
+> CONTEXT: Commonevents/294/270/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Spider Scroll"
+> CONTEXT: Commonevents/294/274/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"choice"
+> CONTEXT: Commonevents/296/0/InlineScript/1:38 < UNTRANSLATED
+> CONTEXT: Commonevents/297/0/InlineScript/1:38 < UNTRANSLATED
+> CONTEXT: Commonevents/299/0/InlineScript/1:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+溶液を　無駄にしてしまった……。
+> CONTEXT: Commonevents/296/7/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/297/7/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/299/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You have wasted the soak...
+> CONTEXT: Commonevents/296/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/297/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/299/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]]は　既に識別済みだ！
+> CONTEXT: Commonevents/296/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]] is already identified.
+> CONTEXT: Commonevents/296/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]]を　複製させた！
+> CONTEXT: Commonevents/297/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]] was replicated!
+> CONTEXT: Commonevents/297/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[580]]を　使った！
+> CONTEXT: Commonevents/298/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Used \\ITEM[\\v[580]]!
+> CONTEXT: Commonevents/298/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/298/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パン屑一片　残さず　食べきった！
+> CONTEXT: Commonevents/298/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]]は　\\ITEM[\\v[46]]に
+超変化した！
+> CONTEXT: Commonevents/299/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[\\v[47]] turned to
+\\ITEM[\\v[46]]!
+> CONTEXT: Commonevents/299/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[201]は　人魚パンだった！
+> CONTEXT: Commonevents/301/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:LP中回復〙
+超人の肉体が再生する　不思議な乾パン"
+> CONTEXT: Commonevents/301/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[201] was Mermaid Bun!
+> CONTEXT: Commonevents/301/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain LP(M)〙
+Hardtack that heals ubermensch's body"
+> CONTEXT: Commonevents/301/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[202]は　甘露だった！
+> CONTEXT: Commonevents/302/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:EP中回復〙
+天から降ると言われてる　とても甘い蜜薬"
+> CONTEXT: Commonevents/302/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[202] was Ganlu!
+> CONTEXT: Commonevents/302/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ganlu"
+> CONTEXT: Commonevents/302/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain EP(M)〙
+Sweet liquid falling from heaven"
+> CONTEXT: Commonevents/302/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[203]は　独角獣丹だった！
+> CONTEXT: Commonevents/303/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:病気系バステ+被毒完治〙
+ユニコーンの角で作る　病気を治す丸薬"
+> CONTEXT: Commonevents/303/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[203] was Unihorn Pill!
+> CONTEXT: Commonevents/303/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Unihorn Pill"
+> CONTEXT: Commonevents/303/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Remove sickness & toxin〙
+Medicine made from unicorn horn"
+> CONTEXT: Commonevents/303/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[204]は　妖精膏だった！
+> CONTEXT: Commonevents/304/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:怪我系バステ+流血+火傷完治〙
+妖精たちが作る　怪我を治す軟膏薬"
+> CONTEXT: Commonevents/304/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[204] was Fairy Ointment!
+> CONTEXT: Commonevents/304/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Fairy Ointment"
+> CONTEXT: Commonevents/304/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Remove injury & wound & burn〙
+Ointment for injuries made by fairies"
+> CONTEXT: Commonevents/304/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[205]は　反魂酒だった！
+> CONTEXT: Commonevents/305/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:気絶完治〙
+仮死状態にある超人の魂が回帰する　薬酒"
+> CONTEXT: Commonevents/305/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[205] was Revive Julep!
+> CONTEXT: Commonevents/305/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Revive Julep"
+> CONTEXT: Commonevents/305/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Revive〙
+Medicinal liquor for ubermensch"
+> CONTEXT: Commonevents/305/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[206]は　霊命酒だった！
+> CONTEXT: Commonevents/306/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:気絶完治+LP中回復〙
+特別精製された命の水　戦線に復帰させる"
+> CONTEXT: Commonevents/306/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[206] was Revive JulepⅡ!
+> CONTEXT: Commonevents/306/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Revive JulepⅡ"
+> CONTEXT: Commonevents/306/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Revive & gain LP(M)〙
+Upper medicinal liquor for ubermensch"
+> CONTEXT: Commonevents/306/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[207]は　天命酒だった！
+> CONTEXT: Commonevents/307/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:気絶完治+LP全回復〙
+天に選ばれた命の水　完全復帰が可能"
+> CONTEXT: Commonevents/307/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[207] was Revive JulepⅢ!
+> CONTEXT: Commonevents/307/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Revive JulepⅢ"
+> CONTEXT: Commonevents/307/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Revive & gain LP(U)〙
+Best medicinal liquor for ubermensch"
+> CONTEXT: Commonevents/307/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[208]は　肉霊芝だった！
+> CONTEXT: Commonevents/308/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:LP大回復〙
+超高蛋白な肉質の茸　仙薬の素にもなる"
+> CONTEXT: Commonevents/308/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[208] was Meaty Leyss!
+> CONTEXT: Commonevents/308/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Meaty Leyss"
+> CONTEXT: Commonevents/308/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain LP(L)〙
+High-protein thick-fleshed mushrooms"
+> CONTEXT: Commonevents/308/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[209]は　錬金霊液だった！
+> CONTEXT: Commonevents/309/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:EP全回復+バステ完治〙
+怪我と病気を癒し　精神力を満たす霊薬"
+> CONTEXT: Commonevents/309/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[209] was Elixir!
+> CONTEXT: Commonevents/309/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Elixir"
+> CONTEXT: Commonevents/309/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain EP(U) & remove all baste〙
+Medicine to cure injuries and sickness"
+> CONTEXT: Commonevents/309/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[210]は　仙饌蜜酒だった！
+> CONTEXT: Commonevents/310/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:LP+EP全回復〙
+不死身を謳われる　食感のある飲料"
+> CONTEXT: Commonevents/310/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[210] was Ambrosia!
+> CONTEXT: Commonevents/310/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ambrosia"
+> CONTEXT: Commonevents/310/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain LP & EP(U)〙
+Legendary beverage with texture"
+> CONTEXT: Commonevents/310/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[211]は　ラージ人魚パンだった！
+> CONTEXT: Commonevents/311/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:LP中回復〙
+大型サイズの人魚パン　分け合って食べる"
+> CONTEXT: Commonevents/311/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[211] was Mermaid Bun L!
+> CONTEXT: Commonevents/311/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Mermaid Bun L"
+> CONTEXT: Commonevents/311/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:Gain LP(M)〙
+Large size Mermaid Bun"
+> CONTEXT: Commonevents/311/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[212]は　生命のスープだった！
+> CONTEXT: Commonevents/312/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:気絶完治+LP中回復〙
+赤橙の色をした　魂のスープ"
+> CONTEXT: Commonevents/312/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[212] was Prebiotic Soup!
+> CONTEXT: Commonevents/312/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Prebiotic Soup"
+> CONTEXT: Commonevents/312/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:Revive & Gain LP(M)〙
+Red-orange colored soul soup"
+> CONTEXT: Commonevents/312/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[213]は　海の毒薬だった！
+> CONTEXT: Commonevents/313/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:LP大傷害〙
+倫理観に欠ける　冒涜的な液体"
+> CONTEXT: Commonevents/313/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[213] was Poison of Sea!
+> CONTEXT: Commonevents/313/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Poison of Sea"
+> CONTEXT: Commonevents/313/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Damage LP(L)〙
+Unethical blasphemous poison"
+> CONTEXT: Commonevents/313/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[214]は　聖金大浴布だった！
+> CONTEXT: Commonevents/314/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:病気+怪我系バステ完治〙
+全バステを治す　巨大な濡れタオル"
+> CONTEXT: Commonevents/314/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[214] was Holy Wet Towel!
+> CONTEXT: Commonevents/314/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Holy Wet Towel"
+> CONTEXT: Commonevents/314/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:Remove all baste〙
+Big bathtowel cures all bad states"
+> CONTEXT: Commonevents/314/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[215]は　井戸の誘い水だった！
+> CONTEXT: Commonevents/315/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"井戸の誘い水"
+> CONTEXT: Commonevents/315/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘フロア移動〙
+不可思議な呼び水で　その場で井戸に潜る"
+> CONTEXT: Commonevents/315/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[215] was Call of Id!
+> CONTEXT: Commonevents/315/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Call of Id"
+> CONTEXT: Commonevents/315/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Downstairs〙
+Priming to dive into the id forthwith"
+> CONTEXT: Commonevents/315/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[216]は　盗賊の極意水だった！
+> CONTEXT: Commonevents/316/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"盗賊の極意水"
+> CONTEXT: Commonevents/316/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:撃破時素材確定〙
+水溶液を飲むと　素材回収の精度が高まる"
+> CONTEXT: Commonevents/316/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[216] was Hunteraldehyde!
+> CONTEXT: Commonevents/316/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Hunteraldehyde"
+> CONTEXT: Commonevents/316/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain all materials〙
+Can get all materials when killing"
+> CONTEXT: Commonevents/316/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[220]は　証明の秘水だった！
+> CONTEXT: Commonevents/320/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"証明の秘水"
+> CONTEXT: Commonevents/320/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:LP+EP全回復/枯渇解消〙
+手にした　あなたは　夢魔の迷宮の王"
+> CONTEXT: Commonevents/320/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[220] was Secret Priming!
+> CONTEXT: Commonevents/320/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Secret Priming"
+> CONTEXT: Commonevents/320/21/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Gain LP & EP(U)/Reviving dry id〙
+You are king of the Muma no MeiQ"
+> CONTEXT: Commonevents/320/22/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不可思議な光が　辺りを包み込み
+やがて　光は収束し　夢界中心の保管庫へ
+眩く　向かっていった。
+> CONTEXT: Commonevents/320/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[221]は　火の精霊薬だった！
+> CONTEXT: Commonevents/321/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:火炎属性強化+LP大回復〙
+僅かの間　火の精霊の加護を得る"
+> CONTEXT: Commonevents/321/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[221] was Flamma Potion!
+> CONTEXT: Commonevents/321/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Flamma Potion"
+> CONTEXT: Commonevents/321/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Fire buff & Gain LP(L)〙
+Get Flamma Anima's help for a bit"
+> CONTEXT: Commonevents/321/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[222]は　水の精霊薬だった！
+> CONTEXT: Commonevents/322/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:水氷属性強化+LP大回復〙
+僅かの間　水の精霊の加護を得る"
+> CONTEXT: Commonevents/322/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[222] was Aqua Potion!
+> CONTEXT: Commonevents/322/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Aqua Potion"
+> CONTEXT: Commonevents/322/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Ice buff & Gain LP(L)〙
+Get Aqua Anima's help for a bit"
+> CONTEXT: Commonevents/322/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[223]は　風の精霊薬だった！
+> CONTEXT: Commonevents/323/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:切斬属性強化+LP大回復〙
+僅かの間　風の精霊の加護を得る"
+> CONTEXT: Commonevents/323/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[223] was Ventus Potion!
+> CONTEXT: Commonevents/323/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ventus Potion"
+> CONTEXT: Commonevents/323/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Cut buff & Gain LP(L)〙
+Get Ventus Anima's help for a bit"
+> CONTEXT: Commonevents/323/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[224]は　土の精霊薬だった！
+> CONTEXT: Commonevents/324/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:打壊属性強化+LP大回復〙
+僅かの間　土の精霊の加護を得る"
+> CONTEXT: Commonevents/324/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[224] was Saxum Potion!
+> CONTEXT: Commonevents/324/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Saxum Potion"
+> CONTEXT: Commonevents/324/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Bash buff & Gain LP(L)〙
+Get Saxum Anima's help for a bit"
+> CONTEXT: Commonevents/324/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[225]は　草の精霊薬だった！
+> CONTEXT: Commonevents/325/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:突貫属性強化+LP大回復〙
+僅かの間　草の精霊の加護を得る"
+> CONTEXT: Commonevents/325/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[225] was Gramen Potion!
+> CONTEXT: Commonevents/325/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Gramen Potion"
+> CONTEXT: Commonevents/325/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Stab buff & Gain LP(L)〙
+Get Gramen Anima's help for a bit"
+> CONTEXT: Commonevents/325/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[226]は　雷の精霊薬だった！
+> CONTEXT: Commonevents/326/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:雷電属性強化+LP大回復〙
+僅かの間　雷の精霊の加護を得る"
+> CONTEXT: Commonevents/326/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[226] was Tonitrus POT!
+> CONTEXT: Commonevents/326/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Tonitrus POT"
+> CONTEXT: Commonevents/326/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Volt buff & Gain LP(L)〙
+Get Tonitrus Anima's help for a bit"
+> CONTEXT: Commonevents/326/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[227]は　闇の精霊薬だった！
+> CONTEXT: Commonevents/327/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"闇の精霊薬"
+> CONTEXT: Commonevents/327/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:巻物山彦発動+防衛面↓+EP大回復〙
+僅かの間　闇の精霊の力で　呪文連続発動"
+> CONTEXT: Commonevents/327/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[227] was Umbra Potion!
+> CONTEXT: Commonevents/327/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Umbra Potion"
+> CONTEXT: Commonevents/327/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Echo spell & Gain EP(L) & debuff〙
+Get Umbra Anima's help for a bit"
+> CONTEXT: Commonevents/327/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[228]は　光の精霊薬だった！
+> CONTEXT: Commonevents/328/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"光の精霊薬"
+> CONTEXT: Commonevents/328/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:不屈付与+LP大回復〙
+僅かの間　光の精霊が　高確率致命傷回避"
+> CONTEXT: Commonevents/328/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[228] was Lux Potion!
+> CONTEXT: Commonevents/328/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Lux Potion"
+> CONTEXT: Commonevents/328/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Dauntless & Gain LP(L)〙
+Get Lux Anima's help for a bit"
+> CONTEXT: Commonevents/328/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[229]は　究極の物理霊薬だった！
+> CONTEXT: Commonevents/329/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"究極の物理霊薬"
+> CONTEXT: Commonevents/329/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:物理属性強化〙
+僅かの間　切斬・突貫・打壊属性を強化"
+> CONTEXT: Commonevents/329/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[229] was Physics Potion!
+> CONTEXT: Commonevents/329/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Physics Potion"
+> CONTEXT: Commonevents/329/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Physical buff〙
+Enhancing cut & stab & bash for a bit"
+> CONTEXT: Commonevents/329/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[230]は　至高の化学霊薬だった！
+> CONTEXT: Commonevents/330/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"至高の化学霊薬"
+> CONTEXT: Commonevents/330/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:化学属性強化〙
+僅かの間　火炎・水氷・雷電属性を強化"
+> CONTEXT: Commonevents/330/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[230] was Chemic Potion!
+> CONTEXT: Commonevents/330/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Chemic Potion"
+> CONTEXT: Commonevents/330/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:Chemical buff〙
+Enhancing fire & ice & volt for a bit"
+> CONTEXT: Commonevents/330/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[231]は　邪気祓いのお香だった！
+> CONTEXT: Commonevents/331/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"邪気祓いのお香"
+> CONTEXT: Commonevents/331/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘邪気弱腰/通常戦闘時敵全スタン〙
+清涼な香りに　フロア内の邪気が及び腰に"
+> CONTEXT: Commonevents/331/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[231] was Refuse Incense!
+> CONTEXT: Commonevents/331/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Refuse Incense"
+> CONTEXT: Commonevents/331/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Jaqi timidity/Stan enemy〙
+Make jaqi on the floor run for cover"
+> CONTEXT: Commonevents/331/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[232]は　邪気寄せのお香だった！
+> CONTEXT: Commonevents/332/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"邪気寄せのお香"
+> CONTEXT: Commonevents/332/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘邪気活性/EXP獲得率↑〙
+陰惨な香りで　フロア内の邪気に狙われる"
+> CONTEXT: Commonevents/332/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[232] was Entice Incense!
+> CONTEXT: Commonevents/332/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Entice Incense"
+> CONTEXT: Commonevents/332/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Jaqi intensify/EXP ratio↑〙
+Make jaqi on the floor go berserk"
+> CONTEXT: Commonevents/332/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[233]は　邪気縛りのお香だった！
+> CONTEXT: Commonevents/333/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"邪気縛りのお香"
+> CONTEXT: Commonevents/333/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘邪気停滞/通常戦闘時敵全麻痺〙
+高貴な香りが　フロア内の邪気を金縛りに"
+> CONTEXT: Commonevents/333/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[233] was Bind Incense!
+> CONTEXT: Commonevents/333/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bind Incense"
+> CONTEXT: Commonevents/333/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Jaqi stop/Paralyse enemy〙
+Jaqi on the floor are immobilized"
+> CONTEXT: Commonevents/333/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[234]は　エスティント香だった！
+> CONTEXT: Commonevents/334/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エスティント香"
+> CONTEXT: Commonevents/334/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘ダッシュ時邪気無変化〙
+足音が聞こえなくなる　暗殺者の香り"
+> CONTEXT: Commonevents/334/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[234] was Estinto Smoke!
+> CONTEXT: Commonevents/334/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Estinto Smoke"
+> CONTEXT: Commonevents/334/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘During dash no change to Jaqi〙
+Assassin's run to eliminate footsteps"
+> CONTEXT: Commonevents/334/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[235]は　蒼天竜の丹薬だった！
+> CONTEXT: Commonevents/335/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"蒼天竜の丹薬"
+> CONTEXT: Commonevents/335/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:ATK↑〙
+フロア移動まで　攻撃力を高める丸薬"
+> CONTEXT: Commonevents/335/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[235] was Qinglong Pill!
+> CONTEXT: Commonevents/335/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Qinglong Pill"
+> CONTEXT: Commonevents/335/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:ATK↑〙
+Raise attack power while on the floor"
+> CONTEXT: Commonevents/335/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[236]は　仁獣の丹薬だった！
+> CONTEXT: Commonevents/336/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"仁獣の丹薬"
+> CONTEXT: Commonevents/336/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:DEF↑〙
+フロア移動まで　防御力を高める丸薬"
+> CONTEXT: Commonevents/336/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[236] was Yinglong Pill!
+> CONTEXT: Commonevents/336/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Yinglong Pill"
+> CONTEXT: Commonevents/336/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:DEF↑〙
+Raise defense while on the floor"
+> CONTEXT: Commonevents/336/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[237]は　長老亀の丹薬だった！
+> CONTEXT: Commonevents/337/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"長老亀の丹薬"
+> CONTEXT: Commonevents/337/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:PSY+坑呪力↑〙
+フロア内　霊力と呪文への抵抗力を高める"
+> CONTEXT: Commonevents/337/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[237] was Xuanwu Pill!
+> CONTEXT: Commonevents/337/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Xuanwu Pill"
+> CONTEXT: Commonevents/337/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:PSY+Exorcism↑〙
+Get spiritual power while on the floor"
+> CONTEXT: Commonevents/337/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[238]は　飛翔鳥の丹薬だった！
+> CONTEXT: Commonevents/338/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"飛翔鳥の丹薬"
+> CONTEXT: Commonevents/338/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:AGI+回避力↑〙
+フロア移動まで　敏捷性を高める丸薬"
+> CONTEXT: Commonevents/338/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[238] was Zhuque Pill!
+> CONTEXT: Commonevents/338/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Zhuque Pill"
+> CONTEXT: Commonevents/338/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:AGI+Evasion↑〙
+Get quickness while on the floor"
+> CONTEXT: Commonevents/338/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[239]は　白獅子の丹薬だった！
+> CONTEXT: Commonevents/339/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"白獅子の丹薬"
+> CONTEXT: Commonevents/339/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:CON+命中力↑〙
+フロア移動まで　集中力を高める丸薬"
+> CONTEXT: Commonevents/339/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[239] was Baihu Pill!
+> CONTEXT: Commonevents/339/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Baihu Pill"
+> CONTEXT: Commonevents/339/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:CON+Hit↑〙
+Get concentration while on the floor"
+> CONTEXT: Commonevents/339/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[240]は　遁術具だった！
+> CONTEXT: Commonevents/340/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"遁術具"
+> CONTEXT: Commonevents/340/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘戦闘時確実逃走〙
+忍者が扱う戦闘離脱の道具　戦闘時限定"
+> CONTEXT: Commonevents/340/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[240] was Escape Ningu!
+> CONTEXT: Commonevents/340/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Escape Ningu"
+> CONTEXT: Commonevents/340/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Secure escape in battle〙
+Escape tools used by ninja battle only"
+> CONTEXT: Commonevents/340/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[241]は　複製の変成液だった！
+> CONTEXT: Commonevents/341/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"複製の変成液"
+> CONTEXT: Commonevents/341/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘指定アイテム増殖〙
+液を掛けた瓶詰か巻物を　もう一つ入手"
+> CONTEXT: Commonevents/341/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[241] was Soak of Copy!
+> CONTEXT: Commonevents/341/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Soak of Copy"
+> CONTEXT: Commonevents/341/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Specify item duplicate〙
+Duplicate a jar or scroll pour with it"
+> CONTEXT: Commonevents/341/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[242]は　変化の変成液だった！
+> CONTEXT: Commonevents/342/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"変化の変成液"
+> CONTEXT: Commonevents/342/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘指定アイテム変化〙
+液を掛けた瓶詰か巻物が　別物に変化"
+> CONTEXT: Commonevents/342/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[242] was Soak of Change!
+> CONTEXT: Commonevents/342/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Soak of Change"
+> CONTEXT: Commonevents/342/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Specify item transform〙
+Transform a jar or scroll pour with it"
+> CONTEXT: Commonevents/342/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[243]は　識別の変成液だった！
+> CONTEXT: Commonevents/343/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"識別の変成液"
+> CONTEXT: Commonevents/343/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘指定アイテム識別/戦闘時分析〙
+未識別の瓶詰か巻物に　液を掛けて解明"
+> CONTEXT: Commonevents/343/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[243] was Soak of Search!
+> CONTEXT: Commonevents/343/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Soak of Search"
+> CONTEXT: Commonevents/343/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘Specify item identify/analyse enemy〙
+Identify a jar or scroll pour with it"
+> CONTEXT: Commonevents/343/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[251]は　赤熱呪文之巻物だった！
+> CONTEXT: Commonevents/351/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"赤熱呪文之巻物"
+> CONTEXT: Commonevents/351/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵一体を焼く攻撃呪文を　詠唱できる"
+> CONTEXT: Commonevents/351/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[251] was RUĜA Scroll!
+> CONTEXT: Commonevents/351/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"RUĜA Scroll"
+> CONTEXT: Commonevents/351/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: fire attack to single enemy"
+> CONTEXT: Commonevents/351/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[252]は　赤熱呪文弐之巻だった！
+> CONTEXT: Commonevents/352/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"赤熱呪文弐之巻"
+> CONTEXT: Commonevents/352/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+対象と周囲を焼く攻撃呪文を　詠唱できる"
+> CONTEXT: Commonevents/352/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[252] was RUĜAⅡ Scroll!
+> CONTEXT: Commonevents/352/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"RUĜAⅡ Scroll"
+> CONTEXT: Commonevents/352/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[129]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: fire attack to adjacent enemies"
+> CONTEXT: Commonevents/352/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[253]は　赤熱呪文参之巻だった！
+> CONTEXT: Commonevents/353/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"赤熱呪文参之巻"
+> CONTEXT: Commonevents/353/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵全体を焼く攻撃呪文を　詠唱できる"
+> CONTEXT: Commonevents/353/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[253] was RUĜAⅢ Scroll!
+> CONTEXT: Commonevents/353/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"RUĜAⅢ Scroll"
+> CONTEXT: Commonevents/353/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: fire attack to all enemies"
+> CONTEXT: Commonevents/353/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[254]は　雪雲呪文之巻物だった！
+> CONTEXT: Commonevents/354/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"雪雲呪文之巻物"
+> CONTEXT: Commonevents/354/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵一体を凍らす攻撃呪文を　詠唱可能"
+> CONTEXT: Commonevents/354/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[254] was TURKISA Scroll!
+> CONTEXT: Commonevents/354/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TURKISA Scroll"
+> CONTEXT: Commonevents/354/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: ice attack to single enemy"
+> CONTEXT: Commonevents/354/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[255]は　雪雲呪文弐之巻だった！
+> CONTEXT: Commonevents/355/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"雪雲呪文弐之巻"
+> CONTEXT: Commonevents/355/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+対象と周囲を凍らす攻撃呪文を　詠唱可能"
+> CONTEXT: Commonevents/355/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[255] was TURKISAⅡ Sc!
+> CONTEXT: Commonevents/355/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TURKISAⅡ Sc"
+> CONTEXT: Commonevents/355/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[129]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: ice attack to adjacent enemies"
+> CONTEXT: Commonevents/355/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[256]は　雪雲呪文参之巻だった！
+> CONTEXT: Commonevents/356/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"雪雲呪文参之巻"
+> CONTEXT: Commonevents/356/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵全体を凍らす攻撃呪文を　詠唱可能"
+> CONTEXT: Commonevents/356/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[256] was TURKISAⅢ Sc!
+> CONTEXT: Commonevents/356/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TURKISAⅢ Sc"
+> CONTEXT: Commonevents/356/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: ice attack to all enemies"
+> CONTEXT: Commonevents/356/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[257]は　紫電呪文之巻物だった！
+> CONTEXT: Commonevents/357/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"紫電呪文之巻物"
+> CONTEXT: Commonevents/357/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵一体に電撃の攻撃呪文を　詠唱する"
+> CONTEXT: Commonevents/357/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[257] was PURPURA Scroll!
+> CONTEXT: Commonevents/357/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"PURPURA Scroll"
+> CONTEXT: Commonevents/357/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[128]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: volt attack to single enemy"
+> CONTEXT: Commonevents/357/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[258]は　紫電呪文弐之巻だった！
+> CONTEXT: Commonevents/358/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"紫電呪文弐之巻"
+> CONTEXT: Commonevents/358/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+対象と周囲に電撃の攻撃呪文を　詠唱する"
+> CONTEXT: Commonevents/358/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[258] was PURPURAⅡ Sc!
+> CONTEXT: Commonevents/358/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"PURPURAⅡ Sc"
+> CONTEXT: Commonevents/358/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[129]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: volt attack to adjacent enemies"
+> CONTEXT: Commonevents/358/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[259]は　紫電呪文参之巻だった！
+> CONTEXT: Commonevents/359/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"紫電呪文参之巻"
+> CONTEXT: Commonevents/359/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+敵全体に電撃の攻撃呪文を　詠唱する"
+> CONTEXT: Commonevents/359/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[259] was PURPURAⅢ Sc!
+> CONTEXT: Commonevents/359/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"PURPURAⅢ Sc"
+> CONTEXT: Commonevents/359/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
+Spell: volt attack to all enemies"
+> CONTEXT: Commonevents/359/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[260]は　黒星呪文之巻物だった！
+> CONTEXT: Commonevents/360/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"黒星呪文之巻物"
+> CONTEXT: Commonevents/360/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:PSY*\\\\C[10]Ａ\\\\C[0]*LP損耗率〙\\\\i[29]
+敵全体に死闇の攻撃呪文を　詠唱する"
+> CONTEXT: Commonevents/360/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[260] was NIGRA Scroll!
+> CONTEXT: Commonevents/360/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"NIGRA Scroll"
+> CONTEXT: Commonevents/360/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:PSY*\\\\C[10]Ａ\\\\C[0]*LP Ratio〙\\\\i[29]
+Spell: untyped attack to all enemies"
+> CONTEXT: Commonevents/360/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[261]は　暴走赤熱巻物だった！
+> CONTEXT: Commonevents/361/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走赤熱巻物"
+> CONTEXT: Commonevents/361/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する火炎呪文を　詠唱できる"
+> CONTEXT: Commonevents/361/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[261] was Bad RUĜA Sc!
+> CONTEXT: Commonevents/361/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad RUĜA Sc"
+> CONTEXT: Commonevents/361/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: fire attack to allies & enemies"
+> CONTEXT: Commonevents/361/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[262]は　暴走雪雲巻物だった！
+> CONTEXT: Commonevents/362/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走雪雲巻物"
+> CONTEXT: Commonevents/362/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する水氷呪文を　詠唱できる"
+> CONTEXT: Commonevents/362/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[262] was Bad TURKISA Sc!
+> CONTEXT: Commonevents/362/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad TURKISA Sc"
+> CONTEXT: Commonevents/362/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: ice attack to allies & enemies"
+> CONTEXT: Commonevents/362/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[263]は　暴走灰空巻物だった！
+> CONTEXT: Commonevents/363/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走灰空巻物"
+> CONTEXT: Commonevents/363/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する切斬呪文を　詠唱できる"
+> CONTEXT: Commonevents/363/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[263] was Bad GRIZAJ Sc!
+> CONTEXT: Commonevents/363/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad GRIZAJ Sc"
+> CONTEXT: Commonevents/363/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: cut attack to allies & enemies"
+> CONTEXT: Commonevents/363/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[264]は　暴走茶石巻物だった！
+> CONTEXT: Commonevents/364/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走茶石巻物"
+> CONTEXT: Commonevents/364/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する打壊呪文を　詠唱できる"
+> CONTEXT: Commonevents/364/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[264] was Bad BRUNA Sc!
+> CONTEXT: Commonevents/364/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad BRUNA Sc"
+> CONTEXT: Commonevents/364/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: bash attack to allies & enemies"
+> CONTEXT: Commonevents/364/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[265]は　暴走緑藪巻物だった！
+> CONTEXT: Commonevents/365/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走緑藪巻物"
+> CONTEXT: Commonevents/365/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する突貫呪文を　詠唱できる"
+> CONTEXT: Commonevents/365/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[265] was Bad VERDA Sc!
+> CONTEXT: Commonevents/365/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad VERDA Sc"
+> CONTEXT: Commonevents/365/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: stab attack to allies & enemies"
+> CONTEXT: Commonevents/365/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[266]は　暴走紫電巻物だった！
+> CONTEXT: Commonevents/366/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走紫電巻物"
+> CONTEXT: Commonevents/366/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+暴発する雷電呪文を　詠唱できる"
+> CONTEXT: Commonevents/366/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[266] was Bad PURPURA Sc!
+> CONTEXT: Commonevents/366/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad PURPURA Sc"
+> CONTEXT: Commonevents/366/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
+Spell: volt attack to allies & enemies"
+> CONTEXT: Commonevents/366/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[267]は　閃光呪文之巻物だった！
+> CONTEXT: Commonevents/367/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"閃光呪文之巻物"
+> CONTEXT: Commonevents/367/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:目潰付与(極)〙\\\\i[29]
+象牙狩りの閃光を放つ攻策呪文を　詠唱可"
+> CONTEXT: Commonevents/367/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[267] was EBURAJ Scroll!
+> CONTEXT: Commonevents/367/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EBURAJ Scroll"
+> CONTEXT: Commonevents/367/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:\\\\i[12](U)〙\\\\i[29]
+Spell: may blind all enemies"
+> CONTEXT: Commonevents/367/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[268]は　檀醤呪文之巻物だった！
+> CONTEXT: Commonevents/368/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"檀醤呪文之巻物"
+> CONTEXT: Commonevents/368/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:口封付与(極)〙\\\\i[29]
+黒檀ジャムを喰らわす攻策呪文を　詠唱可"
+> CONTEXT: Commonevents/368/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[268] was EBONA Scroll!
+> CONTEXT: Commonevents/368/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EBONA Scroll"
+> CONTEXT: Commonevents/368/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:\\\\i[13](U)〙\\\\i[29]
+Spell: may dumb all enemies"
+> CONTEXT: Commonevents/368/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[269]は　桃錠呪文之巻物だった！
+> CONTEXT: Commonevents/369/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"桃錠呪文之巻物"
+> CONTEXT: Commonevents/369/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:腕固付与(極)〙\\\\i[29]
+放電ピンク手錠を繋ぐ攻策呪文を　詠唱可"
+> CONTEXT: Commonevents/369/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[269] was ROZKOLORA Sc!
+> CONTEXT: Commonevents/369/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ROZKOLORA Sc"
+> CONTEXT: Commonevents/369/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:\\\\i[14](U)〙\\\\i[29]
+Spell: may armlock all enemies"
+> CONTEXT: Commonevents/369/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[270]は　莱豪呪文之巻物だった！
+> CONTEXT: Commonevents/370/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"莱豪呪文之巻物"
+> CONTEXT: Commonevents/370/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘全:足止付与(極)〙\\\\i[29]
+ライムの蔦を這わす攻策呪文を　詠唱可"
+> CONTEXT: Commonevents/370/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[270] was KALK Scroll!
+> CONTEXT: Commonevents/370/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"KALK Scroll"
+> CONTEXT: Commonevents/370/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[130]:\\\\i[15](U)〙\\\\i[29]
+Spell: may leglock all enemies"
+> CONTEXT: Commonevents/370/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[271]は　暴走急昏巻物だった！
+> CONTEXT: Commonevents/371/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走急昏巻物"
+> CONTEXT: Commonevents/371/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方全:寝落付与〙\\\\i[29]
+敵も味方も眠らす功策呪文を　詠唱可"
+> CONTEXT: Commonevents/371/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[271] was Bad KREPUSKO S!
+> CONTEXT: Commonevents/371/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad KREPUSKO S"
+> CONTEXT: Commonevents/371/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:\\\\i[6](U)〙\\\\i[29]
+Spell: may sleep allies & enemies"
+> CONTEXT: Commonevents/371/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[272]は　暴走金愚巻物だった！
+> CONTEXT: Commonevents/372/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"暴走金愚巻物"
+> CONTEXT: Commonevents/372/6/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘敵味方全:惑乱付与〙\\\\i[29]
+敵も味方も惑乱する功策呪文を　詠唱可"
+> CONTEXT: Commonevents/372/7/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ITEM[272] was Bad ORO Scroll!
+> CONTEXT: Commonevents/372/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Bad ORO Scroll"
+> CONTEXT: Commonevents/372/15/InlineScript/1:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"〘\\\\i[131]:\\\\i[7](U)〙\\\\i[29]
+Spell: may confuse allies & enemies"
+> CONTEXT: Commonevents/372/16/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+今　名前を書くのは　無意味のようだ。
+> CONTEXT: Commonevents/399/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But!
+It's pointless writing a name now.
+> CONTEXT: Commonevents/399/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰の名前を　書き込みますか？
+> CONTEXT: Commonevents/399/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[11]en(!s[34])
+> CONTEXT: Commonevents/399/20/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[12]en(!s[35])
+> CONTEXT: Commonevents/399/20/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[13]en(!s[36])
+> CONTEXT: Commonevents/399/20/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+書かない
+> CONTEXT: Commonevents/399/20/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは　\\n[\\v[575]]の名前を
+召喚札に　書き込み
+霊力を　注ぎ込んだ！
+> CONTEXT: Commonevents/399/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……呼ばれて　来たけど
+\\v[41]Ｆ　までしか
+一緒に　いられないからね！
+> CONTEXT: Commonevents/399/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+よろしくね♪
+\\v[41]Ｆ　までだけど
+一緒に　頑張ろうね！
+> CONTEXT: Commonevents/399/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチに　会いたかったんやな♪
+\\v[41]Ｆ　までやけど
+よろしくなー　あんちゃん！
+> CONTEXT: Commonevents/399/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+申し訳ありませんが　体験版データを
+製品版版で　読み込むことはできません。\\|\\|\\~
+> CONTEXT: Commonevents/400/11/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,1205 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+おはじめネズミ
+> CONTEXT: Enemies/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+緑葉鴉
+> CONTEXT: Enemies/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こぼれウーズ
+> CONTEXT: Enemies/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小鬼
+> CONTEXT: Enemies/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+霊鹿
+> CONTEXT: Enemies/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔将蟷螂
+> CONTEXT: Enemies/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベアーレスラー
+> CONTEXT: Enemies/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベーシスト
+> CONTEXT: Enemies/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハナタラシ
+> CONTEXT: Enemies/9/name/
+Hanatarashi
+> END STRING
+
+> BEGIN STRING
+肉人形
+> CONTEXT: Enemies/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇炎童士
+> CONTEXT: Enemies/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇氷童士
+> CONTEXT: Enemies/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇雷童士
+> CONTEXT: Enemies/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単眼焼骨
+> CONTEXT: Enemies/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モノアイスカル
+> CONTEXT: Enemies/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単電ドクロ
+> CONTEXT: Enemies/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一目魂
+> CONTEXT: Enemies/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奴隷幽足
+> CONTEXT: Enemies/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冷やし蛭
+> CONTEXT: Enemies/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いたち野郎
+> CONTEXT: Enemies/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーブルアント
+> CONTEXT: Enemies/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+豚男
+> CONTEXT: Enemies/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランタロイド
+> CONTEXT: Enemies/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷柱怪
+> CONTEXT: Enemies/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷雲児
+> CONTEXT: Enemies/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルクメデス
+> CONTEXT: Enemies/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワニ男
+> CONTEXT: Enemies/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+背炎のワニ男
+> CONTEXT: Enemies/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴラドン
+> CONTEXT: Enemies/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイロンアント
+> CONTEXT: Enemies/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤いモデル
+> CONTEXT: Enemies/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランタゴースト
+> CONTEXT: Enemies/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+垂氷怪
+> CONTEXT: Enemies/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桃雲児
+> CONTEXT: Enemies/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホットウーズ
+> CONTEXT: Enemies/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クールウーズ
+> CONTEXT: Enemies/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パルスウーズ
+> CONTEXT: Enemies/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レドラスネーク
+> CONTEXT: Enemies/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海蛞蝓
+> CONTEXT: Enemies/55/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+電気ガマ
+> CONTEXT: Enemies/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猫武道
+> CONTEXT: Enemies/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愚連翼竜
+> CONTEXT: Enemies/58/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竜巻鮫
+> CONTEXT: Enemies/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歯車の生
+> CONTEXT: Enemies/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪炎精
+> CONTEXT: Enemies/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪氷精
+> CONTEXT: Enemies/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪嵐精
+> CONTEXT: Enemies/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪岩精
+> CONTEXT: Enemies/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪樹精
+> CONTEXT: Enemies/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪雷精
+> CONTEXT: Enemies/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+着火マンキー
+> CONTEXT: Enemies/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+堕天魚
+> CONTEXT: Enemies/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マッドール
+> CONTEXT: Enemies/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+骸骨兵士
+> CONTEXT: Enemies/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔人魚
+> CONTEXT: Enemies/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜半鬼
+> CONTEXT: Enemies/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇邪道士
+> CONTEXT: Enemies/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+危険な彼岸花
+> CONTEXT: Enemies/77/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+馬頭槍士
+> CONTEXT: Enemies/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虎頭斧士
+> CONTEXT: Enemies/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+牛頭鎚士
+> CONTEXT: Enemies/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タホヴラドン
+> CONTEXT: Enemies/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレードメタル
+> CONTEXT: Enemies/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピラニアンジュ
+> CONTEXT: Enemies/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニャンフー
+> CONTEXT: Enemies/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+化猫武道
+> CONTEXT: Enemies/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の魍魎
+> CONTEXT: Enemies/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竜頭蛇
+> CONTEXT: Enemies/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイスラッグ
+> CONTEXT: Enemies/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カイザートード
+> CONTEXT: Enemies/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪悪な痺れ花
+> CONTEXT: Enemies/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破滅の地獄花
+> CONTEXT: Enemies/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファイアオクタ
+> CONTEXT: Enemies/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイスオクタ
+> CONTEXT: Enemies/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴォルトオクタ
+> CONTEXT: Enemies/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好色男夢魔
+> CONTEXT: Enemies/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好色女夢魔
+> CONTEXT: Enemies/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜥蜴闘士
+> CONTEXT: Enemies/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+温泉人鳥
+> CONTEXT: Enemies/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイケ茸
+> CONTEXT: Enemies/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フローガレオン
+> CONTEXT: Enemies/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+邪念魚
+> CONTEXT: Enemies/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻影スパイダー
+> CONTEXT: Enemies/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小炎竜
+> CONTEXT: Enemies/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小氷竜
+> CONTEXT: Enemies/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小雷竜
+> CONTEXT: Enemies/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤熱魔眼膠
+> CONTEXT: Enemies/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雪雲魔眼膠
+> CONTEXT: Enemies/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紫電魔眼膠
+> CONTEXT: Enemies/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デスマーク
+> CONTEXT: Enemies/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クラブイコーズ
+> CONTEXT: Enemies/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝染士
+> CONTEXT: Enemies/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+堕天使のたまご
+> CONTEXT: Enemies/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+禍魔手
+> CONTEXT: Enemies/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキゾフェイス
+> CONTEXT: Enemies/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+首狩兎
+> CONTEXT: Enemies/129/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイジヴラドン
+> CONTEXT: Enemies/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂色男夢魔
+> CONTEXT: Enemies/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂色女夢魔
+> CONTEXT: Enemies/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虹避役
+> CONTEXT: Enemies/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死後念魚
+> CONTEXT: Enemies/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+流星スパイダー
+> CONTEXT: Enemies/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラブラクラブ
+> CONTEXT: Enemies/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+殺人兎
+> CONTEXT: Enemies/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒダルマン
+> CONTEXT: Enemies/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+豪雪だるま
+> CONTEXT: Enemies/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬼達磨
+> CONTEXT: Enemies/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴色男夢魔
+> CONTEXT: Enemies/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴色女夢魔
+> CONTEXT: Enemies/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マグマキッズ
+> CONTEXT: Enemies/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+深層海月
+> CONTEXT: Enemies/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナレノハテ
+> CONTEXT: Enemies/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレアドラゴン
+> CONTEXT: Enemies/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スノードラゴン
+> CONTEXT: Enemies/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレキドラゴン
+> CONTEXT: Enemies/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レッドオウガ
+> CONTEXT: Enemies/164/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雪男
+> CONTEXT: Enemies/165/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブリキ野郎
+> CONTEXT: Enemies/166/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニトロック
+> CONTEXT: Enemies/169/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真理の泥巨人
+> CONTEXT: Enemies/170/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+摩艾
+> CONTEXT: Enemies/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+百手観音
+> CONTEXT: Enemies/172/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴラドーマ
+> CONTEXT: Enemies/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゲヘナダルマン
+> CONTEXT: Enemies/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＤＸスノーマン
+> CONTEXT: Enemies/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仙格万雷達磨
+> CONTEXT: Enemies/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレ小僧
+> CONTEXT: Enemies/187/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+血海月
+> CONTEXT: Enemies/188/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミーティワン
+> CONTEXT: Enemies/189/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獄卒
+> CONTEXT: Enemies/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サスクワッチ
+> CONTEXT: Enemies/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+成金野郎
+> CONTEXT: Enemies/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+核弾岩
+> CONTEXT: Enemies/199/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シン・ヴラド
+> CONTEXT: Enemies/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イドエニグマ
+> CONTEXT: Enemies/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シグナルヘルス
+> CONTEXT: Enemies/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴンゲフィッシュ
+> CONTEXT: Enemies/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ズロモコシュ
+> CONTEXT: Enemies/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宇宙クマムシ
+> CONTEXT: Enemies/206/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニクタラシ
+> CONTEXT: Enemies/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜ノ鎌鼬
+> CONTEXT: Enemies/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デスケルトン
+> CONTEXT: Enemies/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黄鮫
+> CONTEXT: Enemies/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜥蜴騎士
+> CONTEXT: Enemies/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイコトキシン
+> CONTEXT: Enemies/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂犯者
+> CONTEXT: Enemies/217/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイオモコシュ
+> CONTEXT: Enemies/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デューンワーム
+> CONTEXT: Enemies/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メルヴィル
+> CONTEXT: Enemies/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+電気羊
+> CONTEXT: Enemies/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エギウェッグ
+> CONTEXT: Enemies/229/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪色男夢魔
+> CONTEXT: Enemies/231/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪色女夢魔
+> CONTEXT: Enemies/232/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+語りうるもの
+> CONTEXT: Enemies/650/name/ < UNTRANSLATED
+> CONTEXT: Enemies/651/name/ < UNTRANSLATED
+> CONTEXT: Enemies/652/name/ < UNTRANSLATED
+> CONTEXT: Enemies/653/name/ < UNTRANSLATED
+> CONTEXT: Enemies/654/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悲劇のミュトス
+> CONTEXT: Enemies/801/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+喜劇のミュトス
+> CONTEXT: Enemies/802/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+学術のミュトス
+> CONTEXT: Enemies/803/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恐怖のミュトス
+> CONTEXT: Enemies/804/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂気のミュトス
+> CONTEXT: Enemies/805/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶望のミュトス
+> CONTEXT: Enemies/806/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎魔アッシェ
+> CONTEXT: Enemies/814/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷魔ベラ
+> CONTEXT: Enemies/815/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷魔キュミュ
+> CONTEXT: Enemies/816/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現界男夢魔
+> CONTEXT: Enemies/821/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現界女夢魔
+> CONTEXT: Enemies/822/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死後硬直
+> CONTEXT: Enemies/845/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイコニューロ
+> CONTEXT: Enemies/871/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マッドシナプス
+> CONTEXT: Enemies/872/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貘
+> CONTEXT: Enemies/881/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貘獣
+> CONTEXT: Enemies/882/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貘獣王
+> CONTEXT: Enemies/883/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎貘獣王竜
+> CONTEXT: Enemies/884/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷貘獣王竜
+> CONTEXT: Enemies/885/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷貘獣王竜
+> CONTEXT: Enemies/886/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貘獣王竜
+> CONTEXT: Enemies/887/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+金貘
+> CONTEXT: Enemies/890/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎貘
+> CONTEXT: Enemies/891/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷貘
+> CONTEXT: Enemies/892/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷貘
+> CONTEXT: Enemies/893/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎貘獣
+> CONTEXT: Enemies/894/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷貘獣
+> CONTEXT: Enemies/895/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷貘獣
+> CONTEXT: Enemies/896/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎貘獣王
+> CONTEXT: Enemies/897/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷貘獣王
+> CONTEXT: Enemies/898/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷貘獣王
+> CONTEXT: Enemies/899/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv01
+> CONTEXT: Enemies/951/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv02
+> CONTEXT: Enemies/952/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv03
+> CONTEXT: Enemies/953/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv04
+> CONTEXT: Enemies/954/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv05
+> CONTEXT: Enemies/955/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv06
+> CONTEXT: Enemies/956/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv07
+> CONTEXT: Enemies/957/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv08
+> CONTEXT: Enemies/958/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv09
+> CONTEXT: Enemies/959/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真色々マンLv10
+> CONTEXT: Enemies/960/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サンドバック
+> CONTEXT: Enemies/961/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サンドバック２
+> CONTEXT: Enemies/962/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+殴りマン
+> CONTEXT: Enemies/963/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+欠番蜂
+> CONTEXT: Enemies/964/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てすとくん
+> CONTEXT: Enemies/965/name/ < UNTRANSLATED
+> CONTEXT: Enemies/966/name/ < UNTRANSLATED
+
+> END STRING

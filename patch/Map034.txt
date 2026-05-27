@@ -1,0 +1,285 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\\>Presented & developed
+\\\>by\\|\\|\\|
+\\\>OCTET SOFT\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Character design & CG art
+\\\>by\\|\\|\\|
+\\\>mokufu\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Words & world
+\\\>by\\|\\|\\|
+\\\>主\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Music & sound effect
+\\\>by\\|\\|\\|
+\\\>FUKAYA KOBO\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Cast
+\\\>\\n[11]\\|\\|\\|
+\\\>柚木かなめ\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Cast
+\\\>\\n[12]\\|\\|\\|
+\\\>おと町\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Cast
+\\\>\\n[13]\\|\\|\\|
+\\\>南めいび\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Battle dot works
+\\\>by\\|\\|\\|
+\\\>マルムギコウジ\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Character dot works & logo design
+\\\>by\\|\\|\\|
+\\\>JAPANweb\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Live 2D works
+\\\>by\\|\\|\\|
+\\\>oaua\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Your room BG art
+\\\>by\\|\\|\\|
+\\\>コノハ\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Script by\\|\\|\\| \\\>Ruたん/gentlawk/faida/kido
+\\\>ろかん/mo-to/Comtaro/木星ペンギン/USK
+\\\>tomoaky/塵風/KPoal/cozziekuns/etc...\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Graphics borrowed
+\\\>by\\|\\|\\|
+\\\>REFMAP/マルムギコウジ/Orteil\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Recording engineer\\|\\|\\|　益子信重\\|\\|\\|
+\\\>Voice director\\|\\|\\|　OCTET SOFT\\|\\|\\|
+\\\>Recorded at\\|\\|\\|　INSPIRE STUDIO\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Directed & event planning &
+\\\>battle planning & map planning &
+\\\>sub dot works by \\|\\|\\|Oct\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from\\|\\|\\|
+\\\>The Night-Hag Visiting Lapland Witches
+\\\>Henry Fuseli\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>The Repast of the Lion
+\\\>Henri Rousseau\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>Woman with a Parrot
+\\\>Gustave Courbet\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>Nocturne: The Thames at Battersea
+\\\>James McNeill Whistler\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>Mercy's Dream
+\\\>Daniel Huntington\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>View of Toledo
+\\\>El Greco\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/177/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>Venus and Cupid
+\\\>Lorenzo Lotto\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming art from
+\\\>A Maid Asleep
+\\\>Johannes Vermeer\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/4/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Great dreaming music by\\|\\|\\|
+\\\>Rêverie
+\\\>Claude Achille Debussy\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Special thanks to...\\|\\|\\|
+\\\>All of the free material providers
+\\\>All of the people involved\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>© 2024 OCTET SOFT
+\\\>© 2024 mokufu
+\\\>© 2024 FUKAYA KOBO\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>Thank you for playng!!!!!\\|\\|\\|
+
+\\\>The end\\|\\|\\|\\|\\^
+> CONTEXT: Map034/events/1/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+現在の消失。
+> CONTEXT: Map034/events/1/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+故に　あなたを　縛り付ける
+枷は　もう何も無い。
+> CONTEXT: Map034/events/1/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+過去の消失。
+> CONTEXT: Map034/events/1/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+故に　あなたを　縛り付ける
+呪いは　もう何も無い。
+> CONTEXT: Map034/events/1/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+未来の消失。
+> CONTEXT: Map034/events/1/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+故に　あなたを　縛り付ける
+運命は　もう何も無い。
+> CONTEXT: Map034/events/1/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どんな選択肢も　あなたの手に
+握られている。
+> CONTEXT: Map034/events/1/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+すべては　選択である。
+> CONTEXT: Map034/events/1/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING

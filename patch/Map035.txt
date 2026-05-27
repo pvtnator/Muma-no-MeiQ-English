@@ -1,0 +1,8 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"Material"
+> CONTEXT: Map035/events/1/pages/0/66/InlineScript/3:18 < UNTRANSLATED
+> CONTEXT: Commonevents/26/423/InlineScript/3:18 < UNTRANSLATED
+> CONTEXT: Commonevents/26/429/InlineScript/3:18 < UNTRANSLATED
+
+> END STRING

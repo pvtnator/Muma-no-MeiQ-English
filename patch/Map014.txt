@@ -1,0 +1,503 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+扉には　鍵が　掛かっている！
+炎霊犀の鍵で　扉を開け　入室しますか？
+（入ったら　事を為すまで出られません）
+> CONTEXT: Map014/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[11]と　二人きりでないと
+色々　都合が悪そうだ……。
+> CONTEXT: Map014/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[11]が居ないと　中に入れない！
+> CONTEXT: Map014/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その時が来たら　ここに
+あんたと　二人で――
+って　なんでもないから！
+> CONTEXT: Map014/events/1/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The door is locked! Will you use Key
+of Fire Lingxi to enter the room?
+(Never leave from the room till sex!)
+> CONTEXT: Map014/events/1/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But! It's not good for a lot of things
+unless you are alone with \\n[11].
+> CONTEXT: Map014/events/1/pages/0/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But!
+You can't go inside without \\n[11].
+> CONTEXT: Map014/events/1/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+When the conditions are met,
+you and I will have a sweet
+time in this――It's nothing!
+> CONTEXT: Map014/events/1/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+その……手　繋いでも
+いい……よね？
+> CONTEXT: Map014/events/1/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Well...may I hold hands
+with... you?
+> CONTEXT: Map014/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉には　鍵が　掛かっている！
+氷霊犀の鍵で　扉を開け　入室しますか？
+（入ったら　事を為すまで出られません）
+> CONTEXT: Map014/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[12]と　二人きりでないと
+色々　都合が悪そうだ……。
+> CONTEXT: Map014/events/2/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[12]が居ないと　中に入れない！
+> CONTEXT: Map014/events/2/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ここは　君が生まれた部屋？
+それとも　君が産ませる部屋？
+二人きりで　来れたらいいね♪
+> CONTEXT: Map014/events/2/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The door is locked! Will you use Key
+of Ice Lingxi to enter the room?
+(Never leave from the room till sex!)
+> CONTEXT: Map014/events/2/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But! It's not good for a lot of things
+unless you are alone with \\n[12].
+> CONTEXT: Map014/events/2/pages/0/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But!
+You can't go inside without \\n[12].
+> CONTEXT: Map014/events/2/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Is this the room where you
+were born? Or let me be born?
+I wish we could be here alone.
+> CONTEXT: Map014/events/2/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ドキドキ☆しちゃうね♪
+ホラ！　お手々　繋いで
+ベッドまで　行きましょう？
+> CONTEXT: Map014/events/2/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+Hold hands and let's go to
+bed. Is your heart pounding?
+Me too!
+> CONTEXT: Map014/events/2/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉には　鍵が　掛かっている！
+雷霊犀の鍵で　扉を開け　入室しますか？
+（入ったら　事を為すまで出られません）
+> CONTEXT: Map014/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[13]と　二人きりでないと
+色々　都合が悪そうだ……。
+> CONTEXT: Map014/events/3/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし！
+\\n[13]が居ないと　中に入れない！
+> CONTEXT: Map014/events/3/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ウチの好感度　めっちゃ
+上げてくれたら　この部屋で
+セクロス☆させたるわ〜。
+> CONTEXT: Map014/events/3/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The door is locked! Will you use Key
+of Elec Lingxi to enter the room?
+(Never leave from the room till sex!)
+> CONTEXT: Map014/events/3/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But! It's not good for a lot of things
+unless you are alone with \\n[13].
+> CONTEXT: Map014/events/3/pages/0/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But!
+You can't go inside without \\n[13].
+> CONTEXT: Map014/events/3/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+If you enhance my own
+likability, I agree to enter
+this room with you for sex.
+> CONTEXT: Map014/events/3/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+ほな　あんちゃ〜ん？
+手ぇ繋いで　ベッドインやで♪
+\\|――あ　コレ　チンコやった☆
+> CONTEXT: Map014/events/3/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Hand in hand, bed in bed!
+\\|――Whoops!
+It was your dick!
+> CONTEXT: Map014/events/3/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+えっと……この先に　あるのが
+シンなる夢魔の迷宮への　入口。
+そこの井戸　見えてるでしょ？
+> CONTEXT: Map014/events/8/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+つまり　秘密の穴ぼこちゃん☆
+ってわけだね。と言っても
+ちょっと　勝手が違うんだけど。
+> CONTEXT: Map014/events/8/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+持ち込み不可！　未識別！
+ウチらの同行も　できひんで？
+中で　召喚札を　買わん限りな♪
+> CONTEXT: Map014/events/8/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+とにかく　攻略の難しい
+上級者向けって　感じかな。
+相当の覚悟が　必要ってことね。
+> CONTEXT: Map014/events/8/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+私たちの　お手伝いをするなら
+他の迷宮でも　多分できるから
+別に無理しなくて　大丈夫だよ。
+> CONTEXT: Map014/events/8/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+勿論　このダンジョンでしか
+手に入らんアレコレが　あるのも
+お約束やけどな。ヒヒヒ♪
+> CONTEXT: Map014/events/8/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+そうそう♪　どこでもエッチが
+できちゃう　アレが売ってるのは
+\\C[6]この先のノーマル\\C[0]なトコロ☆
+> CONTEXT: Map014/events/8/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/174/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+……ッ！？！？
+> CONTEXT: Map014/events/8/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/179/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うて　どこでもっちゅうほど
+どこでもやないけど　ヤりたきゃ
+行くしかないで？　あんちゃん♪
+> CONTEXT: Map014/events/8/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+と……というか　あんた　ここに
+来るのは　初めてってこと？
+……いや　知らないけどさ。
+> CONTEXT: Map014/events/8/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+ロゴスさんが　何かと色々
+やってくれたみたいだけど
+詳しくは　分からないんだよね。
+> CONTEXT: Map014/events/8/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+いやいやいや　夢の中なんて
+そないなもんやろ？　考えても
+意味ないで。な？　あんちゃん♪
+> CONTEXT: Map014/events/8/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先にあるのは　その難易度に関して
+一切の苦情受付を　拒絶する
+絶界の地牢たる　裏ダンジョン。
+> CONTEXT: Map014/events/8/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君は　無謀と腕試しの決意を　胸に
+飛び込んでみても良いし　そんな酔狂は
+御免蒙ると　引き返しても良い。
+> CONTEXT: Map014/events/8/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Well...You see the id?
+That is Shin Muma no MeiQ.
+> CONTEXT: Map014/events/8/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+So, that is secret pussy hole.
+But things are a lot different
+there.
+> CONTEXT: Map014/events/8/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+It's advanced level, you know?
+You can call us with the item,
+but we can't go in with you.
+> CONTEXT: Map014/events/8/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+And you can't bring in your
+belongings. It's so difficult.
+The items are unidentified too.
+> CONTEXT: Map014/events/8/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+If you just want to help us,
+you can do it elsewhere,
+so don't strain yourself.
+> CONTEXT: Map014/events/8/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Of course, there are some
+special items that can only
+be found in this maze.
+> CONTEXT: Map014/events/8/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+言うて　どこでもっちゅーほど
+どこでもやないけど　ヤりたきゃ
+行くしかないで？　あんちゃん♪
+> CONTEXT: Map014/events/8/pages/0/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+You've never been here before?
+We don't really know much about
+the story, though.
+> CONTEXT: Map014/events/8/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+It sounds like Logos's messed
+around with things, but
+we don't really know.
+> CONTEXT: Map014/events/8/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+Hey, dreams are bullshit.
+There is no point in thinking
+about it. Isn't it, brudda?
+> CONTEXT: Map014/events/8/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Beyond this is a special dungeon
+that refuses to accept complaints
+about difficulty.
+> CONTEXT: Map014/events/8/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You can test your skills recklessly
+or turn back and say you don't want
+to do that.
+> CONTEXT: Map014/events/8/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"シン・夢魔の迷宮に　挑戦できます。"
+> CONTEXT: Map014/events/9/pages/0/0/InlineScript/2:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MODEを　お選びください。"
+> CONTEXT: Map014/events/9/pages/0/0/InlineScript/3:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+NORMAL MODE
+> CONTEXT: Map014/events/9/pages/0/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+RTA MODE
+> CONTEXT: Map014/events/9/pages/0/7/Choice/1 < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,311 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+まるで　脊髄からの　伝達のように
+「ここを超えたら　もう戻れない」
+──そう　確信する。
+> CONTEXT: Map028/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Once you get past this point, there's
+no going back" You're convinced such
+like a message from the spinal cord.
+> CONTEXT: Map028/events/5/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この下へと　降りていきますか？
+> CONTEXT: Map028/events/5/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Do you want to go down this way?
+> CONTEXT: Map028/events/5/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+待って。こっから先は
+いよいよ　ヤバいって話……。
+覚悟と準備は　できてる？
+> CONTEXT: Map028/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+\\C[6]アイテムも　使えないし
+装備の変更も　できなくなる\\C[0]
+……かもしれないから
+> CONTEXT: Map028/events/7/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+あんちゃん……そんな装備で
+ホンマに　大丈夫かー！？
+気張っていくで〜！
+> CONTEXT: Map028/events/7/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+Wait!
+I hear it's getting dangerous
+from here.
+> CONTEXT: Map028/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+\\C[6]We won't be able to use items,
+and we won't be able to change
+our equipment.\\C[0]
+> CONTEXT: Map028/events/7/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+You sure that's enough armor?
+Let's get fired up! Brudda!
+> CONTEXT: Map028/events/7/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遥かなる深層より　戦いの予兆を感じる！
+誘いの声が　究極の戦いを　謳っている
+――そんな　直感だ。
+> CONTEXT: Map028/events/13/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強敵の待つ空間へと　向かいますか？
+（突入後に　装備等は処理できません。
+　準備が整ったら　決断を――！）
+> CONTEXT: Map028/events/13/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+まぁ　お世話になってるからね。
+挨拶ぐらいしに行くのも
+悪くないか。
+> CONTEXT: Map028/events/13/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+折角　ご招待されてるんだから
+お招きに　預かりましょ♪
+お礼も　しなくっちゃね☆
+> CONTEXT: Map028/events/13/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+なんや　知らんけど
+乗り込んで　ヤキ入れたろや。
+どーせ　管理されとるんやし。
+> CONTEXT: Map028/events/13/pages/2/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Someone is inviting you from deep abyss.
+Do you want to go where the strongest
+enemies await?
+> CONTEXT: Map028/events/13/pages/2/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Are you ready?
+If you do make a decision, you won't be
+able to handle your equipment or items.
+> CONTEXT: Map028/events/13/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[11]]
+E
+E
+E
+> CONTEXT: Map028/events/13/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/394/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/404/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/412/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/465/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/475/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/483/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/538/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/548/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/558/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/611/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/621/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/629/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/684/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/694/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/704/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/757/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/767/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/775/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/826/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/834/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/842/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/897/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/907/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/917/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/970/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/978/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/988/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1041/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1051/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1059/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1122/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1130/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1183/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1191/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1201/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1254/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1264/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1272/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1324/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1334/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1342/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1395/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1405/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1413/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1466/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1473/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/1480/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[12]]
+E
+E
+E
+> CONTEXT: Map028/events/13/pages/2/72/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/397/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/405/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/413/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/466/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/476/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/484/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/537/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/547/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/555/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/607/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/617/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/625/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/680/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/690/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/700/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/755/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/765/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/775/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/828/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/838/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/846/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/897/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/905/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/913/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/966/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/976/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/984/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1039/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1049/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1059/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1122/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1130/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1182/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1192/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1200/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1253/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1263/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1271/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1324/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1334/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1342/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1395/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1405/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1413/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1466/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1473/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/1480/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\NAME[\\n[13]]
+E
+E
+E
+> CONTEXT: Map028/events/13/pages/2/80/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/397/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/405/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/415/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/468/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/478/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/486/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/539/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/549/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/557/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/610/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/618/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/628/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/681/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/689/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/699/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/752/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/762/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/770/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/821/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/829/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/837/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/890/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/898/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/908/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/961/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/971/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/979/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1032/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1042/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1050/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1103/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1121/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1174/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1184/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1192/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1244/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1254/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1262/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1315/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1325/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1333/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1388/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1398/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1408/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1461/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1468/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/113/1475/Dialogue < UNTRANSLATED
+
+> END STRING

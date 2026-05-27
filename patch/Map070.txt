@@ -1,0 +1,97 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+クルナ　クルナ　クルナ　クルナ
+クルナ　クルナ　クルナ　クルナ……
+> CONTEXT: Map070/events/1/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コワイ　コワイ　コワイ　コワイ
+コワイ　コワイ　コワイ　コワイ……
+> CONTEXT: Map070/events/1/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドコヘ　ドコヘ　ドコヘ　ドコヘ
+ドコヘ　ドコヘ　ドコヘ　ドコヘ
+ドコヘ　ドコヘ　ドコヘ　ドコヘ
+> CONTEXT: Map070/events/1/pages/5/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナゼダ　ナゼダ　ナゼダ　ナゼダ
+ナゼダ　ナゼダ　ナゼダ　ナゼダ
+ナゼダ　ナゼダ　ナゼダ　ナゼダ
+> CONTEXT: Map070/events/1/pages/7/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モ
+> CONTEXT: Map070/events/1/pages/7/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モドセ
+> CONTEXT: Map070/events/1/pages/7/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モドセ　モドセ　モドセ　モドセ
+モドセ　モドセ　モドセ　モドセ
+モドセ　モドセ　モドセ　モドセ
+> CONTEXT: Map070/events/1/pages/7/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/1/pages/7/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/1/pages/7/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダレダ　ダレダ　ダレダ　ダレダ
+ダレダ　ダレダ　ダレダ　ダレダ
+ダレダ　ダレダ　ダレダ　ダレダ
+> CONTEXT: Map070/events/1/pages/7/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダレ？　ダレ？　ダレ？　ダレ？
+ダレ？　ダレ？　ダレ？　ダレ？
+ダレ？　ダレ？　ダレ？　ダレ？
+> CONTEXT: Map070/events/1/pages/7/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/1/pages/7/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/1/pages/7/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/1/pages/7/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダレダ？　ダレ？\\|\\^
+> CONTEXT: Map070/events/1/pages/10/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダレダ？　ダレダ？
+ダレダ？　ダレダ？　ダレダ？
+ダレダ？　ダレダ？　ダレダ？　ダレダ？\\|\\^
+> CONTEXT: Map070/events/1/pages/10/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オマエハ\\|\\|\\^
+> CONTEXT: Map070/events/1/pages/10/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダ　レ　ダ　？\\|\\|\\^
+> CONTEXT: Map070/events/1/pages/10/75/Dialogue < UNTRANSLATED
+
+> END STRING
