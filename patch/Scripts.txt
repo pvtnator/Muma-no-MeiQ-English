@@ -10880,7 +10880,7 @@
 "人魚パン"
 > CONTEXT: Scripts/ショップ在庫制/64:3 < UNTRANSLATED
 > CONTEXT: Commonevents/301/6/InlineScript/1:25 < UNTRANSLATED
-
+"Mermaid Bread"
 > END STRING
 
 > BEGIN STRING
@@ -10894,7 +10894,7 @@
 "甘露"
 > CONTEXT: Scripts/ショップ在庫制/66:3 < UNTRANSLATED
 > CONTEXT: Commonevents/302/6/InlineScript/1:25 < UNTRANSLATED
-
+"Honeydew"
 > END STRING
 
 > BEGIN STRING
@@ -10907,7 +10907,7 @@
 "独角獣丹"
 > CONTEXT: Scripts/ショップ在庫制/68:3 < UNTRANSLATED
 > CONTEXT: Commonevents/303/6/InlineScript/1:25 < UNTRANSLATED
-
+"Dokakujutan"
 > END STRING
 
 > BEGIN STRING
@@ -10920,7 +10920,7 @@
 "妖精膏"
 > CONTEXT: Scripts/ショップ在庫制/70:3 < UNTRANSLATED
 > CONTEXT: Commonevents/304/6/InlineScript/1:25 < UNTRANSLATED
-
+"Fairy Plaster"
 > END STRING
 
 > BEGIN STRING
@@ -10945,7 +10945,7 @@
 "反魂酒"
 > CONTEXT: Scripts/ショップ在庫制/72:3 < UNTRANSLATED
 > CONTEXT: Commonevents/305/6/InlineScript/1:25 < UNTRANSLATED
-
+"Anti-Soul Sake"
 > END STRING
 
 > BEGIN STRING
@@ -10964,7 +10964,7 @@
 "霊命酒"
 > CONTEXT: Scripts/ショップ在庫制/74:3 < UNTRANSLATED
 > CONTEXT: Commonevents/306/6/InlineScript/1:25 < UNTRANSLATED
-
+"Spiritual Life Sake"
 > END STRING
 
 > BEGIN STRING
@@ -10977,7 +10977,7 @@
 "天命酒"
 > CONTEXT: Scripts/ショップ在庫制/76:3 < UNTRANSLATED
 > CONTEXT: Commonevents/307/6/InlineScript/1:25 < UNTRANSLATED
-
+"Destiny Sake"
 > END STRING
 
 > BEGIN STRING
@@ -10996,7 +10996,7 @@
 "肉霊芝"
 > CONTEXT: Scripts/ショップ在庫制/78:3 < UNTRANSLATED
 > CONTEXT: Commonevents/308/6/InlineScript/1:25 < UNTRANSLATED
-
+"Reishi Mushroom"
 > END STRING
 
 > BEGIN STRING
@@ -11009,7 +11009,7 @@
 "錬金霊液"
 > CONTEXT: Scripts/ショップ在庫制/80:3 < UNTRANSLATED
 > CONTEXT: Commonevents/309/6/InlineScript/1:25 < UNTRANSLATED
-
+"Alchemical Elixir"
 > END STRING
 
 > BEGIN STRING
@@ -11022,7 +11022,7 @@
 "仙饌蜜酒"
 > CONTEXT: Scripts/ショップ在庫制/82:3 < UNTRANSLATED
 > CONTEXT: Commonevents/310/6/InlineScript/1:25 < UNTRANSLATED
-
+"Sengen honey sake"
 > END STRING
 
 > BEGIN STRING
@@ -11035,7 +11035,7 @@
 "ラージ人魚パン"
 > CONTEXT: Scripts/ショップ在庫制/84:3 < UNTRANSLATED
 > CONTEXT: Commonevents/311/6/InlineScript/1:25 < UNTRANSLATED
-
+"Large Mermaid Bread"
 > END STRING
 
 > BEGIN STRING
@@ -11048,7 +11048,7 @@
 "生命のスープ"
 > CONTEXT: Scripts/ショップ在庫制/86:3 < UNTRANSLATED
 > CONTEXT: Commonevents/312/6/InlineScript/1:25 < UNTRANSLATED
-
+"Soup of Life"
 > END STRING
 
 > BEGIN STRING
@@ -11061,7 +11061,7 @@
 "海の毒薬"
 > CONTEXT: Scripts/ショップ在庫制/88:3 < UNTRANSLATED
 > CONTEXT: Commonevents/313/6/InlineScript/1:25 < UNTRANSLATED
-
+"Sea Poison"
 > END STRING
 
 > BEGIN STRING
@@ -11074,7 +11074,7 @@
 "聖金大浴布"
 > CONTEXT: Scripts/ショップ在庫制/90:3 < UNTRANSLATED
 > CONTEXT: Commonevents/314/6/InlineScript/1:25 < UNTRANSLATED
-
+"Large Holy Towel"
 > END STRING
 
 > BEGIN STRING
@@ -11087,7 +11087,7 @@
 "火の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/93:3 < UNTRANSLATED
 > CONTEXT: Commonevents/321/6/InlineScript/1:25 < UNTRANSLATED
-
+"Fire Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -11100,7 +11100,7 @@
 "水の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/95:3 < UNTRANSLATED
 > CONTEXT: Commonevents/322/6/InlineScript/1:25 < UNTRANSLATED
-
+"Water Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -11113,7 +11113,7 @@
 "風の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/97:3 < UNTRANSLATED
 > CONTEXT: Commonevents/323/6/InlineScript/1:25 < UNTRANSLATED
-
+"Wind Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -11126,7 +11126,7 @@
 "土の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/99:3 < UNTRANSLATED
 > CONTEXT: Commonevents/324/6/InlineScript/1:25 < UNTRANSLATED
-
+"Earth spirit potion"
 > END STRING
 
 > BEGIN STRING
@@ -11139,7 +11139,7 @@
 "草の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/101:3 < UNTRANSLATED
 > CONTEXT: Commonevents/325/6/InlineScript/1:25 < UNTRANSLATED
-
+"Herb Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -11152,7 +11152,7 @@
 "雷の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/103:3 < UNTRANSLATED
 > CONTEXT: Commonevents/326/6/InlineScript/1:25 < UNTRANSLATED
-
+"Thunder Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -11773,7 +11773,7 @@
 > BEGIN STRING
 "ロゴスの鍵"
 > CONTEXT: Scripts/ショップ在庫制/206:5 < UNTRANSLATED
-
+"Key of Logos"
 > END STRING
 
 > BEGIN STRING
@@ -11785,7 +11785,7 @@
 > BEGIN STRING
 "どこでもエッチ"
 > CONTEXT: Scripts/ショップ在庫制/209:3 < UNTRANSLATED
-
+"Sex Anywhere"
 > END STRING
 
 > BEGIN STRING
@@ -11797,7 +11797,7 @@
 > BEGIN STRING
 "夢魔召喚札"
 > CONTEXT: Scripts/ショップ在庫制/214:3 < UNTRANSLATED
-
+"Succubus Summoning Card"
 > END STRING
 
 > BEGIN STRING
