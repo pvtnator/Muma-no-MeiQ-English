@@ -14,28 +14,28 @@
 
 > BEGIN STRING
 砕かれた骨
-> CONTEXT: Items/2/name/ < UNTRANSLATED
+> CONTEXT: Items/2/name/
 Shattered Bones
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 消滅せずに残った　遺骨の一部
-> CONTEXT: Items/2/description/ < UNTRANSLATED
+> CONTEXT: Items/2/description/
 [For Selling]
 Some remains that did not disappear
 > END STRING
 
 > BEGIN STRING
 魔肉
-> CONTEXT: Items/3/name/ < UNTRANSLATED
+> CONTEXT: Items/3/name/
 Demon Meat
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔術や錬金に使う魔物の生肉　食用不可
-> CONTEXT: Items/3/description/ < UNTRANSLATED
+> CONTEXT: Items/3/description/
 [For Selling]
 For magic and alchemy, not consumption
 > END STRING
@@ -49,129 +49,129 @@ For magic and alchemy, not consumption
 > BEGIN STRING
 〘換金素材〙
 このアイテムを見てることを絶対許さない
-> CONTEXT: Items/4/description/ < UNTRANSLATED
-> CONTEXT: Items/5/description/ < UNTRANSLATED
-> CONTEXT: Items/6/description/ < UNTRANSLATED
-> CONTEXT: Items/8/description/ < UNTRANSLATED
-> CONTEXT: Items/11/description/ < UNTRANSLATED
-> CONTEXT: Items/12/description/ < UNTRANSLATED
-> CONTEXT: Items/14/description/ < UNTRANSLATED
-> CONTEXT: Items/15/description/ < UNTRANSLATED
-> CONTEXT: Items/18/description/ < UNTRANSLATED
-> CONTEXT: Items/19/description/ < UNTRANSLATED
-> CONTEXT: Items/20/description/ < UNTRANSLATED
-> CONTEXT: Items/23/description/ < UNTRANSLATED
-> CONTEXT: Items/24/description/ < UNTRANSLATED
-> CONTEXT: Items/25/description/ < UNTRANSLATED
-> CONTEXT: Items/27/description/ < UNTRANSLATED
-> CONTEXT: Items/28/description/ < UNTRANSLATED
-> CONTEXT: Items/29/description/ < UNTRANSLATED
-> CONTEXT: Items/30/description/ < UNTRANSLATED
-> CONTEXT: Items/34/description/ < UNTRANSLATED
-> CONTEXT: Items/35/description/ < UNTRANSLATED
-> CONTEXT: Items/37/description/ < UNTRANSLATED
-> CONTEXT: Items/38/description/ < UNTRANSLATED
-> CONTEXT: Items/39/description/ < UNTRANSLATED
-> CONTEXT: Items/40/description/ < UNTRANSLATED
-> CONTEXT: Items/44/description/ < UNTRANSLATED
-> CONTEXT: Items/45/description/ < UNTRANSLATED
-> CONTEXT: Items/46/description/ < UNTRANSLATED
-> CONTEXT: Items/48/description/ < UNTRANSLATED
-> CONTEXT: Items/49/description/ < UNTRANSLATED
-> CONTEXT: Items/50/description/ < UNTRANSLATED
-> CONTEXT: Items/51/description/ < UNTRANSLATED
-> CONTEXT: Items/53/description/ < UNTRANSLATED
-> CONTEXT: Items/54/description/ < UNTRANSLATED
-> CONTEXT: Items/55/description/ < UNTRANSLATED
-> CONTEXT: Items/57/description/ < UNTRANSLATED
-> CONTEXT: Items/58/description/ < UNTRANSLATED
-> CONTEXT: Items/59/description/ < UNTRANSLATED
-> CONTEXT: Items/61/description/ < UNTRANSLATED
-> CONTEXT: Items/62/description/ < UNTRANSLATED
-> CONTEXT: Items/64/description/ < UNTRANSLATED
-> CONTEXT: Items/66/description/ < UNTRANSLATED
-> CONTEXT: Items/67/description/ < UNTRANSLATED
-> CONTEXT: Items/68/description/ < UNTRANSLATED
-> CONTEXT: Items/69/description/ < UNTRANSLATED
-> CONTEXT: Items/71/description/ < UNTRANSLATED
-> CONTEXT: Items/72/description/ < UNTRANSLATED
-> CONTEXT: Items/74/description/ < UNTRANSLATED
-> CONTEXT: Items/75/description/ < UNTRANSLATED
-> CONTEXT: Items/76/description/ < UNTRANSLATED
-> CONTEXT: Items/77/description/ < UNTRANSLATED
-> CONTEXT: Items/78/description/ < UNTRANSLATED
-> CONTEXT: Items/79/description/ < UNTRANSLATED
-> CONTEXT: Items/80/description/ < UNTRANSLATED
-> CONTEXT: Items/81/description/ < UNTRANSLATED
-> CONTEXT: Items/82/description/ < UNTRANSLATED
-> CONTEXT: Items/83/description/ < UNTRANSLATED
-> CONTEXT: Items/84/description/ < UNTRANSLATED
-> CONTEXT: Items/85/description/ < UNTRANSLATED
-> CONTEXT: Items/86/description/ < UNTRANSLATED
-> CONTEXT: Items/87/description/ < UNTRANSLATED
-> CONTEXT: Items/88/description/ < UNTRANSLATED
-> CONTEXT: Items/89/description/ < UNTRANSLATED
-> CONTEXT: Items/90/description/ < UNTRANSLATED
-> CONTEXT: Items/91/description/ < UNTRANSLATED
-> CONTEXT: Items/92/description/ < UNTRANSLATED
-> CONTEXT: Items/93/description/ < UNTRANSLATED
-> CONTEXT: Items/94/description/ < UNTRANSLATED
-> CONTEXT: Items/95/description/ < UNTRANSLATED
-> CONTEXT: Items/96/description/ < UNTRANSLATED
-> CONTEXT: Items/97/description/ < UNTRANSLATED
-> CONTEXT: Items/98/description/ < UNTRANSLATED
-> CONTEXT: Items/100/description/ < UNTRANSLATED
-> CONTEXT: Items/101/description/ < UNTRANSLATED
-> CONTEXT: Items/102/description/ < UNTRANSLATED
-> CONTEXT: Items/103/description/ < UNTRANSLATED
-> CONTEXT: Items/104/description/ < UNTRANSLATED
-> CONTEXT: Items/105/description/ < UNTRANSLATED
-> CONTEXT: Items/106/description/ < UNTRANSLATED
-> CONTEXT: Items/107/description/ < UNTRANSLATED
-> CONTEXT: Items/108/description/ < UNTRANSLATED
-> CONTEXT: Items/109/description/ < UNTRANSLATED
-> CONTEXT: Items/110/description/ < UNTRANSLATED
-> CONTEXT: Items/111/description/ < UNTRANSLATED
-> CONTEXT: Items/112/description/ < UNTRANSLATED
-> CONTEXT: Items/113/description/ < UNTRANSLATED
-> CONTEXT: Items/114/description/ < UNTRANSLATED
-> CONTEXT: Items/115/description/ < UNTRANSLATED
-> CONTEXT: Items/116/description/ < UNTRANSLATED
-> CONTEXT: Items/117/description/ < UNTRANSLATED
-> CONTEXT: Items/118/description/ < UNTRANSLATED
-> CONTEXT: Items/119/description/ < UNTRANSLATED
-> CONTEXT: Items/120/description/ < UNTRANSLATED
-> CONTEXT: Items/121/description/ < UNTRANSLATED
-> CONTEXT: Items/122/description/ < UNTRANSLATED
-> CONTEXT: Items/123/description/ < UNTRANSLATED
-> CONTEXT: Items/124/description/ < UNTRANSLATED
-> CONTEXT: Items/125/description/ < UNTRANSLATED
-> CONTEXT: Items/126/description/ < UNTRANSLATED
-> CONTEXT: Items/127/description/ < UNTRANSLATED
-> CONTEXT: Items/128/description/ < UNTRANSLATED
-> CONTEXT: Items/129/description/ < UNTRANSLATED
-> CONTEXT: Items/130/description/ < UNTRANSLATED
-> CONTEXT: Items/131/description/ < UNTRANSLATED
-> CONTEXT: Items/132/description/ < UNTRANSLATED
-> CONTEXT: Items/133/description/ < UNTRANSLATED
-> CONTEXT: Items/134/description/ < UNTRANSLATED
-> CONTEXT: Items/135/description/ < UNTRANSLATED
-> CONTEXT: Items/136/description/ < UNTRANSLATED
-> CONTEXT: Items/137/description/ < UNTRANSLATED
-> CONTEXT: Items/138/description/ < UNTRANSLATED
-> CONTEXT: Items/139/description/ < UNTRANSLATED
-> CONTEXT: Items/140/description/ < UNTRANSLATED
-> CONTEXT: Items/141/description/ < UNTRANSLATED
-> CONTEXT: Items/142/description/ < UNTRANSLATED
-> CONTEXT: Items/143/description/ < UNTRANSLATED
-> CONTEXT: Items/144/description/ < UNTRANSLATED
-> CONTEXT: Items/145/description/ < UNTRANSLATED
-> CONTEXT: Items/146/description/ < UNTRANSLATED
-> CONTEXT: Items/147/description/ < UNTRANSLATED
-> CONTEXT: Items/148/description/ < UNTRANSLATED
-> CONTEXT: Items/149/description/ < UNTRANSLATED
-> CONTEXT: Items/150/description/ < UNTRANSLATED
-> CONTEXT: Items/189/description/ < UNTRANSLATED
+> CONTEXT: Items/4/description/
+> CONTEXT: Items/5/description/
+> CONTEXT: Items/6/description/
+> CONTEXT: Items/8/description/
+> CONTEXT: Items/11/description/
+> CONTEXT: Items/12/description/
+> CONTEXT: Items/14/description/
+> CONTEXT: Items/15/description/
+> CONTEXT: Items/18/description/
+> CONTEXT: Items/19/description/
+> CONTEXT: Items/20/description/
+> CONTEXT: Items/23/description/
+> CONTEXT: Items/24/description/
+> CONTEXT: Items/25/description/
+> CONTEXT: Items/27/description/
+> CONTEXT: Items/28/description/
+> CONTEXT: Items/29/description/
+> CONTEXT: Items/30/description/
+> CONTEXT: Items/34/description/
+> CONTEXT: Items/35/description/
+> CONTEXT: Items/37/description/
+> CONTEXT: Items/38/description/
+> CONTEXT: Items/39/description/
+> CONTEXT: Items/40/description/
+> CONTEXT: Items/44/description/
+> CONTEXT: Items/45/description/
+> CONTEXT: Items/46/description/
+> CONTEXT: Items/48/description/
+> CONTEXT: Items/49/description/
+> CONTEXT: Items/50/description/
+> CONTEXT: Items/51/description/
+> CONTEXT: Items/53/description/
+> CONTEXT: Items/54/description/
+> CONTEXT: Items/55/description/
+> CONTEXT: Items/57/description/
+> CONTEXT: Items/58/description/
+> CONTEXT: Items/59/description/
+> CONTEXT: Items/61/description/
+> CONTEXT: Items/62/description/
+> CONTEXT: Items/64/description/
+> CONTEXT: Items/66/description/
+> CONTEXT: Items/67/description/
+> CONTEXT: Items/68/description/
+> CONTEXT: Items/69/description/
+> CONTEXT: Items/71/description/
+> CONTEXT: Items/72/description/
+> CONTEXT: Items/74/description/
+> CONTEXT: Items/75/description/
+> CONTEXT: Items/76/description/
+> CONTEXT: Items/77/description/
+> CONTEXT: Items/78/description/
+> CONTEXT: Items/79/description/
+> CONTEXT: Items/80/description/
+> CONTEXT: Items/81/description/
+> CONTEXT: Items/82/description/
+> CONTEXT: Items/83/description/
+> CONTEXT: Items/84/description/
+> CONTEXT: Items/85/description/
+> CONTEXT: Items/86/description/
+> CONTEXT: Items/87/description/
+> CONTEXT: Items/88/description/
+> CONTEXT: Items/89/description/
+> CONTEXT: Items/90/description/
+> CONTEXT: Items/91/description/
+> CONTEXT: Items/92/description/
+> CONTEXT: Items/93/description/
+> CONTEXT: Items/94/description/
+> CONTEXT: Items/95/description/
+> CONTEXT: Items/96/description/
+> CONTEXT: Items/97/description/
+> CONTEXT: Items/98/description/
+> CONTEXT: Items/100/description/
+> CONTEXT: Items/101/description/
+> CONTEXT: Items/102/description/
+> CONTEXT: Items/103/description/
+> CONTEXT: Items/104/description/
+> CONTEXT: Items/105/description/
+> CONTEXT: Items/106/description/
+> CONTEXT: Items/107/description/
+> CONTEXT: Items/108/description/
+> CONTEXT: Items/109/description/
+> CONTEXT: Items/110/description/
+> CONTEXT: Items/111/description/
+> CONTEXT: Items/112/description/
+> CONTEXT: Items/113/description/
+> CONTEXT: Items/114/description/
+> CONTEXT: Items/115/description/
+> CONTEXT: Items/116/description/
+> CONTEXT: Items/117/description/
+> CONTEXT: Items/118/description/
+> CONTEXT: Items/119/description/
+> CONTEXT: Items/120/description/
+> CONTEXT: Items/121/description/
+> CONTEXT: Items/122/description/
+> CONTEXT: Items/123/description/
+> CONTEXT: Items/124/description/
+> CONTEXT: Items/125/description/
+> CONTEXT: Items/126/description/
+> CONTEXT: Items/127/description/
+> CONTEXT: Items/128/description/
+> CONTEXT: Items/129/description/
+> CONTEXT: Items/130/description/
+> CONTEXT: Items/131/description/
+> CONTEXT: Items/132/description/
+> CONTEXT: Items/133/description/
+> CONTEXT: Items/134/description/
+> CONTEXT: Items/135/description/
+> CONTEXT: Items/136/description/
+> CONTEXT: Items/137/description/
+> CONTEXT: Items/138/description/
+> CONTEXT: Items/139/description/
+> CONTEXT: Items/140/description/
+> CONTEXT: Items/141/description/
+> CONTEXT: Items/142/description/
+> CONTEXT: Items/143/description/
+> CONTEXT: Items/144/description/
+> CONTEXT: Items/145/description/
+> CONTEXT: Items/146/description/
+> CONTEXT: Items/147/description/
+> CONTEXT: Items/148/description/
+> CONTEXT: Items/149/description/
+> CONTEXT: Items/150/description/
+> CONTEXT: Items/189/description/
 [For Selling]
 You shouldn't see this
 > END STRING
@@ -190,14 +190,14 @@ You shouldn't see this
 
 > BEGIN STRING
 魔鉄片
-> CONTEXT: Items/7/name/ < UNTRANSLATED
+> CONTEXT: Items/7/name/
 Magic Iron Fragment
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔物から剥がれ落ちた　鋼鉄の欠片
-> CONTEXT: Items/7/description/ < UNTRANSLATED
+> CONTEXT: Items/7/description/
 [For Selling]
 Steel fragments fallen from monsters
 > END STRING
@@ -210,28 +210,28 @@ Steel fragments fallen from monsters
 
 > BEGIN STRING
 娑界の歯車
-> CONTEXT: Items/9/name/ < UNTRANSLATED
+> CONTEXT: Items/9/name/
 World Gear
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 苦しみの念が籠もった　重々しいギア
-> CONTEXT: Items/9/description/ < UNTRANSLATED
+> CONTEXT: Items/9/description/
 [For Selling]
 A heavy gear imbued with feelings of suffering
 > END STRING
 
 > BEGIN STRING
 ゲルの欠片
-> CONTEXT: Items/10/name/ < UNTRANSLATED
+> CONTEXT: Items/10/name/
 Gel Fragment
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 スライム状の物質　癖になる手触りだ
-> CONTEXT: Items/10/description/ < UNTRANSLATED
+> CONTEXT: Items/10/description/
 [For Selling]
 Slime-like substance with an addictive texture
 > END STRING
@@ -250,14 +250,14 @@ Slime-like substance with an addictive texture
 
 > BEGIN STRING
 悪魔の羽
-> CONTEXT: Items/13/name/ < UNTRANSLATED
+> CONTEXT: Items/13/name/
 Devil's Wings
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 悪魔的な魔物から獲れる　大きな黒羽
-> CONTEXT: Items/13/description/ < UNTRANSLATED
+> CONTEXT: Items/13/description/
 [For Selling]
 Large black feathers obtained from demons
 > END STRING
@@ -276,28 +276,28 @@ Large black feathers obtained from demons
 
 > BEGIN STRING
 魔刃片
-> CONTEXT: Items/16/name/ < UNTRANSLATED
+> CONTEXT: Items/16/name/
 Magic Blade Piece
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 邪気で穢れた武具の欠片　冶金素材になる
-> CONTEXT: Items/16/description/ < UNTRANSLATED
+> CONTEXT: Items/16/description/
 [For Selling]
 Fragments tainted by Jaqi, used as materials
 > END STRING
 
 > BEGIN STRING
 邪茸カット
-> CONTEXT: Items/17/name/ < UNTRANSLATED
+> CONTEXT: Items/17/name/
 Evil Mushroom Cut
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 茸の魔物をカットしたもの　食用厳禁
-> CONTEXT: Items/17/description/ < UNTRANSLATED
+> CONTEXT: Items/17/description/
 [For Selling]
 Mushroom monster cut, forbidden to eat
 > END STRING
@@ -322,28 +322,28 @@ Mushroom monster cut, forbidden to eat
 
 > BEGIN STRING
 三毛卸筆
-> CONTEXT: Items/21/name/ < UNTRANSLATED
+> CONTEXT: Items/21/name/
 Calico Brush
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 初心な闇魔童士が呪文を記すのに用いた筆
-> CONTEXT: Items/21/description/ < UNTRANSLATED
+> CONTEXT: Items/21/description/
 [For Selling]
 Used by a novice dark magician to write spells
 > END STRING
 
 > BEGIN STRING
 在庫処分ワニ革
-> CONTEXT: Items/22/name/ < UNTRANSLATED
+> CONTEXT: Items/22/name/
 Crocodile Leather
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 日用品に加工できる　レザー素材
-> CONTEXT: Items/22/description/ < UNTRANSLATED
+> CONTEXT: Items/22/description/
 [For Selling]
 Leather material, processed into everyday items
 > END STRING
@@ -368,14 +368,14 @@ Leather material, processed into everyday items
 
 > BEGIN STRING
 魔魚骨
-> CONTEXT: Items/26/name/ < UNTRANSLATED
+> CONTEXT: Items/26/name/
 Demon Fish Bone
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔力の宿った　魚の骨
-> CONTEXT: Items/26/description/ < UNTRANSLATED
+> CONTEXT: Items/26/description/
 [For Selling]
 Magical Fishbone
 > END STRING
@@ -406,42 +406,42 @@ Magical Fishbone
 
 > BEGIN STRING
 赤きゲル核
-> CONTEXT: Items/31/name/ < UNTRANSLATED
+> CONTEXT: Items/31/name/
 Red Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと温かい　真っ赤なゲルの核
-> CONTEXT: Items/31/description/ < UNTRANSLATED
+> CONTEXT: Items/31/description/
 [For Selling]
 A slightly warm, bright red gel core
 > END STRING
 
 > BEGIN STRING
 青きゲル核
-> CONTEXT: Items/32/name/ < UNTRANSLATED
+> CONTEXT: Items/32/name/
 Blue Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと冷たい　真っ青なゲルの核
-> CONTEXT: Items/32/description/ < UNTRANSLATED
+> CONTEXT: Items/32/description/
 [For Selling]
 A slightly cool, bright blue gel core
 > END STRING
 
 > BEGIN STRING
 紫ゲル核
-> CONTEXT: Items/33/name/ < UNTRANSLATED
+> CONTEXT: Items/33/name/
 Violet Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと痺れる　紫色のゲルの核
-> CONTEXT: Items/33/description/ < UNTRANSLATED
+> CONTEXT: Items/33/description/
 [For Selling]
 A slightly numbing, purple gel core
 > END STRING
@@ -460,14 +460,14 @@ A slightly numbing, purple gel core
 
 > BEGIN STRING
 有鱗目の落鱗
-> CONTEXT: Items/36/name/ < UNTRANSLATED
+> CONTEXT: Items/36/name/
 Squamata Scale
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 蜥蜴の魔物の目から落ちた　不思議な鱗
-> CONTEXT: Items/36/description/ < UNTRANSLATED
+> CONTEXT: Items/36/description/
 [For Selling]
 Mysterious scales from the eyes of a lizard
 > END STRING
@@ -498,42 +498,42 @@ Mysterious scales from the eyes of a lizard
 
 > BEGIN STRING
 闇の冷凍切り身
-> CONTEXT: Items/41/name/ < UNTRANSLATED
+> CONTEXT: Items/41/name/
 Dark Frozen Fish
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 保存状態の良い魔の魚肉　食用不可
-> CONTEXT: Items/41/description/ < UNTRANSLATED
+> CONTEXT: Items/41/description/
 [For Selling]
 Preserved demonic fish, not for consumption
 > END STRING
 
 > BEGIN STRING
 曼珠沙華の鱗茎
-> CONTEXT: Items/42/name/ < UNTRANSLATED
+> CONTEXT: Items/42/name/
 Red Spider Lily Bulb
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 リコリス属の球根　強い魔力を秘めている
-> CONTEXT: Items/42/description/ < UNTRANSLATED
+> CONTEXT: Items/42/description/
 [For Selling]
 Lycoris bulbs possessing strong magic
 > END STRING
 
 > BEGIN STRING
 魔兎の耳朶
-> CONTEXT: Items/43/name/ < UNTRANSLATED
+> CONTEXT: Items/43/name/
 Demon Rabbit Ear
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 可愛い兎の魔物が落とす　可愛い耳たぶ
-> CONTEXT: Items/43/description/ < UNTRANSLATED
+> CONTEXT: Items/43/description/
 [For Selling]
 Cute earlobes dropped by a cute rabbit monster
 > END STRING
@@ -558,14 +558,14 @@ Cute earlobes dropped by a cute rabbit monster
 
 > BEGIN STRING
 魔天鼠の翼
-> CONTEXT: Items/47/name/ < UNTRANSLATED
+> CONTEXT: Items/47/name/
 Demon Rat Wings
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 竜の起源持つもの　疫病の素を為す翼
-> CONTEXT: Items/47/description/ < UNTRANSLATED
+> CONTEXT: Items/47/description/
 [For Selling]
 Originating from dragons, source of plague
 > END STRING
@@ -596,14 +596,14 @@ Originating from dragons, source of plague
 
 > BEGIN STRING
 濡れた触手片
-> CONTEXT: Items/52/name/ < UNTRANSLATED
+> CONTEXT: Items/52/name/
 Wet Tentacle
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ぬめっとした触手の切れ端　独特の触感
-> CONTEXT: Items/52/description/ < UNTRANSLATED
+> CONTEXT: Items/52/description/
 [For Selling]
 Slimy tentacle parts with unique texture
 > END STRING
@@ -628,14 +628,14 @@ Slimy tentacle parts with unique texture
 
 > BEGIN STRING
 蜘蛛の糸
-> CONTEXT: Items/56/name/ < UNTRANSLATED
+> CONTEXT: Items/56/name/
 Spider Web
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 因果の小車を回すらしいが　現状用途不明
-> CONTEXT: Items/56/description/ < UNTRANSLATED
+> CONTEXT: Items/56/description/
 [For Selling]
 May turn the Wheel of Causality
 > END STRING
@@ -660,14 +660,14 @@ May turn the Wheel of Causality
 
 > BEGIN STRING
 プリズムコア
-> CONTEXT: Items/60/name/ < UNTRANSLATED
+> CONTEXT: Items/60/name/
 Prism Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 八面体構造の魔物から採れた　核の部位
-> CONTEXT: Items/60/description/ < UNTRANSLATED
+> CONTEXT: Items/60/description/
 [For Selling]
 The core of an octahedral monster
 > END STRING
@@ -686,14 +686,14 @@ The core of an octahedral monster
 
 > BEGIN STRING
 香ばしいもの
-> CONTEXT: Items/63/name/ < UNTRANSLATED
+> CONTEXT: Items/63/name/
 Fragrant Things
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 深淵で振る舞われる謎の食材　食用厳禁
-> CONTEXT: Items/63/description/ < UNTRANSLATED
+> CONTEXT: Items/63/description/
 [For Selling]
 Mysterious ingredient, forbidden to eat
 > END STRING
@@ -706,14 +706,14 @@ Mysterious ingredient, forbidden to eat
 
 > BEGIN STRING
 未確認聖爪
-> CONTEXT: Items/65/name/ < UNTRANSLATED
+> CONTEXT: Items/65/name/
 Unidentified Holy Claw
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 謎めいた人型魔物から獲れた　鋭い爪の先
-> CONTEXT: Items/65/description/ < UNTRANSLATED
+> CONTEXT: Items/65/description/
 [For Selling]
 Sharp claw from a mysterious humanoid monster
 > END STRING
@@ -744,14 +744,14 @@ Sharp claw from a mysterious humanoid monster
 
 > BEGIN STRING
 天隕石
-> CONTEXT: Items/70/name/ < UNTRANSLATED
+> CONTEXT: Items/70/name/
 Meteorite
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 宇宙より飛来したとされる　謎めいた石
-> CONTEXT: Items/70/description/ < UNTRANSLATED
+> CONTEXT: Items/70/description/
 [For Selling]
 A mysterious stone from outer space
 > END STRING
@@ -770,14 +770,14 @@ A mysterious stone from outer space
 
 > BEGIN STRING
 鬼泪石
-> CONTEXT: Items/73/name/ < UNTRANSLATED
+> CONTEXT: Items/73/name/
 Demon Tear Stone
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 鬼が流す涙の結晶　希少な至高の宝石
-> CONTEXT: Items/73/description/ < UNTRANSLATED
+> CONTEXT: Items/73/description/
 [For Selling]
 Crystals of tears from demons, rare gemstones
 > END STRING
@@ -934,14 +934,14 @@ Crystals of tears from demons, rare gemstones
 
 > BEGIN STRING
 逆鱗
-> CONTEXT: Items/99/name/ < UNTRANSLATED
+> CONTEXT: Items/99/name/
 Wrath
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 強大なる竜が残した　顎許の鱗
-> CONTEXT: Items/99/description/ < UNTRANSLATED
+> CONTEXT: Items/99/description/
 [For Selling]
 Scales from the jaw of a mighty dragon
 > END STRING
@@ -1254,109 +1254,109 @@ Scales from the jaw of a mighty dragon
 
 > BEGIN STRING
 樹海の邪核
-> CONTEXT: Items/171/name/ < UNTRANSLATED
+> CONTEXT: Items/171/name/
 Evil Forest Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第１層を徘徊する凶悪な魔物の　コア部分
-> CONTEXT: Items/171/description/ < UNTRANSLATED
+> CONTEXT: Items/171/description/
 [For Selling]
 The core of a monster from the 1st layer
 > END STRING
 
 > BEGIN STRING
 地獄の邪核
-> CONTEXT: Items/172/name/ < UNTRANSLATED
+> CONTEXT: Items/172/name/
 Evil Hell Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第２層を徘徊する凶悪な魔物の　コア部分
-> CONTEXT: Items/172/description/ < UNTRANSLATED
+> CONTEXT: Items/172/description/
 [For Selling]
 The core of a monster from the 2nd layer
 > END STRING
 
 > BEGIN STRING
 魔胎の邪核
-> CONTEXT: Items/173/name/ < UNTRANSLATED
+> CONTEXT: Items/173/name/
 Evil Demon Womb Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第３層を徘徊する凶悪な魔物の　コア部分
-> CONTEXT: Items/173/description/ < UNTRANSLATED
+> CONTEXT: Items/173/description/
 The core of a monster from the 3rd layer
 > END STRING
 
 > BEGIN STRING
 古跡の邪核
-> CONTEXT: Items/174/name/ < UNTRANSLATED
+> CONTEXT: Items/174/name/
 Evil Ruins Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第４層を徘徊する凶悪な魔物の　コア部分
-> CONTEXT: Items/174/description/ < UNTRANSLATED
+> CONTEXT: Items/174/description/
 The core of a monster from the 4th layer
 > END STRING
 
 > BEGIN STRING
 虚構の邪核
-> CONTEXT: Items/175/name/ < UNTRANSLATED
+> CONTEXT: Items/175/name/
 Evil Fiction Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第５層を徘徊する凶悪な魔物の　コア部分
-> CONTEXT: Items/175/description/ < UNTRANSLATED
+> CONTEXT: Items/175/description/
 The core of a monster from the 5th layer
 > END STRING
 
 > BEGIN STRING
 貘の縮毛
-> CONTEXT: Items/181/name/ < UNTRANSLATED
+> CONTEXT: Items/181/name/
 Tapir's Curly Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 小型の貘から採取された　軽妙な抜け毛
-> CONTEXT: Items/181/description/ < UNTRANSLATED
+> CONTEXT: Items/181/description/
 [For Selling]
 Lightweight shed hair collected from small tapirs
 > END STRING
 
 > BEGIN STRING
 貘の直毛
-> CONTEXT: Items/182/name/ < UNTRANSLATED
+> CONTEXT: Items/182/name/
 Tapir's Straight Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 中型の貘から採取された　奇妙な抜け毛
-> CONTEXT: Items/182/description/ < UNTRANSLATED
+> CONTEXT: Items/182/description/
 [For Selling]
 Strange shed hair collected from a medium-sized tapir
 > END STRING
 
 > BEGIN STRING
 貘の捻転毛
-> CONTEXT: Items/183/name/ < UNTRANSLATED
+> CONTEXT: Items/183/name/
 Tapir's Twisted Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 大型の貘から採取された　珍妙な抜け毛
-> CONTEXT: Items/183/description/ < UNTRANSLATED
+> CONTEXT: Items/183/description/
 [For Selling]
 Unusual shed hair collected from a large tapir
 > END STRING
@@ -1369,282 +1369,282 @@ Unusual shed hair collected from a large tapir
 
 > BEGIN STRING
 Ｍ鉄銭
-> CONTEXT: Items/191/name/ < UNTRANSLATED
+> CONTEXT: Items/191/name/
 M Iron Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 １００円玉
-> CONTEXT: Items/191/description/ < UNTRANSLATED
+> CONTEXT: Items/191/description/
 [For Selling]
 100 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ銅貨
-> CONTEXT: Items/192/name/ < UNTRANSLATED
+> CONTEXT: Items/192/name/
 M Copper Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 １０００円玉
-> CONTEXT: Items/192/description/ < UNTRANSLATED
+> CONTEXT: Items/192/description/
 [For Selling]
 1000 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ銀貨
-> CONTEXT: Items/193/name/ < UNTRANSLATED
+> CONTEXT: Items/193/name/
 M Silver Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 諭吉
-> CONTEXT: Items/193/description/ < UNTRANSLATED
+> CONTEXT: Items/193/description/
 [For Selling]
 10000 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ金貨
-> CONTEXT: Items/194/name/ < UNTRANSLATED
+> CONTEXT: Items/194/name/
 M Gold Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 諭吉*10
-> CONTEXT: Items/194/description/ < UNTRANSLATED
+> CONTEXT: Items/194/description/
 [For Selling]
 100000 yen coin
 > END STRING
 
 > BEGIN STRING
 人魚パン
-> CONTEXT: Items/201/name/ < UNTRANSLATED
+> CONTEXT: Items/201/name/
 Mermaid Bread
 > END STRING
 
 > BEGIN STRING
 〘単:LP中回復〙
 超人の肉体が再生する　不思議な乾パン
-> CONTEXT: Items/201/description/ < UNTRANSLATED
-> CONTEXT: Items/217/description/ < UNTRANSLATED
-> CONTEXT: Items/219/description/ < UNTRANSLATED
+> CONTEXT: Items/201/description/
+> CONTEXT: Items/217/description/
+> CONTEXT: Items/219/description/
 [Single: LP Recovery]
 Regenerates the body of a superhuman
 > END STRING
 
 > BEGIN STRING
 甘露
-> CONTEXT: Items/202/name/ < UNTRANSLATED
+> CONTEXT: Items/202/name/
 Honeydew
 > END STRING
 
 > BEGIN STRING
 〘単:EP中回復〙
 天から降ると言われてる　とても甘い蜜薬
-> CONTEXT: Items/202/description/ < UNTRANSLATED
+> CONTEXT: Items/202/description/
 [Single: EP Recovery]
 A very sweet nectar from the heavens
 > END STRING
 
 > BEGIN STRING
 独角獣丹
-> CONTEXT: Items/203/name/ < UNTRANSLATED
+> CONTEXT: Items/203/name/
 Dokakujutan
 > END STRING
 
 > BEGIN STRING
 〘単:病気系バステ+被毒完治〙
 ユニコーンの角で作る　病気を治す丸薬
-> CONTEXT: Items/203/description/ < UNTRANSLATED
+> CONTEXT: Items/203/description/
 [Single: Disease/Poison Cure]
 A pill made from unicorn horn to cure diseases
 > END STRING
 
 > BEGIN STRING
 妖精膏
-> CONTEXT: Items/204/name/ < UNTRANSLATED
+> CONTEXT: Items/204/name/
 Fairy Plaster
 > END STRING
 
 > BEGIN STRING
 〘単:怪我系バステ+流血+火傷完治〙
 妖精たちが作る　怪我を治す軟膏薬
-> CONTEXT: Items/204/description/ < UNTRANSLATED
+> CONTEXT: Items/204/description/
 [Single: Injury/Bleed/Burn Cure]
 An ointment made by fairies to heal injuries
 > END STRING
 
 > BEGIN STRING
 反魂酒
-> CONTEXT: Items/205/name/ < UNTRANSLATED
+> CONTEXT: Items/205/name/
 Anti-Soul Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治〙
 仮死状態にある超人の魂が回帰する　薬酒
-> CONTEXT: Items/205/description/ < UNTRANSLATED
+> CONTEXT: Items/205/description/
 [Single: Faint Recovery]
 Liquor that re-animates a superhuman
 > END STRING
 
 > BEGIN STRING
 霊命酒
-> CONTEXT: Items/206/name/ < UNTRANSLATED
+> CONTEXT: Items/206/name/
 Spiritual Life Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治+LP中回復〙
 特別精製された命の水　戦線に復帰させる
-> CONTEXT: Items/206/description/ < UNTRANSLATED
+> CONTEXT: Items/206/description/
 [Single: Faint/LP Recovery]
 Brings one back to the battlefield
 > END STRING
 
 > BEGIN STRING
 天命酒
-> CONTEXT: Items/207/name/ < UNTRANSLATED
+> CONTEXT: Items/207/name/
 Destiny Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治+LP全回復〙
 天に選ばれた命の水　完全復帰が可能
-> CONTEXT: Items/207/description/ < UNTRANSLATED
+> CONTEXT: Items/207/description/
 [Single: Faint/Full LP Recovery]
 Heaven-chosen Water of Life, complete recovery
 > END STRING
 
 > BEGIN STRING
 肉霊芝
-> CONTEXT: Items/208/name/ < UNTRANSLATED
+> CONTEXT: Items/208/name/
 Reishi Mushroom
 > END STRING
 
 > BEGIN STRING
 〘単:LP大回復〙
 超高蛋白な肉質の茸　仙薬の素にもなる
-> CONTEXT: Items/208/description/ < UNTRANSLATED
+> CONTEXT: Items/208/description/
 [Single: Large LP Recovery]
 High in protein, also ingredient for elixirs
 > END STRING
 
 > BEGIN STRING
 錬金霊液
-> CONTEXT: Items/209/name/ < UNTRANSLATED
+> CONTEXT: Items/209/name/
 Alchemical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:EP全回復+バステ完治〙
 怪我と病気を癒し　精神力を満たす霊薬
-> CONTEXT: Items/209/description/ < UNTRANSLATED
+> CONTEXT: Items/209/description/
 [Single: Full EP/Status Recovery]
 Heals injuries and illnesses, replenishes the mind
 > END STRING
 
 > BEGIN STRING
 仙饌蜜酒
-> CONTEXT: Items/210/name/ < UNTRANSLATED
+> CONTEXT: Items/210/name/
 Sengen honey sake
 > END STRING
 
 > BEGIN STRING
 〘単:LP+EP全回復〙
 不死身を謳われる　食感のある飲料
-> CONTEXT: Items/210/description/ < UNTRANSLATED
+> CONTEXT: Items/210/description/
 [Single: Full LP/EP Recovery]
 Known for immortality, distinct texture
 > END STRING
 
 > BEGIN STRING
 ラージ人魚パン
-> CONTEXT: Items/211/name/ < UNTRANSLATED
+> CONTEXT: Items/211/name/
 Large Mermaid Bread
 > END STRING
 
 > BEGIN STRING
 〘全:LP中回復〙
 大型サイズの人魚パン　分け合って食べる
-> CONTEXT: Items/211/description/ < UNTRANSLATED
+> CONTEXT: Items/211/description/
 [All: LP Recovery]
 Large mermaid bread, share and eat together
 > END STRING
 
 > BEGIN STRING
 生命のスープ
-> CONTEXT: Items/212/name/ < UNTRANSLATED
+> CONTEXT: Items/212/name/
 Soup of Life
 > END STRING
 
 > BEGIN STRING
 〘全:気絶完治+LP中回復〙
 赤橙の色をした　魂のスープ
-> CONTEXT: Items/212/description/ < UNTRANSLATED
+> CONTEXT: Items/212/description/
 [All: Faint/LP Recovery]
 A reddish-orange colored soup of souls
 > END STRING
 
 > BEGIN STRING
 海の毒薬
-> CONTEXT: Items/213/name/ < UNTRANSLATED
+> CONTEXT: Items/213/name/
 Sea Poison
 > END STRING
 
 > BEGIN STRING
 〘単:LP大傷害〙
 倫理観に欠ける　冒涜的な液体
-> CONTEXT: Items/213/description/ < UNTRANSLATED
+> CONTEXT: Items/213/description/
 [Single: Large LP Injury]
 Blasphemous liquid lacking in morality
 > END STRING
 
 > BEGIN STRING
 聖金大浴布
-> CONTEXT: Items/214/name/ < UNTRANSLATED
+> CONTEXT: Items/214/name/
 Large Holy Towel
 > END STRING
 
 > BEGIN STRING
 〘全:病気+怪我系バステ完治〙
 全バステを治す　巨大な濡れタオル
-> CONTEXT: Items/214/description/ < UNTRANSLATED
+> CONTEXT: Items/214/description/
 [All: Disease/Injury Recovery]
 A giant wet towel that cures all ailments
 > END STRING
 
 > BEGIN STRING
 井戸の誘い水
-> CONTEXT: Items/215/name/ < UNTRANSLATED
+> CONTEXT: Items/215/name/
 Well Priming Water
 > END STRING
 
 > BEGIN STRING
 〘フロア移動〙
 不可思議な呼び水で　その場で井戸に潜る
-> CONTEXT: Items/215/description/ < UNTRANSLATED
+> CONTEXT: Items/215/description/
 [Floor Change]
 Makes you dive into the well on the spot
 > END STRING
 
 > BEGIN STRING
 盗賊の極意水
-> CONTEXT: Items/216/name/ < UNTRANSLATED
+> CONTEXT: Items/216/name/
 Thief's Secret Water
 > END STRING
 
 > BEGIN STRING
 〘単:撃破時素材確定〙
 水溶液を飲むと　素材回収の精度が高まる
-> CONTEXT: Items/216/description/ < UNTRANSLATED
+> CONTEXT: Items/216/description/
 [Single: 100% Drop Rate]
 Drinking this improves material collection
 > END STRING
@@ -1676,210 +1676,210 @@ Hardtack that heals ubermensch's body
 
 > BEGIN STRING
 証明の秘水
-> CONTEXT: Items/220/name/ < UNTRANSLATED
+> CONTEXT: Items/220/name/
 Secret Water Proof
 > END STRING
 
 > BEGIN STRING
 〘全:LP+EP全回復/枯渇解消〙
 手にした　あなたは　夢魔の迷宮の王
-> CONTEXT: Items/220/description/ < UNTRANSLATED
+> CONTEXT: Items/220/description/
 [All: Full LP/EP/Depletion Recovery]
 Proof of the King of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 火の精霊薬
-> CONTEXT: Items/221/name/ < UNTRANSLATED
+> CONTEXT: Items/221/name/
 Fire Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:火炎属性強化+LP大回復〙
 僅かの間　火の精霊の加護を得る
-> CONTEXT: Items/221/description/ < UNTRANSLATED
+> CONTEXT: Items/221/description/
 [Single: Fire Enchant/Large LP Recovery]
 For a time, gain the blessing of the fire spirit
 > END STRING
 
 > BEGIN STRING
 水の精霊薬
-> CONTEXT: Items/222/name/ < UNTRANSLATED
+> CONTEXT: Items/222/name/
 Water Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:水氷属性強化+LP大回復〙
 僅かの間　水の精霊の加護を得る
-> CONTEXT: Items/222/description/ < UNTRANSLATED
+> CONTEXT: Items/222/description/
 [Single: Water/Ice Enchant/Large LP Recovery]
 For a time, gain the blessing of the water spirit
 > END STRING
 
 > BEGIN STRING
 風の精霊薬
-> CONTEXT: Items/223/name/ < UNTRANSLATED
+> CONTEXT: Items/223/name/
 Wind Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:切斬属性強化+LP大回復〙
 僅かの間　風の精霊の加護を得る
-> CONTEXT: Items/223/description/ < UNTRANSLATED
+> CONTEXT: Items/223/description/
 [Single: Slash Enchant/Large LP Recovery]
 For a time, gain the blessing of the wind spirit
 > END STRING
 
 > BEGIN STRING
 土の精霊薬
-> CONTEXT: Items/224/name/ < UNTRANSLATED
+> CONTEXT: Items/224/name/
 Earth spirit potion
 > END STRING
 
 > BEGIN STRING
 〘単:打壊属性強化+LP大回復〙
 僅かの間　土の精霊の加護を得る
-> CONTEXT: Items/224/description/ < UNTRANSLATED
+> CONTEXT: Items/224/description/
 [Single: Destruction Enchant/Large LP Recovery]
 For a time, gain the blessing of the earth spirit
 > END STRING
 
 > BEGIN STRING
 草の精霊薬
-> CONTEXT: Items/225/name/ < UNTRANSLATED
+> CONTEXT: Items/225/name/
 Herb Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:突貫属性強化+LP大回復〙
 僅かの間　草の精霊の加護を得る
-> CONTEXT: Items/225/description/ < UNTRANSLATED
+> CONTEXT: Items/225/description/
 [Single: Charge Enchant/Large LP Recovery]
 For a time, gain the blessing of the grass spirit
 > END STRING
 
 > BEGIN STRING
 雷の精霊薬
-> CONTEXT: Items/226/name/ < UNTRANSLATED
+> CONTEXT: Items/226/name/
 Thunder Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:雷電属性強化+LP大回復〙
 僅かの間　雷の精霊の加護を得る
-> CONTEXT: Items/226/description/ < UNTRANSLATED
+> CONTEXT: Items/226/description/
 [Single: Lightning Enchant/Large LP Recovery]
 For a time, gain the blessing of the lightning spirit
 > END STRING
 
 > BEGIN STRING
 闇の精霊薬
-> CONTEXT: Items/227/name/ < UNTRANSLATED
+> CONTEXT: Items/227/name/
 Dark Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:巻物山彦発動+防衛面↓+EP大回復〙
 僅かの間　闇の精霊の力で　呪文連続発動
-> CONTEXT: Items/227/description/ < UNTRANSLATED
+> CONTEXT: Items/227/description/
 [Single: Scroll Echo/Defense Down/Large EP Recovery]
 For a time, allows for continuous spell casting
 > END STRING
 
 > BEGIN STRING
 光の精霊薬
-> CONTEXT: Items/228/name/ < UNTRANSLATED
+> CONTEXT: Items/228/name/
 Light Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:不屈付与+LP大回復〙
 僅かの間　光の精霊が　高確率致命傷回避
-> CONTEXT: Items/228/description/ < UNTRANSLATED
+> CONTEXT: Items/228/description/
 [Single: Indomitable/Large LP Recovery]
 For a time, high chance of avoiding fatal damage
 > END STRING
 
 > BEGIN STRING
 究極の物理霊薬
-> CONTEXT: Items/229/name/ < UNTRANSLATED
+> CONTEXT: Items/229/name/
 Ultimate Physical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:物理属性強化〙
 僅かの間　切斬・突貫・打壊属性を強化
-> CONTEXT: Items/229/description/ < UNTRANSLATED
+> CONTEXT: Items/229/description/
 [Single: Physical Enchant]
 Enhances physical attributes for a time
 > END STRING
 
 > BEGIN STRING
 至高の化学霊薬
-> CONTEXT: Items/230/name/ < UNTRANSLATED
+> CONTEXT: Items/230/name/
 Ultimate Chemical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:化学属性強化〙
 僅かの間　火炎・水氷・雷電属性を強化
-> CONTEXT: Items/230/description/ < UNTRANSLATED
+> CONTEXT: Items/230/description/
 [Single: Chemical Enchant]
 Enhances elemental attributes for a short time
 > END STRING
 
 > BEGIN STRING
 邪気祓いのお香
-> CONTEXT: Items/231/name/ < UNTRANSLATED
+> CONTEXT: Items/231/name/
 Jaqi Ward
 > END STRING
 
 > BEGIN STRING
 〘邪気弱腰/通常戦闘時敵全スタン〙
 清涼な香りに　フロア内の邪気が及び腰に
-> CONTEXT: Items/231/description/ < UNTRANSLATED
+> CONTEXT: Items/231/description/
 [Jaqi Become Weak/Stun During Normal Combat]
 The refreshing scent makes Jaqi hesitant
 > END STRING
 
 > BEGIN STRING
 邪気寄せのお香
-> CONTEXT: Items/232/name/ < UNTRANSLATED
+> CONTEXT: Items/232/name/
 Jaqi Lure
 > END STRING
 
 > BEGIN STRING
 〘邪気活性〙〘EXP獲得率↑〙
 陰惨な香りで　フロア内の邪気に狙われる
-> CONTEXT: Items/232/description/ < UNTRANSLATED
+> CONTEXT: Items/232/description/
 [Jaqi Activation][EXP Rate Up]
 A sinister scent targets Jaqi throughout the floor
 > END STRING
 
 > BEGIN STRING
 邪気縛りのお香
-> CONTEXT: Items/233/name/ < UNTRANSLATED
+> CONTEXT: Items/233/name/
 Jaqi Bind
 > END STRING
 
 > BEGIN STRING
 〘邪気停滞/通常戦闘時敵全麻痺〙
 高貴な香りが　フロア内の邪気を金縛りに
-> CONTEXT: Items/233/description/ < UNTRANSLATED
+> CONTEXT: Items/233/description/
 [Jaqi Halt/Paralyzed During Normal Combat]
 A noble fragrance paralyzes the Jaqi within the floor
 > END STRING
 
 > BEGIN STRING
 エスティント香
-> CONTEXT: Items/234/name/ < UNTRANSLATED
+> CONTEXT: Items/234/name/
 Estint Fragrance
 > END STRING
 
 > BEGIN STRING
 〘ダッシュ時邪気無変化〙
 足音が聞こえなくなる　暗殺者の香り
-> CONTEXT: Items/234/description/ < UNTRANSLATED
+> CONTEXT: Items/234/description/
 [No change in Jaqi while dashing]
 Footsteps become inaudible. Assassin's scent
 > END STRING
@@ -1887,7 +1887,7 @@ Footsteps become inaudible. Assassin's scent
 > BEGIN STRING
 〘単:ATK↑〙
 フロア移動まで　攻撃力を高める丸薬
-> CONTEXT: Items/235/description/ < UNTRANSLATED
+> CONTEXT: Items/235/description/
 [Single: ATK↑]
 Increases attack until next floor
 > END STRING
@@ -1895,7 +1895,7 @@ Increases attack until next floor
 > BEGIN STRING
 〘単:DEF↑〙
 フロア移動まで　防御力を高める丸薬
-> CONTEXT: Items/236/description/ < UNTRANSLATED
+> CONTEXT: Items/236/description/
 [Single: DEF↑]
 Increases defense until next floor
 > END STRING
@@ -1903,7 +1903,7 @@ Increases defense until next floor
 > BEGIN STRING
 〘単:PSY+坑呪力↑〙
 フロア内　霊力と呪文への抵抗力を高める
-> CONTEXT: Items/237/description/ < UNTRANSLATED
+> CONTEXT: Items/237/description/
 [Single: PSY/Resistance↑]
 Improves spells and resistance until next floor
 > END STRING
@@ -1911,7 +1911,7 @@ Improves spells and resistance until next floor
 > BEGIN STRING
 〘単:AGI+回避力↑〙
 フロア移動まで　敏捷性を高める丸薬
-> CONTEXT: Items/238/description/ < UNTRANSLATED
+> CONTEXT: Items/238/description/
 [Single: AGI/Evasion↑]
 Increases agility until next floor
 > END STRING
@@ -1919,77 +1919,77 @@ Increases agility until next floor
 > BEGIN STRING
 〘単:CON+命中力↑〙
 フロア移動まで　集中力を高める丸薬
-> CONTEXT: Items/239/description/ < UNTRANSLATED
+> CONTEXT: Items/239/description/
 [Single: CON/Accuracy↑]
 Enhance concentration until next floor
 > END STRING
 
 > BEGIN STRING
 遁術具
-> CONTEXT: Items/240/name/ < UNTRANSLATED
+> CONTEXT: Items/240/name/
 Tonjutsu Tool
 > END STRING
 
 > BEGIN STRING
 〘戦闘時確実逃走〙
 忍者が扱う戦闘離脱の道具　戦闘時限定
-> CONTEXT: Items/240/description/ < UNTRANSLATED
+> CONTEXT: Items/240/description/
 [Guaranteed Escape During Combat]
 Used by ninjas for escaping combat, combat only
 > END STRING
 
 > BEGIN STRING
 複製の変成液
-> CONTEXT: Items/241/name/ < UNTRANSLATED
+> CONTEXT: Items/241/name/
 Replication Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム増殖〙
 液を掛けた瓶詰か巻物を　もう一つ入手
-> CONTEXT: Items/241/description/ < UNTRANSLATED
+> CONTEXT: Items/241/description/
 [Duplicate Specified Item]
 Obtain a duplicate of an item
 > END STRING
 
 > BEGIN STRING
 変化の変成液
-> CONTEXT: Items/242/name/ < UNTRANSLATED
+> CONTEXT: Items/242/name/
 Transformation Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム変化〙
 液を掛けた瓶詰か巻物が　別物に変化
-> CONTEXT: Items/242/description/ < UNTRANSLATED
+> CONTEXT: Items/242/description/
 [Transform Specified Item]
 Transform an item into something else
 > END STRING
 
 > BEGIN STRING
 識別の変成液
-> CONTEXT: Items/243/name/ < UNTRANSLATED
+> CONTEXT: Items/243/name/
 Identification Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム識別/戦闘時分析〙
 未識別の瓶詰か巻物に　液を掛けて解明
-> CONTEXT: Items/243/description/ < UNTRANSLATED
+> CONTEXT: Items/243/description/
 [Identify Specified Item/In-Battle Analysis]
 Apply on an item to identify it
 > END STRING
 
 > BEGIN STRING
 黄金四葉草
-> CONTEXT: Items/250/name/ < UNTRANSLATED
+> CONTEXT: Items/250/name/
 Golden Quatrefoil
 > END STRING
 
 > BEGIN STRING
 〘単:Lv1UP〙
 金色に輝く　四つ葉のクローバー
-> CONTEXT: Items/250/description/ < UNTRANSLATED
+> CONTEXT: Items/250/description/
 [Single: Level UP]
 A four-leaf clover shining with a golden light
 > END STRING
@@ -2318,14 +2318,14 @@ Send your wish and summon a demon
 
 > BEGIN STRING
 想いの鍵
-> CONTEXT: Items/300/name/ < UNTRANSLATED
+> CONTEXT: Items/300/name/
 Key to Feelings
 > END STRING
 
 > BEGIN STRING
 
 ゲル状の先端を持つ　使い捨ての脆い鍵
-> CONTEXT: Items/300/description/ < UNTRANSLATED
+> CONTEXT: Items/300/description/
 A disposable, brittle key with a gel-like tip
 > END STRING
 
@@ -2345,126 +2345,126 @@ End of your dream: Labyrinth escape item
 
 > BEGIN STRING
 どこでもエッチ
-> CONTEXT: Items/302/name/ < UNTRANSLATED
+> CONTEXT: Items/302/name/
 Sex Anywhere
 > END STRING
 
 > BEGIN STRING
 〘ダンジョン脱出〙〘6F以下限定〙
 安全な場所でなら性交渉でき　迷宮脱出
-> CONTEXT: Items/302/description/ < UNTRANSLATED
+> CONTEXT: Items/302/description/
 [Dungeon Escape][6F or Below Only]
 Sex is possible in a safe place. Dungeon Escape
 > END STRING
 
 > BEGIN STRING
 ビックリ☆バコ
-> CONTEXT: Items/303/name/ < UNTRANSLATED
+> CONTEXT: Items/303/name/
 Surprise☆Box
 > END STRING
 
 > BEGIN STRING
 〘装備品入手〙〘夢界中心限定〙
 夢魔の迷宮深層より取り寄せ謎のガチャ箱
-> CONTEXT: Items/303/description/ < UNTRANSLATED
+> CONTEXT: Items/303/description/
 [Get Equipment][Central Realms of Reverie Only]
 Gacha box from the depths of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 ビックリ★バコ
-> CONTEXT: Items/304/name/ < UNTRANSLATED
+> CONTEXT: Items/304/name/
 Surprise★Box
 > END STRING
 
 > BEGIN STRING
 〘装備品入手〙〘夢界中心限定〙
 夢魔の迷宮深淵より取り寄せ謎のガチャ箱
-> CONTEXT: Items/304/description/ < UNTRANSLATED
+> CONTEXT: Items/304/description/
 [Get Equipment][Central Realms of Reverie Only]
 Gacha box from the abyss of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 ロゴスの鍵
-> CONTEXT: Items/401/name/ < UNTRANSLATED
+> CONTEXT: Items/401/name/
 Key of Logos
 > END STRING
 
 > BEGIN STRING
 
 ロゴスへの道を拓く　正にキーアイテム
-> CONTEXT: Items/401/description/ < UNTRANSLATED
+> CONTEXT: Items/401/description/
 
 The key that paves the way to Logos
 > END STRING
 
 > BEGIN STRING
 炎霊犀の鍵
-> CONTEXT: Items/404/name/ < UNTRANSLATED
+> CONTEXT: Items/404/name/
 Flame Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く赤鍵
-> CONTEXT: Items/404/description/ < UNTRANSLATED
+> CONTEXT: Items/404/description/
 A red key that opens the door to true love, 
 imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 氷霊犀の鍵
-> CONTEXT: Items/405/name/ < UNTRANSLATED
+> CONTEXT: Items/405/name/
 Ice Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く青鍵
-> CONTEXT: Items/405/description/ < UNTRANSLATED
+> CONTEXT: Items/405/description/
 The blue key that opens the door to true love, 
 imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 雷霊犀の鍵
-> CONTEXT: Items/406/name/ < UNTRANSLATED
+> CONTEXT: Items/406/name/
 Thunder Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く紫鍵
-> CONTEXT: Items/406/description/ < UNTRANSLATED
+> CONTEXT: Items/406/description/
 A purple key that opens the door to true love, 
 imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 小型夢界端末
-> CONTEXT: Items/899/name/ < UNTRANSLATED
+> CONTEXT: Items/899/name/
 Small Dream World Terminal
 > END STRING
 
 > BEGIN STRING
 〘閲覧〙
 ３つの機能を限定的に確認する　通信端末
-> CONTEXT: Items/899/description/ < UNTRANSLATED
+> CONTEXT: Items/899/description/
 [Viewing]
 Verify 3 functions of a communication terminal
 > END STRING
 
 > BEGIN STRING
 超級尋宝士目録
-> CONTEXT: Items/900/name/ < UNTRANSLATED
+> CONTEXT: Items/900/name/
 Super Treasure Hunter Catalog
 > END STRING
 
 > BEGIN STRING
 〘蒐集図鑑呼び出し〙
 入手済のアイテムと装備を　閲覧できる
-> CONTEXT: Items/900/description/ < UNTRANSLATED
+> CONTEXT: Items/900/description/
 [Collection Encyclopedia Access]
 View items and equipment already acquired
 > END STRING

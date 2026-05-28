@@ -789,8 +789,8 @@ Confusion
 
 > BEGIN STRING
 EX不覚
-> CONTEXT: States/110/name/ < UNTRANSLATED
-> CONTEXT: Skills/300/name/ < UNTRANSLATED
+> CONTEXT: States/110/name/
+> CONTEXT: Skills/300/name/
 EX Unaware
 > END STRING
 
@@ -1418,15 +1418,15 @@ EP回復
 
 > BEGIN STRING
 死亡信息
-> CONTEXT: States/220/name/ < UNTRANSLATED
-> CONTEXT: Skills/518/name/ < UNTRANSLATED
+> CONTEXT: States/220/name/
+> CONTEXT: Skills/518/name/
 Death Knowledge
 > END STRING
 
 > BEGIN STRING
 奇跡の内服薬
-> CONTEXT: States/221/name/ < UNTRANSLATED
-> CONTEXT: Skills/419/name/ < UNTRANSLATED
+> CONTEXT: States/221/name/
+> CONTEXT: Skills/419/name/
 Miraculous Oral Medicine
 > END STRING
 
@@ -2000,40 +2000,40 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 蒼天竜の丹薬
-> CONTEXT: States/302/name/ < UNTRANSLATED
-> CONTEXT: Items/235/name/ < UNTRANSLATED
+> CONTEXT: States/302/name/
+> CONTEXT: Items/235/name/
 Azure Dragon Elixir
 > END STRING
 
 > BEGIN STRING
 は　蒼天竜の攻撃力を得た！
-> CONTEXT: States/302/message1/ < UNTRANSLATED
+> CONTEXT: States/302/message1/
  gained power of the Azure Sky Dragon!
 > END STRING
 
 > BEGIN STRING
 仁獣の丹薬
-> CONTEXT: States/303/name/ < UNTRANSLATED
-> CONTEXT: Items/236/name/ < UNTRANSLATED
+> CONTEXT: States/303/name/
+> CONTEXT: Items/236/name/
 Elixir of Benevolence
 > END STRING
 
 > BEGIN STRING
 は　仁獣の防御力を得た！
-> CONTEXT: States/303/message1/ < UNTRANSLATED
+> CONTEXT: States/303/message1/
  gained the defense of the Benevolent Beast!
 > END STRING
 
 > BEGIN STRING
 長老亀の丹薬
-> CONTEXT: States/304/name/ < UNTRANSLATED
-> CONTEXT: Items/237/name/ < UNTRANSLATED
+> CONTEXT: States/304/name/
+> CONTEXT: Items/237/name/
 Elder Turtle Elixir
 > END STRING
 
 > BEGIN STRING
 は　長老亀の霊力を得た！
-> CONTEXT: States/304/message1/ < UNTRANSLATED
+> CONTEXT: States/304/message1/
  gained the power of the elder turtle!
 > END STRING
 
@@ -2051,14 +2051,14 @@ Elder Turtle Elixir
 
 > BEGIN STRING
 飛翔鳥の丹薬
-> CONTEXT: States/306/name/ < UNTRANSLATED
-> CONTEXT: Items/238/name/ < UNTRANSLATED
+> CONTEXT: States/306/name/
+> CONTEXT: Items/238/name/
 Flying Bird Elixir
 > END STRING
 
 > BEGIN STRING
 は　飛翔鳥の敏捷性を得た！
-> CONTEXT: States/306/message1/ < UNTRANSLATED
+> CONTEXT: States/306/message1/
  gained the agility of a flying bird!
 > END STRING
 
@@ -2076,14 +2076,14 @@ Flying Bird Elixir
 
 > BEGIN STRING
 白獅子の丹薬
-> CONTEXT: States/308/name/ < UNTRANSLATED
-> CONTEXT: Items/239/name/ < UNTRANSLATED
+> CONTEXT: States/308/name/
+> CONTEXT: Items/239/name/
 White Lion Elixir
 > END STRING
 
 > BEGIN STRING
 は　白獅子の集中力を得た！
-> CONTEXT: States/308/message1/ < UNTRANSLATED
+> CONTEXT: States/308/message1/
  gained the concentration of a white lion!
 > END STRING
 
@@ -2101,40 +2101,40 @@ White Lion Elixir
 
 > BEGIN STRING
 あかき武氣
-> CONTEXT: States/314/name/ < UNTRANSLATED
-> CONTEXT: Skills/914/name/ < UNTRANSLATED
+> CONTEXT: States/314/name/
+> CONTEXT: Skills/914/name/
 Red Arts
 > END STRING
 
 > BEGIN STRING
 の火炎耐性が　強化！
-> CONTEXT: States/314/message1/ < UNTRANSLATED
+> CONTEXT: States/314/message1/
  enhanced fire resistance!
 > END STRING
 
 > BEGIN STRING
 あおき武氣
-> CONTEXT: States/315/name/ < UNTRANSLATED
-> CONTEXT: Skills/915/name/ < UNTRANSLATED
+> CONTEXT: States/315/name/
+> CONTEXT: Skills/915/name/
 Blue Arts
 > END STRING
 
 > BEGIN STRING
 の水氷耐性が　強化！
-> CONTEXT: States/315/message1/ < UNTRANSLATED
+> CONTEXT: States/315/message1/
  enhanced water and ice resistance!
 > END STRING
 
 > BEGIN STRING
 むらさき武氣
-> CONTEXT: States/316/name/ < UNTRANSLATED
-> CONTEXT: Skills/916/name/ < UNTRANSLATED
+> CONTEXT: States/316/name/
+> CONTEXT: Skills/916/name/
 Purple Arts
 > END STRING
 
 > BEGIN STRING
 の雷電耐性が　強化！
-> CONTEXT: States/316/message1/ < UNTRANSLATED
+> CONTEXT: States/316/message1/
  enhanced lightning resistance!
 > END STRING
 
@@ -2158,17 +2158,17 @@ Purple Arts
 
 > BEGIN STRING
 仕込み
-> CONTEXT: States/402/name/ < UNTRANSLATED
-> CONTEXT: Skills/648/name/ < UNTRANSLATED
+> CONTEXT: States/402/name/
+> CONTEXT: Skills/648/name/
 Preparation
 > END STRING
 
 > BEGIN STRING
 の　予備動作に要注意！
-> CONTEXT: States/402/message3/ < UNTRANSLATED
-> CONTEXT: States/403/message3/ < UNTRANSLATED
-> CONTEXT: States/405/message3/ < UNTRANSLATED
-> CONTEXT: States/408/message3/ < UNTRANSLATED
+> CONTEXT: States/402/message3/
+> CONTEXT: States/403/message3/
+> CONTEXT: States/405/message3/
+> CONTEXT: States/408/message3/
  prepares carefully!
 > END STRING
 
@@ -2228,14 +2228,14 @@ Preparation
 
 > BEGIN STRING
 悪夢の予知夢
-> CONTEXT: States/408/name/ < UNTRANSLATED
-> CONTEXT: Skills/917/name/ < UNTRANSLATED
+> CONTEXT: States/408/name/
+> CONTEXT: Skills/917/name/
 Nightmare Foresight
 > END STRING
 
 > BEGIN STRING
 邪気が　臨界点を突破！
-> CONTEXT: States/408/message2/ < UNTRANSLATED
+> CONTEXT: States/408/message2/
 Jaqi reached a critical point!
 > END STRING
 

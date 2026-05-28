@@ -1,0 +1,1 @@
+"../rpgmt_cli_v4.5/rpgmt.exe" "..\Maze of Succubus"
