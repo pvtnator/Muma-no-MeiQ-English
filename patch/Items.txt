@@ -15,27 +15,29 @@
 > BEGIN STRING
 砕かれた骨
 > CONTEXT: Items/2/name/ < UNTRANSLATED
-
+Shattered Bones
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 消滅せずに残った　遺骨の一部
 > CONTEXT: Items/2/description/ < UNTRANSLATED
-
+[For Selling]
+Some remains that did not disappear
 > END STRING
 
 > BEGIN STRING
 魔肉
 > CONTEXT: Items/3/name/ < UNTRANSLATED
-
+Demon Meat
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔術や錬金に使う魔物の生肉　食用不可
 > CONTEXT: Items/3/description/ < UNTRANSLATED
-
+[For Selling]
+For magic and alchemy, not consumption
 > END STRING
 
 > BEGIN STRING
@@ -170,7 +172,8 @@
 > CONTEXT: Items/149/description/ < UNTRANSLATED
 > CONTEXT: Items/150/description/ < UNTRANSLATED
 > CONTEXT: Items/189/description/ < UNTRANSLATED
-
+[For Selling]
+You shouldn't see this
 > END STRING
 
 > BEGIN STRING
@@ -188,14 +191,15 @@
 > BEGIN STRING
 魔鉄片
 > CONTEXT: Items/7/name/ < UNTRANSLATED
-
+Magic Iron Fragment
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔物から剥がれ落ちた　鋼鉄の欠片
 > CONTEXT: Items/7/description/ < UNTRANSLATED
-
+[For Selling]
+Steel fragments fallen from monsters
 > END STRING
 
 > BEGIN STRING
@@ -207,27 +211,29 @@
 > BEGIN STRING
 娑界の歯車
 > CONTEXT: Items/9/name/ < UNTRANSLATED
-
+World Gear
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 苦しみの念が籠もった　重々しいギア
 > CONTEXT: Items/9/description/ < UNTRANSLATED
-
+[For Selling]
+A heavy gear imbued with feelings of suffering
 > END STRING
 
 > BEGIN STRING
 ゲルの欠片
 > CONTEXT: Items/10/name/ < UNTRANSLATED
-
+Gel Fragment
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 スライム状の物質　癖になる手触りだ
 > CONTEXT: Items/10/description/ < UNTRANSLATED
-
+[For Selling]
+Slime-like substance with an addictive texture
 > END STRING
 
 > BEGIN STRING
@@ -245,14 +251,15 @@
 > BEGIN STRING
 悪魔の羽
 > CONTEXT: Items/13/name/ < UNTRANSLATED
-
+Devil's Wings
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 悪魔的な魔物から獲れる　大きな黒羽
 > CONTEXT: Items/13/description/ < UNTRANSLATED
-
+[For Selling]
+Large black feathers obtained from demons
 > END STRING
 
 > BEGIN STRING
@@ -270,27 +277,29 @@
 > BEGIN STRING
 魔刃片
 > CONTEXT: Items/16/name/ < UNTRANSLATED
-
+Magic Blade Piece
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 邪気で穢れた武具の欠片　冶金素材になる
 > CONTEXT: Items/16/description/ < UNTRANSLATED
-
+[For Selling]
+Fragments tainted by Jaqi, used as materials
 > END STRING
 
 > BEGIN STRING
 邪茸カット
 > CONTEXT: Items/17/name/ < UNTRANSLATED
-
+Evil Mushroom Cut
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 茸の魔物をカットしたもの　食用厳禁
 > CONTEXT: Items/17/description/ < UNTRANSLATED
-
+[For Selling]
+Mushroom monster cut, forbidden to eat
 > END STRING
 
 > BEGIN STRING
@@ -314,27 +323,29 @@
 > BEGIN STRING
 三毛卸筆
 > CONTEXT: Items/21/name/ < UNTRANSLATED
-
+Calico Brush
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 初心な闇魔童士が呪文を記すのに用いた筆
 > CONTEXT: Items/21/description/ < UNTRANSLATED
-
+[For Selling]
+Used by a novice dark magician to write spells
 > END STRING
 
 > BEGIN STRING
 在庫処分ワニ革
 > CONTEXT: Items/22/name/ < UNTRANSLATED
-
+Crocodile Leather
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 日用品に加工できる　レザー素材
 > CONTEXT: Items/22/description/ < UNTRANSLATED
-
+[For Selling]
+Leather material, processed into everyday items
 > END STRING
 
 > BEGIN STRING
@@ -358,14 +369,15 @@
 > BEGIN STRING
 魔魚骨
 > CONTEXT: Items/26/name/ < UNTRANSLATED
-
+Demon Fish Bone
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 魔力の宿った　魚の骨
 > CONTEXT: Items/26/description/ < UNTRANSLATED
-
+[For Selling]
+Magical Fishbone
 > END STRING
 
 > BEGIN STRING
@@ -395,40 +407,43 @@
 > BEGIN STRING
 赤きゲル核
 > CONTEXT: Items/31/name/ < UNTRANSLATED
-
+Red Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと温かい　真っ赤なゲルの核
 > CONTEXT: Items/31/description/ < UNTRANSLATED
-
+[For Selling]
+A slightly warm, bright red gel core
 > END STRING
 
 > BEGIN STRING
 青きゲル核
 > CONTEXT: Items/32/name/ < UNTRANSLATED
-
+Blue Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと冷たい　真っ青なゲルの核
 > CONTEXT: Items/32/description/ < UNTRANSLATED
-
+[For Selling]
+A slightly cool, bright blue gel core
 > END STRING
 
 > BEGIN STRING
 紫ゲル核
 > CONTEXT: Items/33/name/ < UNTRANSLATED
-
+Violet Gel Nucleus
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ほんのりと痺れる　紫色のゲルの核
 > CONTEXT: Items/33/description/ < UNTRANSLATED
-
+[For Selling]
+A slightly numbing, purple gel core
 > END STRING
 
 > BEGIN STRING
@@ -446,14 +461,15 @@
 > BEGIN STRING
 有鱗目の落鱗
 > CONTEXT: Items/36/name/ < UNTRANSLATED
-
+Squamata Scale
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 蜥蜴の魔物の目から落ちた　不思議な鱗
 > CONTEXT: Items/36/description/ < UNTRANSLATED
-
+[For Selling]
+Mysterious scales from the eyes of a lizard
 > END STRING
 
 > BEGIN STRING
@@ -483,40 +499,43 @@
 > BEGIN STRING
 闇の冷凍切り身
 > CONTEXT: Items/41/name/ < UNTRANSLATED
-
+Dark Frozen Fish
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 保存状態の良い魔の魚肉　食用不可
 > CONTEXT: Items/41/description/ < UNTRANSLATED
-
+[For Selling]
+Preserved demonic fish, not for consumption
 > END STRING
 
 > BEGIN STRING
 曼珠沙華の鱗茎
 > CONTEXT: Items/42/name/ < UNTRANSLATED
-
+Red Spider Lily Bulb
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 リコリス属の球根　強い魔力を秘めている
 > CONTEXT: Items/42/description/ < UNTRANSLATED
-
+[For Selling]
+Lycoris bulbs possessing strong magic
 > END STRING
 
 > BEGIN STRING
 魔兎の耳朶
 > CONTEXT: Items/43/name/ < UNTRANSLATED
-
+Demon Rabbit Ear
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 可愛い兎の魔物が落とす　可愛い耳たぶ
 > CONTEXT: Items/43/description/ < UNTRANSLATED
-
+[For Selling]
+Cute earlobes dropped by a cute rabbit monster
 > END STRING
 
 > BEGIN STRING
@@ -540,14 +559,15 @@
 > BEGIN STRING
 魔天鼠の翼
 > CONTEXT: Items/47/name/ < UNTRANSLATED
-
+Demon Rat Wings
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 竜の起源持つもの　疫病の素を為す翼
 > CONTEXT: Items/47/description/ < UNTRANSLATED
-
+[For Selling]
+Originating from dragons, source of plague
 > END STRING
 
 > BEGIN STRING
@@ -577,14 +597,15 @@
 > BEGIN STRING
 濡れた触手片
 > CONTEXT: Items/52/name/ < UNTRANSLATED
-
+Wet Tentacle
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 ぬめっとした触手の切れ端　独特の触感
 > CONTEXT: Items/52/description/ < UNTRANSLATED
-
+[For Selling]
+Slimy tentacle parts with unique texture
 > END STRING
 
 > BEGIN STRING
@@ -608,14 +629,15 @@
 > BEGIN STRING
 蜘蛛の糸
 > CONTEXT: Items/56/name/ < UNTRANSLATED
-
+Spider Web
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 因果の小車を回すらしいが　現状用途不明
 > CONTEXT: Items/56/description/ < UNTRANSLATED
-
+[For Selling]
+May turn the Wheel of Causality
 > END STRING
 
 > BEGIN STRING
@@ -639,14 +661,15 @@
 > BEGIN STRING
 プリズムコア
 > CONTEXT: Items/60/name/ < UNTRANSLATED
-
+Prism Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 八面体構造の魔物から採れた　核の部位
 > CONTEXT: Items/60/description/ < UNTRANSLATED
-
+[For Selling]
+The core of an octahedral monster
 > END STRING
 
 > BEGIN STRING
@@ -664,14 +687,15 @@
 > BEGIN STRING
 香ばしいもの
 > CONTEXT: Items/63/name/ < UNTRANSLATED
-
+Fragrant Things
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 深淵で振る舞われる謎の食材　食用厳禁
 > CONTEXT: Items/63/description/ < UNTRANSLATED
-
+[For Selling]
+Mysterious ingredient, forbidden to eat
 > END STRING
 
 > BEGIN STRING
@@ -683,14 +707,15 @@
 > BEGIN STRING
 未確認聖爪
 > CONTEXT: Items/65/name/ < UNTRANSLATED
-
+Unidentified Holy Claw
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 謎めいた人型魔物から獲れた　鋭い爪の先
 > CONTEXT: Items/65/description/ < UNTRANSLATED
-
+[For Selling]
+Sharp claw from a mysterious humanoid monster
 > END STRING
 
 > BEGIN STRING
@@ -720,14 +745,15 @@
 > BEGIN STRING
 天隕石
 > CONTEXT: Items/70/name/ < UNTRANSLATED
-
+Meteorite
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 宇宙より飛来したとされる　謎めいた石
 > CONTEXT: Items/70/description/ < UNTRANSLATED
-
+[For Selling]
+A mysterious stone from outer space
 > END STRING
 
 > BEGIN STRING
@@ -745,14 +771,15 @@
 > BEGIN STRING
 鬼泪石
 > CONTEXT: Items/73/name/ < UNTRANSLATED
-
+Demon Tear Stone
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 鬼が流す涙の結晶　希少な至高の宝石
 > CONTEXT: Items/73/description/ < UNTRANSLATED
-
+[For Selling]
+Crystals of tears from demons, rare gemstones
 > END STRING
 
 > BEGIN STRING
@@ -908,14 +935,15 @@
 > BEGIN STRING
 逆鱗
 > CONTEXT: Items/99/name/ < UNTRANSLATED
-
+Wrath
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 強大なる竜が残した　顎許の鱗
 > CONTEXT: Items/99/description/ < UNTRANSLATED
-
+[For Selling]
+Scales from the jaw of a mighty dragon
 > END STRING
 
 > BEGIN STRING
@@ -1227,105 +1255,110 @@
 > BEGIN STRING
 樹海の邪核
 > CONTEXT: Items/171/name/ < UNTRANSLATED
-
+Evil Forest Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第１層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/171/description/ < UNTRANSLATED
-
+[For Selling]
+The core of a monster from the 1st layer
 > END STRING
 
 > BEGIN STRING
 地獄の邪核
 > CONTEXT: Items/172/name/ < UNTRANSLATED
-
+Evil Hell Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第２層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/172/description/ < UNTRANSLATED
-
+[For Selling]
+The core of a monster from the 2nd layer
 > END STRING
 
 > BEGIN STRING
 魔胎の邪核
 > CONTEXT: Items/173/name/ < UNTRANSLATED
-
+Evil Demon Womb Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第３層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/173/description/ < UNTRANSLATED
-
+The core of a monster from the 3rd layer
 > END STRING
 
 > BEGIN STRING
 古跡の邪核
 > CONTEXT: Items/174/name/ < UNTRANSLATED
-
+Evil Ruins Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第４層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/174/description/ < UNTRANSLATED
-
+The core of a monster from the 4th layer
 > END STRING
 
 > BEGIN STRING
 虚構の邪核
 > CONTEXT: Items/175/name/ < UNTRANSLATED
-
+Evil Fiction Core
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 第５層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/175/description/ < UNTRANSLATED
-
+The core of a monster from the 5th layer
 > END STRING
 
 > BEGIN STRING
 貘の縮毛
 > CONTEXT: Items/181/name/ < UNTRANSLATED
-
+Tapir's Curly Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 小型の貘から採取された　軽妙な抜け毛
 > CONTEXT: Items/181/description/ < UNTRANSLATED
-
+[For Selling]
+Lightweight shed hair collected from small tapirs
 > END STRING
 
 > BEGIN STRING
 貘の直毛
 > CONTEXT: Items/182/name/ < UNTRANSLATED
-
+Tapir's Straight Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 中型の貘から採取された　奇妙な抜け毛
 > CONTEXT: Items/182/description/ < UNTRANSLATED
-
+[For Selling]
+Strange shed hair collected from a medium-sized tapir
 > END STRING
 
 > BEGIN STRING
 貘の捻転毛
 > CONTEXT: Items/183/name/ < UNTRANSLATED
-
+Tapir's Twisted Hair
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 大型の貘から採取された　珍妙な抜け毛
 > CONTEXT: Items/183/description/ < UNTRANSLATED
-
+[For Selling]
+Unusual shed hair collected from a large tapir
 > END STRING
 
 > BEGIN STRING
@@ -1337,59 +1370,63 @@
 > BEGIN STRING
 Ｍ鉄銭
 > CONTEXT: Items/191/name/ < UNTRANSLATED
-
+M Iron Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 １００円玉
 > CONTEXT: Items/191/description/ < UNTRANSLATED
-
+[For Selling]
+100 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ銅貨
 > CONTEXT: Items/192/name/ < UNTRANSLATED
-
+M Copper Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 １０００円玉
 > CONTEXT: Items/192/description/ < UNTRANSLATED
-
+[For Selling]
+1000 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ銀貨
 > CONTEXT: Items/193/name/ < UNTRANSLATED
-
+M Silver Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 諭吉
 > CONTEXT: Items/193/description/ < UNTRANSLATED
-
+[For Selling]
+10000 yen coin
 > END STRING
 
 > BEGIN STRING
 Ｍ金貨
 > CONTEXT: Items/194/name/ < UNTRANSLATED
-
+M Gold Coin
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 諭吉*10
 > CONTEXT: Items/194/description/ < UNTRANSLATED
-
+[For Selling]
+100000 yen coin
 > END STRING
 
 > BEGIN STRING
 人魚パン
 > CONTEXT: Items/201/name/ < UNTRANSLATED
-
+Mermaid Bread
 > END STRING
 
 > BEGIN STRING
@@ -1398,202 +1435,218 @@
 > CONTEXT: Items/201/description/ < UNTRANSLATED
 > CONTEXT: Items/217/description/ < UNTRANSLATED
 > CONTEXT: Items/219/description/ < UNTRANSLATED
-
+[Single: LP Recovery]
+Regenerates the body of a superhuman
 > END STRING
 
 > BEGIN STRING
 甘露
 > CONTEXT: Items/202/name/ < UNTRANSLATED
-
+Honeydew
 > END STRING
 
 > BEGIN STRING
 〘単:EP中回復〙
 天から降ると言われてる　とても甘い蜜薬
 > CONTEXT: Items/202/description/ < UNTRANSLATED
-
+[Single: EP Recovery]
+A very sweet nectar from the heavens
 > END STRING
 
 > BEGIN STRING
 独角獣丹
 > CONTEXT: Items/203/name/ < UNTRANSLATED
-
+Dokakujutan
 > END STRING
 
 > BEGIN STRING
 〘単:病気系バステ+被毒完治〙
 ユニコーンの角で作る　病気を治す丸薬
 > CONTEXT: Items/203/description/ < UNTRANSLATED
-
+[Single: Disease/Poison Cure]
+A pill made from unicorn horn to cure diseases
 > END STRING
 
 > BEGIN STRING
 妖精膏
 > CONTEXT: Items/204/name/ < UNTRANSLATED
-
+Fairy Plaster
 > END STRING
 
 > BEGIN STRING
 〘単:怪我系バステ+流血+火傷完治〙
 妖精たちが作る　怪我を治す軟膏薬
 > CONTEXT: Items/204/description/ < UNTRANSLATED
-
+[Single: Injury/Bleed/Burn Cure]
+An ointment made by fairies to heal injuries
 > END STRING
 
 > BEGIN STRING
 反魂酒
 > CONTEXT: Items/205/name/ < UNTRANSLATED
-
+Anti-Soul Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治〙
 仮死状態にある超人の魂が回帰する　薬酒
 > CONTEXT: Items/205/description/ < UNTRANSLATED
-
+[Single: Faint Recovery]
+Liquor that re-animates a superhuman
 > END STRING
 
 > BEGIN STRING
 霊命酒
 > CONTEXT: Items/206/name/ < UNTRANSLATED
-
+Spiritual Life Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治+LP中回復〙
 特別精製された命の水　戦線に復帰させる
 > CONTEXT: Items/206/description/ < UNTRANSLATED
-
+[Single: Faint/LP Recovery]
+Brings one back to the battlefield
 > END STRING
 
 > BEGIN STRING
 天命酒
 > CONTEXT: Items/207/name/ < UNTRANSLATED
-
+Destiny Sake
 > END STRING
 
 > BEGIN STRING
 〘単:気絶完治+LP全回復〙
 天に選ばれた命の水　完全復帰が可能
 > CONTEXT: Items/207/description/ < UNTRANSLATED
-
+[Single: Faint/Full LP Recovery]
+Heaven-chosen Water of Life, complete recovery
 > END STRING
 
 > BEGIN STRING
 肉霊芝
 > CONTEXT: Items/208/name/ < UNTRANSLATED
-
+Reishi Mushroom
 > END STRING
 
 > BEGIN STRING
 〘単:LP大回復〙
 超高蛋白な肉質の茸　仙薬の素にもなる
 > CONTEXT: Items/208/description/ < UNTRANSLATED
-
+[Single: Large LP Recovery]
+High in protein, also ingredient for elixirs
 > END STRING
 
 > BEGIN STRING
 錬金霊液
 > CONTEXT: Items/209/name/ < UNTRANSLATED
-
+Alchemical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:EP全回復+バステ完治〙
 怪我と病気を癒し　精神力を満たす霊薬
 > CONTEXT: Items/209/description/ < UNTRANSLATED
-
+[Single: Full EP/Status Recovery]
+Heals injuries and illnesses, replenishes the mind
 > END STRING
 
 > BEGIN STRING
 仙饌蜜酒
 > CONTEXT: Items/210/name/ < UNTRANSLATED
-
+Sengen honey sake
 > END STRING
 
 > BEGIN STRING
 〘単:LP+EP全回復〙
 不死身を謳われる　食感のある飲料
 > CONTEXT: Items/210/description/ < UNTRANSLATED
-
+[Single: Full LP/EP Recovery]
+Known for immortality, distinct texture
 > END STRING
 
 > BEGIN STRING
 ラージ人魚パン
 > CONTEXT: Items/211/name/ < UNTRANSLATED
-
+Large Mermaid Bread
 > END STRING
 
 > BEGIN STRING
 〘全:LP中回復〙
 大型サイズの人魚パン　分け合って食べる
 > CONTEXT: Items/211/description/ < UNTRANSLATED
-
+[All: LP Recovery]
+Large mermaid bread, share and eat together
 > END STRING
 
 > BEGIN STRING
 生命のスープ
 > CONTEXT: Items/212/name/ < UNTRANSLATED
-
+Soup of Life
 > END STRING
 
 > BEGIN STRING
 〘全:気絶完治+LP中回復〙
 赤橙の色をした　魂のスープ
 > CONTEXT: Items/212/description/ < UNTRANSLATED
-
+[All: Faint/LP Recovery]
+A reddish-orange colored soup of souls
 > END STRING
 
 > BEGIN STRING
 海の毒薬
 > CONTEXT: Items/213/name/ < UNTRANSLATED
-
+Sea Poison
 > END STRING
 
 > BEGIN STRING
 〘単:LP大傷害〙
 倫理観に欠ける　冒涜的な液体
 > CONTEXT: Items/213/description/ < UNTRANSLATED
-
+[Single: Large LP Injury]
+Blasphemous liquid lacking in morality
 > END STRING
 
 > BEGIN STRING
 聖金大浴布
 > CONTEXT: Items/214/name/ < UNTRANSLATED
-
+Large Holy Towel
 > END STRING
 
 > BEGIN STRING
 〘全:病気+怪我系バステ完治〙
 全バステを治す　巨大な濡れタオル
 > CONTEXT: Items/214/description/ < UNTRANSLATED
-
+[All: Disease/Injury Recovery]
+A giant wet towel that cures all ailments
 > END STRING
 
 > BEGIN STRING
 井戸の誘い水
 > CONTEXT: Items/215/name/ < UNTRANSLATED
-
+Well Priming Water
 > END STRING
 
 > BEGIN STRING
 〘フロア移動〙
 不可思議な呼び水で　その場で井戸に潜る
 > CONTEXT: Items/215/description/ < UNTRANSLATED
-
+[Floor Change]
+Makes you dive into the well on the spot
 > END STRING
 
 > BEGIN STRING
 盗賊の極意水
 > CONTEXT: Items/216/name/ < UNTRANSLATED
-
+Thief's Secret Water
 > END STRING
 
 > BEGIN STRING
 〘単:撃破時素材確定〙
 水溶液を飲むと　素材回収の精度が高まる
 > CONTEXT: Items/216/description/ < UNTRANSLATED
-
+[Single: 100% Drop Rate]
+Drinking this improves material collection
 > END STRING
 
 > BEGIN STRING
@@ -1624,296 +1677,321 @@ Hardtack that heals ubermensch's body
 > BEGIN STRING
 証明の秘水
 > CONTEXT: Items/220/name/ < UNTRANSLATED
-
+Secret Water Proof
 > END STRING
 
 > BEGIN STRING
 〘全:LP+EP全回復/枯渇解消〙
 手にした　あなたは　夢魔の迷宮の王
 > CONTEXT: Items/220/description/ < UNTRANSLATED
-
+[All: Full LP/EP/Depletion Recovery]
+Proof of the King of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 火の精霊薬
 > CONTEXT: Items/221/name/ < UNTRANSLATED
-
+Fire Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:火炎属性強化+LP大回復〙
 僅かの間　火の精霊の加護を得る
 > CONTEXT: Items/221/description/ < UNTRANSLATED
-
+[Single: Fire Enchant/Large LP Recovery]
+For a time, gain the blessing of the fire spirit
 > END STRING
 
 > BEGIN STRING
 水の精霊薬
 > CONTEXT: Items/222/name/ < UNTRANSLATED
-
+Water Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:水氷属性強化+LP大回復〙
 僅かの間　水の精霊の加護を得る
 > CONTEXT: Items/222/description/ < UNTRANSLATED
-
+[Single: Water/Ice Enchant/Large LP Recovery]
+For a time, gain the blessing of the water spirit
 > END STRING
 
 > BEGIN STRING
 風の精霊薬
 > CONTEXT: Items/223/name/ < UNTRANSLATED
-
+Wind Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:切斬属性強化+LP大回復〙
 僅かの間　風の精霊の加護を得る
 > CONTEXT: Items/223/description/ < UNTRANSLATED
-
+[Single: Slash Enchant/Large LP Recovery]
+For a time, gain the blessing of the wind spirit
 > END STRING
 
 > BEGIN STRING
 土の精霊薬
 > CONTEXT: Items/224/name/ < UNTRANSLATED
-
+Earth spirit potion
 > END STRING
 
 > BEGIN STRING
 〘単:打壊属性強化+LP大回復〙
 僅かの間　土の精霊の加護を得る
 > CONTEXT: Items/224/description/ < UNTRANSLATED
-
+[Single: Destruction Enchant/Large LP Recovery]
+For a time, gain the blessing of the earth spirit
 > END STRING
 
 > BEGIN STRING
 草の精霊薬
 > CONTEXT: Items/225/name/ < UNTRANSLATED
-
+Herb Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:突貫属性強化+LP大回復〙
 僅かの間　草の精霊の加護を得る
 > CONTEXT: Items/225/description/ < UNTRANSLATED
-
+[Single: Charge Enchant/Large LP Recovery]
+For a time, gain the blessing of the grass spirit
 > END STRING
 
 > BEGIN STRING
 雷の精霊薬
 > CONTEXT: Items/226/name/ < UNTRANSLATED
-
+Thunder Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:雷電属性強化+LP大回復〙
 僅かの間　雷の精霊の加護を得る
 > CONTEXT: Items/226/description/ < UNTRANSLATED
-
+[Single: Lightning Enchant/Large LP Recovery]
+For a time, gain the blessing of the lightning spirit
 > END STRING
 
 > BEGIN STRING
 闇の精霊薬
 > CONTEXT: Items/227/name/ < UNTRANSLATED
-
+Dark Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:巻物山彦発動+防衛面↓+EP大回復〙
 僅かの間　闇の精霊の力で　呪文連続発動
 > CONTEXT: Items/227/description/ < UNTRANSLATED
-
+[Single: Scroll Echo/Defense Down/Large EP Recovery]
+For a time, allows for continuous spell casting
 > END STRING
 
 > BEGIN STRING
 光の精霊薬
 > CONTEXT: Items/228/name/ < UNTRANSLATED
-
+Light Spirit Potion
 > END STRING
 
 > BEGIN STRING
 〘単:不屈付与+LP大回復〙
 僅かの間　光の精霊が　高確率致命傷回避
 > CONTEXT: Items/228/description/ < UNTRANSLATED
-
+[Single: Indomitable/Large LP Recovery]
+For a time, high chance of avoiding fatal damage
 > END STRING
 
 > BEGIN STRING
 究極の物理霊薬
 > CONTEXT: Items/229/name/ < UNTRANSLATED
-
+Ultimate Physical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:物理属性強化〙
 僅かの間　切斬・突貫・打壊属性を強化
 > CONTEXT: Items/229/description/ < UNTRANSLATED
-
+[Single: Physical Enchant]
+Enhances physical attributes for a time
 > END STRING
 
 > BEGIN STRING
 至高の化学霊薬
 > CONTEXT: Items/230/name/ < UNTRANSLATED
-
+Ultimate Chemical Elixir
 > END STRING
 
 > BEGIN STRING
 〘単:化学属性強化〙
 僅かの間　火炎・水氷・雷電属性を強化
 > CONTEXT: Items/230/description/ < UNTRANSLATED
-
+[Single: Chemical Enchant]
+Enhances elemental attributes for a short time
 > END STRING
 
 > BEGIN STRING
 邪気祓いのお香
 > CONTEXT: Items/231/name/ < UNTRANSLATED
-
+Jaqi Ward
 > END STRING
 
 > BEGIN STRING
 〘邪気弱腰/通常戦闘時敵全スタン〙
 清涼な香りに　フロア内の邪気が及び腰に
 > CONTEXT: Items/231/description/ < UNTRANSLATED
-
+[Jaqi Become Weak/Stun During Normal Combat]
+The refreshing scent makes Jaqi hesitant
 > END STRING
 
 > BEGIN STRING
 邪気寄せのお香
 > CONTEXT: Items/232/name/ < UNTRANSLATED
-
+Jaqi Lure
 > END STRING
 
 > BEGIN STRING
 〘邪気活性〙〘EXP獲得率↑〙
 陰惨な香りで　フロア内の邪気に狙われる
 > CONTEXT: Items/232/description/ < UNTRANSLATED
-
+[Jaqi Activation][EXP Rate Up]
+A sinister scent targets Jaqi throughout the floor
 > END STRING
 
 > BEGIN STRING
 邪気縛りのお香
 > CONTEXT: Items/233/name/ < UNTRANSLATED
-
+Jaqi Bind
 > END STRING
 
 > BEGIN STRING
 〘邪気停滞/通常戦闘時敵全麻痺〙
 高貴な香りが　フロア内の邪気を金縛りに
 > CONTEXT: Items/233/description/ < UNTRANSLATED
-
+[Jaqi Halt/Paralyzed During Normal Combat]
+A noble fragrance paralyzes the Jaqi within the floor
 > END STRING
 
 > BEGIN STRING
 エスティント香
 > CONTEXT: Items/234/name/ < UNTRANSLATED
-
+Estint Fragrance
 > END STRING
 
 > BEGIN STRING
 〘ダッシュ時邪気無変化〙
 足音が聞こえなくなる　暗殺者の香り
 > CONTEXT: Items/234/description/ < UNTRANSLATED
-
+[No change in Jaqi while dashing]
+Footsteps become inaudible. Assassin's scent
 > END STRING
 
 > BEGIN STRING
 〘単:ATK↑〙
 フロア移動まで　攻撃力を高める丸薬
 > CONTEXT: Items/235/description/ < UNTRANSLATED
-
+[Single: ATK↑]
+Increases attack until next floor
 > END STRING
 
 > BEGIN STRING
 〘単:DEF↑〙
 フロア移動まで　防御力を高める丸薬
 > CONTEXT: Items/236/description/ < UNTRANSLATED
-
+[Single: DEF↑]
+Increases defense until next floor
 > END STRING
 
 > BEGIN STRING
 〘単:PSY+坑呪力↑〙
 フロア内　霊力と呪文への抵抗力を高める
 > CONTEXT: Items/237/description/ < UNTRANSLATED
-
+[Single: PSY/Resistance↑]
+Improves spells and resistance until next floor
 > END STRING
 
 > BEGIN STRING
 〘単:AGI+回避力↑〙
 フロア移動まで　敏捷性を高める丸薬
 > CONTEXT: Items/238/description/ < UNTRANSLATED
-
+[Single: AGI/Evasion↑]
+Increases agility until next floor
 > END STRING
 
 > BEGIN STRING
 〘単:CON+命中力↑〙
 フロア移動まで　集中力を高める丸薬
 > CONTEXT: Items/239/description/ < UNTRANSLATED
-
+[Single: CON/Accuracy↑]
+Enhance concentration until next floor
 > END STRING
 
 > BEGIN STRING
 遁術具
 > CONTEXT: Items/240/name/ < UNTRANSLATED
-
+Tonjutsu Tool
 > END STRING
 
 > BEGIN STRING
 〘戦闘時確実逃走〙
 忍者が扱う戦闘離脱の道具　戦闘時限定
 > CONTEXT: Items/240/description/ < UNTRANSLATED
-
+[Guaranteed Escape During Combat]
+Used by ninjas for escaping combat, combat only
 > END STRING
 
 > BEGIN STRING
 複製の変成液
 > CONTEXT: Items/241/name/ < UNTRANSLATED
-
+Replication Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム増殖〙
 液を掛けた瓶詰か巻物を　もう一つ入手
 > CONTEXT: Items/241/description/ < UNTRANSLATED
-
+[Duplicate Specified Item]
+Obtain a duplicate of an item
 > END STRING
 
 > BEGIN STRING
 変化の変成液
 > CONTEXT: Items/242/name/ < UNTRANSLATED
-
+Transformation Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム変化〙
 液を掛けた瓶詰か巻物が　別物に変化
 > CONTEXT: Items/242/description/ < UNTRANSLATED
-
+[Transform Specified Item]
+Transform an item into something else
 > END STRING
 
 > BEGIN STRING
 識別の変成液
 > CONTEXT: Items/243/name/ < UNTRANSLATED
-
+Identification Fluid
 > END STRING
 
 > BEGIN STRING
 〘指定アイテム識別/戦闘時分析〙
 未識別の瓶詰か巻物に　液を掛けて解明
 > CONTEXT: Items/243/description/ < UNTRANSLATED
-
+[Identify Specified Item/In-Battle Analysis]
+Apply on an item to identify it
 > END STRING
 
 > BEGIN STRING
 黄金四葉草
 > CONTEXT: Items/250/name/ < UNTRANSLATED
-
+Golden Quatrefoil
 > END STRING
 
 > BEGIN STRING
 〘単:Lv1UP〙
 金色に輝く　四つ葉のクローバー
 > CONTEXT: Items/250/description/ < UNTRANSLATED
-
+[Single: Level UP]
+A four-leaf clover shining with a golden light
 > END STRING
 
 > BEGIN STRING
@@ -1927,7 +2005,7 @@ Red-Hot Scroll
 敵一体を焼く攻撃呪文を　詠唱できる
 > CONTEXT: Items/251/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
-Attack spell that burns one enemy.
+Attack spell that burns one enemy
 > END STRING
 
 > BEGIN STRING
@@ -1941,7 +2019,7 @@ Red-Hot Scroll 2
 対象と周囲を焼く攻撃呪文を　詠唱できる
 > CONTEXT: Items/252/description/
 [Area:PSY*\\C[10]A\\C[0]]\\i[29]
-Burns the target and surrounding area.
+Burns the target and surrounding area
 > END STRING
 
 > BEGIN STRING
@@ -1955,7 +2033,7 @@ Red-hot Scroll 3
 敵全体を焼く攻撃呪文を　詠唱できる
 > CONTEXT: Items/253/description/
 [All:PSY*\\C[10]A\\C[0]]\\i[29]
-Attack spell that burns all enemies.
+Attack spell that burns all enemies
 > END STRING
 
 > BEGIN STRING
@@ -1969,7 +2047,7 @@ Snow Cloud Scroll
 敵一体を凍らす攻撃呪文を　詠唱可能
 > CONTEXT: Items/254/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
-Attack spell that freezes one enemy.
+Attack spell that freezes one enemy
 > END STRING
 
 > BEGIN STRING
@@ -1983,7 +2061,7 @@ Snow Cloud Scroll 2
 対象と周囲を凍らす攻撃呪文を　詠唱可能
 > CONTEXT: Items/255/description/
 [Area:PSY*\\C[10]A\\C[0]]\\i[29]
-Freeze the target and surrounding area.
+Freeze the target and surrounding area
 > END STRING
 
 > BEGIN STRING
@@ -1997,7 +2075,7 @@ Snow Cloud Scroll 3
 敵全体を凍らす攻撃呪文を　詠唱可能
 > CONTEXT: Items/256/description/
 [All:PSY*\\C[10]A\\C[0]]\\i[29]
-Attack spell that freezes all enemies.
+Attack spell that freezes all enemies
 > END STRING
 
 > BEGIN STRING
@@ -2011,7 +2089,7 @@ Purple Lightning Scroll
 敵一体に電撃の攻撃呪文を　詠唱する
 > CONTEXT: Items/257/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
-Casts a lightning attack spell on one enemy.
+Casts a lightning attack spell on one enemy
 > END STRING
 
 > BEGIN STRING
@@ -2025,7 +2103,7 @@ Purple Lightning Scroll 2
 対象と周囲に電撃の攻撃呪文を　詠唱する
 > CONTEXT: Items/258/description/
 [Area:PSY*\\C[10]A\\C[0]]\\i[29]
-Electrocute the target and surrounding area.
+Electrocute the target and surrounding area
 > END STRING
 
 > BEGIN STRING
@@ -2039,7 +2117,7 @@ Purple Lightning Scroll 3
 敵全体に電撃の攻撃呪文を　詠唱する
 > CONTEXT: Items/259/description/
 [All:PSY*\\C[10]A\\C[0]]\\i[29]
-Casts a lightning attack spell on all enemies.
+Casts a lightning attack spell on all enemies
 > END STRING
 
 > BEGIN STRING
@@ -2053,7 +2131,7 @@ Black Star Scroll
 敵全体に死闇の攻撃呪文を　詠唱する
 > CONTEXT: Items/260/description/
 [All:PSY*\\C[10]A\\C[0]*LP Loss Rate]\\i[29]
-Casts a deathly dark attack spell on all enemies.
+Casts a deathly dark attack spell on all enemies
 > END STRING
 
 > BEGIN STRING
@@ -2067,7 +2145,7 @@ Berserk Red-Hot Scroll
 暴発する火炎呪文を　詠唱できる
 > CONTEXT: Items/261/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast explosive fire spells.
+Cast explosive fire spells
 > END STRING
 
 > BEGIN STRING
@@ -2081,7 +2159,7 @@ Berserk Snow Cloud Scroll
 暴発する水氷呪文を　詠唱できる
 > CONTEXT: Items/262/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast explosive water and ice spells.
+Cast explosive water and ice spells
 > END STRING
 
 > BEGIN STRING
@@ -2095,7 +2173,7 @@ Berserk Ash Scroll
 暴発する切斬呪文を　詠唱できる
 > CONTEXT: Items/263/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast a wildly slashing spell.
+Cast a wildly slashing spell
 > END STRING
 
 > BEGIN STRING
@@ -2109,7 +2187,7 @@ Berserk Tea Stone Scroll
 暴発する打壊呪文を　詠唱できる
 > CONTEXT: Items/264/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast destructive exploding spells.
+Cast destructive exploding spells
 > END STRING
 
 > BEGIN STRING
@@ -2123,7 +2201,7 @@ Berserk Green Thicket Scroll
 暴発する突貫呪文を　詠唱できる
 > CONTEXT: Items/265/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast a reckless, explosive spell.
+Cast a reckless, explosive spell
 > END STRING
 
 > BEGIN STRING
@@ -2137,7 +2215,7 @@ Berserk Purple Lightning Scroll
 暴発する雷電呪文を　詠唱できる
 > CONTEXT: Items/266/description/
 [Chaos: PSY*\\C[10]B\\C[0]]\\i[29]
-Cast an unctrollable lightning spell.
+Cast an unctrollable lightning spell
 > END STRING
 
 > BEGIN STRING
@@ -2151,7 +2229,7 @@ Flash Scroll
 象牙狩りの閃光を放つ攻策呪文を　詠唱可
 > CONTEXT: Items/267/description/
 [All: Blinding Effect (L)]\\i[29]
-Unleashes the flash of ivory hunting.
+Unleashes the flash of ivory hunting
 > END STRING
 
 > BEGIN STRING
@@ -2165,7 +2243,7 @@ Danjang Scroll
 黒檀ジャムを喰らわす攻策呪文を　詠唱可
 > CONTEXT: Items/268/description/
 [All: Seal of Silence (L)]\\i[29]
-Cast an attack spell that jams ebony.
+Cast an attack spell that jams ebony
 > END STRING
 
 > BEGIN STRING
@@ -2179,7 +2257,7 @@ Peach Blossom Scroll
 放電ピンク手錠を繋ぐ攻策呪文を　詠唱可
 > CONTEXT: Items/269/description/
 [All: Arm Restraint (L)]\\i[29]
-Launches discharging pink handcuffs.
+Launches discharging pink handcuffs
 > END STRING
 
 > BEGIN STRING
@@ -2193,7 +2271,7 @@ Laihao Scroll
 ライムの蔦を這わす攻策呪文を　詠唱可
 > CONTEXT: Items/270/description/
 [All: Immobilization (L)]\\i[29]
-Launch creeping lime vines.
+Launch creeping lime vines
 > END STRING
 
 > BEGIN STRING
@@ -2207,7 +2285,7 @@ Berserk Drowsiness Scroll
 敵も味方も眠らす功策呪文を　詠唱可
 > CONTEXT: Items/271/description/
 [Allies & Enemies: Sleep]\\i[29]
-Puts both allies and enemies to sleep.
+Puts both allies and enemies to sleep
 > END STRING
 
 > BEGIN STRING
@@ -2221,7 +2299,7 @@ Berserk King Scroll
 敵も味方も惑乱する功策呪文を　詠唱可
 > CONTEXT: Items/272/description/
 [Allies & Enemies: Confusion]\\i[29]
-Confuses both allies and enemies.
+Confuses both allies and enemies
 > END STRING
 
 > BEGIN STRING
@@ -2235,20 +2313,20 @@ Succubus Summoning Card
 名前を書き念を送れば　仲魔を呼び出せる
 > CONTEXT: Items/299/description/
 [Succubus Companion/EP Consumption]
-Send your wish and summon a demon.
+Send your wish and summon a demon
 > END STRING
 
 > BEGIN STRING
 想いの鍵
 > CONTEXT: Items/300/name/ < UNTRANSLATED
-
+Key to Feelings
 > END STRING
 
 > BEGIN STRING
 
 ゲル状の先端を持つ　使い捨ての脆い鍵
 > CONTEXT: Items/300/description/ < UNTRANSLATED
-
+A disposable, brittle key with a gel-like tip
 > END STRING
 
 > BEGIN STRING
@@ -2268,46 +2346,49 @@ End of your dream: Labyrinth escape item
 > BEGIN STRING
 どこでもエッチ
 > CONTEXT: Items/302/name/ < UNTRANSLATED
-
+Sex Anywhere
 > END STRING
 
 > BEGIN STRING
 〘ダンジョン脱出〙〘6F以下限定〙
 安全な場所でなら性交渉でき　迷宮脱出
 > CONTEXT: Items/302/description/ < UNTRANSLATED
-
+[Dungeon Escape][6F or Below Only]
+Sex is possible in a safe place. Dungeon Escape
 > END STRING
 
 > BEGIN STRING
 ビックリ☆バコ
 > CONTEXT: Items/303/name/ < UNTRANSLATED
-
+Surprise☆Box
 > END STRING
 
 > BEGIN STRING
 〘装備品入手〙〘夢界中心限定〙
 夢魔の迷宮深層より取り寄せ謎のガチャ箱
 > CONTEXT: Items/303/description/ < UNTRANSLATED
-
+[Get Equipment][Central Realms of Reverie Only]
+Gacha box from the depths of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 ビックリ★バコ
 > CONTEXT: Items/304/name/ < UNTRANSLATED
-
+Surprise★Box
 > END STRING
 
 > BEGIN STRING
 〘装備品入手〙〘夢界中心限定〙
 夢魔の迷宮深淵より取り寄せ謎のガチャ箱
 > CONTEXT: Items/304/description/ < UNTRANSLATED
-
+[Get Equipment][Central Realms of Reverie Only]
+Gacha box from the abyss of the Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 ロゴスの鍵
 > CONTEXT: Items/401/name/ < UNTRANSLATED
-
+Key of Logos
 > END STRING
 
 > BEGIN STRING
@@ -2315,69 +2396,75 @@ End of your dream: Labyrinth escape item
 ロゴスへの道を拓く　正にキーアイテム
 > CONTEXT: Items/401/description/ < UNTRANSLATED
 
+The key that paves the way to Logos
 > END STRING
 
 > BEGIN STRING
 炎霊犀の鍵
 > CONTEXT: Items/404/name/ < UNTRANSLATED
-
+Flame Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く赤鍵
 > CONTEXT: Items/404/description/ < UNTRANSLATED
-
+A red key that opens the door to true love, 
+imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 氷霊犀の鍵
 > CONTEXT: Items/405/name/ < UNTRANSLATED
-
+Ice Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く青鍵
 > CONTEXT: Items/405/description/ < UNTRANSLATED
-
+The blue key that opens the door to true love, 
+imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 雷霊犀の鍵
 > CONTEXT: Items/406/name/ < UNTRANSLATED
-
+Thunder Spirit Rhino Key
 > END STRING
 
 > BEGIN STRING
 
 強い霊力と絆を宿す　シン愛の扉開く紫鍵
 > CONTEXT: Items/406/description/ < UNTRANSLATED
-
+A purple key that opens the door to true love, 
+imbued with powerful energy and a strong bond
 > END STRING
 
 > BEGIN STRING
 小型夢界端末
 > CONTEXT: Items/899/name/ < UNTRANSLATED
-
+Small Dream World Terminal
 > END STRING
 
 > BEGIN STRING
 〘閲覧〙
 ３つの機能を限定的に確認する　通信端末
 > CONTEXT: Items/899/description/ < UNTRANSLATED
-
+[Viewing]
+Verify 3 functions of a communication terminal
 > END STRING
 
 > BEGIN STRING
 超級尋宝士目録
 > CONTEXT: Items/900/name/ < UNTRANSLATED
-
+Super Treasure Hunter Catalog
 > END STRING
 
 > BEGIN STRING
 〘蒐集図鑑呼び出し〙
 入手済のアイテムと装備を　閲覧できる
 > CONTEXT: Items/900/description/ < UNTRANSLATED
-
+[Collection Encyclopedia Access]
+View items and equipment already acquired
 > END STRING

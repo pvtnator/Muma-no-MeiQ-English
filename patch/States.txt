@@ -791,7 +791,7 @@ Confusion
 EX不覚
 > CONTEXT: States/110/name/ < UNTRANSLATED
 > CONTEXT: Skills/300/name/ < UNTRANSLATED
-
+EX Unaware
 > END STRING
 
 > BEGIN STRING
@@ -1420,14 +1420,14 @@ EP回復
 死亡信息
 > CONTEXT: States/220/name/ < UNTRANSLATED
 > CONTEXT: Skills/518/name/ < UNTRANSLATED
-
+Death Knowledge
 > END STRING
 
 > BEGIN STRING
 奇跡の内服薬
 > CONTEXT: States/221/name/ < UNTRANSLATED
 > CONTEXT: Skills/419/name/ < UNTRANSLATED
-
+Miraculous Oral Medicine
 > END STRING
 
 > BEGIN STRING
@@ -2002,39 +2002,39 @@ EP回復
 蒼天竜の丹薬
 > CONTEXT: States/302/name/ < UNTRANSLATED
 > CONTEXT: Items/235/name/ < UNTRANSLATED
-
+Azure Dragon Elixir
 > END STRING
 
 > BEGIN STRING
 は　蒼天竜の攻撃力を得た！
 > CONTEXT: States/302/message1/ < UNTRANSLATED
-
+ gained power of the Azure Sky Dragon!
 > END STRING
 
 > BEGIN STRING
 仁獣の丹薬
 > CONTEXT: States/303/name/ < UNTRANSLATED
 > CONTEXT: Items/236/name/ < UNTRANSLATED
-
+Elixir of Benevolence
 > END STRING
 
 > BEGIN STRING
 は　仁獣の防御力を得た！
 > CONTEXT: States/303/message1/ < UNTRANSLATED
-
+ gained the defense of the Benevolent Beast!
 > END STRING
 
 > BEGIN STRING
 長老亀の丹薬
 > CONTEXT: States/304/name/ < UNTRANSLATED
 > CONTEXT: Items/237/name/ < UNTRANSLATED
-
+Elder Turtle Elixir
 > END STRING
 
 > BEGIN STRING
 は　長老亀の霊力を得た！
 > CONTEXT: States/304/message1/ < UNTRANSLATED
-
+ gained the power of the elder turtle!
 > END STRING
 
 > BEGIN STRING
@@ -2053,13 +2053,13 @@ EP回復
 飛翔鳥の丹薬
 > CONTEXT: States/306/name/ < UNTRANSLATED
 > CONTEXT: Items/238/name/ < UNTRANSLATED
-
+Flying Bird Elixir
 > END STRING
 
 > BEGIN STRING
 は　飛翔鳥の敏捷性を得た！
 > CONTEXT: States/306/message1/ < UNTRANSLATED
-
+ gained the agility of a flying bird!
 > END STRING
 
 > BEGIN STRING
@@ -2078,13 +2078,13 @@ EP回復
 白獅子の丹薬
 > CONTEXT: States/308/name/ < UNTRANSLATED
 > CONTEXT: Items/239/name/ < UNTRANSLATED
-
+White Lion Elixir
 > END STRING
 
 > BEGIN STRING
 は　白獅子の集中力を得た！
 > CONTEXT: States/308/message1/ < UNTRANSLATED
-
+ gained the concentration of a white lion!
 > END STRING
 
 > BEGIN STRING
@@ -2103,39 +2103,39 @@ EP回復
 あかき武氣
 > CONTEXT: States/314/name/ < UNTRANSLATED
 > CONTEXT: Skills/914/name/ < UNTRANSLATED
-
+Red Arts
 > END STRING
 
 > BEGIN STRING
 の火炎耐性が　強化！
 > CONTEXT: States/314/message1/ < UNTRANSLATED
-
+ enhanced fire resistance!
 > END STRING
 
 > BEGIN STRING
 あおき武氣
 > CONTEXT: States/315/name/ < UNTRANSLATED
 > CONTEXT: Skills/915/name/ < UNTRANSLATED
-
+Blue Arts
 > END STRING
 
 > BEGIN STRING
 の水氷耐性が　強化！
 > CONTEXT: States/315/message1/ < UNTRANSLATED
-
+ enhanced water and ice resistance!
 > END STRING
 
 > BEGIN STRING
 むらさき武氣
 > CONTEXT: States/316/name/ < UNTRANSLATED
 > CONTEXT: Skills/916/name/ < UNTRANSLATED
-
+Purple Arts
 > END STRING
 
 > BEGIN STRING
 の雷電耐性が　強化！
 > CONTEXT: States/316/message1/ < UNTRANSLATED
-
+ enhanced lightning resistance!
 > END STRING
 
 > BEGIN STRING
@@ -2160,7 +2160,7 @@ EP回復
 仕込み
 > CONTEXT: States/402/name/ < UNTRANSLATED
 > CONTEXT: Skills/648/name/ < UNTRANSLATED
-
+Preparation
 > END STRING
 
 > BEGIN STRING
@@ -2169,7 +2169,7 @@ EP回復
 > CONTEXT: States/403/message3/ < UNTRANSLATED
 > CONTEXT: States/405/message3/ < UNTRANSLATED
 > CONTEXT: States/408/message3/ < UNTRANSLATED
-
+ prepares carefully!
 > END STRING
 
 > BEGIN STRING
@@ -2230,13 +2230,13 @@ EP回復
 悪夢の予知夢
 > CONTEXT: States/408/name/ < UNTRANSLATED
 > CONTEXT: Skills/917/name/ < UNTRANSLATED
-
+Nightmare Foresight
 > END STRING
 
 > BEGIN STRING
 邪気が　臨界点を突破！
 > CONTEXT: States/408/message2/ < UNTRANSLATED
-
+Jaqi reached a critical point!
 > END STRING
 
 > BEGIN STRING
