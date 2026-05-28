@@ -1554,7 +1554,7 @@ Heals injuries and illnesses, replenishes the mind
 > BEGIN STRING
 仙饌蜜酒
 > CONTEXT: Items/210/name/
-Sengen honey sake
+Sengen Honey Sake
 > END STRING
 
 > BEGIN STRING

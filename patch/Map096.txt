@@ -579,61 +579,66 @@ Do you go down into the id?
 イドの淵に　貘が潜んでいる！
 このイドに　突入するには
 貘を殲滅するか　賄賂を贈る必要がある！
-> CONTEXT: Map096/events/1/pages/17/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/26/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/26/Dialogue
+> CONTEXT: Map095/events/1/pages/17/26/Dialogue
+> CONTEXT: Map094/events/1/pages/17/26/Dialogue
+> CONTEXT: Commonevents/89/1/Dialogue
+A tapir is lurking in the abyss of the Id!
+To enter this Id,
+annihilate or bribe the tapir!
 > END STRING
 
 > BEGIN STRING
 貘に　戦いを　挑みますか？
-> CONTEXT: Map096/events/1/pages/17/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/22/pages/1/48/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/31/Dialogue
+> CONTEXT: Map095/events/1/pages/17/31/Dialogue
+> CONTEXT: Map094/events/1/pages/17/31/Dialogue
+> CONTEXT: Map023/events/22/pages/1/48/Dialogue
+> CONTEXT: Commonevents/89/6/Dialogue
+Challenge the tapir to a fight?
 > END STRING
 
 > BEGIN STRING
 では　貘に　袖の下を　通しますか？
-> CONTEXT: Map096/events/1/pages/17/103/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/103/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/103/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/310/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/103/Dialogue
+> CONTEXT: Map095/events/1/pages/17/103/Dialogue
+> CONTEXT: Map094/events/1/pages/17/103/Dialogue
+> CONTEXT: Commonevents/89/310/Dialogue
+Offer bribe to tapir?
 > END STRING
 
 > BEGIN STRING
 貘からの要求額は　\\V[52]Ｍのようだ。
 \\V[52]Ｍ　支払いますか？
-> CONTEXT: Map096/events/1/pages/17/115/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/115/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/115/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/610/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/115/Dialogue
+> CONTEXT: Map095/events/1/pages/17/115/Dialogue
+> CONTEXT: Map094/events/1/pages/17/115/Dialogue
+> CONTEXT: Commonevents/89/610/Dialogue
+Tapir requests \\V[52]M.
+Pay \\V[52]M?
 > END STRING
 
 > BEGIN STRING
 しかし　残高不足だった！
-> CONTEXT: Map096/events/1/pages/17/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/126/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/621/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/126/Dialogue
+> CONTEXT: Map095/events/1/pages/17/126/Dialogue
+> CONTEXT: Map094/events/1/pages/17/126/Dialogue
+> CONTEXT: Commonevents/89/621/Dialogue
+But there's not enough money!
 > END STRING
 
 > BEGIN STRING
 貘の姿が　闇の底へと　消えていき
 あなたは　引き摺り込まれるように
 イドの奥へと　落ちていく！
-> CONTEXT: Map096/events/1/pages/17/143/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/1/pages/17/143/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/1/pages/17/143/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/22/pages/1/141/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/89/638/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/1/pages/17/143/Dialogue
+> CONTEXT: Map095/events/1/pages/17/143/Dialogue
+> CONTEXT: Map094/events/1/pages/17/143/Dialogue
+> CONTEXT: Map023/events/22/pages/1/141/Dialogue
+> CONTEXT: Commonevents/89/638/Dialogue
+The tapir's form fades to darkness, 
+and you are dragged down, 
+falling to the depths of the Id!
 > END STRING
 
 > BEGIN STRING

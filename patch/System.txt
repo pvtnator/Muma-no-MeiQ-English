@@ -298,7 +298,7 @@ Cancel
 > BEGIN STRING
 超人等級
 > CONTEXT: System/terms/basic/0/
-Superman rank
+Superhuman rank
 > END STRING
 
 > BEGIN STRING

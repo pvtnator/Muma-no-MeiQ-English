@@ -315,34 +315,36 @@ Stone Knife
 習:斬撃/刺突
 硬い石を研いで作った　原始的なナイフ
 > CONTEXT: Weapons/70/description/
-Slashing/Thrusting
-Made by sharpening a hard stone.
+Skills: Slash/Thrust
+Made by sharpening a hard stone
 > END STRING
 
 > BEGIN STRING
 ブロンズダガー
-> CONTEXT: Weapons/71/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/71/name/
+Bronze Dagger
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]レッグカット\\C[0]
 戦闘向けに研磨された　青銅製のナイフ
-> CONTEXT: Weapons/71/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/71/description/
+Skills: Slash/Thrust/Leg Cut
+A bronze knife sharpened for combat
 > END STRING
 
 > BEGIN STRING
 スチールダガー
-> CONTEXT: Weapons/72/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/72/name/
+Steel Dagger
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]アームカット\\C[0]
 ナイフ使い用に鍛造された　鋼鉄製の短剣
-> CONTEXT: Weapons/72/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/72/description/
+Skills: Slash/Thrust/\\C[6]Arm Cut\\C[0]
+A steel dagger forged for knife users.
 > END STRING
 
 > BEGIN STRING

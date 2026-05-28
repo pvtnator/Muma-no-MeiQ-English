@@ -4,8 +4,11 @@
 ……やれやれ。
 無事に　入門編をクリアできたようだね。
 ホッ……。
-> CONTEXT: Map024/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/15/Dialogue
+\\NAME[\\n[11]]
+...Well, well.
+You cleared the tutorial.
+Phew...
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 よく　がんばったねっ！
 誰にでも　できることじゃないよ？
 スゴイ　スゴイ♪
-> CONTEXT: Map024/events/1/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/25/Dialogue
+\\NAME[\\n[12]]
+You did a great job!
+Not everyone can do that, you know?
+Amazing, amazing♪
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +28,11 @@
 お？　あんちゃんの　その顔は
 頑張ったんやから　ご褒美が欲しいって
 言っとる顔やな〜？
-> CONTEXT: Map024/events/1/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/35/Dialogue
+\\NAME[\\n[13]]
+Oh? That look on your face,
+"I worked hard, so I want a reward."
+Is that it?
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +40,11 @@
 ご……ご褒美！？　そ　そ　そうね……。
 確かに　無償で付き合わせるのは
 良くないと　言えなくもない……か。
-> CONTEXT: Map024/events/1/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/54/Dialogue
+\\NAME[\\n[11]]
+A...a reward!? W-well...
+I suppose making him do it for free
+isn't exactly fair...
 > END STRING
 
 > BEGIN STRING
@@ -40,8 +52,11 @@
 でも　まだ君に　片付けてもらわなきゃ
 ならない問題が　山積みで……。
 さっきも　リモートになっちゃったし。
-> CONTEXT: Map024/events/1/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/62/Dialogue
+\\NAME[\\n[12]]
+But there are still a ton of problems 
+that I need you to sort out...
+And we had to help remotely.
 > END STRING
 
 > BEGIN STRING
@@ -49,8 +64,11 @@
 言うても　手付金ちゃうけど
 手付えっち☆　みたいんは
 必要やと思うで！　\\|そ・\\|こ・\\|で──
-> CONTEXT: Map024/events/1/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/71/Dialogue
+\\NAME[\\n[13]]
+I mean, it's not real payment, but
+I think paying in sex☆
+is appropriate! \\|S\\|o\\|o──
 > END STRING
 
 > BEGIN STRING
@@ -58,8 +76,11 @@
 そこで……？
 な　何？
 えっ　何？　何？
-> CONTEXT: Map024/events/1/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/81/Dialogue
+\\NAME[\\n[11]]
+So...?
+W-What?
+Huh? What? What?
 > END STRING
 
 > BEGIN STRING
@@ -67,16 +88,21 @@
 特別に！　ウチら　３人の中から　１人！
 選んでもろて　ちょっとＨなプチご褒美☆
 あんちゃんに　したげるで〜♪
-> CONTEXT: Map024/events/1/pages/0/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/90/Dialogue
+\\NAME[\\n[13]]
+As a special treat! Choose one of us!
+And get a naughty little reward☆
+We'll give it to you, cutie~♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 まぁ　ステキ！
 さっそく　ぴゅっぴゅ☆　できちゃうね♪
-> CONTEXT: Map024/events/1/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/99/Dialogue
+\\NAME[\\n[12]]
+Wow, that's wonderful!
+The squirting can begin♪
 > END STRING
 
 > BEGIN STRING
@@ -84,15 +110,19 @@
 はぁぁぁぁぁぁぁぁぁ！！！？？？
 ちょっ　ちょっ　ちょっと　待って！
 そんな話　聞いてないしっ！
-> CONTEXT: Map024/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/108/Dialogue
+\\NAME[\\n[11]]
+Haaaaa!!!???
+Wait, wait, wait a minute!
+I didn't hear about this!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 言うてもないで♪
-> CONTEXT: Map024/events/1/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/116/Dialogue
+\\NAME[\\n[13]]
+Wasn't necessary to say it♪
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +130,11 @@
 だいたい　そ　そんな　ご褒美だなんて
 無理でしょ！　そもそも　だって
 あたしたちは　まだ──
-> CONTEXT: Map024/events/1/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/122/Dialogue
+\\NAME[\\n[11]]
+I mean, a reward like that?
+That's unreasonable! Besides,
+We're still──
 > END STRING
 
 > BEGIN STRING
@@ -109,24 +142,33 @@
 確かに　まだ　本格的な　えっち☆は
 できないけど　所謂　レム睡眠状態で
 覚醒前の　僅かな　この瞬間なら……。
-> CONTEXT: Map024/events/1/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/131/Dialogue
+\\NAME[\\n[12]]
+Yes, we can't do proper sex yet☆, 
+but in the moment before waking up, 
+while in what's called REM sleep...
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 せや。この僅かな　スキマ時間なら
 簡単なプレイ限定で　できるんやで？
-> CONTEXT: Map024/events/1/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/140/Dialogue
+\\NAME[\\n[13]]
+Yeah. With just a bit of time,
+we can do it, 
+but only simple things, right?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 そ　そんなこと　言ったって……！
 こ　こ　心の準備ってもんが……！
-> CONTEXT: Map024/events/1/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/147/Dialogue
+\\NAME[\\n[11]]
+Even if you say that...!
+I...I need to prepare myself 
+mentally...!
 > END STRING
 
 > BEGIN STRING
@@ -134,23 +176,30 @@
 ちゅうわけで！　聞いてたやろ
 あんちゃん？　ウチら　３人の中から
 ファッションヘルス感覚で　指名してな♪
-> CONTEXT: Map024/events/1/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/154/Dialogue
+\\NAME[\\n[13]]
+So, cutie? Choose one of us, 
+like you would for a 
+fashion health massage♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 限られた時間だから　即決でお願いね♪
-> CONTEXT: Map024/events/1/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/163/Dialogue
+\\NAME[\\n[12]]
+Time is limited, 
+so make your choice quickly♪
 > END STRING
 
 > BEGIN STRING
 誰を　選びますか？
 \\C[6]（選択しなかった子の　ご褒美は
 　条件を満たせば　いずれ視聴できます）\\C[0]
-> CONTEXT: Map024/events/1/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/176/Dialogue
+Who will you choose?
+\\C[6](Other rewards will be available later 
+if conditions are met)\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -176,8 +225,11 @@
 えっ！？　あ　あたし！？　そ　そんな
 いきなり……でも　うん　そ　そっか。
 じゃ　じゃあ　こっち…………来なさい！
-> CONTEXT: Map024/events/1/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/187/Dialogue
+\\NAME[\\n[11]]
+Huh!? Oh, me!? Th-that's so sudden...
+But yeah, okay.
+Then, then...come over here!
 > END STRING
 
 > BEGIN STRING
@@ -185,8 +237,11 @@
 あら　嬉しい♪　それじゃあ　一緒に
 気持ち良いこと……し・ま・しょ♪
 さっ　こっちに　おいで……。
-> CONTEXT: Map024/events/1/pages/0/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/204/Dialogue
+\\NAME[\\n[12]]
+Oh, how wonderful♪ 
+Let's do something nice together♪
+Come on, come over here...
 > END STRING
 
 > BEGIN STRING
@@ -194,6 +249,9 @@
 うっひゃ☆　ウチを　選ぶんかぁ！？
 ええで♪　ええで♪　あんちゃ〜ん♪
 ほな　二人っきりなれるとこ　行こか〜♪
-> CONTEXT: Map024/events/1/pages/0/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map024/events/1/pages/0/221/Dialogue
+\\NAME[\\n[13]]
+Whoa☆ You're choosing me!?
+Okay♪ Okay♪ Cutie~♪
+Let's go somewhere private♪
 > END STRING

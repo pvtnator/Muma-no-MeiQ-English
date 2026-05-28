@@ -2,24 +2,30 @@
 > BEGIN STRING
 \\NAME[\\n[13]]
 きた　きた　きた　キターーー♪
-> CONTEXT: Map005/events/1/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/19/Dialogue
+\\NAME[\\n[13]]
+You came, you came!♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 ふふふっ。
 そりゃ　当然　来てくれなくっちゃね♪
-> CONTEXT: Map005/events/1/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/26/Dialogue
+\\NAME[\\n[12]]
+Hehehe.
+Of course, you had to come♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 そ　そうね。
 なんせ　こっからが　本番なんだからっ。
-> CONTEXT: Map005/events/1/pages/1/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/34/Dialogue
+\\NAME[\\n[11]]
+Y-Yeah, that's right.
+After all, this is where 
+the real show begins.
 > END STRING
 
 > BEGIN STRING
@@ -27,16 +33,21 @@
 本番てっ！　ヒヒヒ♪
 \\n[11]も　やっぱ　早く　あんちゃんと
 本番プレイ☆　したいんやな〜？
-> CONTEXT: Map005/events/1/pages/1/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/56/Dialogue
+\\NAME[\\n[13]]
+The real thing! Hehehe♪
+\\n[11], you want to do the real thing 
+with him soon too, don't you?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ちょっ！？　そういう意味で
 言ったんじゃない！　勘違いすんなっ！
-> CONTEXT: Map005/events/1/pages/1/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/65/Dialogue
+\\NAME[\\n[11]]
+Hey!? That's not what I meant! 
+Don't get the wrong idea!
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +55,11 @@
 そうねぇ。私たちと　本番えっち☆
 するには　前にも言ったように　君に
 やってもらうことが　あるの。
-> CONTEXT: Map005/events/1/pages/1/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/74/Dialogue
+\\NAME[\\n[12]]
+Well, you see. In order to have real sex☆
+As I said before, 
+there's something you need to do.
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +67,11 @@
 そう……具体的には　３つの夢魔の迷宮を
 踏破して　あたしたち３人を
 夢界中心に　来れるようにすること。
-> CONTEXT: Map005/events/1/pages/1/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/82/Dialogue
+\\NAME[\\n[11]]
+Yes... Specifically, conquering three 
+Mazes of Succubi so that the three of us 
+can come to Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
@@ -62,8 +79,11 @@
 そうそう。今はまだ　私たち
 夢魔の迷宮の奥から　リモート対応だから
 迷宮を踏破して　呼んでもらわないと。
-> CONTEXT: Map005/events/1/pages/1/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/91/Dialogue
+\\NAME[\\n[12]]
+Right. We're still deep within 
+the Mazes of Succubi, so you'll have to 
+conquer the mazes and call us.
 > END STRING
 
 > BEGIN STRING
@@ -71,8 +91,11 @@
 お預けくらって　もどかしいか
 あんちゃん？　せやけど　ウチらにも
 事情っちゅうもんが　あるんやで〜。
-> CONTEXT: Map005/events/1/pages/1/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/100/Dialogue
+\\NAME[\\n[13]]
+Are you frustrated that you're 
+being kept waiting? 
+But we have our own reasons too〜.
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +103,11 @@
 あかき夢魔の迷宮には　あたしが。
 あおき夢魔の迷宮には　\\n[12]が。
 むらさき夢魔の迷宮には　\\n[13]が。
-> CONTEXT: Map005/events/1/pages/1/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/108/Dialogue
+\\NAME[\\n[11]]
+I'm in the the red Maze of Succubus.
+\\n[12] is in the blue Maze of Succubus.
+\\n[13] is in the purple Maze of Succubus.
 > END STRING
 
 > BEGIN STRING
@@ -89,16 +115,21 @@
 それぞれ　\\C[6]一番奥の　20Ｆで
 君が来るのを　待ってる\\C[0]から
 早く　会いに来てね♪
-> CONTEXT: Map005/events/1/pages/1/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/117/Dialogue
+\\NAME[\\n[12]]
+Each of us will be waiting for you 
+on the 20th floor, at the very back,
+so please come and see us soon♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 と言いつつ　迷宮には　魔物が出るから
 ちょっと　大変かもしれないけど……。
-> CONTEXT: Map005/events/1/pages/1/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/125/Dialogue
+\\NAME[\\n[11]]
+Having said that, there are monsters,
+so it might be a little difficult...
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +137,11 @@
 大変だけど　君ならきっと　できるはず♪
 ……それと　\\C[6]最初に踏破するなら
 あかき夢魔の迷宮が　良い\\C[0]かもね。
-> CONTEXT: Map005/events/1/pages/1/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/133/Dialogue
+\\NAME[\\n[12]]
+It's tough, but you can do it♪
+...Also, \\C[6]the Red Maze of Succubus,
+might be good to start with.\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +156,11 @@
 なんだかんだ言うて　\\n[11]は
 優しいからな〜。他２つに比べたら
 攻略しやすいかもな〜。
-> CONTEXT: Map005/events/1/pages/1/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/148/Dialogue
+\\NAME[\\n[13]]
+No matter what she says, \\n[11] is kind. 
+Compared to us two, 
+she might be easier to conquer.
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +168,11 @@
 べっ　別に　あんたの為に
 攻略しやすいとか　そんなことないから！
 いいから　さっさと　迷宮に来なさいっ！
-> CONTEXT: Map005/events/1/pages/1/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/157/Dialogue
+\\NAME[\\n[11]]
+It's not like it's easier to conquer 
+for your sake or anything!
+Just hurry up and come to the maze!
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +180,11 @@
 ３つの迷宮には　通信端末から
 それぞれ　行けるから　とにかく
 私たちに　コンタクト　取ってね♪
-> CONTEXT: Map005/events/1/pages/1/166/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/166/Dialogue
+\\NAME[\\n[12]]
+You can access each of the labyrinths 
+from your communication terminal, 
+so please contact us♪
 > END STRING
 
 > BEGIN STRING
@@ -149,8 +192,10 @@
 もちろん　ウチらの話も　ちゃんと
 聞いとかんと　あっちゅう間に
 野垂れ死んでまうで〜♪
-> CONTEXT: Map005/events/1/pages/1/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/175/Dialogue
+\\NAME[\\n[13]]
+Of course, if you don't listen to us 
+carefully, you'll die in vain〜♪
 > END STRING
 
 > BEGIN STRING
@@ -158,8 +203,11 @@
 そうだよ！　ちゃんと話を聞いて──っ
 えと　あんたに　やってもらいたいことは
 あたしたちの解放と　ロゴスの鍵を──
-> CONTEXT: Map005/events/1/pages/1/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/185/Dialogue
+\\NAME[\\n[11]]
+Yeah! Listen carefully to what I'm saying—
+Um, what I want from you is
+our liberation and the Key to Logos—
 > END STRING
 
 > BEGIN STRING
@@ -167,8 +215,11 @@
 そんな　いっぺんに　言うても
 混乱させてまうだけやないか〜？
 せやろ？　あんちゃん♪
-> CONTEXT: Map005/events/1/pages/1/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/195/Dialogue
+\\NAME[\\n[13]]
+Doesn't it get confusing
+saying all of that〜?
+Don't you think so, big guy♪
 > END STRING
 
 > BEGIN STRING
@@ -176,16 +227,21 @@
 うんうん♪　お話なら　夢界通信で
 少なからず　できるから
 とにかく　\\C[6]何度も話し掛けて\\C[0]みてね。
-> CONTEXT: Map005/events/1/pages/1/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/1/205/Dialogue
+\\NAME[\\n[12]]
+Mm-hm♪ We can talk a bit through 
+Dream World Communications,
+so just \\C[6]try talking\\C[0] many times.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ヒヒヒ♪　どや？　あんちゃん？
 苦戦しとるか〜？
-> CONTEXT: Map005/events/1/pages/2/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/26/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ How's it going, cutie?
+Having trouble〜?
 > END STRING
 
 > BEGIN STRING
@@ -193,8 +249,11 @@
 私たちも　手助けしたいところだけど
 ワケあって　君が20Ｆまで来れないと
 そうもいかないからねぇ。
-> CONTEXT: Map005/events/1/pages/2/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/35/Dialogue
+\\NAME[\\n[12]]
+We'd like to help, but for reasons 
+we can't explain, we can't unless you 
+make it to the 20th floor.
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +261,11 @@
 \\C[6]一つでも　踏破できれば
 残りは一緒に　手伝える\\C[0]んだけど。
 うーん……どうしたら　いいか。
-> CONTEXT: Map005/events/1/pages/2/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/45/Dialogue
+\\NAME[\\n[11]]
+\\C[6]If you can complete even one of them,
+we can help you with the rest\\C[0].
+Hmm... what to do?
 > END STRING
 
 > BEGIN STRING
@@ -211,24 +273,32 @@
 そんなこと　言うてぇ♪
 \\n[11]は　ちゃんと　救済措置を
 用意しとったやんか〜。
-> CONTEXT: Map005/events/1/pages/2/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/65/Dialogue
+\\NAME[\\n[13]]
+You say that, but...
+\\n[11] had already prepared 
+a relief measure, didn't she〜?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 まぁ！　さすが　\\n[11]ね。
 リーダーさんは　しっかり者ね♪
-> CONTEXT: Map005/events/1/pages/2/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/73/Dialogue
+\\NAME[\\n[12]]
+Wow! As expected of \\n[11].
+What a reliable leader♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 はぁ？
 ちょっと……また　何の話？
-> CONTEXT: Map005/events/1/pages/2/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/80/Dialogue
+\\NAME[\\n[11]]
+Huh?
+Wait a minute... 
+what are we talking about again?
 > END STRING
 
 > BEGIN STRING
@@ -236,6 +306,9 @@
 本人　忘れとるがな♪
 ……あんちゃんなぁ　気になるなら
 ウチのとこで　詳しく教えたるで〜。
-> CONTEXT: Map005/events/1/pages/2/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/2/87/Dialogue
+\\NAME[\\n[13]]
+Seems like someone forgot♪
+...Hey cutie, if you're curious,
+I'll explain in detail at my place〜.
 > END STRING

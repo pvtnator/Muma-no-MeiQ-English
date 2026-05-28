@@ -287,147 +287,147 @@ Confusion
 
 > BEGIN STRING
 目潰
-> CONTEXT: States/31/name/ < UNTRANSLATED
-
+> CONTEXT: States/31/name/
+Blind
 > END STRING
 
 > BEGIN STRING
 は　目が見えなくなった！
-> CONTEXT: States/31/message1/ < UNTRANSLATED
-
+> CONTEXT: States/31/message1/
+ lost eyesight!
 > END STRING
 
 > BEGIN STRING
 の目は　潰れた！
-> CONTEXT: States/31/message2/ < UNTRANSLATED
-
+> CONTEXT: States/31/message2/
+ was hurt in the eyes!
 > END STRING
 
 > BEGIN STRING
 の目に　光が無い！
-> CONTEXT: States/31/message3/ < UNTRANSLATED
-
+> CONTEXT: States/31/message3/
+ can't see!
 > END STRING
 
 > BEGIN STRING
 の目潰が　快癒した！
-> CONTEXT: States/31/message4/ < UNTRANSLATED
-
+> CONTEXT: States/31/message4/
+ recovered eyesight!
 > END STRING
 
 > BEGIN STRING
 口封
-> CONTEXT: States/32/name/ < UNTRANSLATED
-
+> CONTEXT: States/32/name/
+Mouth Bind
 > END STRING
 
 > BEGIN STRING
 は　口が利けなくなった！
-> CONTEXT: States/32/message1/ < UNTRANSLATED
-
+> CONTEXT: States/32/message1/
+ became tongue-tied!
 > END STRING
 
 > BEGIN STRING
 の口は　封じられた！
-> CONTEXT: States/32/message2/ < UNTRANSLATED
-
+> CONTEXT: States/32/message2/
+ got mouth sealed!
 > END STRING
 
 > BEGIN STRING
 は　口を割れない！
-> CONTEXT: States/32/message3/ < UNTRANSLATED
-
+> CONTEXT: States/32/message3/
+ can't speak!
 > END STRING
 
 > BEGIN STRING
 の口封が　快癒した！
-> CONTEXT: States/32/message4/ < UNTRANSLATED
-
+> CONTEXT: States/32/message4/
+ recovered from mouth bind!
 > END STRING
 
 > BEGIN STRING
 腕固
-> CONTEXT: States/33/name/ < UNTRANSLATED
-
+> CONTEXT: States/33/name/
+Arm Bind
 > END STRING
 
 > BEGIN STRING
 は　腕の自由を奪われた！
-> CONTEXT: States/33/message1/ < UNTRANSLATED
-
+> CONTEXT: States/33/message1/
+ lost arm mobility!
 > END STRING
 
 > BEGIN STRING
 の腕部が　弱った！
-> CONTEXT: States/33/message2/ < UNTRANSLATED
-
+> CONTEXT: States/33/message2/
+ lost strength in arms!
 > END STRING
 
 > BEGIN STRING
 の腕は　鈍っている！
-> CONTEXT: States/33/message3/ < UNTRANSLATED
-
+> CONTEXT: States/33/message3/
+ has weak arms!
 > END STRING
 
 > BEGIN STRING
 の腕固が　快癒した！
-> CONTEXT: States/33/message4/ < UNTRANSLATED
-
+> CONTEXT: States/33/message4/
+ can move arms again!
 > END STRING
 
 > BEGIN STRING
 足止
-> CONTEXT: States/34/name/ < UNTRANSLATED
-
+> CONTEXT: States/34/name/
+Leg Bind
 > END STRING
 
 > BEGIN STRING
 は　足の自由を奪われた！
-> CONTEXT: States/34/message1/ < UNTRANSLATED
-
+> CONTEXT: States/34/message1/
+ got immobilized!
 > END STRING
 
 > BEGIN STRING
 の足下が　弱った！
-> CONTEXT: States/34/message2/ < UNTRANSLATED
-
+> CONTEXT: States/34/message2/
+ lost footing!
 > END STRING
 
 > BEGIN STRING
 の足は　重い！
-> CONTEXT: States/34/message3/ < UNTRANSLATED
-
+> CONTEXT: States/34/message3/
+ can't move!
 > END STRING
 
 > BEGIN STRING
 の足止は　快癒した！
-> CONTEXT: States/34/message4/ < UNTRANSLATED
-
+> CONTEXT: States/34/message4/
+ can move again!
 > END STRING
 
 > BEGIN STRING
 流血
-> CONTEXT: States/36/name/ < UNTRANSLATED
-
+> CONTEXT: States/36/name/
+Bleed
 > END STRING
 
 > BEGIN STRING
 は　流血した！
-> CONTEXT: States/36/message1/ < UNTRANSLATED
-> CONTEXT: States/36/message2/ < UNTRANSLATED
-
+> CONTEXT: States/36/message1/
+> CONTEXT: States/36/message2/
+ bleeds!
 > END STRING
 
 > BEGIN STRING
 は　血を流している！
-> CONTEXT: States/36/message3/ < UNTRANSLATED
-
+> CONTEXT: States/36/message3/
+ is bleeding!
 > END STRING
 
 > BEGIN STRING
 の流血が　収まった！
-> CONTEXT: States/36/message4/ < UNTRANSLATED
-
+> CONTEXT: States/36/message4/
+ stopped bleeding!
 > END STRING
 
 > BEGIN STRING
@@ -2210,8 +2210,8 @@ Preparation
 
 > BEGIN STRING
 の口腔が　あなたの夢を狙う！
-> CONTEXT: States/405/message2/ < UNTRANSLATED
-
+> CONTEXT: States/405/message2/
+ is aiming at your dreams!
 > END STRING
 
 > BEGIN STRING

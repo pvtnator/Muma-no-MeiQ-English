@@ -65,9 +65,12 @@ A
 ちょっと！？　何　そんなとこで
 野垂れ死んでんの！？
 しっかりしなさいっ！
-> CONTEXT: Commonevents/14/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/14/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/14/4/Dialogue
+> CONTEXT: Commonevents/14/32/Dialogue
+\\NAME[\\n[11]]
+Hey!? What are you doing 
+dying in a place like that!?
+Pull yourself together!
 > END STRING
 
 > BEGIN STRING
@@ -724,15 +727,17 @@ Not particularly.
 > BEGIN STRING
 \\ITEM[301]を　鳴らし
 この夢からの覚醒を　望みますか？
-> CONTEXT: Commonevents/81/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/81/4/Dialogue
+Ring \\ITEM[301] and
+awaken from this dream?
 > END STRING
 
 > BEGIN STRING
 あかき夢魔の迷宮
 \\V[83]Ｆ
-> CONTEXT: Commonevents/85/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/85/24/Dialogue
+Red Maze of Succubus
+\\V[83]Ｆ
 > END STRING
 
 > BEGIN STRING
@@ -745,8 +750,9 @@ Red Muma no MeiQ
 > BEGIN STRING
 あおき夢魔の迷宮
 \\V[83]Ｆ
-> CONTEXT: Commonevents/85/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/85/42/Dialogue
+Blue Maze of Succubus
+\\V[83]Ｆ
 > END STRING
 
 > BEGIN STRING
@@ -759,8 +765,9 @@ Blue Muma no MeiQ
 > BEGIN STRING
 むらさき夢魔の迷宮
 \\V[83]Ｆ
-> CONTEXT: Commonevents/85/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/85/60/Dialogue
+Purple Maze of Succubus
+\\V[83]Ｆ
 > END STRING
 
 > BEGIN STRING
@@ -966,37 +973,42 @@ You ran away with everything!
 
 > BEGIN STRING
 昨日の夜は　変な夢を　見たものだ。
-> CONTEXT: Commonevents/102/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/102/1/Dialogue
+I had a strange dream last night.
 > END STRING
 
 > BEGIN STRING
 だけど　あらゆる夢の記憶というものが
 そうであるように　昨日の夜に見たそれも
 今はもう　はっきりとは　思い出せない。
-> CONTEXT: Commonevents/102/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/102/3/Dialogue
+But like all dreams, 
+I can no longer clearly remember 
+what I saw last night.
 > END STRING
 
 > BEGIN STRING
 ただ一つ　あなたの中に　残っているのは
 得も言われぬ　快感の──
-> CONTEXT: Commonevents/102/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/102/7/Dialogue
+All that remains 
+is an indescribable pleasure.
 > END STRING
 
 > BEGIN STRING
 いや　快感の余韻？
 あるいは　快感の予感？
-> CONTEXT: Commonevents/102/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/102/10/Dialogue
+No, the lingering afterglow of pleasure?
+Or perhaps, a premonition of pleasure?
 > END STRING
 
 > BEGIN STRING
 何かそういった　曖昧模糊とした
 残り香が……。
-> CONTEXT: Commonevents/102/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/102/13/Dialogue
+There was some kind of vague, 
+lingering scent...
 > END STRING
 
 > BEGIN STRING
@@ -3779,98 +3791,111 @@ Back if(v[534] < 100)
 
 > BEGIN STRING
 この意見に　賛同しますか？
-> CONTEXT: Commonevents/195/19/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/25/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/63/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/102/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/140/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/178/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/216/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/253/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/290/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/328/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/366/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/406/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/444/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/482/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/520/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/558/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/596/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/634/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/670/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/707/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/744/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/196/782/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/19/Dialogue
+> CONTEXT: Commonevents/196/25/Dialogue
+> CONTEXT: Commonevents/196/63/Dialogue
+> CONTEXT: Commonevents/196/102/Dialogue
+> CONTEXT: Commonevents/196/140/Dialogue
+> CONTEXT: Commonevents/196/178/Dialogue
+> CONTEXT: Commonevents/196/216/Dialogue
+> CONTEXT: Commonevents/196/253/Dialogue
+> CONTEXT: Commonevents/196/290/Dialogue
+> CONTEXT: Commonevents/196/328/Dialogue
+> CONTEXT: Commonevents/196/366/Dialogue
+> CONTEXT: Commonevents/196/406/Dialogue
+> CONTEXT: Commonevents/196/444/Dialogue
+> CONTEXT: Commonevents/196/482/Dialogue
+> CONTEXT: Commonevents/196/520/Dialogue
+> CONTEXT: Commonevents/196/558/Dialogue
+> CONTEXT: Commonevents/196/596/Dialogue
+> CONTEXT: Commonevents/196/634/Dialogue
+> CONTEXT: Commonevents/196/670/Dialogue
+> CONTEXT: Commonevents/196/707/Dialogue
+> CONTEXT: Commonevents/196/744/Dialogue
+> CONTEXT: Commonevents/196/782/Dialogue
+Do you agree with this opinion?
 > END STRING
 
 > BEGIN STRING
 ご回答　ありがとうございました！
 あなたの　その意見が　社会を
 明るい方向へと　変えていくのです！
-> CONTEXT: Commonevents/195/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/23/Dialogue
+Thank you for your response!
+Your opinion will change society 
+in a positive direction!
 > END STRING
 
 > BEGIN STRING
 ご回答　ありがとうございました……。
-> CONTEXT: Commonevents/195/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/29/Dialogue
+Thank you for your response...
 > END STRING
 
 > BEGIN STRING
 世界は　今日も　平和だった……。
-> CONTEXT: Commonevents/195/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/36/Dialogue
+The world was peaceful today as well...
 > END STRING
 
 > BEGIN STRING
 世界中で　強姦・強盗・殺人・放火
 破壊活動・集団自殺――種々様々な
 凶悪事件で　死傷者が　続出している。
-> CONTEXT: Commonevents/195/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/45/Dialogue
+Around the world, rape, robbery, murder, 
+arson, vandalism, and mass suicide,
+heinous crimes are causing numerous casualties
 > END STRING
 
 > BEGIN STRING
 今日は　これ以上　読みたいと思う記事は
 見受けられない。
-> CONTEXT: Commonevents/195/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/195/408/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/195/431/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/56/Dialogue
+> CONTEXT: Commonevents/195/408/Dialogue
+> CONTEXT: Commonevents/195/431/Dialogue
+Can't find any more articles
+to read today.
 > END STRING
 
 > BEGIN STRING
 今日は　これ以上　読みたいと思う記事は
 見受けられない――が　何か　世間全般が
 ざわついている……そんな印象を受ける。
-> CONTEXT: Commonevents/195/462/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/462/Dialogue
+Can't find any more articles, 
+but there seems to be some kind of 
+general turmoil in society...
 > END STRING
 
 > BEGIN STRING
 とある公的機関のＰＲとして　採用された
 キャラクターが　性的だという指摘を受け
 ネット界隈で　絶賛炎上中の模様だ。
-> CONTEXT: Commonevents/196/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/2/Dialogue
+A character adopted for PR by a certain 
+public institution has been criticized 
+for being sexual, causing major uproar online.
 > END STRING
 
 > BEGIN STRING
 性的なキャラクターを　使用するな！
 ゾーニングを　しっかりすべき！
 との意見が上がっている。
-> CONTEXT: Commonevents/196/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/6/Dialogue
+There are opinions suggesting to stop 
+using sexually suggestive characters,
+and to implement stricter regulations.
 > END STRING
 
 > BEGIN STRING
 しばしば　炎上の火種となってしまう
 女性キャラクターの在り方について
 とある　コメンテイターの見解は――
-> CONTEXT: Commonevents/196/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/10/Dialogue
+Regarding the portrayal of female characters, 
+which often becomes a source of controversy, 
+one commentator offered this opinion:
 > END STRING
 
 > BEGIN STRING
@@ -3878,8 +3903,11 @@ Back if(v[534] < 100)
 過剰反応としか　言えませんね。
 表現の自由に対する　挑戦とも
 受け取れますし　話になりませんね。
-> CONTEXT: Commonevents/196/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/15/Dialogue
+\\NAME[Commentator]
+This is nothing but an overreaction.
+It's an attack on freedom of expression, 
+and it's simply unacceptable.
 > END STRING
 
 > BEGIN STRING
@@ -4506,24 +4534,30 @@ Back if(v[534] < 100)
 今や誰しもが　容易にネットにアクセスし
 様々なコンテンツに　触れるようになった
 一方で　表現規制に関する問題も……
-> CONTEXT: Commonevents/196/759/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/759/Dialogue
+Nowadays, everyone can easily see a wide 
+variety of content online. However, restrictions 
+on expression is a concern...
 > END STRING
 
 > BEGIN STRING
 過剰なコンプラ意識の席巻によって
 作品が歪曲され　陳腐化されてると
 主張する作家や　ファンも多くなった。
-> CONTEXT: Commonevents/196/763/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/763/Dialogue
+Many writers and fans now claim 
+that excessive compliance concerns 
+are distorting and trite works of art.
 > END STRING
 
 > BEGIN STRING
 創作は　あくまで　創作！
 フィクションの世界を　侵蝕するなと
 昨今の情勢に　警鐘を鳴らす作家は――
-> CONTEXT: Commonevents/196/767/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/767/Dialogue
+Fiction is, after all, just fiction!
+“Don’t let reality take over fiction,”
+warns a writer about recent events—
 > END STRING
 
 > BEGIN STRING
@@ -4531,14 +4565,17 @@ Back if(v[534] < 100)
 夢と現実を　同一化してしまってる。
 それは想像力の欠如であり　自己弁護
 などではなく　創造性の危機だ！
-> CONTEXT: Commonevents/196/772/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/772/Dialogue
+\\NAME[Commentator]
+Dreams and reality are blending together.
+It's not lack of imagination or an excuse,
+but crisis of creativity!
 > END STRING
 
 > BEGIN STRING
 ご回答　ありがとうございました。
-> CONTEXT: Commonevents/196/795/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/795/Dialogue
+Thank you for your response.
 > END STRING
 
 > BEGIN STRING
@@ -6976,8 +7013,11 @@ Back if(v[534] < 100)
 頑張った君には　ちゃ〜んと
 ご褒美♡　あげないとね！
 さっ　横になってごらん？
-> CONTEXT: Commonevents/288/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/3/Dialogue
+\\NAME[\\n[12]]
+You worked so hard, 
+so I'll give you a proper reward!
+Now, lie down?
 > END STRING
 
 > BEGIN STRING
@@ -6985,190 +7025,236 @@ Back if(v[534] < 100)
 現状できる範囲で　めいっぱい
 気持ちよ〜く　ぴゅっぴゅ☆
 させてあげるからね〜。
-> CONTEXT: Commonevents/288/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/8/Dialogue
+\\NAME[\\n[12]]
+I'll make you feel so good,
+squirt and squirt☆
+with all you've got〜
 > END STRING
 
 > BEGIN STRING
 ほ〜ら　どう？　気持ち良いかなぁ？
 君のおちんちん☆　私の太ももで
 挟んじゃってるよ〜♪\\.\\|\\^
-> CONTEXT: Commonevents/288/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/31/Dialogue
+So〜, how is it? Does it feel good?
+Your little penis 
+held between my thighs〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 水枕みたいに　ふわふわの　ぷにぷにで
 ぎゅっ☆て圧迫感のある　私の太ももで
 君のおちんちんを　ぱっくんちょ♪\\.\\|\\^
-> CONTEXT: Commonevents/288/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/38/Dialogue
+My soft and squishy thighs, 
+they give you a nice, tight squeeze. 
+I'll take your little penis in them♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 きゅっきゅ　きゅっきゅって
 ヌキヌキ　ヌキヌキ　扱いて　扱いて
 弄んじゃってるよ〜？\\.\\|\\^
-> CONTEXT: Commonevents/288/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/45/Dialogue
+Squeeze squeeze,
+Pull, stroke
+You like it, don't you?\\.\\.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あら？　でも　君のおちんちん☆
 まだまだ柔らかい　ふにゃちんさんの
 ままだねぇ。どうしてかなぁ？\\.\\|\\^
-> CONTEXT: Commonevents/288/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/55/Dialogue
+Oh? But your little penis☆
+It's still soft and flaccid.
+I wonder why?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ちゃ〜んと　おっき☆しないと
 ダメでしょぉ？　男の子なんだから
 しっかりと……大きくならないとっ！\\.\\|\\^
-> CONTEXT: Commonevents/288/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/62/Dialogue
+It has to grow up properly, right?
+You're a boy, after all.
+Grow it big and strong! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それとも　太ももだけじゃ
 満足できないのかなぁ？
 君って意外と　我が儘さんなのかなぁ？\\.\\|\\^
-> CONTEXT: Commonevents/288/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/69/Dialogue
+Perhaps thighs aren't enough for you?
+Are you perhaps a little more selfish 
+than I thought? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 も〜う　しょうがないなぁ……。
 そ・れ・な・ら──\\.\\|\\^
-> CONTEXT: Commonevents/288/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/76/Dialogue
+Oh well, if I must...
+In that case...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ど〜かなぁ？
 君の位置から　見えるかなぁ？
 私の　おっぱい☆　見・え・る・か・な♪\\.\\|\\^
-> CONTEXT: Commonevents/288/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/89/Dialogue
+I wonder...
+Can you see it from where you are?
+Can you see my boobs☆♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 特別　大サービスだよぉ？
 私の　生の　おっぱいを〜
 君に……見せつけちゃってる♪\\.\\|\\^
-> CONTEXT: Commonevents/288/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/96/Dialogue
+A special treat for you, okay?
+I'm showing you my bare boobs...♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほらほら　見てごら〜ん？
 太もも　きゅっきゅする動きに合わせて
 おっぱいも　ぷるんぷるん　揺れてるよ♪\\.\\|\\^
-> CONTEXT: Commonevents/288/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/103/Dialogue
+Look, look, see?
+As my thighs clench and contract,
+my boobs are jiggling and swaying♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 揺れるおっぱい☆　好き？
 揺れてるおっぱい☆　好きぃ？
 好きだよねぇ？　ね？　好きでしょぉ？\\.\\|\\^
-> CONTEXT: Commonevents/288/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/110/Dialogue
+Do you like bouncy boobs?
+Do you like bouncy boobs?
+You do, right? You like them, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 おちんちん☆　太ももで
 きゅっきゅされながら　揺れるおっぱい☆
 と〜っても　気持ち良くなれちゃうねっ♪\\.\\|\\^
-> CONTEXT: Commonevents/288/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/117/Dialogue
+Little penis squeezed between thighs
+while my boobs jiggle☆
+Feels so good♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 でもね　気持ち良いからって
 すぐに　ぴゅ〜しちゃうのは
 許さないからね？\\.\\|\\^
-> CONTEXT: Commonevents/288/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/127/Dialogue
+But just because it feels good 
+doesn't mean you can squirt 
+right away, okay〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ギリギリまで　我慢して　我慢して
 め〜いっぱい　搾って　搾って
 力いっぱい　お射精しないとねっ！\\.\\|\\^
-> CONTEXT: Commonevents/288/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/134/Dialogue
+Hold on until the end, hold on,
+Squeeze, squeeze〜 as much as possible.
+Ejaculate with all your might! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 我慢すればするほど　た〜っくさん
 ぴゅ〜ってできるし　我慢した分だけ
 気持ち良〜く　なれるんだから☆\\.\\|\\^
-> CONTEXT: Commonevents/288/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/141/Dialogue
+The more you hold back, the more
+you can squirt〜, and the more
+it feels so good〜☆ ☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほらほら！　もっと　もっと　もーっと
 ぎゅ〜って　かき集めて！
 君の……お・ち・ん・ぽ・ミルク☆\\.\\|\\^
-> CONTEXT: Commonevents/288/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/155/Dialogue
+Come on, come on! More, more, more!
+Gather it all up tightly!
+Your...dick milk☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 いっぱい出そうね♪　いっぱい出そうね♪
 ほらほらほらほら！　太ももきゅっきゅと
 おっぱい☆　ぷるんぷるんで\\.\\|\\^
-> CONTEXT: Commonevents/288/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/162/Dialogue
+Release lots♪ Release lots♪
+Come on, come on! Thighs squeeze tight
+Boobs☆ Plump and bouncy \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 私に　見せて？　君のおちんぽミルクが
 い〜っぱい　出ちゃうところ
 私に　見せてぇ？　私に　掛けてぇ？\\.\\|\\^
-> CONTEXT: Commonevents/288/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/169/Dialogue
+Show me〜? Where your dick milk
+comes gushing out
+Show me〜? Pour it on me〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あっ　ん♡　出ちゃうね　コレ。
 太ももに　搾られて　おちんぽミルク☆
 出ちゃう　出ちゃうっ　出ちゃうぅぅっ！\\.\\|\\^
-> CONTEXT: Commonevents/288/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/176/Dialogue
+Ahhh♡ It's coming out.
+Dick milk squeezed between my thighs☆
+It's coming out, it's coming out! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あらあら！　太ももの間から
 白い噴水が　ぴゅ〜〜〜〜〜〜〜〜〜♪\\.\\|\\^
-> CONTEXT: Commonevents/288/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/191/Dialogue
+Oh my! A white fountain, 
+squirting between my thighs〜〜〜〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うふふふふ……。
 た〜っくさん　私のお膝に
 出しちゃったねぇ♪\\.\\|\\^
-> CONTEXT: Commonevents/288/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/202/Dialogue
+Hehehehe...〜
+You came so much 
+right on my lap♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 気持ち良かったぁ？
 だったら　私も嬉しいな♪\\|
 今回は　太ももまでだったけど……\\.\\|\\^
-> CONTEXT: Commonevents/288/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/209/Dialogue
+Did it feel good?
+If so, I'm happy too♪\\|
+This time it was just thighs though...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 次は　私のナカに　挿れてあげるね♪\\|
 だから　絶対　\\|私のところまで
 会いに……来てね？\\.\\|\\^
-> CONTEXT: Commonevents/288/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/288/218/Dialogue
+Next time, I'll put it inside♪\\|
+So you absolutely have to 
+come and see me again, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7176,8 +7262,11 @@ Back if(v[534] < 100)
 こ……これは　仕方なくだから！
 と　等価交換てやつ！
 わかったぁ！？
-> CONTEXT: Commonevents/289/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/3/Dialogue
+\\NAME[\\n[11]]
+T-This is an obligation!
+It's just an exchange!
+Got it?!
 > END STRING
 
 > BEGIN STRING
@@ -7185,197 +7274,244 @@ Back if(v[534] < 100)
 わ　分かったんなら
 とっとと　脱ぎなさいっ！
 ホ……ホラっ！　早く！
-> CONTEXT: Commonevents/289/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/8/Dialogue
+\\NAME[\\n[11]]
+If you understand,
+then hurry up and take them off!
+Come on! Hurry!
 > END STRING
 
 > BEGIN STRING
 うわ……っ　なんか　生温かい……コレ。
 え　えと……こ　こうやって握れば
 いいの…………かなぁ？\\.\\|\\^
-> CONTEXT: Commonevents/289/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/31/Dialogue
+Wow...it's kind of lukewarm...this.
+Um, well... I... 
+I'll hold it like this...okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 聞いてたのより　随分と　柔らかいけど
 こ……こんなもんなの？
 そ　その……ペ　ペニスってっ。\\.\\|\\^
-> CONTEXT: Commonevents/289/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/38/Dialogue
+It's much softer than I heard it would be.
+Is...is this all there is?
+Th-that...penis. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あれ？　でも　なんか　だんだん
 硬く　大きく？　なってくけど……
 何コレっ！？　これが……ペニスっ！？\\.\\|\\^
-> CONTEXT: Commonevents/289/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/45/Dialogue
+Huh? It's getting harder and bigger...
+What is this!? Penis...is like this!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ！？
 ちょっと　何　あんた！？
 その目線は！？　馬鹿にしてんの！？\\.\\|\\^
-> CONTEXT: Commonevents/289/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/55/Dialogue
+Huh?!
+Hey, what's your problem?!
+Are you making fun of me?! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うっさいなぁ！　慣れてないんだよ！
 悪い？　文句あんなら
 ここで　やめてもいいんだよ！？\\.\\|\\^
-> CONTEXT: Commonevents/289/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/62/Dialogue
+Shut up! I'm not used to this!
+If you have a problem with it,
+we can stop here if you want!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それとも　あたしの手なんかじゃ
 ちゃんと　エ……エレクチオン
 できないっていうわけ！？\\.\\|\\^
-> CONTEXT: Commonevents/289/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/69/Dialogue
+Or are you saying that my hands 
+aren't good enough to properly...
+get an erection?!
 > END STRING
 
 > BEGIN STRING
 くぅ……っ！
 だ　だったら──\\.\\|\\^
-> CONTEXT: Commonevents/289/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/76/Dialogue
+Ugh...!
+Then...if that's the case...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホ……ホラぁ　あたしの胸……
 み　見せてあげてるんだから　もう少し
 感じてるフリ……でもしたら　どうなの？\\.\\|\\^
-> CONTEXT: Commonevents/289/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/89/Dialogue
+Look... my breasts...
+How about you pretend to 
+feel it a little more?
 > END STRING
 
 > BEGIN STRING
 だいたいさ……あたしは
 聞いてなかったんだよ　こんなの……
 ご　ご褒美……するなんて。\\.\\|\\^
-> CONTEXT: Commonevents/289/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/96/Dialogue
+I mean... 
+I wasn't told about this...
+A reward...? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 そりゃ　うちらの事情で
 一方的に　あんたの手を
 煩わすことに　なるんだから\\.\\|\\^
-> CONTEXT: Commonevents/289/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/103/Dialogue
+Well, because of our circumstances,
+it would be unfair towards you
+otherwise.
 > END STRING
 
 > BEGIN STRING
 せめて　見返りとして　あたしの手で
 こ　これくらいはしなきゃって
 思うけど……。\\.\\|\\^
-> CONTEXT: Commonevents/289/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/110/Dialogue
+At the very least, as thanks, 
+I should do something like this 
+with my own hands... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ……いや　良くないな。義務感丸出しは。
 うーん。で？　あんたは　どうなの？
 あんたも　気持ち良くなってきてるの？\\.\\|\\^
-> CONTEXT: Commonevents/289/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/117/Dialogue
+...No, it's too obviously just obligation.
+Hmm. So? What about you?
+Are you starting to feel good too? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 い　いや　『あんたも』って
 その　あたしは別に　気持ち良くなんか
 なってないし……勘違いすんな！\\.\\|\\^
-> CONTEXT: Commonevents/289/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/127/Dialogue
+No, not "you too",
+I mean, I wasn't feeling good at all... 
+Don't get the wrong idea! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 か　顔が赤いって！？
 そ　そ　そんなの　ちょっと
 緊張してるだけだよ！\\.\\|\\^
-> CONTEXT: Commonevents/289/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/134/Dialogue
+My face is red?!
+Th-that's just because I'm a bit
+nervous! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 つべこべ言わずに　あんたは　大人しく
 あたしの手の中で　さっさと
 出しちゃえよ！　ザ……ザーメンをさ。\\.\\|\\^
-> CONTEXT: Commonevents/289/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/141/Dialogue
+Stop making excuses and just be quiet
+and let it all out in my hand! 
+Your... your semen. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホ……ホラっ！　こうやって
 ペニスをシコシコすれば　ザーメン……
 つまり　スペルマが　出るんでしょ！？\\.\\|\\^
-> CONTEXT: Commonevents/289/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/155/Dialogue
+H-Hey! If you stroke a penis like this, 
+semen... That is, sperm, 
+will come out, right?! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ってか　なんか　あんたのペニス
 ビクビクしてるし　先っぽから
 変な汁　出てるし　どうなってんの！？\\.\\|\\^
-> CONTEXT: Commonevents/289/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/162/Dialogue
+Wait, your penis is twitching 
+and some fluid is coming out, 
+what's going on!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あっ？　あっ？　何コレ？
 え　出るの？　このまま　あんた……
 あたしの手に　スペルマ　出すっての！？\\.\\|\\^
-> CONTEXT: Commonevents/289/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/169/Dialogue
+Huh? Huh? What's this?
+What? Is it coming out? Are you going to...
+Cum into my hand?!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うわっ！？　なんか　来る……！
 ドクドクって　あたしの手の中で
 ドクドクドクドク……来るっ！　来るッ！\\.\\|\\^
-> CONTEXT: Commonevents/289/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/176/Dialogue
+Whoa!? Something's coming...!
+It's thumping in my hand
+Thump thump... It's coming!\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 きゃっ　きゃぁぁぁぁぁぁっ！
 何　この勢い！？\\.\\|\\^
-> CONTEXT: Commonevents/289/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/191/Dialogue
+Ah! Ahhhhhhhh!
+Why, with such force!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ハァ……ハァ……すごい　すごいなっ
 こんなに　いっぱい……で　出るなんてっ
 ハァ……ハァ……　\\|マジか。\\.\\|\\^
-> CONTEXT: Commonevents/289/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/202/Dialogue
+Haa...haa...amazing, amazing!
+So much...coming out!
+Haa...haa... Seriously?
 > END STRING
 
 > BEGIN STRING
 顔に掛かったし……生温かくて
 べっとり……これが　スペルマ？\\|
 あんたの……ザーメン　なのか。\\.\\|\\^
-> CONTEXT: Commonevents/289/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/209/Dialogue
+On my face...warm and sticky... 
+Is this sperm? 
+Is this your...semen?
 > END STRING
 
 > BEGIN STRING
 覚えておかなきゃ……。
 この匂いも……。記憶に　留めて……。
 ………………うん　悪くないな。\\.\\|\\^
-> CONTEXT: Commonevents/289/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/289/218/Dialogue
+I have to remember this...
+This scent too... I'll remember...
+...Hmm, not bad. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 目覚めのベルが　負荷により
 ドロドロに　溶けてしまった！
-> CONTEXT: Commonevents/291/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/291/3/Dialogue
+The awakening bell melted into 
+a gooey mess due to the strain!
 > END STRING
 
 > BEGIN STRING

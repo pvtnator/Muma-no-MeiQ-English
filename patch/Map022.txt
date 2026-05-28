@@ -271,8 +271,8 @@ You coming...?
 > CONTEXT: Map022/events/1/pages/0/248/Dialogue
 \\NAME[\\n[13]]
 Well then☆ Excuse me〜
-For no particular reason, 
-I'll help you remotely for now.
+For reasons I can't explain, 
+We'll help you remotely for now.
 > END STRING
 
 > BEGIN STRING

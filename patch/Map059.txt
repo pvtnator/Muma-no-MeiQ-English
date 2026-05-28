@@ -58,7 +58,7 @@ It all comes down to choice.
 > CONTEXT: Map065/events/1/pages/6/145/InlineScript/1:32
 > CONTEXT: Map065/events/1/pages/7/135/InlineScript/1:32
 > CONTEXT: Commonevents/96/17/InlineScript/1:32
-"Superman rank"
+"Superhuman rank"
 > END STRING
 
 > BEGIN STRING

@@ -1001,8 +1001,8 @@ Hanatarashi
 
 > BEGIN STRING
 サイコニューロ
-> CONTEXT: Enemies/871/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/871/name/
+Psychoneuro
 > END STRING
 
 > BEGIN STRING
@@ -1055,8 +1055,8 @@ Hanatarashi
 
 > BEGIN STRING
 金貘
-> CONTEXT: Enemies/890/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/890/name/
+Gold Tapir
 > END STRING
 
 > BEGIN STRING

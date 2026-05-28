@@ -3932,8 +3932,8 @@ S50以上<BGM:5\>
 
 > BEGIN STRING
 金貘<BGM:5\>
-> CONTEXT: Troops/883/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/883/name/
+Gold Tapir<BGM:5\>
 > END STRING
 
 > BEGIN STRING

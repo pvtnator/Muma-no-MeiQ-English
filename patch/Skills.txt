@@ -35,7 +35,7 @@ Defend and minimize damage.
 > BEGIN STRING
 は　防御している！
 > CONTEXT: Skills/2/message1/
- is defending!
+ defends!
 > END STRING
 
 > BEGIN STRING
@@ -905,15 +905,15 @@ Basic melee attack.
 
 > BEGIN STRING
 むらさき夢食み
-> CONTEXT: Skills/83/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/83/name/
+Purple Dream Eating
 > END STRING
 
 > BEGIN STRING
 の　むらさき夢食み！
-> CONTEXT: Skills/83/message1/ < UNTRANSLATED
-> CONTEXT: Skills/86/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/83/message1/
+> CONTEXT: Skills/86/message1/
+ uses Purple Dream Eating!
 > END STRING
 
 > BEGIN STRING
@@ -948,15 +948,15 @@ Basic melee attack.
 
 > BEGIN STRING
 夢喰らい
-> CONTEXT: Skills/88/name/ < UNTRANSLATED
-> CONTEXT: States/405/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/88/name/
+> CONTEXT: States/405/name/
+Dream Eating
 > END STRING
 
 > BEGIN STRING
 は　夢喰らいの構えを取った！
-> CONTEXT: Skills/88/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/88/message1/
+ got ready to devour dreams!
 > END STRING
 
 > BEGIN STRING
@@ -1522,40 +1522,42 @@ Basic melee attack.
 
 > BEGIN STRING
 レッグカット
-> CONTEXT: Skills/146/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/146/name/
+Leg Cut
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]+足止(中)+AGI↓〙\\i[30]\\i[207]
 脚部を鋭い刃で傷つけ　機動力を奪う
-> CONTEXT: Skills/146/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/146/description/
+[Single: ATK*\\C[9]C\\C[0]/Leg Bind(M)/AGI↓]\\i[30]\\i[207]
+Injure legs to reduce mobility
 > END STRING
 
 > BEGIN STRING
 は　レッグカットを放った！
-> CONTEXT: Skills/146/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/146/message1/
+ unleashed Leg Cut!
 > END STRING
 
 > BEGIN STRING
 アームカット
-> CONTEXT: Skills/147/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/147/name/
+Arm Cut
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]+腕固(中)+流血(中)〙\\i[30]\\i[207]
 腕部を斬って故障させ　鮮血を流させる
-> CONTEXT: Skills/147/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/147/description/
+[Single: ATK*\\C[9]C\\C[0]/Arm Bind(M)/Bleed(M)]\\i[30]\\i[207]
+Injure arms with bleeding wounds
 > END STRING
 
 > BEGIN STRING
 は　アームカットを放った！
-> CONTEXT: Skills/147/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/147/message1/
+ unleashed Arm Cut!
 > END STRING
 
 > BEGIN STRING
@@ -7391,21 +7393,22 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 地獄絵図
-> CONTEXT: Skills/544/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/544/name/
+Hell Depiction
 > END STRING
 
 > BEGIN STRING
 〘全:ATK+PSY↓〙\\i[30]
 末路の予想図を見せつけ　敵を萎えさせる
-> CONTEXT: Skills/544/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/544/description/
+[All: ATK/PSY↓]\\i[30]
+Show a predicted fate to demoralize
 > END STRING
 
 > BEGIN STRING
 は　地獄絵図を描いた！
-> CONTEXT: Skills/544/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/544/message1/
+ depicted hell!
 > END STRING
 
 > BEGIN STRING
@@ -8766,20 +8769,20 @@ Strange Cry
 
 > BEGIN STRING
 ふわふわ浮いてる
-> CONTEXT: Skills/644/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/644/name/
+Soft Float
 > END STRING
 
 > BEGIN STRING
 は　ふわふわと
-> CONTEXT: Skills/644/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/644/message1/
+ floats softly
 > END STRING
 
 > BEGIN STRING
 宙をたゆたうように　漂っている！
-> CONTEXT: Skills/644/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/644/message2/
+and drifts through the air!
 > END STRING
 
 > BEGIN STRING
@@ -11510,161 +11513,170 @@ LP損耗率依存
 
 > BEGIN STRING
 フラーヴァ
-> CONTEXT: Skills/844/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/844/name/
+Flava
 > END STRING
 
 > BEGIN STRING
 〘単:DEF↑〙\\i[29]
 魔法の黄岩で　守備を固める　補助呪文
-> CONTEXT: Skills/844/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/844/description/
+[Single: DEF↑]\\i[29]
+Strengthens defenses with magical yellow rock
 > END STRING
 
 > BEGIN STRING
 は　フラーヴァを詠唱！
-> CONTEXT: Skills/844/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/844/message1/
+ casts Flava!
 > END STRING
 
 > BEGIN STRING
 フラーヴァⅡ
-> CONTEXT: Skills/845/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/845/name/
+Flava2
 > END STRING
 
 > BEGIN STRING
 〘全:DEF↑〙\\i[29]
 味方全体を魔法の黄岩で守る　補助呪文
-> CONTEXT: Skills/845/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/845/description/
+[All: DEF↑]\\i[29]
+Strengthens defenses with magical yellow rock
 > END STRING
 
 > BEGIN STRING
 は　フラーヴァⅡを詠唱！
-> CONTEXT: Skills/845/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/845/message1/
+ casts Flava2!
 > END STRING
 
 > BEGIN STRING
 オーロ
-> CONTEXT: Skills/847/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/847/name/
+Oro
 > END STRING
 
 > BEGIN STRING
 〘単:惑乱付与(高)〙\\i[29]
 愚者の金石で　対象を惑わす　攻策呪文
-> CONTEXT: Skills/847/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/847/description/
+[Single: Confusion (L)]\\i[29]
+Confuses the target with Fool's Goldstone
 > END STRING
 
 > BEGIN STRING
 は　オーロを詠唱！
-> CONTEXT: Skills/847/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/847/message1/
+ casts Oro!
 > END STRING
 
 > BEGIN STRING
 オーロⅡ
-> CONTEXT: Skills/848/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/848/name/
+Oro2
 > END STRING
 
 > BEGIN STRING
 〘全:惑乱付与(中)〙\\i[29]
 愚者の金石で　敵陣を惑わす　攻策呪文
-> CONTEXT: Skills/848/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/848/description/
+[All: Confusion (M)]\\i[29]
+Confuses the targets with Fool's Goldstone
 > END STRING
 
 > BEGIN STRING
 は　オーロⅡを詠唱！
-> CONTEXT: Skills/848/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/848/message1/
+ casts Oro2!
 > END STRING
 
 > BEGIN STRING
 ヴェルダ
-> CONTEXT: Skills/851/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/851/name/
+Verda
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+LP搾取〙\\i[29]
 緑大蛇が如き茎が　生気を吸う　攻撃呪文
-> CONTEXT: Skills/851/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/851/description/
+[Single: PSY*\\C[9]B\\C[0]+LP Drain]\\i[29]
+Summon green serpent to suck life force
 > END STRING
 
 > BEGIN STRING
 ヴェルダⅡ
-> CONTEXT: Skills/852/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/852/name/
+Verda2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[9]Ｂ\\C[0]+LP搾取〙\\i[29]
 大蛇めいた緑茎が　一帯を吸う　攻撃呪文
-> CONTEXT: Skills/852/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/852/description/
+[Area: PSY*\\C[9]B\\C[0]+LP Drain]\\i[29]
+Summon green serpent to suck life force
 > END STRING
 
 > BEGIN STRING
 は　ヴェルダⅡを詠唱！
-> CONTEXT: Skills/852/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/852/message1/
+ casts Verda2!
 > END STRING
 
 > BEGIN STRING
 ヴェルダⅢ
-> CONTEXT: Skills/853/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/853/name/
+Verda3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[9]Ｂ\\C[0]+LP搾取〙\\i[29]
 緑大蛇茎が　敵陣を搾取する　攻撃呪文
-> CONTEXT: Skills/853/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/853/description/
+[All: PSY*\\C[9]B\\C[0]+LP Drain]\\i[29]
+Summon green serpent to suck life force
 > END STRING
 
 > BEGIN STRING
 は　ヴェルダⅢを詠唱！
-> CONTEXT: Skills/853/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/853/message1/
+ casts Verda3!
 > END STRING
 
 > BEGIN STRING
 カルク
-> CONTEXT: Skills/854/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/854/name/
+Kalk
 > END STRING
 
 > BEGIN STRING
 〘単:足止付与(高)〙\\i[29]
 ライムの蔦で　足元を捕縛する　攻策呪文
-> CONTEXT: Skills/854/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/854/description/
+[Single: Leg Bind (L)]\\i[29]
+Traps feet with lime vines
 > END STRING
 
 > BEGIN STRING
 は　カルクを詠唱！
-> CONTEXT: Skills/854/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/854/message1/
+ casts Kalk!
 > END STRING
 
 > BEGIN STRING
 カルクⅡ
-> CONTEXT: Skills/855/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/855/name/
+Kalk2
 > END STRING
 
 > BEGIN STRING
 〘全:足止付与(中)〙\\i[29]
 ライムの蔦を　敵陣に這わす　攻策呪文
-> CONTEXT: Skills/855/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/855/description/
+[All: Leg Bind (M)]\\i[29]
+Traps feet with lime vines
 > END STRING
 
 > BEGIN STRING
@@ -11885,15 +11897,16 @@ LP損耗率依存
 
 > BEGIN STRING
 エボーナ
-> CONTEXT: Skills/874/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/874/name/
+Ebon
 > END STRING
 
 > BEGIN STRING
 〘単:口封付与(高)〙\\i[29]
 黒檀色のジャムで　口内を塞ぐ　攻策呪文
-> CONTEXT: Skills/874/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/874/description/
+[Single: Mouth Bind (L)]\\i[29]
+Seals the mouth with ebony-colored jam
 > END STRING
 
 > BEGIN STRING
@@ -11987,34 +12000,36 @@ LP損耗率依存
 
 > BEGIN STRING
 エブーラ
-> CONTEXT: Skills/884/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/884/name/
+Ebur
 > END STRING
 
 > BEGIN STRING
 〘単:目潰付与(高)〙\\i[29]
 象牙狩りの閃光が　視力を奪う　攻策呪文
-> CONTEXT: Skills/884/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/884/description/
+[Single: Blind (L)]\\i[29]
+Blinding ivory flash
 > END STRING
 
 > BEGIN STRING
 は　エブーラを詠唱！
-> CONTEXT: Skills/884/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/884/message1/
+ casts Ebur!
 > END STRING
 
 > BEGIN STRING
 エブーラⅡ
-> CONTEXT: Skills/885/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/885/name/
+Ebur2
 > END STRING
 
 > BEGIN STRING
 〘全:目潰付与(中)〙\\i[29]
 象牙狩りの閃光で　敵陣を覆う　攻策呪文
-> CONTEXT: Skills/885/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/885/description/
+[All: Blind (M)]\\i[29]
+Blinding ivory flash
 > END STRING
 
 > BEGIN STRING

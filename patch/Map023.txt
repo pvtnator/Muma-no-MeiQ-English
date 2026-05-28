@@ -536,7 +536,7 @@ Something is lurking in this Id!
 手が　出せなくってね……。
 > CONTEXT: Map023/events/22/pages/1/31/Dialogue
 \\NAME[\\n[11]]
-Ah... that's a 'Baku'.
+Ah... that's a 'Tapir'.
 We can't lay a hand on it either...
 > END STRING
 
@@ -626,7 +626,7 @@ But I think you can do it.
 上手く　\\C[6]迷宮脱出\\C[0]してな？
 > CONTEXT: Map023/events/22/pages/1/213/Dialogue
 \\NAME[\\n[13]]
-So for now, I'll leave it to you.
+So for now, we'll leave it to you.
 Make sure you successfully 
 \\C[6]escape the labyrinth\\C[0], okay?
 > END STRING
@@ -662,8 +662,8 @@ from the labyrinth\\C[0].
 頑張って　探してくれや〜♪
 > CONTEXT: Map023/events/22/pages/1/228/Dialogue
 \\NAME[\\n[13]]
-I can't really tell you 
-where the awakening bell is, can I?
+We can't really tell you 
+where the awakening bell is, can we?
 Try your best to find it♪
 > END STRING
 

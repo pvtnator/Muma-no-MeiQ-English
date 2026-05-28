@@ -386,18 +386,18 @@
 
 > BEGIN STRING
 "%sの%sが　%s上昇！"
-> CONTEXT: Scripts/Vocab/53:21 < UNTRANSLATED
-> CONTEXT: Scripts/Vocab/54:21 < UNTRANSLATED
-> CONTEXT: Scripts/Vocab/62:21 < UNTRANSLATED
-> CONTEXT: Scripts/Vocab/63:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/53:21
+> CONTEXT: Scripts/Vocab/54:21
+> CONTEXT: Scripts/Vocab/62:21
+> CONTEXT: Scripts/Vocab/63:21
+"%s gained %s (%s)!"
 > END STRING
 
 > BEGIN STRING
 "%sの%sが　%s下落！"
-> CONTEXT: Scripts/Vocab/55:21 < UNTRANSLATED
-> CONTEXT: Scripts/Vocab/64:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/55:21
+> CONTEXT: Scripts/Vocab/64:21
+"%s lost %s (%s)!"
 > END STRING
 
 > BEGIN STRING
@@ -459,14 +459,14 @@
 
 > BEGIN STRING
 "%sの%sが　下落！"
-> CONTEXT: Scripts/Vocab/78:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/78:21
+"%s lost %s!"
 > END STRING
 
 > BEGIN STRING
 "%sの%sが　元通りに！"
-> CONTEXT: Scripts/Vocab/79:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/79:21
+"%s recovered %s to normal!"
 > END STRING
 
 > BEGIN STRING
@@ -11022,7 +11022,7 @@
 "仙饌蜜酒"
 > CONTEXT: Scripts/ショップ在庫制/82:3
 > CONTEXT: Commonevents/310/6/InlineScript/1:25
-"Sengen honey sake"
+"Sengen Honey Sake"
 > END STRING
 
 > BEGIN STRING
@@ -12970,5 +12970,47 @@
 > BEGIN STRING
 "debug.rb"
 > CONTEXT: Scripts/DataManager/54:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Backtrace.log'
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+/^{(\\d+)}/
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Time.now} \>\> EXCEPTION CAUGHT <<"
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+"\\n\#{exception.class}: \#{exception}.\\nBacktrace:\\n\\t"
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+"\\n\\t"
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+"EXCEPTION CAUGHT:\\n\#{exception}\\n\\n"
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+'Check the RGSS Console for more information.'
+> CONTEXT: None < UNUSED
 
 > END STRING
