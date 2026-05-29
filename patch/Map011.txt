@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "対象：アッシェ"
-> CONTEXT: Map011/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/0/9/InlineScript/3:5
 "Target: Asche"
 > END STRING
 
@@ -50,8 +50,8 @@
 
 > BEGIN STRING
 保管庫en(s[21])
-> CONTEXT: Map011/events/1/pages/1/121/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/86/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/121/Choice/1
+> CONTEXT: Commonevents/86/11/Choice/0
 Storageen(s[21])
 > END STRING
 

@@ -1,15 +1,15 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "夢界通信"
-> CONTEXT: Map013/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/0/9/InlineScript/2:5
+> CONTEXT: Map012/events/1/pages/0/9/InlineScript/2:5
+> CONTEXT: Map011/events/1/pages/0/9/InlineScript/2:5
 "Reverie Rapport"
 > END STRING
 
 > BEGIN STRING
 "対象：キュミュ"
-> CONTEXT: Map013/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/0/9/InlineScript/3:5
 "Target: Cumu"
 > END STRING
 
@@ -37,17 +37,17 @@
 
 > BEGIN STRING
 攻略情報
-> CONTEXT: Map013/events/1/pages/1/25/Choice/1 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/1/25/Choice/1 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/1/25/Choice/1 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/25/Choice/1
+> CONTEXT: Map012/events/1/pages/1/25/Choice/1
+> CONTEXT: Map011/events/1/pages/1/25/Choice/1
 Strategy Information
 > END STRING
 
 > BEGIN STRING
 対話
-> CONTEXT: Map013/events/1/pages/1/25/Choice/2 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/1/25/Choice/2 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/1/25/Choice/2 < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/25/Choice/2
+> CONTEXT: Map012/events/1/pages/1/25/Choice/2
+> CONTEXT: Map011/events/1/pages/1/25/Choice/2
 Talk
 > END STRING
 

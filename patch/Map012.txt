@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "対象：ベラ"
-> CONTEXT: Map012/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/0/9/InlineScript/3:5
 "Target: Bella"
 > END STRING
 
