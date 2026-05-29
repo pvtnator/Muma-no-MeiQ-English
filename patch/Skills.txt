@@ -276,20 +276,21 @@ Pull the trigger and shoot, ranged attack.
 > BEGIN STRING
 盾撃
 > CONTEXT: Skills/25/name/ < UNTRANSLATED
-
+Shield Bash
 > END STRING
 
 > BEGIN STRING
 〘単:盾DEF*\\C[8]Ｅ\\C[0]〙\\i[133]
 構えた盾で　敵を叩き付ける　凡撃
 > CONTEXT: Skills/25/description/ < UNTRANSLATED
-
+[Single: Shield DEF*\\C[8]E\\C[0]]\\i[133]
+Slam the enemy with your shield
 > END STRING
 
 > BEGIN STRING
 は　盾撃を放った！
 > CONTEXT: Skills/25/message1/ < UNTRANSLATED
-
+ unleashed Shield Bash!
 > END STRING
 
 > BEGIN STRING
