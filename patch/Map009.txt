@@ -338,5 +338,7 @@ Will you use Secret Priming?
 
 何かが　落ちている……。
 > CONTEXT: Map009/events/8/pages/0/0/Dialogue < UNTRANSLATED
+!?
 
+Something's fallen...
 > END STRING

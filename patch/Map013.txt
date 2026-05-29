@@ -4,13 +4,13 @@
 > CONTEXT: Map013/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
 > CONTEXT: Map012/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
 > CONTEXT: Map011/events/1/pages/0/9/InlineScript/2:5 < UNTRANSLATED
-
+"Reverie Rapport"
 > END STRING
 
 > BEGIN STRING
 "対象：キュミュ"
 > CONTEXT: Map013/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
-
+"Target: Cumu"
 > END STRING
 
 > BEGIN STRING
@@ -40,7 +40,7 @@
 > CONTEXT: Map013/events/1/pages/1/25/Choice/1 < UNTRANSLATED
 > CONTEXT: Map012/events/1/pages/1/25/Choice/1 < UNTRANSLATED
 > CONTEXT: Map011/events/1/pages/1/25/Choice/1 < UNTRANSLATED
-
+Strategy Information
 > END STRING
 
 > BEGIN STRING
@@ -48,7 +48,7 @@
 > CONTEXT: Map013/events/1/pages/1/25/Choice/2 < UNTRANSLATED
 > CONTEXT: Map012/events/1/pages/1/25/Choice/2 < UNTRANSLATED
 > CONTEXT: Map011/events/1/pages/1/25/Choice/2 < UNTRANSLATED
-
+Talk
 > END STRING
 
 > BEGIN STRING

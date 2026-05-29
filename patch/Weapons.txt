@@ -1,294 +1,294 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 祝歌の呪剣
-> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+> CONTEXT: Weapons/9/name/
 Cursed Celebration Sword
 > END STRING
 
 > BEGIN STRING
 魔剣
 殺した数　\\v[564]
-> CONTEXT: Weapons/9/description/ < UNTRANSLATED
+> CONTEXT: Weapons/9/description/
 Demonic Sword
 Number of Kills: 564
 > END STRING
 
 > BEGIN STRING
 ウッドソード
-> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+> CONTEXT: Weapons/10/name/
 Wood Sword
 > END STRING
 
 > BEGIN STRING
 習:平打
 訓練用に用いられる　切れ味の無い片手剣
-> CONTEXT: Weapons/10/description/ < UNTRANSLATED
+> CONTEXT: Weapons/10/description/
 Skill: Blunt Strike
 A dull, one-handed sword used for training
 > END STRING
 
 > BEGIN STRING
 ブロンズソード
-> CONTEXT: Weapons/11/name/ < UNTRANSLATED
+> CONTEXT: Weapons/11/name/
 Bronze Sword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/\\C[6]音速青瞬\\C[0]
 青銅で鋳造された　一般的な片手剣
-> CONTEXT: Weapons/11/description/ < UNTRANSLATED
+> CONTEXT: Weapons/11/description/
 Skills: Cut/Thrust/Blunt Strike/\\C[6]Sonic Shimmer\\C[0]
 A common one-handed sword cast from bronze
 > END STRING
 
 > BEGIN STRING
 スチールソード
-> CONTEXT: Weapons/12/name/ < UNTRANSLATED
+> CONTEXT: Weapons/12/name/
 Steel Sword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打
 鋼鉄製の片手剣　一人前の剣士たる証
-> CONTEXT: Weapons/12/description/ < UNTRANSLATED
+> CONTEXT: Weapons/12/description/
 Skills: Cut/Thrust/Blunt Strike
 A symbol of a full-fledged swordsman
 > END STRING
 
 > BEGIN STRING
 プラチナソード
-> CONTEXT: Weapons/13/name/ < UNTRANSLATED
+> CONTEXT: Weapons/13/name/
 Platinum Sword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/\\C[6]隼風斬\\C[0]
 銀光沢を放つ　頑丈かつ美しい片手剣
-> CONTEXT: Weapons/13/description/ < UNTRANSLATED
+> CONTEXT: Weapons/13/description/
 Skills: Cut/Thrust/Blunt Strike/\\C[6]Falcon Slash\\C[0]
 Sturdy and beautiful, shines with a silvery luster
 > END STRING
 
 > BEGIN STRING
 ダイヤソード
-> CONTEXT: Weapons/14/name/ < UNTRANSLATED
+> CONTEXT: Weapons/14/name/
 Diamond Sword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/\\C[6]リアスラッシュ\\C[0]
 眩く輝く　切れ味も最上級の片手剣
-> CONTEXT: Weapons/14/description/ < UNTRANSLATED
+> CONTEXT: Weapons/14/description/
 Skills: Cut/Thrust/Blunt Strike/\\C[6]Reverse Slash\\C[0]
 A dazzling top-of-the-line one-handed sword
 > END STRING
 
 > BEGIN STRING
 レイピア
-> CONTEXT: Weapons/15/name/ < UNTRANSLATED
+> CONTEXT: Weapons/15/name/
 Rapier
 > END STRING
 
 > BEGIN STRING
 習:刺突/\\C[6]デュエルランジ\\C[0]
 刺突に特化した片手剣　貴族や騎士が持つ
-> CONTEXT: Weapons/15/description/ < UNTRANSLATED
+> CONTEXT: Weapons/15/description/
 Skills: Thrust/\\C[6]Duel Lunge\\C[0]
 A one-handed sword specialized for thrusting; wielded by nobles and knights.
 > END STRING
 
 > BEGIN STRING
 青銅の大剣
-> CONTEXT: Weapons/21/name/ < UNTRANSLATED
+> CONTEXT: Weapons/21/name/
 Bronze Greatsword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打〘両〙
 両手で扱う　大振りのブロンズソード
-> CONTEXT: Weapons/21/description/ < UNTRANSLATED
+> CONTEXT: Weapons/21/description/
 Skills: Cut/Thrust/Blunt Strike [2H]
 A large bronze sword wielded with both hands
 > END STRING
 
 > BEGIN STRING
 鋼鉄の大剣
-> CONTEXT: Weapons/22/name/ < UNTRANSLATED
+> CONTEXT: Weapons/22/name/
 Steel Greatsword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/\\C[6]アブゼッツェン\\C[0]〘両〙
 腕自慢の兵隊長も扱う　堂々たる両手剣
-> CONTEXT: Weapons/22/description/ < UNTRANSLATED
+> CONTEXT: Weapons/22/description/
 Skills: Cut/Thrust/Blunt Strike/\\C[6]Abzetzen\\C[0] [2H]
 A magnificent sword befitting a commander
 > END STRING
 
 > BEGIN STRING
 白金の大剣
-> CONTEXT: Weapons/23/name/ < UNTRANSLATED
+> CONTEXT: Weapons/23/name/
 Platinum Greatsword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/\\C[6]ドライヴンダー\\C[0]〘両〙
 携えば一目置かれる　銀光沢を放つ両手剣
-> CONTEXT: Weapons/23/description/ < UNTRANSLATED
+> CONTEXT: Weapons/23/description/
 Skills: Cut/Thrust/Blunt Strike/\\C[6]Drei Wunder\\C[0] [Two-handed]
 A sword that shines silver, commanding respect
 > END STRING
 
 > BEGIN STRING
 金剛の大剣
-> CONTEXT: Weapons/24/name/ < UNTRANSLATED
+> CONTEXT: Weapons/24/name/
 Adamantine Greatsword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打〘両〙
 剣聖と評される者が持つ　最上級の両手剣
-> CONTEXT: Weapons/24/description/ < UNTRANSLATED
+> CONTEXT: Weapons/24/description/
 Skills: Cut/Thrust/Blunt Strike [2H]
 The finest sword wielded by sword saints
 > END STRING
 
 > BEGIN STRING
 木刀
-> CONTEXT: Weapons/40/name/ < UNTRANSLATED
+> CONTEXT: Weapons/40/name/
 Wooden Greatsword
 > END STRING
 
 > BEGIN STRING
 習:平打/\\C[6]小手突き\\C[0]〘両〙
 稽古用の和刀　斬るよりも殴る用
-> CONTEXT: Weapons/40/description/ < UNTRANSLATED
+> CONTEXT: Weapons/40/description/
 Skills: Flat strike/\\C[6]Wrist thrust\\C[0] [2H]
 Training sword; more for striking than cutting
 > END STRING
 
 > BEGIN STRING
 卸鉄之脇差
-> CONTEXT: Weapons/41/name/ < UNTRANSLATED
+> CONTEXT: Weapons/41/name/
 Wakizashi
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突〘両〙
 補助的に使う小さな刀だが　切れ味は本物
-> CONTEXT: Weapons/41/description/ < UNTRANSLATED
+> CONTEXT: Weapons/41/description/
 Skills: Slash/Thrust [2H]
 For auxiliary purposes, but genuinely sharp
 > END STRING
 
 > BEGIN STRING
 玉鋼之打刀
-> CONTEXT: Weapons/42/name/ < UNTRANSLATED
+> CONTEXT: Weapons/42/name/
 Uchikatana
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]無双逆流れ\\C[0]〘両〙
 腰に差して扱う　標準的な和刀
-> CONTEXT: Weapons/42/description/ < UNTRANSLATED
+> CONTEXT: Weapons/42/description/
 Skills: Slash/Thrust/\\C[6]Reverse Flow Slash\\C[0] [2H]
 A standard Japanese sword worn at the waist
 > END STRING
 
 > BEGIN STRING
 白鋼之野太刀
-> CONTEXT: Weapons/43/name/ < UNTRANSLATED
+> CONTEXT: Weapons/43/name/
 White Steel Sword
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突〘両〙
 名立たる勇将が用いた　長大な太刀
-> CONTEXT: Weapons/43/description/ < UNTRANSLATED
+> CONTEXT: Weapons/43/description/
 Skills: Slash/Thrust [2H]
 A long, powerful sword used by renowned warriors
 > END STRING
 
 > BEGIN STRING
 青生生魂大太刀
-> CONTEXT: Weapons/44/name/ < UNTRANSLATED
+> CONTEXT: Weapons/44/name/
 Odachi
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]１６回斬り\\C[0]〘両〙
 アボイタカラ金属で作刀　最上級の和刀
-> CONTEXT: Weapons/44/description/ < UNTRANSLATED
+> CONTEXT: Weapons/44/description/
 Skills: Slash/Thrust/\\C[6]16 Slashes\\C[0] [2H]
 Finest Japanese sword made from Aboitakara metal
 > END STRING
 
 > BEGIN STRING
 モノホシザオ
-> CONTEXT: Weapons/45/name/ < UNTRANSLATED
+> CONTEXT: Weapons/45/name/
 Washing Pole
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]燕返し\\C[0]〘両〙
 あまりに長大で　武骨な野太刀
-> CONTEXT: Weapons/45/description/ < UNTRANSLATED
+> CONTEXT: Weapons/45/description/
 Skills: Slash/Thrust/\\C[6]Swallow Reversal\\C[0] [2H]
 An extremely long and rugged nodachi
 > END STRING
 
 > BEGIN STRING
 山刀
-> CONTEXT: Weapons/51/name/ < UNTRANSLATED
+> CONTEXT: Weapons/51/name/
 Machete
 > END STRING
 
 > BEGIN STRING
 習:斬撃/\\C[6]痺剣の舞\\C[0]
 湾曲した刀身が特徴の伐採用　中型刃物
-> CONTEXT: Weapons/51/description/ < UNTRANSLATED
+> CONTEXT: Weapons/51/description/
 Skills: Slash/\\C[6]Paralysis Dance\\C[0]
 Curved blade, suitable for logging
 > END STRING
 
 > BEGIN STRING
 三日月刀
-> CONTEXT: Weapons/52/name/ < UNTRANSLATED
+> CONTEXT: Weapons/52/name/
 Crescent Sword
 > END STRING
 
 > BEGIN STRING
 習:斬撃/\\C[6]眠剣の舞\\C[0]
 三日月のように鋭く湾曲した　片刃刀
-> CONTEXT: Weapons/52/description/ < UNTRANSLATED
+> CONTEXT: Weapons/52/description/
 Skills: Slash/\\C[6]Sleep Dance\\C[0]
 A single-edged sword, curved like a crescent moon
 > END STRING
 
 > BEGIN STRING
 柳葉刀
-> CONTEXT: Weapons/53/name/ < UNTRANSLATED
+> CONTEXT: Weapons/53/name/
 Liuyedao
 > END STRING
 
 > BEGIN STRING
 習:斬撃/\\C[6]乱剣の舞\\C[0]
 斬撃に特化した　艶妖なる片刃の曲刀
-> CONTEXT: Weapons/53/description/ < UNTRANSLATED
+> CONTEXT: Weapons/53/description/
 Skills: Slash/\\C[6]Chaos Dance\\C[0]
 A shiny single-edged curved sword for slashing
 > END STRING
 
 > BEGIN STRING
 ハルパー
-> CONTEXT: Weapons/54/name/ < UNTRANSLATED
+> CONTEXT: Weapons/54/name/
 Harpe
 > END STRING
 
 > BEGIN STRING
 習:斬撃/\\C[6]巌剣の舞\\C[0]
 蛇頭を狩る鎌の如き　熟達者向けの曲刀
-> CONTEXT: Weapons/54/description/ < UNTRANSLATED
+> CONTEXT: Weapons/54/description/
 Skills: Slash/\\C[6]Stone Dance\\C[0]
 Curved sword like a scythe hunting snake heads
 > END STRING
@@ -302,29 +302,29 @@ Curved sword like a scythe hunting snake heads
 > BEGIN STRING
 習:斬撃/刺突〘両〙
 
-> CONTEXT: Weapons/61/description/ < UNTRANSLATED
-> CONTEXT: Weapons/68/description/ < UNTRANSLATED
+> CONTEXT: Weapons/61/description/
+> CONTEXT: Weapons/68/description/
 Skills: Slash/Thrust [2H]
 
 > END STRING
 
 > BEGIN STRING
 村雨丸
-> CONTEXT: Weapons/62/name/ < UNTRANSLATED
+> CONTEXT: Weapons/62/name/
 Murasame
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]氷結斬\\C[0]〘凡撃時急死〙〘両〙
 常に水気を帯びてる　鮮血を洗い流す妖刀
-> CONTEXT: Weapons/62/description/ < UNTRANSLATED
+> CONTEXT: Weapons/62/description/
 Skills: Slash/Thrust/\\C[6]Ice Slash\\C[0][Deathblow][2H]
 A cursed sword that washes away fresh blood
 > END STRING
 
 > BEGIN STRING
 ムラマサソード
-> CONTEXT: Weapons/68/name/ < UNTRANSLATED
+> CONTEXT: Weapons/68/name/
 Muramasa
 > END STRING
 
@@ -372,7 +372,7 @@ A steel dagger forged for knife users.
 
 > BEGIN STRING
 プラチナダガー
-> CONTEXT: Weapons/73/name/ < UNTRANSLATED
+> CONTEXT: Weapons/73/name/
 Platinum Dagger
 > END STRING
 

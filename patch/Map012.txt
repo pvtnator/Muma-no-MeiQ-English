@@ -2,7 +2,7 @@
 > BEGIN STRING
 "対象：ベラ"
 > CONTEXT: Map012/events/1/pages/0/9/InlineScript/3:5 < UNTRANSLATED
-
+"Target: Bella"
 > END STRING
 
 > BEGIN STRING

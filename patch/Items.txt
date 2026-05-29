@@ -2402,7 +2402,7 @@ The key that paves the way to Logos
 > BEGIN STRING
 炎霊犀の鍵
 > CONTEXT: Items/404/name/
-Flame Spirit Rhino Key
+Flame Spirit Key
 > END STRING
 
 > BEGIN STRING
@@ -2416,7 +2416,7 @@ imbued with powerful energy and a strong bond
 > BEGIN STRING
 氷霊犀の鍵
 > CONTEXT: Items/405/name/
-Ice Spirit Rhino Key
+Ice Spirit Key
 > END STRING
 
 > BEGIN STRING
@@ -2430,7 +2430,7 @@ imbued with powerful energy and a strong bond
 > BEGIN STRING
 雷霊犀の鍵
 > CONTEXT: Items/406/name/
-Thunder Spirit Rhino Key
+Thunder Spirit Key
 > END STRING
 
 > BEGIN STRING
@@ -2444,7 +2444,7 @@ imbued with powerful energy and a strong bond
 > BEGIN STRING
 小型夢界端末
 > CONTEXT: Items/899/name/
-Small Dream World Terminal
+Small Dream Terminal
 > END STRING
 
 > BEGIN STRING
@@ -2458,7 +2458,7 @@ Verify 3 functions of a communication terminal
 > BEGIN STRING
 超級尋宝士目録
 > CONTEXT: Items/900/name/
-Super Treasure Hunter Catalog
+Super Treasure Catalog
 > END STRING
 
 > BEGIN STRING

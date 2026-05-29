@@ -795,25 +795,26 @@ Shin Muma no MeiQ
 しかし　ここでは端末が起動しなかった！
 いよいよ　ヤバい領域ということだ！
 > CONTEXT: Commonevents/86/1/Dialogue < UNTRANSLATED
-
+However, the device doesn't boot up here!
+This area is dangerous!
 > END STRING
 
 > BEGIN STRING
 マスタリスキルen(s[22])
 > CONTEXT: Commonevents/86/11/Choice/1 < UNTRANSLATED
-
+Mastery Skillen(s[22])
 > END STRING
 
 > BEGIN STRING
 蒐集図鑑en(s[23])
 > CONTEXT: Commonevents/86/11/Choice/2 < UNTRANSLATED
-
+Galleryen(s[23])
 > END STRING
 
 > BEGIN STRING
 スコア
 > CONTEXT: Commonevents/86/11/Choice/3 < UNTRANSLATED
-
+Score
 > END STRING
 
 > BEGIN STRING
@@ -821,19 +822,20 @@ Shin Muma no MeiQ
 通信は　圏外になってしまった！
 > CONTEXT: Commonevents/86/14/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/86/40/Dialogue < UNTRANSLATED
-
+However, perhaps due to Jaqi, 
+communication was blocked and lost signal!
 > END STRING
 
 > BEGIN STRING
 閉じる
 > CONTEXT: Commonevents/86/53/Choice/0 < UNTRANSLATED
-
+Close
 > END STRING
 
 > BEGIN STRING
 \\V[52]\\G　発見！
 > CONTEXT: Commonevents/87/5/Dialogue < UNTRANSLATED
-
+Found \\V[52]\\G！
 > END STRING
 
 > BEGIN STRING
@@ -846,7 +848,8 @@ Picked up \\V[52]\\G！
 ドアの先に広がる暗闇の中　何者かが
 物品の売買を　行っている！
 > CONTEXT: Commonevents/88/2/Dialogue < UNTRANSLATED
-
+In the abyss beyond the door,
+someone is opening a shop!
 > END STRING
 
 > BEGIN STRING

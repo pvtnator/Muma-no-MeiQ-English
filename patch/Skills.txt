@@ -224,21 +224,21 @@ Pull the trigger and shoot, ranged attack.
 
 > BEGIN STRING
 平打
-> CONTEXT: Skills/22/name/ < UNTRANSLATED
+> CONTEXT: Skills/22/name/
 Blunt Strike
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[8]Ｇ\\C[0]〙\\i[133]
 平面部分で　敵を叩き付ける　凡撃
-> CONTEXT: Skills/22/description/ < UNTRANSLATED
+> CONTEXT: Skills/22/description/
 [Single: ATK*\\C[8]G\\C[0]]\\i[133]
 Slam the enemy with the flat surface
 > END STRING
 
 > BEGIN STRING
 は　平打を放った！
-> CONTEXT: Skills/22/message1/ < UNTRANSLATED
+> CONTEXT: Skills/22/message1/
  unleashed Blunt Strike!
 > END STRING
 
@@ -468,21 +468,21 @@ Basic melee attack.
 
 > BEGIN STRING
 氷結斬
-> CONTEXT: Skills/51/name/ < UNTRANSLATED
+> CONTEXT: Skills/51/name/
 Ice Slash
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]〙\\i[30]
 冷気を纏わせて　敵を斬る　複合属性攻撃
-> CONTEXT: Skills/51/description/ < UNTRANSLATED
+> CONTEXT: Skills/51/description/
 [Single: ATK*\\C[9]C\\C[0]]\\i[30]
 Dual attribute ice infused slash
 > END STRING
 
 > BEGIN STRING
 は　氷結斬を放った！
-> CONTEXT: Skills/51/message1/ < UNTRANSLATED
+> CONTEXT: Skills/51/message1/
  unleashed Ice Slash!
 > END STRING
 
@@ -1085,54 +1085,54 @@ Dream Eating
 
 > BEGIN STRING
 隼風斬
-> CONTEXT: Skills/107/name/ < UNTRANSLATED
+> CONTEXT: Skills/107/name/
 Falcon Slash
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｄ\\C[0]*2連〙\\i[30]\\i[201]
 はやぶさのように　素早く２回　敵を斬る
-> CONTEXT: Skills/107/description/ < UNTRANSLATED
+> CONTEXT: Skills/107/description/
 [Single: ATK*\\C[9]D\\C[0]*2]\\i[30]\\i[201]
 Like a falcon, slash the enemy twice quickly
 > END STRING
 
 > BEGIN STRING
 は　隼風斬を放った！
-> CONTEXT: Skills/107/message1/ < UNTRANSLATED
+> CONTEXT: Skills/107/message1/
  unleashed Falcon Slash!
 > END STRING
 
 > BEGIN STRING
 デュエルランジ
-> CONTEXT: Skills/108/name/ < UNTRANSLATED
+> CONTEXT: Skills/108/name/
 Duel Lunge
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ａ\\C[0]〙\\i[30]\\i[201]
 体を伸ばし　突進するように　力強く突く
-> CONTEXT: Skills/108/description/ < UNTRANSLATED
+> CONTEXT: Skills/108/description/
 [Single: ATK*\\C[10]A\\C[0]]\\i[30]\\i[201]
 Thrust powerfully by reaching forward
 > END STRING
 
 > BEGIN STRING
 は　デュエルランジを放った！
-> CONTEXT: Skills/108/message1/ < UNTRANSLATED
+> CONTEXT: Skills/108/message1/
  unleashed Duel Lunge
 > END STRING
 
 > BEGIN STRING
 リアスラッシュ
-> CONTEXT: Skills/109/name/ < UNTRANSLATED
+> CONTEXT: Skills/109/name/
 Reverse Slash
 > END STRING
 
 > BEGIN STRING
 〘全:ATK*\\C[10]Ａ\\C[0]〙\\i[30]\\i[201]
 剣を逆手に持ち　闘気溜め放つ　遠隔斬撃
-> CONTEXT: Skills/109/description/ < UNTRANSLATED
+> CONTEXT: Skills/109/description/
 [All: ATK*\\C[10]A\\C[0]]\\i[30]\\i[201]
 With reverse grip unleashe a long-range slash
 > END STRING
@@ -1164,21 +1164,21 @@ With reverse grip unleashe a long-range slash
 
 > BEGIN STRING
 アブゼッツェン
-> CONTEXT: Skills/112/name/ < UNTRANSLATED
+> CONTEXT: Skills/112/name/
 Abzetzen
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]/自:回避力↑〙\\i[30]\\i[202]
 刺突撃放ち　以後ターン中の回避力が上昇
-> CONTEXT: Skills/112/description/ < UNTRANSLATED
+> CONTEXT: Skills/112/description/
 [Single: ATK*\\C[9]B\\C[0]/Own Evasion↑]\\i[30]\\i[202]
 Thrusting attack; evasion up for this turn
 > END STRING
 
 > BEGIN STRING
 の　アブゼッツェン！
-> CONTEXT: Skills/112/message1/ < UNTRANSLATED
+> CONTEXT: Skills/112/message1/
  used Abzetzen!
 > END STRING
 
@@ -1203,22 +1203,22 @@ Thrusting attack; evasion up for this turn
 
 > BEGIN STRING
 ドライヴンダー
-> CONTEXT: Skills/114/name/ < UNTRANSLATED
+> CONTEXT: Skills/114/name/
 Drei Wunder
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]*2〜3連〙\\i[30]\\i[202]
 斬る・突くの連撃　更に確率で再び斬撃
-> CONTEXT: Skills/114/description/ < UNTRANSLATED
+> CONTEXT: Skills/114/description/
 [Single: ATK*\\C[9]B\\C[0]*2-3]\\i[30]\\i[202]
 Slash and thrust, and sometimes slash again
 > END STRING
 
 > BEGIN STRING
 の　ドライヴンダー！
-> CONTEXT: Skills/114/message1/ < UNTRANSLATED
-> CONTEXT: Skills/289/message1/ < UNTRANSLATED
+> CONTEXT: Skills/114/message1/
+> CONTEXT: Skills/289/message1/
  used Drei Wunder!
 > END STRING
 
@@ -1295,173 +1295,173 @@ Slash and thrust, and sometimes slash again
 
 > BEGIN STRING
 小手突き
-> CONTEXT: Skills/126/name/ < UNTRANSLATED
+> CONTEXT: Skills/126/name/
 Wrist Thrust
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[8]Ｆ\\C[0](斬+腕固)⇒(突+口封)〙\\i[30]\\i[204]
 小手斬りから続けて　喉元に突きを放つ
-> CONTEXT: Skills/126/description/ < UNTRANSLATED
+> CONTEXT: Skills/126/description/
 [Single: ATK*\\C[8]F\\C[0](Slash/Arm Bind)⇒(Thrust/Mouth Bind)]\\i[30]\\i[204]
 Slash the forearm, then thrust at the throat
 > END STRING
 
 > BEGIN STRING
 の　小手突き！
-> CONTEXT: Skills/126/message1/ < UNTRANSLATED
+> CONTEXT: Skills/126/message1/
  used Wrist Thrust!
 > END STRING
 
 > BEGIN STRING
 無双逆流れ
-> CONTEXT: Skills/127/name/ < UNTRANSLATED
+> CONTEXT: Skills/127/name/
 Reverse Flow Slash
 > END STRING
 
 > BEGIN STRING
 〘近接反撃/ATK*\\C[10]Ａ\\C[0]〙\\i[30]\\i[204]
 近接攻撃に対し　斬撃で反撃する　返し技
-> CONTEXT: Skills/127/description/ < UNTRANSLATED
+> CONTEXT: Skills/127/description/
 [Melee Counterattack/ATK*\\C[10]A\\C[0]]\\i[30]\\i[204]
 Counter melee attack with a slash
 > END STRING
 
 > BEGIN STRING
 は　刀を地に突き立て
-> CONTEXT: Skills/127/message1/ < UNTRANSLATED
+> CONTEXT: Skills/127/message1/
  thrusted the sword to the ground
 > END STRING
 
 > BEGIN STRING
 無双逆流れの構えを　取った！
-> CONTEXT: Skills/127/message2/ < UNTRANSLATED
+> CONTEXT: Skills/127/message2/
 and assumed Reverse Flow stance!
 > END STRING
 
 > BEGIN STRING
 燕返し
-> CONTEXT: Skills/128/name/ < UNTRANSLATED
+> CONTEXT: Skills/128/name/
 Swallow Reversal
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]*2連〙\\i[30]\\i[204]
 刀を素早く斬り返す　最も著名な二連撃
-> CONTEXT: Skills/128/description/ < UNTRANSLATED
+> CONTEXT: Skills/128/description/
 [Single: ATK*\\C[9]B\\C[0]*2]\\i[30]\\i[204]
 Famous combos where you quickly slash back
 > END STRING
 
 > BEGIN STRING
 は　燕返しを放った！
-> CONTEXT: Skills/128/message1/ < UNTRANSLATED
+> CONTEXT: Skills/128/message1/
  unleashed Swallow Reversal!
 > END STRING
 
 > BEGIN STRING
 １６回斬り
-> CONTEXT: Skills/129/name/ < UNTRANSLATED
+> CONTEXT: Skills/129/name/
 16 Slashes
 > END STRING
 
 > BEGIN STRING
 〘乱:次ATK*\\C[8]Ｇ\\C[0]*16連〙\\i[30]\\i[204]
 恐るべき早業で　敵陣を乱れ斬り
-> CONTEXT: Skills/129/description/ < UNTRANSLATED
+> CONTEXT: Skills/129/description/
 [Random: Next ATK*\\C[8]G\\C[0]*16]\\i[30]\\i[204]
 Slashes through enemies at a terrifying speed
 > END STRING
 
 > BEGIN STRING
 は　スッと
-> CONTEXT: Skills/129/message1/ < UNTRANSLATED
+> CONTEXT: Skills/129/message1/
  gently
 > END STRING
 
 > BEGIN STRING
 刀の鞘に　手を添えた……
-> CONTEXT: Skills/129/message2/ < UNTRANSLATED
+> CONTEXT: Skills/129/message2/
 placed hand on the sword's sheath...
 > END STRING
 
 > BEGIN STRING
 痺剣の舞
-> CONTEXT: Skills/131/name/ < UNTRANSLATED
+> CONTEXT: Skills/131/name/
 Paralysis Dance
 > END STRING
 
 > BEGIN STRING
 〘乱:ATK*\\C[8]Ｆ\\C[0]+麻痺(中)*1〜4連〙\\i[31]\\i[205]
 奇怪な剣の舞で斬り付け　敵を麻痺させる
-> CONTEXT: Skills/131/description/ < UNTRANSLATED
+> CONTEXT: Skills/131/description/
 [Random: ATK*\\C[8]F\\C[0]+Paralysis(M)*1-4]\\i[31]\\i[205]
 Bizarre sword dance that paralyzes the enemy
 > END STRING
 
 > BEGIN STRING
 は　痺剣の舞を踊った！
-> CONTEXT: Skills/131/message1/ < UNTRANSLATED
+> CONTEXT: Skills/131/message1/
  unleashed Paralysis Dance!
 > END STRING
 
 > BEGIN STRING
 眠剣の舞
-> CONTEXT: Skills/132/name/ < UNTRANSLATED
+> CONTEXT: Skills/132/name/
 Sleep Dance
 > END STRING
 
 > BEGIN STRING
 〘乱:ATK*\\C[8]Ｆ\\C[0]+寝落(中)*1〜4連〙\\i[31]\\i[205]
 甘美な剣の舞で斬り付け　敵を寝落させる
-> CONTEXT: Skills/132/description/ < UNTRANSLATED
+> CONTEXT: Skills/132/description/
 [Random: ATK*\\C[8]F\\C[0]+Sleep(M)*1-4]\\i[31]\\i[205]
 Slash with a sweet sword dance, causing sleep
 > END STRING
 
 > BEGIN STRING
 は　眠剣の舞を踊った！
-> CONTEXT: Skills/132/message1/ < UNTRANSLATED
+> CONTEXT: Skills/132/message1/
  unleashed Sleep Dance!
 > END STRING
 
 > BEGIN STRING
 乱剣の舞
-> CONTEXT: Skills/133/name/ < UNTRANSLATED
+> CONTEXT: Skills/133/name/
 Chaos Dance
 > END STRING
 
 > BEGIN STRING
 〘乱:ATK*\\C[8]Ｆ\\C[0]+惑乱(中)*1〜4連〙\\i[31]\\i[205]
 妖艶な剣の舞で斬り付け　敵を惑乱させる
-> CONTEXT: Skills/133/description/ < UNTRANSLATED
+> CONTEXT: Skills/133/description/
 [Random: ATK*\\C[8]F\\C[0]+Confusion(M)*1-4]\\i[31]\\i[205]
 Alluring sword dance that confuses the enemy
 > END STRING
 
 > BEGIN STRING
 は　乱剣の舞を踊った！
-> CONTEXT: Skills/133/message1/ < UNTRANSLATED
+> CONTEXT: Skills/133/message1/
  unleashed Chaos Dance!
 > END STRING
 
 > BEGIN STRING
 巌剣の舞
-> CONTEXT: Skills/134/name/ < UNTRANSLATED
+> CONTEXT: Skills/134/name/
 Stone Dance
 > END STRING
 
 > BEGIN STRING
 〘乱:ATK*\\C[9]Ｃ\\C[0]+石化(中)*1〜4連〙\\i[31]\\i[205]
 剛直な剣の舞で斬り付け　敵を石化させる
-> CONTEXT: Skills/134/description/ < UNTRANSLATED
+> CONTEXT: Skills/134/description/
 [Random: ATK*\\C[9]C\\C[0]+Petrification(M)*1-4]\\i[31]\\i[205]
 Steadfast sword dance that petrifies the enemy
 > END STRING
 
 > BEGIN STRING
 は　巌剣の舞を踊った！
-> CONTEXT: Skills/134/message1/ < UNTRANSLATED
+> CONTEXT: Skills/134/message1/
  unleashed Stone Dance!
 > END STRING
 

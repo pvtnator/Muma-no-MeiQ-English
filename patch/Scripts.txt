@@ -11271,7 +11271,7 @@
 
 > BEGIN STRING
 "レイピア"
-> CONTEXT: Scripts/ショップ在庫制/125:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/125:3
 "Rapier"
 > END STRING
 
@@ -11379,7 +11379,7 @@
 
 > BEGIN STRING
 "ウッドソード"
-> CONTEXT: Scripts/ショップ在庫制/143:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/143:3
 "Wood Sword"
 > END STRING
 
@@ -11391,7 +11391,7 @@
 
 > BEGIN STRING
 "スチールダガー"
-> CONTEXT: Scripts/ショップ在庫制/145:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/145:3
 "Steel Dagger"
 > END STRING
 
@@ -11489,7 +11489,7 @@
 
 > BEGIN STRING
 "白金の大剣"
-> CONTEXT: Scripts/ショップ在庫制/159:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/159:3
 "Platinum Greatsword"
 > END STRING
 
@@ -11700,7 +11700,7 @@
 
 > BEGIN STRING
 "村雨丸"
-> CONTEXT: Scripts/ショップ在庫制/192:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/192:3
 "Murasame"
 > END STRING
 
@@ -11724,7 +11724,7 @@
 
 > BEGIN STRING
 "ブロンズソード"
-> CONTEXT: Scripts/ショップ在庫制/196:3 < UNTRANSLATED
+> CONTEXT: Scripts/ショップ在庫制/196:3
 "Bronze Sword"
 > END STRING
 
