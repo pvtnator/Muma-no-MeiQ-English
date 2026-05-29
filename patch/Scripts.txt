@@ -11163,8 +11163,8 @@
 
 > BEGIN STRING
 "菫青石の指輪"
-> CONTEXT: Scripts/ショップ在庫制/106:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/106:3
+"Corite Ring"
 > END STRING
 
 > BEGIN STRING
@@ -11175,8 +11175,8 @@
 
 > BEGIN STRING
 "紫水晶の指輪"
-> CONTEXT: Scripts/ショップ在庫制/108:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/108:3
+"Amethyst Ring"
 > END STRING
 
 > BEGIN STRING
@@ -11187,8 +11187,8 @@
 
 > BEGIN STRING
 "薔薇輝石の指輪"
-> CONTEXT: Scripts/ショップ在庫制/110:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/110:3
+"Rhodonite Ring"
 > END STRING
 
 > BEGIN STRING
@@ -11199,8 +11199,8 @@
 
 > BEGIN STRING
 "蒼玉の指輪"
-> CONTEXT: Scripts/ショップ在庫制/112:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/112:3
+"Sapphire Ring"
 > END STRING
 
 > BEGIN STRING
@@ -11211,8 +11211,8 @@
 
 > BEGIN STRING
 "赤鉄鉱の指輪"
-> CONTEXT: Scripts/ショップ在庫制/114:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/114:3
+"Hematite Ring"
 > END STRING
 
 > BEGIN STRING
@@ -11223,8 +11223,8 @@
 
 > BEGIN STRING
 "息災の眼鏡"
-> CONTEXT: Scripts/ショップ在庫制/116:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/116:3
+"Health Glasses"
 > END STRING
 
 > BEGIN STRING
@@ -11235,8 +11235,8 @@
 
 > BEGIN STRING
 "息災のマスク"
-> CONTEXT: Scripts/ショップ在庫制/118:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/118:3
+"Health Mask"
 > END STRING
 
 > BEGIN STRING
@@ -11247,8 +11247,8 @@
 
 > BEGIN STRING
 "息災の腕輪"
-> CONTEXT: Scripts/ショップ在庫制/120:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/120:3
+"Health Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -11259,8 +11259,8 @@
 
 > BEGIN STRING
 "息災の足環"
-> CONTEXT: Scripts/ショップ在庫制/122:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/122:3
+"Health Anklet"
 > END STRING
 
 > BEGIN STRING
@@ -11319,8 +11319,8 @@
 
 > BEGIN STRING
 "小円盾"
-> CONTEXT: Scripts/ショップ在庫制/133:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/133:3
+"Buckler"
 > END STRING
 
 > BEGIN STRING
@@ -11331,8 +11331,8 @@
 
 > BEGIN STRING
 "絹の道着"
-> CONTEXT: Scripts/ショップ在庫制/135:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/135:3
+"Silk Dogi"
 > END STRING
 
 > BEGIN STRING
@@ -11343,8 +11343,8 @@
 
 > BEGIN STRING
 "シルクローブ"
-> CONTEXT: Scripts/ショップ在庫制/137:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/137:3
+"Silk Robe"
 > END STRING
 
 > BEGIN STRING
@@ -11355,8 +11355,8 @@
 
 > BEGIN STRING
 "ミリオン涼鞋"
-> CONTEXT: Scripts/ショップ在庫制/139:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/139:3
+"Breeze Shoes"
 > END STRING
 
 > BEGIN STRING
@@ -11403,8 +11403,8 @@
 
 > BEGIN STRING
 "八花鏡盾"
-> CONTEXT: Scripts/ショップ在庫制/147:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/147:3
+"Mirror Shield"
 > END STRING
 
 > BEGIN STRING
@@ -11415,8 +11415,8 @@
 
 > BEGIN STRING
 "プールポワン"
-> CONTEXT: Scripts/ショップ在庫制/149:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/149:3
+"Pourpoint"
 > END STRING
 
 > BEGIN STRING
@@ -11434,8 +11434,8 @@
 
 > BEGIN STRING
 "風の羽衣"
-> CONTEXT: Scripts/ショップ在庫制/151:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/151:3
+"Wind Robe"
 > END STRING
 
 > BEGIN STRING
@@ -11453,8 +11453,8 @@
 
 > BEGIN STRING
 "防炎頭巾"
-> CONTEXT: Scripts/ショップ在庫制/153:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/153:3
+"Fire-resistant Hood"
 > END STRING
 
 > BEGIN STRING
@@ -11465,8 +11465,8 @@
 
 > BEGIN STRING
 "羊毛ポンチョ"
-> CONTEXT: Scripts/ショップ在庫制/155:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/155:3
+"Wool Poncho"
 > END STRING
 
 > BEGIN STRING
@@ -11477,8 +11477,8 @@
 
 > BEGIN STRING
 "リネンケープ"
-> CONTEXT: Scripts/ショップ在庫制/157:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/157:3
+"Linen Cape"
 > END STRING
 
 > BEGIN STRING
@@ -11568,8 +11568,8 @@
 
 > BEGIN STRING
 "聖印軽盾"
-> CONTEXT: Scripts/ショップ在庫制/169:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/169:3
+"Holy Seal Shield"
 > END STRING
 
 > BEGIN STRING
@@ -11580,8 +11580,8 @@
 
 > BEGIN STRING
 "魔獣皮の道着"
-> CONTEXT: Scripts/ショップ在庫制/171:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/171:3
+"Hide Dogi"
 > END STRING
 
 > BEGIN STRING
@@ -11592,8 +11592,8 @@
 
 > BEGIN STRING
 "マジカルローブ"
-> CONTEXT: Scripts/ショップ在庫制/173:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/173:3
+"Magic Robe"
 > END STRING
 
 > BEGIN STRING
@@ -11604,8 +11604,8 @@
 
 > BEGIN STRING
 "サウルスフード"
-> CONTEXT: Scripts/ショップ在庫制/175:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/175:3
+"Saurian Hood"
 > END STRING
 
 > BEGIN STRING
@@ -11616,8 +11616,8 @@
 
 > BEGIN STRING
 "河童の合羽"
-> CONTEXT: Scripts/ショップ在庫制/177:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/177:3
+"Kappa's Raincoat"
 > END STRING
 
 > BEGIN STRING
@@ -11628,8 +11628,8 @@
 
 > BEGIN STRING
 "雷獣羽織"
-> CONTEXT: Scripts/ショップ在庫制/179:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/179:3
+"Raijū Haori"
 > END STRING
 
 > BEGIN STRING
@@ -11640,8 +11640,8 @@
 
 > BEGIN STRING
 "聖焔のロザリオ"
-> CONTEXT: Scripts/ショップ在庫制/181:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/181:3
+"Holy Flame Rosary"
 > END STRING
 
 > BEGIN STRING
@@ -11652,8 +11652,8 @@
 
 > BEGIN STRING
 "聖海のロザリオ"
-> CONTEXT: Scripts/ショップ在庫制/183:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/183:3
+"Holy Sea Rosary"
 > END STRING
 
 > BEGIN STRING
@@ -11664,8 +11664,8 @@
 
 > BEGIN STRING
 "聖靂のロザリオ"
-> CONTEXT: Scripts/ショップ在庫制/185:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/185:3
+"Light Rosary"
 > END STRING
 
 > BEGIN STRING
@@ -11760,8 +11760,8 @@
 
 > BEGIN STRING
 "夢ミンクコート"
-> CONTEXT: Scripts/ショップ在庫制/202:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/202:3
+"Dream Mink Coat"
 > END STRING
 
 > BEGIN STRING

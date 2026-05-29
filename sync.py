@@ -49,7 +49,7 @@ if __name__ == "__main__":
     current_dir = Path.cwd()
     translations = {}
 
-    main_files = [current_dir / "patch" / "States.txt", current_dir / "patch" / "Skills.txt"]
+    main_files = [current_dir / "patch" / "Armors.txt", current_dir / "patch" / "Skills.txt"]
 
     print("===Reading current translations===")
     for translations_file in main_files:

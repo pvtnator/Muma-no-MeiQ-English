@@ -1,224 +1,224 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 カイトシールド
-> CONTEXT: Armors/11/name/ < UNTRANSLATED
+> CONTEXT: Armors/11/name/
 Kite Shield
 > END STRING
 
 > BEGIN STRING
 習:盾撃〘回避力↑〙〘片〙
 凧のような形状をした　大型の盾
-> CONTEXT: Armors/11/description/ < UNTRANSLATED
+> CONTEXT: Armors/11/description/
 Skill: Shield Bash [Evasion↑]
 A large shield shaped like a kite
 > END STRING
 
 > BEGIN STRING
 タワーシールド
-> CONTEXT: Armors/12/name/ < UNTRANSLATED
+> CONTEXT: Armors/12/name/
 Tower Shield
 > END STRING
 
 > BEGIN STRING
 習:盾撃〘回避力↑〙〘片〙
 全身を覆うほどに大きい　強固な盾
-> CONTEXT: Armors/12/description/ < UNTRANSLATED
+> CONTEXT: Armors/12/description/
 Skill: Shield Bash [Evasion↑]
 A sturdy shield that covers the entire body
 > END STRING
 
 > BEGIN STRING
 オグルシールド
-> CONTEXT: Armors/13/name/ < UNTRANSLATED
+> CONTEXT: Armors/13/name/
 Ogre Shield
 > END STRING
 
 > BEGIN STRING
 習:盾撃〘回避力↑〙〘片〙
 鬼族の里で作られた　強靭な大盾
-> CONTEXT: Armors/13/description/ < UNTRANSLATED
+> CONTEXT: Armors/13/description/
 Skill: Shield Bash [Evasion↑]
 A sturdy greatshield made by a demon tribe
 > END STRING
 
 > BEGIN STRING
 ドラグシールド
-> CONTEXT: Armors/14/name/ < UNTRANSLATED
+> CONTEXT: Armors/14/name/
 Dragon Shield
 > END STRING
 
 > BEGIN STRING
 習:盾撃〘回避力↑〙〘片〙
 竜の鱗で作られた　最上級の大盾
-> CONTEXT: Armors/14/description/ < UNTRANSLATED
+> CONTEXT: Armors/14/description/
 Skill: Shield Bash [Evasion↑]
 A greatshield made from dragon scales
 > END STRING
 
 > BEGIN STRING
 皮革の盾
-> CONTEXT: Armors/20/name/ < UNTRANSLATED
+> CONTEXT: Armors/20/name/
 Leather Shield
 > END STRING
 
 > BEGIN STRING
 
 なめし革で作られた　護身用の小盾
-> CONTEXT: Armors/20/description/ < UNTRANSLATED
+> CONTEXT: Armors/20/description/
 
 A small self-defense shield
 > END STRING
 
 > BEGIN STRING
 小円盾
-> CONTEXT: Armors/21/name/ < UNTRANSLATED
+> CONTEXT: Armors/21/name/
 Buckler
 > END STRING
 
 > BEGIN STRING
 
 片手で扱える　標準的なバックラー
-> CONTEXT: Armors/21/description/ < UNTRANSLATED
+> CONTEXT: Armors/21/description/
 
 A standard one handed buckler
 > END STRING
 
 > BEGIN STRING
 八花鏡盾
-> CONTEXT: Armors/22/name/ < UNTRANSLATED
+> CONTEXT: Armors/22/name/
 Mirror Shield
 > END STRING
 
 > BEGIN STRING
 
 可憐な文様と形状をした　光沢を放つ小盾
-> CONTEXT: Armors/22/description/ < UNTRANSLATED
+> CONTEXT: Armors/22/description/
 
 A lustrous shield with a lovely pattern and shape
 > END STRING
 
 > BEGIN STRING
 聖印軽盾
-> CONTEXT: Armors/23/name/ < UNTRANSLATED
+> CONTEXT: Armors/23/name/
 Holy Seal Shield
 > END STRING
 
 > BEGIN STRING
 〘坑呪力↑〙
 術式により　見た目以上の防御力を誇る
-> CONTEXT: Armors/23/description/ < UNTRANSLATED
+> CONTEXT: Armors/23/description/
 [Cursed Power↑]
 More defensive than it looks due to cursed power
 > END STRING
 
 > BEGIN STRING
 小札鎧
-> CONTEXT: Armors/41/name/ < UNTRANSLATED
+> CONTEXT: Armors/41/name/
 Lamellar Armor
 > END STRING
 
 > BEGIN STRING
 〘物理耐性↑〙
 ラメラアーマーとも呼ばれる　着易い甲冑
-> CONTEXT: Armors/41/description/ < UNTRANSLATED
+> CONTEXT: Armors/41/description/
 [Physical Resist↑]
 Easy-to-wear armor
 > END STRING
 
 > BEGIN STRING
 板金鎧
-> CONTEXT: Armors/42/name/ < UNTRANSLATED
+> CONTEXT: Armors/42/name/
 Plate Armor
 > END STRING
 
 > BEGIN STRING
 〘物理耐性↑〙
 全身を覆う　堂々たるプレートアーマー
-> CONTEXT: Armors/42/description/ < UNTRANSLATED
+> CONTEXT: Armors/42/description/
 [Physical Resist↑]
 Magnificent armor covering the entire body
 > END STRING
 
 > BEGIN STRING
 鬼人の甲冑
-> CONTEXT: Armors/43/name/ < UNTRANSLATED
+> CONTEXT: Armors/43/name/
 Demon's Armor
 > END STRING
 
 > BEGIN STRING
 〘物理耐性↑〙
 鬼の如き強靭さを獲得する　破格の重鎧
-> CONTEXT: Armors/43/description/ < UNTRANSLATED
+> CONTEXT: Armors/43/description/
 [Physical Resist↑]
 Demonically tough heavy armor
 > END STRING
 
 > BEGIN STRING
 竜鱗の甲冑
-> CONTEXT: Armors/44/name/ < UNTRANSLATED
+> CONTEXT: Armors/44/name/
 Dragon Scale Armor
 > END STRING
 
 > BEGIN STRING
 〘物理耐性↑〙
 ドラゴンの鱗で作られた　最上級の重鎧
-> CONTEXT: Armors/44/description/ < UNTRANSLATED
+> CONTEXT: Armors/44/description/
 [Physical Resistance↑]
 A top-grade heavy armor made from dragon scales
 > END STRING
 
 > BEGIN STRING
 レザーアーマー
-> CONTEXT: Armors/51/name/ < UNTRANSLATED
+> CONTEXT: Armors/51/name/
 Leather Armor
 > END STRING
 
 > BEGIN STRING
 
 なめし革で作られた　ポピュラーな鎧
-> CONTEXT: Armors/51/description/ < UNTRANSLATED
+> CONTEXT: Armors/51/description/
 
 Popular armor made from tanned leather
 > END STRING
 
 > BEGIN STRING
 チェインメイル
-> CONTEXT: Armors/52/name/ < UNTRANSLATED
+> CONTEXT: Armors/52/name/
 Chainmail
 > END STRING
 
 > BEGIN STRING
 
 標準的な軽鎧　そもメイルとは鎖帷子の意
-> CONTEXT: Armors/52/description/ < UNTRANSLATED
+> CONTEXT: Armors/52/description/
 
 Standard light armor
 > END STRING
 
 > BEGIN STRING
 スケイルメイル
-> CONTEXT: Armors/53/name/ < UNTRANSLATED
+> CONTEXT: Armors/53/name/
 Scalemail
 > END STRING
 
 > BEGIN STRING
 〘突貫耐性↑(小)〙
 金属小片を鱗のように張り付けた　軽鎧
-> CONTEXT: Armors/53/description/ < UNTRANSLATED
+> CONTEXT: Armors/53/description/
 [Impact Resist↑(S)]
 Light armor with metal fragments like scales
 > END STRING
 
 > BEGIN STRING
 メタルブレスト
-> CONTEXT: Armors/54/name/ < UNTRANSLATED
+> CONTEXT: Armors/54/name/
 Breastplate
 > END STRING
 
 > BEGIN STRING
 
 金属製の胸当て　愛用する兵士も多い
-> CONTEXT: Armors/54/description/ < UNTRANSLATED
+> CONTEXT: Armors/54/description/
 
 Many soldiers favor these metal breastplates
 > END STRING
@@ -232,245 +232,245 @@ Many soldiers favor these metal breastplates
 > BEGIN STRING
 
 歩兵用の軽鎧　急所を守り機動力も重視
-> CONTEXT: Armors/57/description/ < UNTRANSLATED
+> CONTEXT: Armors/57/description/
 
 Protects vital points while prioritizing mobility
 > END STRING
 
 > BEGIN STRING
 木綿の道着
-> CONTEXT: Armors/61/name/ < UNTRANSLATED
+> CONTEXT: Armors/61/name/
 Cotton Dogi
 > END STRING
 
 > BEGIN STRING
 
 動き易く　着心地もよい　戦闘用の衣服
-> CONTEXT: Armors/61/description/ < UNTRANSLATED
+> CONTEXT: Armors/61/description/
 
 Comfortable and easy to move in, combat clothing
 > END STRING
 
 > BEGIN STRING
 絹の道着
-> CONTEXT: Armors/62/name/ < UNTRANSLATED
+> CONTEXT: Armors/62/name/
 Silk Dogi
 > END STRING
 
 > BEGIN STRING
 
 上質な絹糸が素材　有段者用の戦闘服
-> CONTEXT: Armors/62/description/ < UNTRANSLATED
+> CONTEXT: Armors/62/description/
 
 Combat uniform for black belt fighters
 > END STRING
 
 > BEGIN STRING
 プールポワン
-> CONTEXT: Armors/63/name/ < UNTRANSLATED
+> CONTEXT: Armors/63/name/
 Pourpoint
 > END STRING
 
 > BEGIN STRING
 〘打壊耐性↑(小)〙
 詰め物で耐衝撃性に優れる　襦袢とも呼ぶ
-> CONTEXT: Armors/63/description/ < UNTRANSLATED
+> CONTEXT: Armors/63/description/
 [Impact Resist↑(Small)]
 Excellent impact resistance due to padding
 > END STRING
 
 > BEGIN STRING
 魔獣皮の道着
-> CONTEXT: Armors/64/name/ < UNTRANSLATED
+> CONTEXT: Armors/64/name/
 Hide Dogi
 > END STRING
 
 > BEGIN STRING
 
 魔獣の皮で仕立てた　最上級の戦闘服
-> CONTEXT: Armors/64/description/ < UNTRANSLATED
+> CONTEXT: Armors/64/description/
 
 Battle suit made from hides of magical beasts
 > END STRING
 
 > BEGIN STRING
 コットンローブ
-> CONTEXT: Armors/71/name/ < UNTRANSLATED
+> CONTEXT: Armors/71/name/
 Cotton Robe
 > END STRING
 
 > BEGIN STRING
 
 見習い術者向けの法衣　簡素な長衣
-> CONTEXT: Armors/71/description/ < UNTRANSLATED
+> CONTEXT: Armors/71/description/
 
 A simple, long robe for apprentice practitioners
 > END STRING
 
 > BEGIN STRING
 シルクローブ
-> CONTEXT: Armors/72/name/ < UNTRANSLATED
+> CONTEXT: Armors/72/name/
 Silk Robe
 > END STRING
 
 > BEGIN STRING
 
 一人前の術者用　僅かに霊力の宿る法衣
-> CONTEXT: Armors/72/description/ < UNTRANSLATED
+> CONTEXT: Armors/72/description/
 
 A robe imbued with some amount of magic
 > END STRING
 
 > BEGIN STRING
 風の羽衣
-> CONTEXT: Armors/73/name/ < UNTRANSLATED
+> CONTEXT: Armors/73/name/
 Wind Robe
 > END STRING
 
 > BEGIN STRING
 〘切斬耐性↑(小)〙
 聖なる織機で縫う　断ち切れない天女の衣
-> CONTEXT: Armors/73/description/ < UNTRANSLATED
+> CONTEXT: Armors/73/description/
 [Slash Resist↑(S)]
 Sewn on a sacred loom, uncuttable
 > END STRING
 
 > BEGIN STRING
 マジカルローブ
-> CONTEXT: Armors/74/name/ < UNTRANSLATED
+> CONTEXT: Armors/74/name/
 Magic Robe
 > END STRING
 
 > BEGIN STRING
 
 高位の術者が霊力を込めた　高級な法衣
-> CONTEXT: Armors/74/description/ < UNTRANSLATED
+> CONTEXT: Armors/74/description/
 
 Luxurious robe with magic power
 > END STRING
 
 > BEGIN STRING
 防炎頭巾
-> CONTEXT: Armors/81/name/ < UNTRANSLATED
+> CONTEXT: Armors/81/name/
 Fire-resistant Hood
 > END STRING
 
 > BEGIN STRING
 〘火炎耐性↑〙
 特殊な防火素材で作られた　火除け頭巾
-> CONTEXT: Armors/81/description/ < UNTRANSLATED
+> CONTEXT: Armors/81/description/
 [Fire Resist↑]
 Made from special fireproof material
 > END STRING
 
 > BEGIN STRING
 羊毛ポンチョ
-> CONTEXT: Armors/82/name/ < UNTRANSLATED
+> CONTEXT: Armors/82/name/
 Wool Poncho
 > END STRING
 
 > BEGIN STRING
 〘水氷耐性↑〙
 羊の毛を編んで作った　温かな羽織物
-> CONTEXT: Armors/82/description/ < UNTRANSLATED
+> CONTEXT: Armors/82/description/
 [Water/Ice Resist↑]
 A warm garment made from knitted sheep's wool
 > END STRING
 
 > BEGIN STRING
 リネンケープ
-> CONTEXT: Armors/83/name/ < UNTRANSLATED
+> CONTEXT: Armors/83/name/
 Linen Cape
 > END STRING
 
 > BEGIN STRING
 〘雷電耐性↑〙
 厳選した亜麻布で縫った　肩に羽織る外套
-> CONTEXT: Armors/83/description/ < UNTRANSLATED
+> CONTEXT: Armors/83/description/
 [Lightning Resist↑]
 Sewn from carefully selected linen
 > END STRING
 
 > BEGIN STRING
 牛革のマント
-> CONTEXT: Armors/84/name/ < UNTRANSLATED
+> CONTEXT: Armors/84/name/
 Cowhide Cloak
 > END STRING
 
 > BEGIN STRING
 〘火炎+水氷+雷電耐性↑(微)〙
 牛皮をなめして作った　汎用性の高い外套
-> CONTEXT: Armors/84/description/ < UNTRANSLATED
+> CONTEXT: Armors/84/description/
 [Fire/Water/Ice/Lightning Resist↑(XS)]
 A versatile cloak made from tanned cowhide
 > END STRING
 
 > BEGIN STRING
 サウルスフード
-> CONTEXT: Armors/85/name/ < UNTRANSLATED
+> CONTEXT: Armors/85/name/
 Saurian Hood
 > END STRING
 
 > BEGIN STRING
 〘火炎耐性↑↑〙
 恐竜の鱗で作られた　耐熱性の高い頭巾
-> CONTEXT: Armors/85/description/ < UNTRANSLATED
+> CONTEXT: Armors/85/description/
 [Fire Resist↑↑]
 A hood made from dinosaur scales
 > END STRING
 
 > BEGIN STRING
 河童の合羽
-> CONTEXT: Armors/86/name/ < UNTRANSLATED
+> CONTEXT: Armors/86/name/
 Kappa's Raincoat
 > END STRING
 
 > BEGIN STRING
 〘水氷耐性↑↑〙
 河川に棲む魔物より作られた　頼れる雨具
-> CONTEXT: Armors/86/description/ < UNTRANSLATED
+> CONTEXT: Armors/86/description/
 [Water/Ice Resist↑↑]
 Reliable rain gear made from river monsters
 > END STRING
 
 > BEGIN STRING
 雷獣羽織
-> CONTEXT: Armors/87/name/ < UNTRANSLATED
+> CONTEXT: Armors/87/name/
 Raijū Haori
 > END STRING
 
 > BEGIN STRING
 〘雷電耐性↑↑〙
 電気を操る魔獣の皮で仕立てた　外套
-> CONTEXT: Armors/87/description/ < UNTRANSLATED
+> CONTEXT: Armors/87/description/
 [Lightning Resist↑↑]
 Made from the hide of a lightning beast
 > END STRING
 
 > BEGIN STRING
 覇王の外套
-> CONTEXT: Armors/88/name/ < UNTRANSLATED
+> CONTEXT: Armors/88/name/
 Overlord's Cloak
 > END STRING
 
 > BEGIN STRING
 〘火炎+水氷+雷電耐性↑(小)〙
 真の王者たるものが羽織る　至高のマント
-> CONTEXT: Armors/88/description/ < UNTRANSLATED
+> CONTEXT: Armors/88/description/
 [Fire/Water/Ice/Lightning Resist↑(S)]
 The ultimate cape worn by a true king
 > END STRING
 
 > BEGIN STRING
 夢ミンクコート
-> CONTEXT: Armors/90/name/ < UNTRANSLATED
+> CONTEXT: Armors/90/name/
 Dream Mink Coat
 > END STRING
 
 > BEGIN STRING
 〘換金素材〙
 高級毛皮品の夢が具現化した　虚ろな外套
-> CONTEXT: Armors/90/description/ < UNTRANSLATED
+> CONTEXT: Armors/90/description/
 [For Selling]
 The dream of luxury fur goods, an empty cloak
 > END STRING
@@ -483,238 +483,238 @@ The dream of luxury fur goods, an empty cloak
 
 > BEGIN STRING
 菫青石の指輪
-> CONTEXT: Armors/111/name/ < UNTRANSLATED
+> CONTEXT: Armors/111/name/
 Corite Ring
 > END STRING
 
 > BEGIN STRING
 〘被毒耐性↑↑↑↑〙
 アイオライトの宝石が　解毒作用を促す
-> CONTEXT: Armors/111/description/ < UNTRANSLATED
+> CONTEXT: Armors/111/description/
 [Poison Resist↑↑↑↑]
 Iolite gemstone boosts detoxification
 > END STRING
 
 > BEGIN STRING
 紫水晶の指輪
-> CONTEXT: Armors/112/name/ < UNTRANSLATED
+> CONTEXT: Armors/112/name/
 Amethyst Ring
 > END STRING
 
 > BEGIN STRING
 〘火傷耐性↑↑↑↑〙
 アメジストの宝石が　冷却と解熱を図る
-> CONTEXT: Armors/112/description/ < UNTRANSLATED
+> CONTEXT: Armors/112/description/
 [Burn Resist↑↑↑↑]
 Amethyst gemstone that provides cooling
 > END STRING
 
 > BEGIN STRING
 薔薇輝石の指輪
-> CONTEXT: Armors/113/name/ < UNTRANSLATED
+> CONTEXT: Armors/113/name/
 Rhodonite Ring
 > END STRING
 
 > BEGIN STRING
 〘麻痺耐性↑↑↑↑〙
 ロードナイトの宝石が　停滞を防ぐ
-> CONTEXT: Armors/113/description/ < UNTRANSLATED
+> CONTEXT: Armors/113/description/
 [Paralysis Resist↑↑↑↑]
 Rhodonite gem prevents stagnation
 > END STRING
 
 > BEGIN STRING
 蒼玉の指輪
-> CONTEXT: Armors/114/name/ < UNTRANSLATED
+> CONTEXT: Armors/114/name/
 Sapphire Ring
 > END STRING
 
 > BEGIN STRING
 〘惑乱耐性↑↑↑↑〙
 サファイアの宝石が　心の乱れを防ぐ
-> CONTEXT: Armors/114/description/ < UNTRANSLATED
+> CONTEXT: Armors/114/description/
 [Confusion Resist↑↑↑↑]
 The sapphire gem protects the mind
 > END STRING
 
 > BEGIN STRING
 赤鉄鉱の指輪
-> CONTEXT: Armors/115/name/ < UNTRANSLATED
+> CONTEXT: Armors/115/name/
 Hematite Ring
 > END STRING
 
 > BEGIN STRING
 〘寝落耐性↑↑↑↑〙
 ヘマタイトの宝石が　血流を活性化させる
-> CONTEXT: Armors/115/description/ < UNTRANSLATED
+> CONTEXT: Armors/115/description/
 [Sleep Resist↑↑↑↑]
 Hematite gemstone activates blood flow
 > END STRING
 
 > BEGIN STRING
 金剛石の指輪
-> CONTEXT: Armors/116/name/ < UNTRANSLATED
+> CONTEXT: Armors/116/name/
 Diamond Ring
 > END STRING
 
 > BEGIN STRING
 〘石化耐性↑↑↑↑〙
 ダイアモンドの硬度が　石化を嘲笑う
-> CONTEXT: Armors/116/description/ < UNTRANSLATED
+> CONTEXT: Armors/116/description/
 [Petrification Resist↑↑↑↑]
 The hardness of diamonds mocks petrification
 > END STRING
 
 > BEGIN STRING
 紅玉の指輪
-> CONTEXT: Armors/118/name/ < UNTRANSLATED
+> CONTEXT: Armors/118/name/
 Ruby Ring
 > END STRING
 
 > BEGIN STRING
 〘病気系バステ耐性↑↑↑〙
 ルビーの宝石が　あらゆる病魔を退ける
-> CONTEXT: Armors/118/description/ < UNTRANSLATED
+> CONTEXT: Armors/118/description/
 [Disease Resist↑↑↑]
 The ruby gem repels all diseases
 > END STRING
 
 > BEGIN STRING
 息災の眼鏡
-> CONTEXT: Armors/121/name/ < UNTRANSLATED
+> CONTEXT: Armors/121/name/
 Health Glasses
 > END STRING
 
 > BEGIN STRING
 〘目潰耐性↑↑↑↑〙
 術式の込められた眼鏡　目潰を防ぐ
-> CONTEXT: Armors/121/description/ < UNTRANSLATED
+> CONTEXT: Armors/121/description/
 [Blind Resist↑↑↑↑]
 Eyeglasses imbued to prevent blindness
 > END STRING
 
 > BEGIN STRING
 息災のマスク
-> CONTEXT: Armors/122/name/ < UNTRANSLATED
+> CONTEXT: Armors/122/name/
 Health Mask
 > END STRING
 
 > BEGIN STRING
 〘口封耐性↑↑↑↑〙
 口元から喉までを覆う　特殊なマスク
-> CONTEXT: Armors/122/description/ < UNTRANSLATED
+> CONTEXT: Armors/122/description/
 [Mouth Bind Resist↑↑↑↑]
 A special mask that protects mouth and throat
 > END STRING
 
 > BEGIN STRING
 息災の腕輪
-> CONTEXT: Armors/123/name/ < UNTRANSLATED
+> CONTEXT: Armors/123/name/
 Health Bracelet
 > END STRING
 
 > BEGIN STRING
 〘腕固耐性↑↑↑↑〙
 腕部への災いを防ぐ　ブレスレット
-> CONTEXT: Armors/123/description/ < UNTRANSLATED
+> CONTEXT: Armors/123/description/
 [Arm Bind Resist↑↑↑↑]
 Bracelet to protect against misfortune to the arms
 > END STRING
 
 > BEGIN STRING
 息災の足環
-> CONTEXT: Armors/124/name/ < UNTRANSLATED
+> CONTEXT: Armors/124/name/
 Health Anklet
 > END STRING
 
 > BEGIN STRING
 〘足固耐性↑↑↑↑〙
 脚部を守る　円環のアンクレット
-> CONTEXT: Armors/124/description/ < UNTRANSLATED
+> CONTEXT: Armors/124/description/
 [Leg Bind Resist↑↑↑↑]
 A circular anklet to protect the legs
 > END STRING
 
 > BEGIN STRING
 無病息災の徽章
-> CONTEXT: Armors/130/name/ < UNTRANSLATED
+> CONTEXT: Armors/130/name/
 Good Fortune Medal
 > END STRING
 
 > BEGIN STRING
 〘病気系+怪我系バステ耐性↑↑↑〙
 強い厄除けの力を持つ　伝説級装身具
-> CONTEXT: Armors/130/description/ < UNTRANSLATED
+> CONTEXT: Armors/130/description/
 [Disease/Injury Resist↑↑↑]
 A legendary accessory with powers against evil
 > END STRING
 
 > BEGIN STRING
 冥王の指輪
-> CONTEXT: Armors/135/name/ < UNTRANSLATED
+> CONTEXT: Armors/135/name/
 Hades Ring
 > END STRING
 
 > BEGIN STRING
 〘坑呪力↑〙
 古いルーツを持つらしい　人騒がせな指輪
-> CONTEXT: Armors/135/description/ < UNTRANSLATED
+> CONTEXT: Armors/135/description/
 [Cursed Power↑]
 A troublesome ring with seemingly ancient roots
 > END STRING
 
 > BEGIN STRING
 ミリオン涼鞋
-> CONTEXT: Armors/137/name/ < UNTRANSLATED
+> CONTEXT: Armors/137/name/
 Breeze Shoes
 > END STRING
 
 > BEGIN STRING
 〘回避力↑〙
 履けば身軽になる　魔法のサンダル
-> CONTEXT: Armors/137/description/ < UNTRANSLATED
+> CONTEXT: Armors/137/description/
 [Evasion↑]
 Magical sandals that make you feel lighter
 > END STRING
 
 > BEGIN STRING
 聖焔のロザリオ
-> CONTEXT: Armors/141/name/ < UNTRANSLATED
+> CONTEXT: Armors/141/name/
 Holy Flame Rosary
 > END STRING
 
 > BEGIN STRING
 〘火炎属性耐性↑↑↑↑+火炎床無効〙
 紅き色彩を放つ　数珠状の聖なるお守り
-> CONTEXT: Armors/141/description/ < UNTRANSLATED
+> CONTEXT: Armors/141/description/
 [Fire Resist↑↑↑↑ / Ground Immunity]
 A sacred amulet, emitting a crimson hue
 > END STRING
 
 > BEGIN STRING
 聖海のロザリオ
-> CONTEXT: Armors/142/name/ < UNTRANSLATED
+> CONTEXT: Armors/142/name/
 Holy Sea Rosary
 > END STRING
 
 > BEGIN STRING
 〘水氷属性耐性↑↑↑↑+水氷床無効〙
 透き通るほど青い　数珠状の聖なるお守り
-> CONTEXT: Armors/142/description/ < UNTRANSLATED
+> CONTEXT: Armors/142/description/
 [Water/Ice Resist↑↑↑↑ / Ground Immunity]
 A sacred amulet so blue it's almost transparent
 > END STRING
 
 > BEGIN STRING
 聖靂のロザリオ
-> CONTEXT: Armors/143/name/ < UNTRANSLATED
+> CONTEXT: Armors/143/name/
 Light Rosary
 > END STRING
 
 > BEGIN STRING
 〘雷電属性耐性↑↑↑↑+雷電床無効〙
 派手な桃色が眩い　数珠状の聖なるお守り
-> CONTEXT: Armors/143/description/ < UNTRANSLATED
+> CONTEXT: Armors/143/description/
 [Lightning Resist↑↑↑↑ / Ground Immunity]
 A dazzling, flashy pink, bead-like sacred amulet
 > END STRING
@@ -728,182 +728,182 @@ A dazzling, flashy pink, bead-like sacred amulet
 > BEGIN STRING
 〘装備時不屈/発動後破損〙
 戦闘不能時　一度だけ身代わりで砕ける
-> CONTEXT: Armors/159/description/ < UNTRANSLATED
-> CONTEXT: Armors/650/description/ < UNTRANSLATED
+> CONTEXT: Armors/159/description/
+> CONTEXT: Armors/650/description/
 [Indomitable / Destroyed On Use]
 Shatters in place of the user when incapacitated
 > END STRING
 
 > BEGIN STRING
 炎魔の指輪
-> CONTEXT: Armors/201/name/ < UNTRANSLATED
+> CONTEXT: Armors/201/name/
 Flame Demon Ring
 > END STRING
 
 > BEGIN STRING
 〘病気系バステ耐性↑↑↑〙
 勇猛な意志が鋳った　病魔を退ける宝玉
-> CONTEXT: Armors/201/description/ < UNTRANSLATED
+> CONTEXT: Armors/201/description/
 [Disease Resist↑↑↑]
 A jewel forged by a valiant will to repel disease
 > END STRING
 
 > BEGIN STRING
 氷魔の指輪
-> CONTEXT: Armors/202/name/ < UNTRANSLATED
+> CONTEXT: Armors/202/name/
 Ice Demon Ring
 > END STRING
 
 > BEGIN STRING
 〘病気系バステ耐性↑↑↑〙
 勇猛な意志が清めた　病魔を退ける宝玉
-> CONTEXT: Armors/202/description/ < UNTRANSLATED
+> CONTEXT: Armors/202/description/
 [Disease Resist↑↑↑]
 A jewel purified by a valiant will to repel disease
 > END STRING
 
 > BEGIN STRING
 雷魔の指輪
-> CONTEXT: Armors/203/name/ < UNTRANSLATED
+> CONTEXT: Armors/203/name/
 Thunder Demon Ring
 > END STRING
 
 > BEGIN STRING
 〘病気系バステ耐性↑↑↑〙
 勇猛な意志が繋いだ　病魔を退ける宝玉
-> CONTEXT: Armors/203/description/ < UNTRANSLATED
+> CONTEXT: Armors/203/description/
 [Disease Resist↑↑↑]
 A jewel cast by a valiant will to repel disease
 > END STRING
 
 > BEGIN STRING
 炎魔のお守り
-> CONTEXT: Armors/211/name/ < UNTRANSLATED
+> CONTEXT: Armors/211/name/
 Flame Demon Amulet
 > END STRING
 
 > BEGIN STRING
 〘怪我系バステ耐性↑↑↑〙
 加熱速度を讃える　健康祈願のお守り
-> CONTEXT: Armors/211/description/ < UNTRANSLATED
+> CONTEXT: Armors/211/description/
 [Injury Resist↑↑↑]
 A good luck charm that celebrates heating speed
 > END STRING
 
 > BEGIN STRING
 氷魔のお守り
-> CONTEXT: Armors/212/name/ < UNTRANSLATED
+> CONTEXT: Armors/212/name/
 Ice Demon Amulet
 > END STRING
 
 > BEGIN STRING
 〘怪我系バステ耐性↑↑↑〙
 冷却速度を讃える　健康祈願のお守り
-> CONTEXT: Armors/212/description/ < UNTRANSLATED
+> CONTEXT: Armors/212/description/
 [Injury Resist↑↑↑]
 A good luck charm that celebrates cooling speed
 > END STRING
 
 > BEGIN STRING
 雷魔のお守り
-> CONTEXT: Armors/213/name/ < UNTRANSLATED
+> CONTEXT: Armors/213/name/
 Thunder Demon Amulet
 > END STRING
 
 > BEGIN STRING
 〘怪我系バステ耐性↑↑↑〙
 伝導速度を讃える　健康祈願のお守り
-> CONTEXT: Armors/213/description/ < UNTRANSLATED
+> CONTEXT: Armors/213/description/
 [Injury Resist↑↑↑]
 A good luck charm that celebrates conduction speed
 > END STRING
 
 > BEGIN STRING
 炎魔のオーブ
-> CONTEXT: Armors/221/name/ < UNTRANSLATED
+> CONTEXT: Armors/221/name/
 Flame Demon Orb
 > END STRING
 
 > BEGIN STRING
 〘LP毎回合回復〙
 富を求める赤い煌めきで　肉体が再生する
-> CONTEXT: Armors/221/description/ < UNTRANSLATED
+> CONTEXT: Armors/221/description/
 [LP Recovery Each Turn]
 Regenerate by the red glow that seeks wealth
 > END STRING
 
 > BEGIN STRING
 氷魔のオーブ
-> CONTEXT: Armors/222/name/ < UNTRANSLATED
+> CONTEXT: Armors/222/name/
 Ice Demon Orb
 > END STRING
 
 > BEGIN STRING
 〘LP毎回合回復〙
 富を求める青い煌めきで　肉体が再生する
-> CONTEXT: Armors/222/description/ < UNTRANSLATED
+> CONTEXT: Armors/222/description/
 [LP Recovery Each Turn]
 Regenerate by the blue glow that seeks wealth
 > END STRING
 
 > BEGIN STRING
 雷魔のオーブ
-> CONTEXT: Armors/223/name/ < UNTRANSLATED
+> CONTEXT: Armors/223/name/
 Thunder Demon Orb
 > END STRING
 
 > BEGIN STRING
 〘LP毎回合回復〙
 富を求める紫の煌めきで　肉体が再生する
-> CONTEXT: Armors/223/description/ < UNTRANSLATED
+> CONTEXT: Armors/223/description/
 [LP Recovery Each Turn]
 Regenerate by the purple glow that seeks wealth
 > END STRING
 
 > BEGIN STRING
 炎魔の紋章
-> CONTEXT: Armors/231/name/ < UNTRANSLATED
+> CONTEXT: Armors/231/name/
 Flame Demon Emblem
 > END STRING
 
 > BEGIN STRING
 〘EP毎回合回復〙
 不思議な赤紋の刺青が　忍耐力を滾らせる
-> CONTEXT: Armors/231/description/ < UNTRANSLATED
+> CONTEXT: Armors/231/description/
 [EP Recovery Each Turn]
 Mysterious red tattoo that fuels endurance
 > END STRING
 
 > BEGIN STRING
 氷魔の紋章
-> CONTEXT: Armors/232/name/ < UNTRANSLATED
+> CONTEXT: Armors/232/name/
 Ice Demon Emblem
 > END STRING
 
 > BEGIN STRING
 〘EP毎回合回復〙
 不思議な青紋の刺青が　忍耐力を滾らせる
-> CONTEXT: Armors/232/description/ < UNTRANSLATED
+> CONTEXT: Armors/232/description/
 [EP Recovery Each Turn]
 A mysterious blue tattoo that fuels endurance
 > END STRING
 
 > BEGIN STRING
 雷魔の紋章
-> CONTEXT: Armors/233/name/ < UNTRANSLATED
+> CONTEXT: Armors/233/name/
 Thunder Demon Emblem
 > END STRING
 
 > BEGIN STRING
 〘EP毎回合回復〙
 不思議な紫紋の刺青が　忍耐力を滾らせる
-> CONTEXT: Armors/233/description/ < UNTRANSLATED
+> CONTEXT: Armors/233/description/
 [EP Recovery Each Turn]
 A mysterious purple tattoo that fuels endurance
 > END STRING
 
 > BEGIN STRING
 ロゴスの盾
-> CONTEXT: Armors/650/name/ < UNTRANSLATED
+> CONTEXT: Armors/650/name/
 Shield of Logos
 > END STRING
