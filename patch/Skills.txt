@@ -16,7 +16,7 @@
 > BEGIN STRING
 は　無造作に攻撃！
 > CONTEXT: Skills/1/message1/
- attacks haphazardly!
+ attacked haphazardly!
 > END STRING
 
 > BEGIN STRING
@@ -29,13 +29,13 @@ Guard
 > BEGIN STRING
 身を守ることに専念し、受けるダメージを抑える。
 > CONTEXT: Skills/2/description/
-Defend and minimize damage.
+Defend and minimize damage
 > END STRING
 
 > BEGIN STRING
 は　防御している！
 > CONTEXT: Skills/2/message1/
- defends!
+ defended!
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +47,7 @@ Defend and minimize damage.
 > BEGIN STRING
 は　不動を保ってル
 > CONTEXT: Skills/4/message1/
- remains still.
+ remained still.
 > END STRING
 
 > BEGIN STRING
@@ -59,7 +59,7 @@ High-Speed Analysis
 > BEGIN STRING
 敵全体をアナライズする
 > CONTEXT: Skills/6/description/
-Analyze all enemies.
+Analyze all enemies
 > END STRING
 
 > BEGIN STRING
@@ -880,28 +880,28 @@ Basic melee attack.
 
 > BEGIN STRING
 あかき夢食み
-> CONTEXT: Skills/81/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/81/name/
+Red Dream Eating
 > END STRING
 
 > BEGIN STRING
 の　あかき夢食み！
-> CONTEXT: Skills/81/message1/ < UNTRANSLATED
-> CONTEXT: Skills/84/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/81/message1/
+> CONTEXT: Skills/84/message1/
+ used Red Dream Eating!
 > END STRING
 
 > BEGIN STRING
 あおき夢食み
-> CONTEXT: Skills/82/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/82/name/
+Blue Dream Eating
 > END STRING
 
 > BEGIN STRING
 の　あおき夢食み！
-> CONTEXT: Skills/82/message1/ < UNTRANSLATED
-> CONTEXT: Skills/85/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/82/message1/
+> CONTEXT: Skills/85/message1/
+ used Blue Dream Eating!
 > END STRING
 
 > BEGIN STRING
@@ -914,7 +914,7 @@ Purple Dream Eating
 の　むらさき夢食み！
 > CONTEXT: Skills/83/message1/
 > CONTEXT: Skills/86/message1/
- uses Purple Dream Eating!
+ used Purple Dream Eating!
 > END STRING
 
 > BEGIN STRING
@@ -11090,447 +11090,447 @@ LP損耗率依存
 
 > BEGIN STRING
 ルゥヂャ
-> CONTEXT: Skills/811/name/ < UNTRANSLATED
+> CONTEXT: Skills/811/name/
 Rouge
 > END STRING
 
 > BEGIN STRING
 ルゥヂャⅡ
-> CONTEXT: Skills/812/name/ < UNTRANSLATED
+> CONTEXT: Skills/812/name/
 Rouge2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 赤熱の炎で　対象と周囲を焼く　攻撃呪文
-> CONTEXT: Skills/812/description/ < UNTRANSLATED
+> CONTEXT: Skills/812/description/
 [Area:PSY*\\C[10]A\\C[0]]\\i[29]
 Burns the target and surrounding area
 > END STRING
 
 > BEGIN STRING
 は　ルゥヂャⅡを詠唱！
-> CONTEXT: Skills/812/message1/ < UNTRANSLATED
+> CONTEXT: Skills/812/message1/
  cast Rouge2!
 > END STRING
 
 > BEGIN STRING
 ルゥヂャⅢ
-> CONTEXT: Skills/813/name/ < UNTRANSLATED
+> CONTEXT: Skills/813/name/
 Rouge3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 赤熱の猛火で　敵全体を焼く　攻撃呪文
-> CONTEXT: Skills/813/description/ < UNTRANSLATED
+> CONTEXT: Skills/813/description/
 [All:PSY*\\C[10]A\\C[0]]\\i[29]
 Burns the all enemies with a raging inferno
 > END STRING
 
 > BEGIN STRING
 は　ルゥヂャⅢを詠唱！
-> CONTEXT: Skills/813/message1/ < UNTRANSLATED
+> CONTEXT: Skills/813/message1/
  cast Rouge3!
 > END STRING
 
 > BEGIN STRING
 オランヂャ
-> CONTEXT: Skills/814/name/ < UNTRANSLATED
+> CONTEXT: Skills/814/name/
 Naranja
 > END STRING
 
 > BEGIN STRING
 〘単:火傷付与(高)+麻痺付与(中)〙\\i[29]
 橙火の連なりで　恐火に陥らす　攻策呪文
-> CONTEXT: Skills/814/description/ < UNTRANSLATED
+> CONTEXT: Skills/814/description/
 [Single: Burn(L) + Paralysis(M)]\\i[29]
 Plunges an enemy into terror with orange flames
 > END STRING
 
 > BEGIN STRING
 は　オランヂャを詠唱！
-> CONTEXT: Skills/814/message1/ < UNTRANSLATED
+> CONTEXT: Skills/814/message1/
  cast Naranja!
 > END STRING
 
 > BEGIN STRING
 オランヂャⅡ
-> CONTEXT: Skills/815/name/ < UNTRANSLATED
+> CONTEXT: Skills/815/name/
 Naranja2
 > END STRING
 
 > BEGIN STRING
 〘全:火傷付与(中)+麻痺付与(低)〙\\i[29]
 橙火の連なりで　敵陣を恐懼す　攻策呪文
-> CONTEXT: Skills/815/description/ < UNTRANSLATED
+> CONTEXT: Skills/815/description/
 [Area: Burn(M) + Paralysis(S)]\\i[29]
 Plunges enemies into terror with orange flames
 > END STRING
 
 > BEGIN STRING
 は　オランヂャⅡを詠唱！
-> CONTEXT: Skills/815/message1/ < UNTRANSLATED
+> CONTEXT: Skills/815/message1/
  cast Naranja2!
 > END STRING
 
 > BEGIN STRING
 カルメジーナ
-> CONTEXT: Skills/817/name/ < UNTRANSLATED
+> CONTEXT: Skills/817/name/
 Carmesi
 > END STRING
 
 > BEGIN STRING
 〘単:ATK↑〙\\i[29]
 紅王の威厳を纏い　膂力を増す　補助呪文
-> CONTEXT: Skills/817/description/ < UNTRANSLATED
+> CONTEXT: Skills/817/description/
 [Single: ATK↑] \\i[29]
 Increase strength, embodying the Crimson King
 > END STRING
 
 > BEGIN STRING
 は　カルメジーナを詠唱！
-> CONTEXT: Skills/817/message1/ < UNTRANSLATED
+> CONTEXT: Skills/817/message1/
  cast Carmesi!
 > END STRING
 
 > BEGIN STRING
 カルメジーナⅡ
-> CONTEXT: Skills/818/name/ < UNTRANSLATED
+> CONTEXT: Skills/818/name/
 Carmesi2
 > END STRING
 
 > BEGIN STRING
 〘全:ATK↑〙\\i[29]
 味方全体に紅王の膂力を与える　補助呪文
-> CONTEXT: Skills/818/description/ < UNTRANSLATED
+> CONTEXT: Skills/818/description/
 [Single: ATK↑] \\i[29]
 Grants Crimson King's strength to all allies
 > END STRING
 
 > BEGIN STRING
 は　カルメジーナⅡを詠唱！
-> CONTEXT: Skills/818/message1/ < UNTRANSLATED
+> CONTEXT: Skills/818/message1/
  cast Carmesi2!
 > END STRING
 
 > BEGIN STRING
 ブルーア
-> CONTEXT: Skills/821/name/ < UNTRANSLATED
+> CONTEXT: Skills/821/name/
 Blua
 > END STRING
 
 > BEGIN STRING
 〘単:病気系+被毒耐性+CON↑〙\\i[29]
 青き僧の加護で　病魔を退ける　補助呪文
-> CONTEXT: Skills/821/description/ < UNTRANSLATED
+> CONTEXT: Skills/821/description/
 [Single: Disease/Poison Resist/CON↑]\\i[29]
 Repels disease with blue monk's blessing
 > END STRING
 
 > BEGIN STRING
 は　ブルーアを詠唱！
-> CONTEXT: Skills/821/message1/ < UNTRANSLATED
+> CONTEXT: Skills/821/message1/
  cast Blua!
 > END STRING
 
 > BEGIN STRING
 ブルーアⅡ
-> CONTEXT: Skills/822/name/ < UNTRANSLATED
+> CONTEXT: Skills/822/name/
 Blua2
 > END STRING
 
 > BEGIN STRING
 〘全:病気系+被毒耐性+CON↑〙\\i[29]
 味方全体を青き僧の加護で守る　補助呪文
-> CONTEXT: Skills/822/description/ < UNTRANSLATED
+> CONTEXT: Skills/822/description/
 [All: Disease/Poison Resist/CON↑]\\i[29]
 Grants blue monk's blessing to all allies
 > END STRING
 
 > BEGIN STRING
 は　ブルーアⅡを詠唱！
-> CONTEXT: Skills/822/message1/ < UNTRANSLATED
+> CONTEXT: Skills/822/message1/
  cast Blua2!
 > END STRING
 
 > BEGIN STRING
 アクヴァ
-> CONTEXT: Skills/824/name/ < UNTRANSLATED
+> CONTEXT: Skills/824/name/
 Aqua
 > END STRING
 
 > BEGIN STRING
 〘単:PSY+坑呪力↑〙\\i[29]
 高霊気の水肺で　内丹を満たす　補助呪文
-> CONTEXT: Skills/824/description/ < UNTRANSLATED
+> CONTEXT: Skills/824/description/
 [Single: PSY/Anti-spell↑]\\i[29]
 Fills the Inner Elixir with High-Spirit Water
 > END STRING
 
 > BEGIN STRING
 は　アクヴァを詠唱！
-> CONTEXT: Skills/824/message1/ < UNTRANSLATED
+> CONTEXT: Skills/824/message1/
  cast Aqua!
 > END STRING
 
 > BEGIN STRING
 アクヴァⅡ
-> CONTEXT: Skills/825/name/ < UNTRANSLATED
+> CONTEXT: Skills/825/name/
 Aqua2
 > END STRING
 
 > BEGIN STRING
 〘全:PSY+坑呪力↑〙\\i[29]
 味方全体を霊気の水肺で満たす　補助呪文
-> CONTEXT: Skills/825/description/ < UNTRANSLATED
+> CONTEXT: Skills/825/description/
 [All: PSY/Anti-spell↑]\\i[29]
 Fills all allies with High-Spirit Water
 > END STRING
 
 > BEGIN STRING
 は　アクヴァⅡを詠唱！
-> CONTEXT: Skills/825/message1/ < UNTRANSLATED
+> CONTEXT: Skills/825/message1/
  cast Aqua2!
 > END STRING
 
 > BEGIN STRING
 トゥルキーザ
-> CONTEXT: Skills/827/name/ < UNTRANSLATED
+> CONTEXT: Skills/827/name/
 Turquesa
 > END STRING
 
 > BEGIN STRING
 トゥルキーザⅡ
-> CONTEXT: Skills/828/name/ < UNTRANSLATED
+> CONTEXT: Skills/828/name/
 Turquesa2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 雪雲で　対象と周囲を凍らす　攻撃呪文
-> CONTEXT: Skills/828/description/ < UNTRANSLATED
+> CONTEXT: Skills/828/description/
 [Area:PSY*\\C[10]A\\C[0]]\\i[29]
 Freeze the area with snow clouds
 > END STRING
 
 > BEGIN STRING
 は　トゥルキーザⅡを詠唱！
-> CONTEXT: Skills/828/message1/ < UNTRANSLATED
+> CONTEXT: Skills/828/message1/
  cast Turquesa2!
 > END STRING
 
 > BEGIN STRING
 トゥルキーザⅢ
-> CONTEXT: Skills/829/name/ < UNTRANSLATED
+> CONTEXT: Skills/829/name/
 Turquesa3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 雪雲吹雪かせ　敵全体を凍らす　攻撃呪文
-> CONTEXT: Skills/829/description/ < UNTRANSLATED
+> CONTEXT: Skills/829/description/
 [All:PSY*\\C[10]A\\C[0]]\\i[29]
 A snow cloud blizzard that freezes all enemies
 > END STRING
 
 > BEGIN STRING
 は　トゥルキーザⅢを詠唱！
-> CONTEXT: Skills/829/message1/ < UNTRANSLATED
+> CONTEXT: Skills/829/message1/
  cast Turquesa3!
 > END STRING
 
 > BEGIN STRING
 グリィザ
-> CONTEXT: Skills/831/name/ < UNTRANSLATED
+> CONTEXT: Skills/831/name/
 Grisa
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+流血(低)〙\\i[29]
 灰空の真空刃が　敵単体を斬る　攻撃呪文
-> CONTEXT: Skills/831/description/ < UNTRANSLATED
+> CONTEXT: Skills/831/description/
 [Single: PSY*\\C[9]B\\C[0]+Bleed(S)]\\i[29]
 A vacuum blade of gray sky slashes at a single enemy
 > END STRING
 
 > BEGIN STRING
 は　グリィザを詠唱！
-> CONTEXT: Skills/831/message1/ < UNTRANSLATED
+> CONTEXT: Skills/831/message1/
  cast Grisa!
 > END STRING
 
 > BEGIN STRING
 グリィザⅡ
-> CONTEXT: Skills/832/name/ < UNTRANSLATED
+> CONTEXT: Skills/832/name/
 Grisa2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[9]Ｂ\\C[0]+流血(低)〙\\i[29]
 灰空の真空刃が　敵周囲を斬る　攻撃呪文
-> CONTEXT: Skills/832/description/ < UNTRANSLATED
+> CONTEXT: Skills/832/description/
 [Area: PSY*\\C[9]B\\C[0]+Bleeding (Low)]\\i[29]
 A vacuum blade of gray sky slashes around the enemy
 > END STRING
 
 > BEGIN STRING
 は　グリィザⅡを詠唱！
-> CONTEXT: Skills/832/message1/ < UNTRANSLATED
+> CONTEXT: Skills/832/message1/
  cast Grisa2!
 > END STRING
 
 > BEGIN STRING
 グリィザⅢ
-> CONTEXT: Skills/833/name/ < UNTRANSLATED
+> CONTEXT: Skills/833/name/
 Grisa3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[9]Ｂ\\C[0]+流血(低)〙\\i[29]
 灰空の真空刃が　敵全体を斬る　攻撃呪文
-> CONTEXT: Skills/833/description/ < UNTRANSLATED
+> CONTEXT: Skills/833/description/
 [All: PSY*\\C[9]B\\C[0]+Bleeding (Low)]\\i[29]
 A vacuum blade of gray sky slashes all enemies
 > END STRING
 
 > BEGIN STRING
 は　グリィザⅢを詠唱！
-> CONTEXT: Skills/833/message1/ < UNTRANSLATED
+> CONTEXT: Skills/833/message1/
  cast Grisa3!
 > END STRING
 
 > BEGIN STRING
 アルジェンタ
-> CONTEXT: Skills/834/name/ < UNTRANSLATED
+> CONTEXT: Skills/834/name/
 Argenta
 > END STRING
 
 > BEGIN STRING
 〘単:AGI+回避力↑〙\\i[29]
 銀色の風のセッションを受ける　補助呪文
-> CONTEXT: Skills/834/description/ < UNTRANSLATED
+> CONTEXT: Skills/834/description/
 [Single: AGI/Evasion↑]\\i[29]
 Receive a session of Silver Wind
 > END STRING
 
 > BEGIN STRING
 は　アルジェンタを詠唱！
-> CONTEXT: Skills/834/message1/ < UNTRANSLATED
+> CONTEXT: Skills/834/message1/
  cast Argenta!
 > END STRING
 
 > BEGIN STRING
 アルジェンタⅡ
-> CONTEXT: Skills/835/name/ < UNTRANSLATED
+> CONTEXT: Skills/835/name/
 Argenta2
 > END STRING
 
 > BEGIN STRING
 〘全:AGI+回避力↑〙\\i[29]
 味方全体に銀色追い風を与える　補助呪文
-> CONTEXT: Skills/835/description/ < UNTRANSLATED
+> CONTEXT: Skills/835/description/
 [All: AGI/Evasion↑] \\i[29]
 Grants a silver tailwind to all allies
 > END STRING
 
 > BEGIN STRING
 は　アルジェンタⅡを詠唱！
-> CONTEXT: Skills/835/message1/ < UNTRANSLATED
+> CONTEXT: Skills/835/message1/
  cast Argenta2!
 > END STRING
 
 > BEGIN STRING
 プラテーナ
-> CONTEXT: Skills/837/name/ < UNTRANSLATED
+> CONTEXT: Skills/837/name/
 Platina
 > END STRING
 
 > BEGIN STRING
 〘単:強化解消〙\\i[29]
 終焉を告げる鉑色の風を放つ　攻策呪文
-> CONTEXT: Skills/837/description/ < UNTRANSLATED
+> CONTEXT: Skills/837/description/
 [Single: Dispel]\\i[29]
 Unleashes a golden wind that signals the end
 > END STRING
 
 > BEGIN STRING
 は　プラテーナを詠唱！
-> CONTEXT: Skills/837/message1/ < UNTRANSLATED
+> CONTEXT: Skills/837/message1/
  cast Platina!
 > END STRING
 
 > BEGIN STRING
 プラテーナⅡ
-> CONTEXT: Skills/838/name/ < UNTRANSLATED
+> CONTEXT: Skills/838/name/
 Platina2
 > END STRING
 
 > BEGIN STRING
 〘全:強化解消〙\\i[29]
 終焉の鉑風が　敵全体へと吹く　攻策呪文
-> CONTEXT: Skills/838/description/ < UNTRANSLATED
+> CONTEXT: Skills/838/description/
 [All: Dispel]\\i[29]
 The final, iron wind blows upon all enemies
 > END STRING
 
 > BEGIN STRING
 は　プラテーナⅡを詠唱！
-> CONTEXT: Skills/838/message1/ < UNTRANSLATED
+> CONTEXT: Skills/838/message1/
  cast Platina2!
 > END STRING
 
 > BEGIN STRING
 ブルゥナ
-> CONTEXT: Skills/841/name/ < UNTRANSLATED
+> CONTEXT: Skills/841/name/
 Bruna
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+石化(低)〙\\i[29]
 古の茶靴が　岩石を蹴り飛ばす　攻撃呪文
-> CONTEXT: Skills/841/description/ < UNTRANSLATED
+> CONTEXT: Skills/841/description/
 [Single: PSY*\\C[9]B\\C[0]+Petrification(S)]\\i[29]
 An ancient brown shoe kicks rocks
 > END STRING
 
 > BEGIN STRING
 ブルゥナⅡ
-> CONTEXT: Skills/842/name/ < UNTRANSLATED
+> CONTEXT: Skills/842/name/
 Bruna2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[9]Ｂ\\C[0]+石化(低)〙\\i[29]
 古の茶靴が　岩石を散乱させる　攻撃呪文
-> CONTEXT: Skills/842/description/ < UNTRANSLATED
+> CONTEXT: Skills/842/description/
 [Area: PSY*\\C[9]B\\C[0]+Petrification(S)]\\i[29]
 An ancient brown shoe scatters rocks
 > END STRING
 
 > BEGIN STRING
 は　ブルゥナⅡを詠唱！
-> CONTEXT: Skills/842/message1/ < UNTRANSLATED
+> CONTEXT: Skills/842/message1/
  cast Bruna2!
 > END STRING
 
 > BEGIN STRING
 ブルゥナⅢ
-> CONTEXT: Skills/843/name/ < UNTRANSLATED
+> CONTEXT: Skills/843/name/
 Bruna3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[9]Ｂ\\C[0]+石化(低)〙\\i[29]
 古の茶靴が敵陣を石埋めにする　攻撃呪文
-> CONTEXT: Skills/843/description/ < UNTRANSLATED
+> CONTEXT: Skills/843/description/
 [All: PSY*\\C[9]B\\C[0]+Petrification(S)]\\i[29]
 An ancient brown shoe buries enemies in rocks
 > END STRING
 
 > BEGIN STRING
 は　ブルゥナⅢを詠唱！
-> CONTEXT: Skills/843/message1/ < UNTRANSLATED
+> CONTEXT: Skills/843/message1/
  cast Bruna3!
 > END STRING
 
@@ -11704,229 +11704,229 @@ Traps feet with lime vines
 
 > BEGIN STRING
 メント
-> CONTEXT: Skills/857/name/ < UNTRANSLATED
+> CONTEXT: Skills/857/name/
 Mint
 > END STRING
 
 > BEGIN STRING
 〘単:怪我系バステ完治〙\\i[29]
 聖なる薄荷冷酒で　怪我を治す　回復呪文
-> CONTEXT: Skills/857/description/ < UNTRANSLATED
+> CONTEXT: Skills/857/description/
 [Single: Injury Recovery]\\i[29]
 Cures injuries with holy mint sake
 > END STRING
 
 > BEGIN STRING
 は　メントを詠唱！
-> CONTEXT: Skills/857/message1/ < UNTRANSLATED
+> CONTEXT: Skills/857/message1/
  cast Mint!
 > END STRING
 
 > BEGIN STRING
 メントⅡ
-> CONTEXT: Skills/858/name/ < UNTRANSLATED
+> CONTEXT: Skills/858/name/
 Mint2
 > END STRING
 
 > BEGIN STRING
 〘全:怪我系バステ完治〙\\i[29]
 薄荷冷酒で　全員の怪我を治す　回復呪文
-> CONTEXT: Skills/858/description/ < UNTRANSLATED
+> CONTEXT: Skills/858/description/
 [All: Injury Recovery]\\i[29]
 Cures everyone's injuries with holy mint sake
 > END STRING
 
 > BEGIN STRING
 は　メントⅡを詠唱！
-> CONTEXT: Skills/858/message1/ < UNTRANSLATED
+> CONTEXT: Skills/858/message1/
  cast Mint2!
 > END STRING
 
 > BEGIN STRING
 プルプーラ
-> CONTEXT: Skills/861/name/ < UNTRANSLATED
+> CONTEXT: Skills/861/name/
 Purpura
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 霞む紫電が　敵一体へと唸る　攻撃呪文
-> CONTEXT: Skills/861/description/ < UNTRANSLATED
+> CONTEXT: Skills/861/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
 A hazy purple lightning roars at a single enemy
 > END STRING
 
 > BEGIN STRING
 プルプーラⅡ
-> CONTEXT: Skills/862/name/ < UNTRANSLATED
+> CONTEXT: Skills/862/name/
 Purpura2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 霞む紫電で　対象と周囲を苛む　攻撃呪文
-> CONTEXT: Skills/862/description/ < UNTRANSLATED
+> CONTEXT: Skills/862/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
 A hazy purple lightning roars around an enemy
 > END STRING
 
 > BEGIN STRING
 は　プルプーラⅡを詠唱！
-> CONTEXT: Skills/862/message1/ < UNTRANSLATED
+> CONTEXT: Skills/862/message1/
  cast Purpura2!
 > END STRING
 
 > BEGIN STRING
 プルプーラⅢ
-> CONTEXT: Skills/863/name/ < UNTRANSLATED
+> CONTEXT: Skills/863/name/
 Purpura3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 霞む紫電が　敵全体で荒れ狂う　攻撃呪文
-> CONTEXT: Skills/863/description/ < UNTRANSLATED
+> CONTEXT: Skills/863/description/
 [Single:PSY*\\C[10]A\\C[0]]\\i[29]
 A hazy purple lightning rages on all enemies
 > END STRING
 
 > BEGIN STRING
 は　プルプーラⅢを詠唱！
-> CONTEXT: Skills/863/message1/ < UNTRANSLATED
+> CONTEXT: Skills/863/message1/
  cast Purpura3!
 > END STRING
 
 > BEGIN STRING
 ロズコローラ
-> CONTEXT: Skills/864/name/ < UNTRANSLATED
+> CONTEXT: Skills/864/name/
 RosaColora
 > END STRING
 
 > BEGIN STRING
 〘単:腕固付与(高)〙\\i[29]
 ピンクの手錠でつながれて感電　功策呪文
-> CONTEXT: Skills/864/description/ < UNTRANSLATED
+> CONTEXT: Skills/864/description/
 [Single: Arm Bind(L)]\\i[29]
 Bind with pink handcuffs and electrocuted
 > END STRING
 
 > BEGIN STRING
 は　ロズコローラを詠唱！
-> CONTEXT: Skills/864/message1/ < UNTRANSLATED
+> CONTEXT: Skills/864/message1/
  cast RosaColora!
 > END STRING
 
 > BEGIN STRING
 ロズコローラⅡ
-> CONTEXT: Skills/865/name/ < UNTRANSLATED
+> CONTEXT: Skills/865/name/
 RosaColora2
 > END STRING
 
 > BEGIN STRING
 〘全:腕固付与(中)〙\\i[29]
 薔薇色放電手錠で囚人たち拘束　攻策呪文
-> CONTEXT: Skills/865/description/ < UNTRANSLATED
+> CONTEXT: Skills/865/description/
 [All: Arm Bind(M)]\\i[29]
 Restrain with rose-colored discharge handcuffs
 > END STRING
 
 > BEGIN STRING
 ヴィオーラ
-> CONTEXT: Skills/867/name/ < UNTRANSLATED
+> CONTEXT: Skills/867/name/
 Viola
 > END STRING
 
 > BEGIN STRING
 〘単:病気系バステ完治〙\\i[29]
 菫色の電磁波で　病魔を治す　回復呪文
-> CONTEXT: Skills/867/description/ < UNTRANSLATED
+> CONTEXT: Skills/867/description/
 [Single: Disease Recovery]\\i[29]
 Cure disease with violet electromagnetic waves
 > END STRING
 
 > BEGIN STRING
 は　ヴィオーラを詠唱！
-> CONTEXT: Skills/867/message1/ < UNTRANSLATED
+> CONTEXT: Skills/867/message1/
  cast Viola!
 > END STRING
 
 > BEGIN STRING
 ヴィオーラⅡ
-> CONTEXT: Skills/868/name/ < UNTRANSLATED
+> CONTEXT: Skills/868/name/
 Viola2
 > END STRING
 
 > BEGIN STRING
 〘全:病気系バステ完治〙\\i[29]
 菫色の電磁波で皆を正気に戻す　回復呪文
-> CONTEXT: Skills/868/description/ < UNTRANSLATED
+> CONTEXT: Skills/868/description/
 [All: Disease Recovery]\\i[29]
 Cure diseases with violet electromagnetic waves
 > END STRING
 
 > BEGIN STRING
 は　ヴィオーラⅡを詠唱！
-> CONTEXT: Skills/868/message1/ < UNTRANSLATED
+> CONTEXT: Skills/868/message1/
  cast Viola2!
 > END STRING
 
 > BEGIN STRING
 ニグラ
-> CONTEXT: Skills/871/name/ < UNTRANSLATED
+> CONTEXT: Skills/871/name/
 Nigra
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[10]Ａ\\C[0]*LP損耗率〙\\i[29]
 黒き星が　裁きの日に堕つ　攻撃呪文
-> CONTEXT: Skills/871/description/ < UNTRANSLATED
+> CONTEXT: Skills/871/description/
 [Single: PSY*\\C[10]A\\C[0]*LP Loss]\\i[29]
 A black star falls on the day of judgment
 > END STRING
 
 > BEGIN STRING
 は　ニグラを詠唱！
-> CONTEXT: Skills/871/message1/ < UNTRANSLATED
+> CONTEXT: Skills/871/message1/
  cast Nigra!
 > END STRING
 
 > BEGIN STRING
 ニグラⅡ
-> CONTEXT: Skills/872/name/ < UNTRANSLATED
+> CONTEXT: Skills/872/name/
 Nigra2
 > END STRING
 
 > BEGIN STRING
 〘拡:PSY*\\C[10]Ａ\\C[0]*LP損耗率〙\\i[29]
 黒き星を中心に　群れ痛み叫ぶ　攻撃呪文
-> CONTEXT: Skills/872/description/ < UNTRANSLATED
+> CONTEXT: Skills/872/description/
 [Area: PSY*\\C[10]A\\C[0]*LP Loss]\\i[29]
 At a black star's center, a swarm cries out in pain
 > END STRING
 
 > BEGIN STRING
 は　ニグラⅡを詠唱！
-> CONTEXT: Skills/872/message1/ < UNTRANSLATED
+> CONTEXT: Skills/872/message1/
  cast Nigra2!
 > END STRING
 
 > BEGIN STRING
 ニグラⅢ
-> CONTEXT: Skills/873/name/ < UNTRANSLATED
+> CONTEXT: Skills/873/name/
 Nigra3
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[10]Ａ\\C[0]*LP損耗率〙\\i[29]
 黒き星　愚か者ども　処刑する　攻撃呪文
-> CONTEXT: Skills/873/description/ < UNTRANSLATED
+> CONTEXT: Skills/873/description/
 [All: PSY*\\C[10]A\\C[0]*LP Loss]\\i[29]
 The black star executes all fools
 > END STRING
 
 > BEGIN STRING
 は　ニグラⅢを詠唱！
-> CONTEXT: Skills/873/message1/ < UNTRANSLATED
+> CONTEXT: Skills/873/message1/
  cast Nigra3!
 > END STRING
 
@@ -11946,95 +11946,95 @@ Seals the mouth with ebony-colored jam
 
 > BEGIN STRING
 は　エボーナを詠唱！
-> CONTEXT: Skills/874/message1/ < UNTRANSLATED
+> CONTEXT: Skills/874/message1/
  cast Ebon!
 > END STRING
 
 > BEGIN STRING
 エボーナⅡ
-> CONTEXT: Skills/875/name/ < UNTRANSLATED
+> CONTEXT: Skills/875/name/
 Ebon2
 > END STRING
 
 > BEGIN STRING
 〘全:口封付与(中)〙\\i[29]
 黒檀ジャムを　敵陣に喰らわす　攻策呪文
-> CONTEXT: Skills/875/description/ < UNTRANSLATED
+> CONTEXT: Skills/875/description/
 [Single: Mouth Bind (L)]\\i[29]
 Seals all mouths with ebony-colored jam
 > END STRING
 
 > BEGIN STRING
 クレプスコ
-> CONTEXT: Skills/877/name/ < UNTRANSLATED
+> CONTEXT: Skills/877/name/
 Crepusculo
 > END STRING
 
 > BEGIN STRING
 〘単:寝落付与(高)〙\\i[29]
 唐突な黄昏の訪れで　眠らす　攻策呪文
-> CONTEXT: Skills/877/description/ < UNTRANSLATED
+> CONTEXT: Skills/877/description/
 [Single: Sleep(L)]\\i[29]
 A sudden twilight arrival puts the target to sleep
 > END STRING
 
 > BEGIN STRING
 クレプスコⅡ
-> CONTEXT: Skills/878/name/ < UNTRANSLATED
+> CONTEXT: Skills/878/name/
 Crepusculo2
 > END STRING
 
 > BEGIN STRING
 〘全:寝落付与(中)〙\\i[29]
 唐突な黄昏が　敵陣に訪れる　攻策呪文
-> CONTEXT: Skills/878/description/ < UNTRANSLATED
+> CONTEXT: Skills/878/description/
 [Single: Sleep(L)]\\i[29]
 A sudden twilight arrival puts all enemies to sleep
 > END STRING
 
 > BEGIN STRING
 は　クレプスコⅡを詠唱！
-> CONTEXT: Skills/878/message1/ < UNTRANSLATED
+> CONTEXT: Skills/878/message1/
  cast Crepusculo2!
 > END STRING
 
 > BEGIN STRING
 ブランカ
-> CONTEXT: Skills/881/name/ < UNTRANSLATED
+> CONTEXT: Skills/881/name/
 Blanca
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+DoT系バステ完治〙\\i[29]
 白き光が　対象の生命力を癒す　回復呪文
-> CONTEXT: Skills/881/description/ < UNTRANSLATED
+> CONTEXT: Skills/881/description/
 [Single: PSY*\\C[9]B\\C[0]+DoT Recovery]\\i[29]
 A white light heals the target's life force
 > END STRING
 
 > BEGIN STRING
 は　ブランカを詠唱！
-> CONTEXT: Skills/881/message1/ < UNTRANSLATED
+> CONTEXT: Skills/881/message1/
  cast Blanca!
 > END STRING
 
 > BEGIN STRING
 ブランカⅡ
-> CONTEXT: Skills/882/name/ < UNTRANSLATED
+> CONTEXT: Skills/882/name/
 Blanca2
 > END STRING
 
 > BEGIN STRING
 〘全:PSY*\\C[9]Ｃ\\C[0]+DoT系バステ完治〙\\i[29]
 白き光が　味方全体を癒す　回復呪文
-> CONTEXT: Skills/882/description/ < UNTRANSLATED
+> CONTEXT: Skills/882/description/
 [All: PSY*\\C[9]C\\C[0]+DoT Recovery]\\i[29]
 A white light heals everyone's life force
 > END STRING
 
 > BEGIN STRING
 は　ブランカⅡを詠唱！
-> CONTEXT: Skills/882/message1/ < UNTRANSLATED
+> CONTEXT: Skills/882/message1/
  cast Blanca2!
 > END STRING
 
@@ -12074,41 +12074,41 @@ Blinding ivory flash
 
 > BEGIN STRING
 ヴァニーラ
-> CONTEXT: Skills/887/name/ < UNTRANSLATED
+> CONTEXT: Skills/887/name/
 Vanilla
 > END STRING
 
 > BEGIN STRING
 〘単:怪我系+流血+火傷耐性+CON↑〙\\i[29]
 香莢蘭の酪素膜で　怪我を防ぐ　補助呪文
-> CONTEXT: Skills/887/description/ < UNTRANSLATED
+> CONTEXT: Skills/887/description/
 [Single: Injury/Bleed/Burn Resist/CON↑]\\i[29]
 Prevents injuries with butyric orchid membrane
 > END STRING
 
 > BEGIN STRING
 は　ヴァニーラを詠唱！
-> CONTEXT: Skills/887/message1/ < UNTRANSLATED
+> CONTEXT: Skills/887/message1/
  cast Vanilla!
 > END STRING
 
 > BEGIN STRING
 ヴァニーラⅡ
-> CONTEXT: Skills/888/name/ < UNTRANSLATED
+> CONTEXT: Skills/888/name/
 Vanilla2
 > END STRING
 
 > BEGIN STRING
 〘全:怪我系+流血+火傷耐性+CON↑〙\\i[29]
 味方全体に香莢蘭酪素膜を張る　補助呪文
-> CONTEXT: Skills/888/description/ < UNTRANSLATED
+> CONTEXT: Skills/888/description/
 [Single: Injury/Bleed/Burn Resist/CON↑]\\i[29]
 Protects all allies with butyric orchid membrane
 > END STRING
 
 > BEGIN STRING
 は　ヴァニーラⅡを詠唱！
-> CONTEXT: Skills/888/message1/ < UNTRANSLATED
+> CONTEXT: Skills/888/message1/
  cast Vanilla2!
 > END STRING
 

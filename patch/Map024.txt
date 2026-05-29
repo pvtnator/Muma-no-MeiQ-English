@@ -55,7 +55,7 @@ isn't exactly fair...
 > CONTEXT: Map024/events/1/pages/0/62/Dialogue
 \\NAME[\\n[12]]
 But there are still a ton of problems 
-that I need you to sort out...
+that we need you to sort out...
 And we had to help remotely.
 > END STRING
 
@@ -92,7 +92,7 @@ Huh? What? What?
 \\NAME[\\n[13]]
 As a special treat! Choose one of us!
 And get a naughty little reward☆
-We'll give it to you, cutie~♪
+We'll give it to you, cutie〜♪
 > END STRING
 
 > BEGIN STRING
@@ -252,6 +252,6 @@ Come on, come over here...
 > CONTEXT: Map024/events/1/pages/0/221/Dialogue
 \\NAME[\\n[13]]
 Whoa☆ You're choosing me!?
-Okay♪ Okay♪ Cutie~♪
+Okay♪ Okay♪ Cutie〜♪
 Let's go somewhere private♪
 > END STRING

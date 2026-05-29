@@ -467,7 +467,7 @@ No, no! Don't let them!
 > CONTEXT: Map023/events/8/pages/0/3/Dialogue
 \\NAME[\\n[13]]
 Running can be good, but
-you're not getting through here~♪
+you're not getting through here〜♪
 Okay! Turn around!
 > END STRING
 
@@ -487,7 +487,7 @@ through... Here!　Turn right!
 言い忘れとったわ〜。
 > CONTEXT: Map023/events/8/pages/1/3/Dialogue
 \\NAME[\\n[13]]
-Sorry~ \\C[6]Running attracts Jaqi.\\C[0]
+Sorry〜 \\C[6]Running attracts Jaqi.\\C[0]
 I forgot to tell you that.
 > END STRING
 
@@ -499,8 +499,8 @@ I forgot to tell you that.
 > CONTEXT: Map023/events/8/pages/1/8/Dialogue
 \\NAME[\\n[13]]
 If you just keep running away,
-you'll just end up for no reason.
-Fight to the death~♪
+you'll just die for no reason.
+Fight to the death〜♪
 > END STRING
 
 > BEGIN STRING

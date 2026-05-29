@@ -6813,8 +6813,11 @@ Thank you for your response.
 なんや　あんちゃん？
 そんなにウチと　スケベ☆
 したかったんかぁ？
-> CONTEXT: Commonevents/287/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/3/Dialogue
+\\NAME[\\n[13]]
+Hey, cutie?
+You want sex with me 
+that badly?☆
 > END STRING
 
 > BEGIN STRING
@@ -6822,190 +6825,235 @@ Thank you for your response.
 あんちゃんたら　ウチの胸んとこ
 ず〜っと　見とったもんな〜♪
 こ〜の　変〜態♪
-> CONTEXT: Commonevents/287/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/8/Dialogue
+\\NAME[\\n[13]]
+You were staring at my chest 
+the whole time〜♪
+What a pervert〜♪
 > END STRING
 
 > BEGIN STRING
 どや〜？　ウチの爆乳☆おっぱいで
 あんちゃんのチンコ☆　挟んどるで〜。
 気持ちえぇやろ〜♪\\.\\|\\^
-> CONTEXT: Commonevents/287/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/31/Dialogue
+How's that〜? 
+My huge boobs squeezing your dick〜.
+Doesn't that feel good?♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ヒヒヒ♪　本番のセクロスやなくて
 残念やったなぁ〜。
 できんもんは　できんのや〜。\\.\\|\\^
-> CONTEXT: Commonevents/287/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/38/Dialogue
+Hehehe♪ Too bad it's not the real thing.
+Some things just can't be done〜. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 せやけど　あんちゃん　雑魚雑魚やから
 ウチのパイズリでも　あっちゅう間に
 イってまうんやろ？\\.\\|\\^
-> CONTEXT: Commonevents/287/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/45/Dialogue
+But you're such a weakling,
+I bet you'll cum in no time 
+with my titty fuck, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 言うても　簡単にゃ　イかせへんで〜♪
 あんちゃんのチンコ☆　た〜〜〜っぷり
 イジメてイジメて　イジメ抜いたるで♪　\\.\\|\\^
-> CONTEXT: Commonevents/287/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/55/Dialogue
+Even so, I won't let you cum so easily〜♪
+I'll thoroughly tease your dick☆
+Until it's completely exhausted♪ \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 イキそうなったら　おっぱい☆ギュ〜って
 あんちゃんの精子が　飛び出さんように
 胸の肉で圧迫して　出口　塞いだるわ♪\\.\\|\\^
-> CONTEXT: Commonevents/287/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/62/Dialogue
+When you're about to cum, I'll squeeze 
+my boobs tightly and block the exit 
+so your sperm doesn't squirt out♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 嬉しいやろ？　ん〜？　嬉しくないんか？
 あんちゃん　ちょっと　まだ　チンコ☆
 やらかいやんか。どした？　どした？\\.\\|\\^
-> CONTEXT: Commonevents/287/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/69/Dialogue
+Happy? Hmm〜? Aren't you happy?
+Hey, your dick is still soft. 
+What's wrong? What's wrong?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 しゃぁないな〜。
 ほなら　特別に──\\.\\|\\^
-> CONTEXT: Commonevents/287/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/76/Dialogue
+Oh well〜.
+Then, as a special treat...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 どや？　どや？　どやぁ？
 ウチの生乳首☆　見えとるやろ？
 良かったなぁ　あんちゃん♪\\.\\|\\^
-> CONTEXT: Commonevents/287/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/89/Dialogue
+Well? Well? Well〜?
+My bare nipples☆ You see them?
+That's good, cute guy♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 女の子の生乳首やで？　それも年下のぉ♪
 ヒヒヒ♪　\\|最高やろ？　眼福やろ？
 嬉しすぎて　ガチ勃起確定やろぉぉぉ？\\.\\|\\^
-> CONTEXT: Commonevents/287/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/96/Dialogue
+Young girl's bare nipples♪ Hehehe♪ 
+Isn't it the best? Feast for the eyes?
+It's so good you'll get hard, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 しかも　ウチの生乳首☆拝みながら
 その胸肉で　シコシコ☆パイズリや！
 精子も　ぎょーさん　集まってくるなぁ♪\\.\\|\\^
-> CONTEXT: Commonevents/287/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/103/Dialogue
+And, while admiring my bare nipples☆
+I'll give you a titjob with those boobs!
+A lot of sperm will come♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 良かったなぁ　あんちゃん♪
 ウチを　選んで　正解や。
 一番エロいプレイできるんは　ウチやで！\\.\\|\\^
-> CONTEXT: Commonevents/287/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/110/Dialogue
+Good, cute boy♪ Choosing me was the 
+right decision. I'm the one who can 
+give you the most erotic play! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんのカラダに　教え込んだるわ。
 そしたらもう　ウチ無しじゃいられんよう
 なってまうな〜♪　ヒヒヒ♪\\.\\|\\^
-> CONTEXT: Commonevents/287/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/117/Dialogue
+I'll teach your body a lesson.
+Then you won't be able to live 
+without me anymore〜♪ Hehehe♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡　ええで　ええで　あんちゃ〜ん♪
 ウチの胸の谷間から　情けない精子が
 先走って　漏れ出しとるわ〜♪\\.\\|\\^
-> CONTEXT: Commonevents/287/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/127/Dialogue
+Ahh♡ Good, good, cute boy♪
+Pathetic sperm leaking out prematurely 
+from the cleavage of my breasts♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 この我慢汁は　あんちゃんの悲鳴や♪
 キュミュちゃん　これ以上イジメないで
 言うとる　あんちゃんのチンコの悲鳴や♪\\.\\|\\^
-> CONTEXT: Commonevents/287/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/134/Dialogue
+This pre-cum is your scream♪
+Cumu-chan, don't tease me anymore
+That's what your dick is screaming♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 けど　あんちゃんて　変態やから
 イジメれば　イジメるほど
 喜んでまうんやろぉ？　知っとるで♪\\.\\|\\^
-> CONTEXT: Commonevents/287/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/141/Dialogue
+But you're a pervert, aren't you?
+The more I tease, the more you'll 
+enjoy it, right? I get it♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホレホレホレ！　年下サキュバスの爆乳に
 挟まれたまま　情けな〜い精子☆
 出したいんやろ？　イってまうんやろ？\\.\\|\\^
-> CONTEXT: Commonevents/287/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/155/Dialogue
+Trapped between young succubus' huge tits, 
+and you want to cum pathetically☆
+You're cumming, aren't you? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 情けないなぁ　あんちゃん♪
 ホンマ　雑魚やなぁ♪　雑魚♡雑ぁ魚♡
 本番セクロスする前に　もう降参かぁ？\\.\\|\\^
-> CONTEXT: Commonevents/287/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/162/Dialogue
+How pathetic, big guy♪
+You're really just a loser♪ Loser♡
+Giving up before we even have sex? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ええでええで　負けてまえ　負けてまえ♪
 これから　もっと　もっと　も〜っと
 ウチにイジメられて　射精してくんや。\\.\\|\\^
-> CONTEXT: Commonevents/287/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/169/Dialogue
+Okay, okay, give up then, give up♪
+Now, I'll give it more and more〜
+I'll bully you and make you cum. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 負け癖　付けたるで♪　な？　な？
 ウチのおっぱいに負けて　雑魚確定や☆
 イケ♪　イケ♪　あんちゃ〜〜〜ん♪\\.\\|\\^
-> CONTEXT: Commonevents/287/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/176/Dialogue
+I'll make you lose♪ Right? Right?
+Only a loser loses to my boobs☆
+Cum♪ Cum♪ Cute guy〜〜〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うっひゃ☆
 めっちゃ　射精しまくりやーーー！\\.\\|\\^
-> CONTEXT: Commonevents/287/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/191/Dialogue
+Woooo☆
+Ejaculating so much!\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ〜あ　こんなにウチの顔
 汚してまうなんて　あんちゃん
 ホンマ　しゃーないやっちゃなぁ。\\.\\|\\^
-> CONTEXT: Commonevents/287/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/202/Dialogue
+Hey〜, you really made a mess of my face, 
+big guy. You're so hopeless.
 > END STRING
 
 > BEGIN STRING
 あんちゃんの　雑魚精子にも
 負け癖の味が　染み込んどるわ。
 ペロっ……ええ味やん。\\.\\|\\^
-> CONTEXT: Commonevents/287/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/209/Dialogue
+Even your weak sperm 
+has the taste of losing.
+*Lick*...tastes good. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 次は　約束通り　セクロスさせたるわ。
 ……ちょい　大変かもしれへんけど
 なんとか　ウチんとこまで　来てくれな？\\.\\|\\^
-> CONTEXT: Commonevents/287/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/287/218/Dialogue
+Next time, we'll have sex like promised.
+...It might be a little difficult, though.
+Can you somehow make it to my place? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING

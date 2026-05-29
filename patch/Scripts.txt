@@ -367,14 +367,14 @@
 
 > BEGIN STRING
 "決定的一撃！"
-> CONTEXT: Scripts/Vocab/48:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/48:21
+"Decisive blow!"
 > END STRING
 
 > BEGIN STRING
 "危機的一撃！"
-> CONTEXT: Scripts/Vocab/49:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/49:21
+"Critical hit!"
 > END STRING
 
 > BEGIN STRING
