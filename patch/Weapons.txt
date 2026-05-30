@@ -94,7 +94,7 @@ Rapier
 刺突に特化した片手剣　貴族や騎士が持つ
 > CONTEXT: Weapons/15/description/
 Skills: Thrust/\\C[6]Duel Lunge\\C[0]
-A one-handed sword specialized for thrusting; wielded by nobles and knights.
+A one-handed sword specialized for thrusting
 > END STRING
 
 > BEGIN STRING

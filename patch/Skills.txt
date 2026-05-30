@@ -8348,8 +8348,8 @@ Normal Attack
 
 > BEGIN STRING
 牙かみつき
-> CONTEXT: Skills/603/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/603/name/
+Fangs
 > END STRING
 
 > BEGIN STRING
@@ -8363,8 +8363,8 @@ Normal Attack
 
 > BEGIN STRING
 の　牙かみつき！
-> CONTEXT: Skills/603/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/603/message1/
+ bit with its fangs!
 > END STRING
 
 > BEGIN STRING
@@ -8609,14 +8609,14 @@ Heatwave
 
 > BEGIN STRING
 燃え盛って体当たり
-> CONTEXT: Skills/631/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/631/name/
+Burn and Charge
 > END STRING
 
 > BEGIN STRING
 の　燃え盛って体当たり！
-> CONTEXT: Skills/631/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/631/message1/
+ charged while burning!
 > END STRING
 
 > BEGIN STRING
@@ -8990,14 +8990,14 @@ Earnest Walk
 
 > BEGIN STRING
 プルプルしてる
-> CONTEXT: Skills/657/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/657/name/
+Jiggle
 > END STRING
 
 > BEGIN STRING
 は　プルプルしている！
-> CONTEXT: Skills/657/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/657/message1/
+ jiggled!
 > END STRING
 
 > BEGIN STRING
@@ -9048,14 +9048,14 @@ EP回復行動（代表）
 
 > BEGIN STRING
 足許巻き付き
-> CONTEXT: Skills/660/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/660/name/
+Leg Wrap
 > END STRING
 
 > BEGIN STRING
 が　足許で巻き付く！
-> CONTEXT: Skills/660/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/660/message1/
+ wrapped around the feet!
 > END STRING
 
 > BEGIN STRING

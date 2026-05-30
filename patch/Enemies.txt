@@ -205,26 +205,26 @@ Archimedes
 
 > BEGIN STRING
 ホットウーズ
-> CONTEXT: Enemies/51/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/51/name/
+Hot Ooze
 > END STRING
 
 > BEGIN STRING
 クールウーズ
-> CONTEXT: Enemies/52/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/52/name/
+Cool Ooze
 > END STRING
 
 > BEGIN STRING
 パルスウーズ
-> CONTEXT: Enemies/53/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/53/name/
+Pulse Ooze
 > END STRING
 
 > BEGIN STRING
 レドラスネーク
-> CONTEXT: Enemies/54/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/54/name/
+Redrasnake
 > END STRING
 
 > BEGIN STRING
@@ -241,8 +241,8 @@ Archimedes
 
 > BEGIN STRING
 猫武道
-> CONTEXT: Enemies/57/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/57/name/
+Budo Cat
 > END STRING
 
 > BEGIN STRING
