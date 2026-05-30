@@ -379,99 +379,107 @@ Platinum Dagger
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]スペツナズ投法\\C[0]
 美しくも頑丈な　鉑製の戦闘用ナイフ
-> CONTEXT: Weapons/73/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/73/description/
+Skills: Slash/Thrust/\\C[6]Spetsnaz Throw\\C[0]
+Beautiful yet sturdy iron combat knife
 > END STRING
 
 > BEGIN STRING
 ダイヤダガー
-> CONTEXT: Weapons/74/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/74/name/
+Diamond Dagger
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]千のナイフ\\C[0]
 輝きに満ちた　最上級の戦闘用ナイフ
-> CONTEXT: Weapons/74/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/74/description/
+Skills: Slash/Thrust/\\C[6]1000 Knives\\C[0]
+A shining, top-of-the-line combat knife
 > END STRING
 
 > BEGIN STRING
 青銅の刃針
-> CONTEXT: Weapons/81/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/81/name/
+Bronze Lancet
 > END STRING
 
 > BEGIN STRING
 習:刺突
 戦場での使用を目的に作られた　鋭い針具
-> CONTEXT: Weapons/81/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/81/description/
+Skill: Thrust
+A sharp needle-like tool for battle
 > END STRING
 
 > BEGIN STRING
 鋼鉄の刃針
-> CONTEXT: Weapons/82/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/82/name/
+Steel Lancet
 > END STRING
 
 > BEGIN STRING
 習:刺突/\\C[6]目蓋縫い\\C[0]
 繊細な槌裁きで鍛造された　戦闘用の針具
-> CONTEXT: Weapons/82/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/82/description/
+Skills: Thrust/\\C[6]Eyelid Stitch\\C[0]
+A combat needle forged with delicate hammerwork
 > END STRING
 
 > BEGIN STRING
 白金の刃針
-> CONTEXT: Weapons/83/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/83/name/
+Platinum Lancet
 > END STRING
 
 > BEGIN STRING
 習:刺突/\\C[6]避雷針\\C[0]
 高位の針使いが扱う　鋭く光る針具
-> CONTEXT: Weapons/83/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/83/description/
+Skills: Thrust /\\C[6]Lightning Rod\\C[0]
+Gleaming tool for highly skilled needle users
 > END STRING
 
 > BEGIN STRING
 金剛の刃針
-> CONTEXT: Weapons/84/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/84/name/
+Diamond Lancet
 > END STRING
 
 > BEGIN STRING
 習:刺突
 ダイヤモンドの煌めき放つ　最上級の針具
-> CONTEXT: Weapons/84/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/84/description/
+Skill: Thrust
+The finest needle of gleaming diamond
 > END STRING
 
 > BEGIN STRING
 ペティナイフ
-> CONTEXT: Weapons/91/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/91/name/
+Paring Knife
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突
 一般家庭の台所でも使われる　調理用包丁
-> CONTEXT: Weapons/91/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/91/description/
+Skills: Slash/Thrust
+A kitchen knife used in ordinary household kitchens
 > END STRING
 
 > BEGIN STRING
 超万能包丁
-> CONTEXT: Weapons/92/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/92/name/
+Super Utility Knife
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突
 超人料理で使われる　あらゆる食材に対応
-> CONTEXT: Weapons/92/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/92/description/
+Skills: Slash/Thrust
+Used for superhuman cuisine, handles all ingredients
 > END STRING
 
 > BEGIN STRING
@@ -483,92 +491,99 @@ Platinum Dagger
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]世界の終わり\\C[0]
 悪しき種を根絶やした　聖夜の凶器
-> CONTEXT: Weapons/93/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/93/description/
+Skills: Slash/Thrust/\\C[6]World's End\\C[0]
+The weapon of the holy night that eradicated evil seeds
 > END STRING
 
 > BEGIN STRING
 窓付き包丁
-> CONTEXT: Weapons/94/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/94/name/
+Windowed Knife
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突〘凡撃時寝落(低)〙
 刀身に謎の小窓　夢へと落ちる凶器
-> CONTEXT: Weapons/94/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/94/description/
+Skills: Slash/Thrust [Sleep on Hit(S)]
+A deadly weapon that sends you into dreams
 > END STRING
 
 > BEGIN STRING
 竹槍
-> CONTEXT: Weapons/100/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/100/name/
+Bamboo Spear
 > END STRING
 
 > BEGIN STRING
 習:刺突
 先端を削った竹竿　戦場で使うのは愚かだ
-> CONTEXT: Weapons/100/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/100/description/
+Skill: Thrust
+Bamboo pole with a sharpened tip, not for battle
 > END STRING
 
 > BEGIN STRING
 ブロンズスピア
-> CONTEXT: Weapons/101/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/101/name/
+Bronze Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/殴打/\\C[6]ぶん回し\\C[0]
 穂先を青銅で鋳造した　初歩的な槍
-> CONTEXT: Weapons/101/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/101/description/
+Skills: Cut/Thrust/Hit/\\C[6]Spinning Strike\\C[0]
+A basic spear with a bronze tip
 > END STRING
 
 > BEGIN STRING
 スチールスピア
-> CONTEXT: Weapons/102/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/102/name/
+Steel Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/殴打/\\C[6]無双迎撃\\C[0]
 多くの兵士が装備してる　一般的な槍
-> CONTEXT: Weapons/102/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/102/description/
+Skills: Cut/Thrust/Hit/\\C[6] Unrivaled Counterattack\\C[0]
+A common spear, equipped by many soldiers.
 > END STRING
 
 > BEGIN STRING
 プラチナスピア
-> CONTEXT: Weapons/103/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/103/name/
+Platinum Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/殴打/\\C[6]長躯直入\\C[0]
 一流の槍使いが愛用する　美しき光沢の槍
-> CONTEXT: Weapons/103/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/103/description/
+Skills: Cut/Thrust/Hit/\\C[6]Distant Raid\\C[0]
+Beautiful first-class shining spear
 > END STRING
 
 > BEGIN STRING
 ダイヤスピア
-> CONTEXT: Weapons/104/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/104/name/
+Diamond Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/殴打
 穂先に金剛石の輝き光る　最上級の槍
-> CONTEXT: Weapons/104/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/104/description/
+Skills: Cut/Thrust/Hit
+Highest quality spear with a gleaming tip
 > END STRING
 
 > BEGIN STRING
 ランス
-> CONTEXT: Weapons/105/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/105/name/
+Lance
 > END STRING
 
 > BEGIN STRING
@@ -671,125 +686,134 @@ Platinum Dagger
 
 > BEGIN STRING
 ブロンズメイス
-> CONTEXT: Weapons/121/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/121/name/
+Bronze Mace
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]ハンマービート\\C[0]
 柄の先に青銅製の打撃部を付けた　鎚矛
-> CONTEXT: Weapons/121/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/121/description/
+Skills: Hit/\\C[6]Hammer Beat\\C[0]
+A hammer with a bronze striking head
 > END STRING
 
 > BEGIN STRING
 スチールメイス
-> CONTEXT: Weapons/122/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/122/name/
+Steel Mace
 > END STRING
 
 > BEGIN STRING
 習:殴打
 頭部を鋼鉄で鍛造した　殴打用長柄武器
-> CONTEXT: Weapons/122/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/122/description/
+Skill: Hit
+A long-handled weapon with a steel head
 > END STRING
 
 > BEGIN STRING
 プラチナメイス
-> CONTEXT: Weapons/123/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/123/name/
+Platinum Mace
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]打ち出の小槌\\C[0]
 銀光沢を放つ打撃部を持つ　高級長柄武器
-> CONTEXT: Weapons/123/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/123/description/
+Skills: Hit/\\C[6]Magic Mallet\\C[0]
+Long-handled weapon with a lustrous head
 > END STRING
 
 > BEGIN STRING
 ダイヤメイス
-> CONTEXT: Weapons/124/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/124/name/
+Diamond Mace
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]殺生砕き\\C[0]
 柄の先端には光り輝く打撃部　最上級の鎚
-> CONTEXT: Weapons/124/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/124/description/
+Skills: Hit/\\C[6]Cruel Crush\\C[0]
+The finest hammer with a gleaming striking surface
 > END STRING
 
 > BEGIN STRING
 ウォーハンマー
-> CONTEXT: Weapons/125/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/125/name/
+War Hammer
 > END STRING
 
 > BEGIN STRING
 習:殴打
 高度な鍛冶にも使われる　戦鎚
-> CONTEXT: Weapons/125/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/125/description/
+Skill: Hit
+A war hammer, also used in advanced blacksmithing
 > END STRING
 
 > BEGIN STRING
 星球鎚矛
-> CONTEXT: Weapons/126/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/126/name/
+Morning Star
 > END STRING
 
 > BEGIN STRING
 習:刺突/殴打
 柄の先端に棘状打撃部　モーニングスター
-> CONTEXT: Weapons/126/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/126/description/
+Skills: Stab/Hit
+Striking weapon with a thorn-like tip
 > END STRING
 
 > BEGIN STRING
 ムジョルニア
-> CONTEXT: Weapons/128/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/128/name/
+Mjölnir
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]電漿打\\C[0]
 魔的な破壊力を誇る　異名を多く持つ戦鎚
-> CONTEXT: Weapons/128/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/128/description/
+Skills: Hit/\\C[6]Lightning Strike\\C[0]
+A war hammer boasting demonic destructive power
 > END STRING
 
 > BEGIN STRING
 欅の棒
-> CONTEXT: Weapons/130/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/130/name/
+Wood Club
 > END STRING
 
 > BEGIN STRING
 習:殴打〘両〙
 ケヤキ材を削って作った　簡素な武器
-> CONTEXT: Weapons/130/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/130/description/
+Skill: Hit [2H]
+A simple weapon made by carving zelkova wood.
 > END STRING
 
 > BEGIN STRING
 白蝋棍
-> CONTEXT: Weapons/131/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/131/name/
+White Wax Club
 > END STRING
 
 > BEGIN STRING
 習:殴打〘両〙
 初級武芸者が扱う　真っ白な棍棒
-> CONTEXT: Weapons/131/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/131/description/
+Skill: Hit [2H]
+A pure white club used by beginner fighters
 > END STRING
 
 > BEGIN STRING
 紫檀棍
-> CONTEXT: Weapons/132/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/132/name/
+Rosewood Club
 > END STRING
 
 > BEGIN STRING

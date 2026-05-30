@@ -91,22 +91,22 @@ FOE1_1<BGM:4\>
 
 > BEGIN STRING
 今なら　まだ　逃げれる……！
-> CONTEXT: Troops/11/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/12/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/13/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/14/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/15/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/16/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/17/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/18/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/19/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/20/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/21/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/22/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/23/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/24/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/25/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/11/pages/0/2/Dialogue
+> CONTEXT: Troops/12/pages/0/2/Dialogue
+> CONTEXT: Troops/13/pages/0/2/Dialogue
+> CONTEXT: Troops/14/pages/0/2/Dialogue
+> CONTEXT: Troops/15/pages/0/2/Dialogue
+> CONTEXT: Troops/16/pages/0/2/Dialogue
+> CONTEXT: Troops/17/pages/0/2/Dialogue
+> CONTEXT: Troops/18/pages/0/2/Dialogue
+> CONTEXT: Troops/19/pages/0/2/Dialogue
+> CONTEXT: Troops/20/pages/0/2/Dialogue
+> CONTEXT: Troops/21/pages/0/2/Dialogue
+> CONTEXT: Troops/22/pages/0/2/Dialogue
+> CONTEXT: Troops/23/pages/0/2/Dialogue
+> CONTEXT: Troops/24/pages/0/2/Dialogue
+> CONTEXT: Troops/25/pages/0/2/Dialogue
+Run while you can...!
 > END STRING
 
 > BEGIN STRING

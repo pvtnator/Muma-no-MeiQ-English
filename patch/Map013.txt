@@ -346,8 +346,11 @@ Injuries with yellow borders --
 \\n[11]は　ホンマ　ツンデレやからな〜。
 実は　あかき迷宮を冒険しやすくなる
 装飾品を　用意しとったんやで。
-> CONTEXT: Map013/events/1/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/4/Dialogue
+\\NAME[\\n[13]]
+\\n[11] is a real tsundere, you know.
+Actually, she prepared some accessories to 
+make it easier to get through the Red Maze.
 > END STRING
 
 > BEGIN STRING
@@ -355,8 +358,11 @@ Injuries with yellow borders --
 確か……聖焔のロザリオっちゅう
 装飾品や。それを　\\n[11]から貰えば
 あかき迷宮の踏破なら　楽勝やな〜。
-> CONTEXT: Map013/events/1/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/11/Dialogue
+\\NAME[\\n[13]]
+It's called the Holy Flame Rosary.
+If you get that from \\n[11], conquering 
+the Red Maze will be a piece of cake.
 > END STRING
 
 > BEGIN STRING

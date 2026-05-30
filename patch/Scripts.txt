@@ -361,8 +361,8 @@
 
 > BEGIN STRING
 "%sは%sを　使用した！"
-> CONTEXT: Scripts/Vocab/45:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/45:21
+"%s used %s!"
 > END STRING
 
 > BEGIN STRING
@@ -409,9 +409,9 @@
 
 > BEGIN STRING
 "%sには　ノーダメージ！"
-> CONTEXT: Scripts/Vocab/57:21 < UNTRANSLATED
-> CONTEXT: Scripts/Vocab/66:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/57:21
+> CONTEXT: Scripts/Vocab/66:21
+"%s took no damage!"
 > END STRING
 
 > BEGIN STRING
@@ -453,8 +453,8 @@
 
 > BEGIN STRING
 "%sの%sが　上昇！"
-> CONTEXT: Scripts/Vocab/77:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/77:21
+"%s raised %s!"
 > END STRING
 
 > BEGIN STRING
@@ -4825,8 +4825,8 @@
 
 > BEGIN STRING
 '%s時間%s分%s秒.%s'
-> CONTEXT: Scripts/RTAタイマー/56:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RTAタイマー/56:20
+'%s:%s:%s.%s'
 > END STRING
 
 > BEGIN STRING
@@ -8389,8 +8389,8 @@
 
 > BEGIN STRING
 '%1の%2に　%3傷害！'
-> CONTEXT: Scripts/スリップダメージメッセ/35:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/スリップダメージメッセ/35:15
+'%1 lost %2 (%3)!'
 > END STRING
 
 > BEGIN STRING
@@ -10641,8 +10641,8 @@
 
 > BEGIN STRING
 "RAN AWAY for your life"
-> CONTEXT: Scripts/☆[再改]OctSpecialize/48:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆[再改]OctSpecialize/48:3
+"RUN AWAY for your life"
 > END STRING
 
 > BEGIN STRING

@@ -157,7 +157,7 @@ Cloak
 > BEGIN STRING
 装身
 > CONTEXT: System/terms/etypes/4/
-Clothes
+Acc.
 > END STRING
 
 > BEGIN STRING

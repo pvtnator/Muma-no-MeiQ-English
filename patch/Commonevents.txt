@@ -78,8 +78,10 @@ Pull yourself together!
 あたしの魔力で　葬送の炎を
 退けられるのも　あと
 \\v[542]回までだからね！
-> CONTEXT: Commonevents/14/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/14/45/Dialogue
+\\NAME[\\n[11]]
+I can only repel your death 
+with my magic \\v[542] more times!
 > END STRING
 
 > BEGIN STRING
@@ -87,22 +89,26 @@ Pull yourself together!
 これ以上は　無理……。
 次　行き倒れになっても
 助けてあげれないからね。
-> CONTEXT: Commonevents/14/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/14/53/Dialogue
+\\NAME[\\n[11]]
+This is as much as I can do...
+Next time you collapse,
+I won't be able to help you.
 > END STRING
 
 > BEGIN STRING
 夢魔の魔力を　解放するには
 もう少し　深く　迷宮を潜る必要が
 ありそうだ……。
-> CONTEXT: Commonevents/17/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/1/Dialogue
+To unleash the succubus's power,
+delve deeper into the maze...
 > END STRING
 
 > BEGIN STRING
 今は　そんなことをしてる場合じゃない！
-> CONTEXT: Commonevents/17/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/9/Dialogue
+Now is not the time for that!
 > END STRING
 
 > BEGIN STRING
@@ -556,8 +562,8 @@ Smoke billows up from the bottle!
 
 > BEGIN STRING
 想いの鍵を　発見！
-> CONTEXT: Commonevents/59/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/59/1/Dialogue
+Found Key of Will!
 > END STRING
 
 > BEGIN STRING
@@ -3983,24 +3989,30 @@ and it's simply unacceptable.
 著名人による　性加害事件が
 被害者による　告発などによって
 近頃　立て続けに話題になっている。
-> CONTEXT: Commonevents/196/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/117/Dialogue
+Recently, a series of sexual assault cases 
+involving celebrities have made headlines, 
+often due to accusations from victims.
 > END STRING
 
 > BEGIN STRING
 特に男性の不倫や　浮気といったものから
 セフレとして扱い　準強姦の判例
 強制猥褻の罪に　問われる者も。
-> CONTEXT: Commonevents/196/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/121/Dialogue
+In particular, cases of men treating women as 
+casual sex partners have lead to quasi-rape, 
+some charged with indecent assault.
 > END STRING
 
 > BEGIN STRING
 一方で　相手の女性に関して
 自業自得じゃないかと言う　見解を示す
 ネットの声も　一部にはある。
-> CONTEXT: Commonevents/196/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/125/Dialogue
+On the other hand, some online comments 
+suggest that the woman involved 
+brought it upon herself.
 > END STRING
 
 > BEGIN STRING
@@ -4008,8 +4020,11 @@ and it's simply unacceptable.
 有名人だろうと　所詮はオスですからね。
 女の方だって　好きで近づいたんだろうし
 殊更　男が悪いとは言い切れないでしょ！
-> CONTEXT: Commonevents/196/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/130/Dialogue
+\\NAME[Commentator]
+No matter how famous, he's still a man.
+The woman probably willingly approached him,
+so you can't say the man is entirely to blame!
 > END STRING
 
 > BEGIN STRING
@@ -4049,24 +4064,30 @@ and it's simply unacceptable.
 世は　一億総ＳＮＳ時代！
 老いも若きも　日々　ネット上で
 自己のコンテンツを　発信し続けている。
-> CONTEXT: Commonevents/196/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/193/Dialogue
+We live in an age of social media for everyone!
+Young and old alike, people are 
+sharing their own content online every day.
 > END STRING
 
 > BEGIN STRING
 バズれば　一躍人気者になれる……
 この誘惑に駆られ　倫理観にもとる行為や
 悪質な悪戯を行う者が　後を絶たない。
-> CONTEXT: Commonevents/196/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/197/Dialogue
+You could instantly become popular... 
+Driven by this temptation, some engage in 
+unethical behavior or malicious pranks.
 > END STRING
 
 > BEGIN STRING
 先日も迷惑行為で炎上した　とある人物に
 極秘裏に接近し　話を伺ってみた。
 彼の回答によると――
-> CONTEXT: Commonevents/196/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/201/Dialogue
+I approached someone who recently caused a stir 
+with disruptive behavior and interviewed him.
+According to his response—
 > END STRING
 
 > BEGIN STRING
@@ -4074,8 +4095,11 @@ and it's simply unacceptable.
 やっぱ　バズった時の快感ていうか……
 店だって　知名度　上がったんだし
 別に　文句言われる筋合いないでしょ？
-> CONTEXT: Commonevents/196/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/206/Dialogue
+\\NAME[Commentator]
+I mean, it's a thrill going viral...
+The store's brand recognition went up, 
+so what's the big deal, right?
 > END STRING
 
 > BEGIN STRING

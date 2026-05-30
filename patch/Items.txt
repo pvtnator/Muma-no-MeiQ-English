@@ -1754,7 +1754,7 @@ Herb Spirit Potion
 〘単:突貫属性強化+LP大回復〙
 僅かの間　草の精霊の加護を得る
 > CONTEXT: Items/225/description/
-[Single: Charge Enchant/Large LP Recovery]
+[Single: Thrust Enchant/Large LP Recovery]
 For a time, gain the blessing of the grass spirit
 > END STRING
 
@@ -2319,7 +2319,7 @@ Send your wish and summon a demon
 > BEGIN STRING
 想いの鍵
 > CONTEXT: Items/300/name/
-Key to Feelings
+Key of Will
 > END STRING
 
 > BEGIN STRING

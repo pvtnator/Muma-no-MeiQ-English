@@ -125,27 +125,27 @@ Confusion
 
 > BEGIN STRING
 麻痺
-> CONTEXT: States/14/name/ < UNTRANSLATED
-
+> CONTEXT: States/14/name/
+Paralysis
 > END STRING
 
 > BEGIN STRING
 は　麻痺に陥った！
-> CONTEXT: States/14/message1/ < UNTRANSLATED
-> CONTEXT: States/14/message2/ < UNTRANSLATED
-
+> CONTEXT: States/14/message1/
+> CONTEXT: States/14/message2/
+ became paralyzed!
 > END STRING
 
 > BEGIN STRING
 は　麻痺して動けず！
-> CONTEXT: States/14/message3/ < UNTRANSLATED
-
+> CONTEXT: States/14/message3/
+ can't move due to paralysis!
 > END STRING
 
 > BEGIN STRING
 は　麻痺を克服！
-> CONTEXT: States/14/message4/ < UNTRANSLATED
-
+> CONTEXT: States/14/message4/
+ recovered from paralysis!
 > END STRING
 
 > BEGIN STRING
@@ -438,30 +438,30 @@ Bleed
 
 > BEGIN STRING
 は　火傷を負った！
-> CONTEXT: States/40/message1/ < UNTRANSLATED
-> CONTEXT: States/40/message2/ < UNTRANSLATED
-> CONTEXT: States/41/message1/ < UNTRANSLATED
-> CONTEXT: States/41/message2/ < UNTRANSLATED
-> CONTEXT: States/42/message1/ < UNTRANSLATED
-> CONTEXT: States/42/message2/ < UNTRANSLATED
-
+> CONTEXT: States/40/message1/
+> CONTEXT: States/40/message2/
+> CONTEXT: States/41/message1/
+> CONTEXT: States/41/message2/
+> CONTEXT: States/42/message1/
+> CONTEXT: States/42/message2/
+ got burned!
 > END STRING
 
 > BEGIN STRING
 が　焼かれてく！
-> CONTEXT: States/40/message3/ < UNTRANSLATED
-> CONTEXT: States/41/message3/ < UNTRANSLATED
-> CONTEXT: States/42/message3/ < UNTRANSLATED
-> CONTEXT: States/43/message3/ < UNTRANSLATED
-
+> CONTEXT: States/40/message3/
+> CONTEXT: States/41/message3/
+> CONTEXT: States/42/message3/
+> CONTEXT: States/43/message3/
+ won't stop burning!
 > END STRING
 
 > BEGIN STRING
 の火傷が　収まった！
-> CONTEXT: States/40/message4/ < UNTRANSLATED
-> CONTEXT: States/41/message4/ < UNTRANSLATED
-> CONTEXT: States/42/message4/ < UNTRANSLATED
-
+> CONTEXT: States/40/message4/
+> CONTEXT: States/41/message4/
+> CONTEXT: States/42/message4/
+ stopped burning!
 > END STRING
 
 > BEGIN STRING
@@ -691,21 +691,21 @@ Bleed
 
 > BEGIN STRING
 は　殺意を高めた！
-> CONTEXT: States/91/message1/ < UNTRANSLATED
-
+> CONTEXT: States/91/message1/
+ intensified murderous intent!
 > END STRING
 
 > BEGIN STRING
 は　力を溜めた！
-> CONTEXT: States/91/message2/ < UNTRANSLATED
-> CONTEXT: States/92/message2/ < UNTRANSLATED
-> CONTEXT: States/93/message2/ < UNTRANSLATED
-> CONTEXT: States/95/message2/ < UNTRANSLATED
-> CONTEXT: States/96/message2/ < UNTRANSLATED
-> CONTEXT: States/403/message1/ < UNTRANSLATED
-> CONTEXT: States/405/message1/ < UNTRANSLATED
-> CONTEXT: States/408/message1/ < UNTRANSLATED
-
+> CONTEXT: States/91/message2/
+> CONTEXT: States/92/message2/
+> CONTEXT: States/93/message2/
+> CONTEXT: States/95/message2/
+> CONTEXT: States/96/message2/
+> CONTEXT: States/403/message1/
+> CONTEXT: States/405/message1/
+> CONTEXT: States/408/message1/
+ gathered strength!
 > END STRING
 
 > BEGIN STRING
@@ -1494,15 +1494,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の回避力が　上昇！
-> CONTEXT: States/253/message1/ < UNTRANSLATED
-> CONTEXT: States/253/message2/ < UNTRANSLATED
-
+> CONTEXT: States/253/message1/
+> CONTEXT: States/253/message2/
+ gained evasion!
 > END STRING
 
 > BEGIN STRING
 の回避力上昇が　終了！
-> CONTEXT: States/253/message4/ < UNTRANSLATED
-
+> CONTEXT: States/253/message4/
+ lost evasion increase!
 > END STRING
 
 > BEGIN STRING
@@ -1513,15 +1513,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の回避力が　下落！
-> CONTEXT: States/254/message1/ < UNTRANSLATED
-> CONTEXT: States/254/message2/ < UNTRANSLATED
-
+> CONTEXT: States/254/message1/
+> CONTEXT: States/254/message2/
+ lost evasion!
 > END STRING
 
 > BEGIN STRING
 の回避力下落が　終了！
-> CONTEXT: States/254/message4/ < UNTRANSLATED
-
+> CONTEXT: States/254/message4/
+ lost evasion decrease!
 > END STRING
 
 > BEGIN STRING
@@ -1656,26 +1656,26 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 水氷属性強化
-> CONTEXT: States/262/name/ < UNTRANSLATED
-
+> CONTEXT: States/262/name/
+Water/Ice Enchant
 > END STRING
 
 > BEGIN STRING
 の水氷属性が　強化された！
-> CONTEXT: States/262/message1/ < UNTRANSLATED
-
+> CONTEXT: States/262/message1/
+ got water/ice enchantment!
 > END STRING
 
 > BEGIN STRING
 の水氷属性が　強化！
-> CONTEXT: States/262/message2/ < UNTRANSLATED
-
+> CONTEXT: States/262/message2/
+ has strengthened water/ice!
 > END STRING
 
 > BEGIN STRING
 の水氷属性強化が　終了！
-> CONTEXT: States/262/message4/ < UNTRANSLATED
-
+> CONTEXT: States/262/message4/
+ lost water/ice enchantment!
 > END STRING
 
 > BEGIN STRING
@@ -2192,20 +2192,20 @@ Preparation
 
 > BEGIN STRING
 は　夢見の力を得た！
-> CONTEXT: States/404/message2/ < UNTRANSLATED
-
+> CONTEXT: States/404/message2/
+ gained the power of dreams!
 > END STRING
 
 > BEGIN STRING
 は　夢見の力に守られてる！
-> CONTEXT: States/404/message3/ < UNTRANSLATED
-
+> CONTEXT: States/404/message3/
+ is protected by the power of dreams!
 > END STRING
 
 > BEGIN STRING
 の　遥けき夢が立ち消えた！
-> CONTEXT: States/404/message4/ < UNTRANSLATED
-
+> CONTEXT: States/404/message4/
+ lost distant dreams!
 > END STRING
 
 > BEGIN STRING

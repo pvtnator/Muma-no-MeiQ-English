@@ -290,8 +290,11 @@ so you'll have an advantage, get it?
 え？　聖焔のロザリオ！？
 それなら……確か　少し前に
 \\n[12]に　渡したような……。
-> CONTEXT: Map011/events/1/pages/3/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/60/Dialogue
+\\NAME[\\n[11]]
+Huh? The Holy Flame Rosary!?
+Then... I think I gave it to 
+\\n[12] a little while ago...
 > END STRING
 
 > BEGIN STRING

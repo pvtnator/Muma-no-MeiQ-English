@@ -205,21 +205,22 @@ Pull the trigger and shoot, ranged attack
 
 > BEGIN STRING
 殴打
-> CONTEXT: Skills/21/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/name/
+Hit
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｄ\\C[0]〙\\i[133]
 勢いよく　敵を叩き付ける　凡撃
-> CONTEXT: Skills/21/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/description/
+[Single: ATK*\\C[9]D\\C[0]]\\i[133]
+A powerful, ordinary strike to slam the enemy
 > END STRING
 
 > BEGIN STRING
 は　殴打を放った！
-> CONTEXT: Skills/21/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/message1/
+ unleashed a hit!
 > END STRING
 
 > BEGIN STRING
@@ -316,21 +317,22 @@ Basic melee attack.
 
 > BEGIN STRING
 火焔放射
-> CONTEXT: Skills/40/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/40/name/
+Flamethrower
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｃ\\C[0]〙\\i[133]
 炎を　敵に向かって放つ　遠隔攻撃
-> CONTEXT: Skills/40/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/40/description/
+[Single: PSY*\\C[9]C\\C[0]]\\i[133]
+Unleashe fire towards the enemy from range
 > END STRING
 
 > BEGIN STRING
 の　火焔放射！
-> CONTEXT: Skills/40/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/40/message1/
+ used Flamethrower!
 > END STRING
 
 > BEGIN STRING
@@ -640,21 +642,22 @@ Dual attribute ice infused slash
 
 > BEGIN STRING
 電漿打
-> CONTEXT: Skills/63/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/63/name/
+Lightning Strike
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]〙\\i[30]
 電気を纏わせて　敵を叩く　複合属性攻撃
-> CONTEXT: Skills/63/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/63/description/
+[Single: ATK*\\C[9]C\\C[0]]\\i[30]
+Dual attribute strike imbued with lightning
 > END STRING
 
 > BEGIN STRING
 は　電漿打を放った！
-> CONTEXT: Skills/63/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/63/message1/
+ used Lightning Strike!
 > END STRING
 
 > BEGIN STRING
@@ -939,14 +942,14 @@ Purple Dream Eating
 
 > BEGIN STRING
 遥けき夢を見る
-> CONTEXT: Skills/87/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/87/name/
+Distant Dream
 > END STRING
 
 > BEGIN STRING
 は　遥けき夢を見た！
-> CONTEXT: Skills/87/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/87/message1/
+ saw distant dreams!
 > END STRING
 
 > BEGIN STRING
@@ -1578,59 +1581,62 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 スペツナズ投法
-> CONTEXT: Skills/148/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/148/name/
+Spetsnaz Throw
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ａ\\C[0]/次休み〙\\i[30]\\i[207]
 ナイフを投げて遠隔刺突撃　次回合に拾う
-> CONTEXT: Skills/148/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/148/description/
+[Single: ATK*\\C[10]A\\C[0]/Goes Away]\\i[30]\\i[207]
+Throw, then pick up for the next encounter
 > END STRING
 
 > BEGIN STRING
 の　スペツナズ投法！
-> CONTEXT: Skills/148/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/148/message1/
+ used Spetsnaz Throw!
 > END STRING
 
 > BEGIN STRING
 千のナイフ
-> CONTEXT: Skills/149/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/149/name/
+1000 Knives
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｄ\\C[0]*対象怪我数増連〙\\i[30]\\i[207]
 敵の惨めな怪我部位に　奇蹟の連撃を放つ
-> CONTEXT: Skills/149/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/149/description/
+[Single: ATK*\\C[9]D\\C[0]*Injuries]\\i[30]\\i[207]
+Unleash attacks on the enemy's injuries
 > END STRING
 
 > BEGIN STRING
 の　千のナイフ！
-> CONTEXT: Skills/149/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/149/message1/
+ used 1000 Knives!
 > END STRING
 
 > BEGIN STRING
 目蓋縫い
-> CONTEXT: Skills/151/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/151/name/
+Eyelid Stitch
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+目潰(高)〙\\i[30]\\i[208]
 敵の瞼を縫い合わせ　視力を奪う攻撃
-> CONTEXT: Skills/151/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/151/description/
+[Single: ATK*\\C[9]B\\C[0]+Blind(L)]\\i[30]\\i[208]
+Sew eyelids together, taking away eyesight
 > END STRING
 
 > BEGIN STRING
 は　目蓋縫いを行った！
-> CONTEXT: Skills/151/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/151/message1/
+ unleashed Eyelid Stitch!
 > END STRING
 
 > BEGIN STRING
@@ -1654,21 +1660,22 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 避雷針
-> CONTEXT: Skills/153/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/name/
+Lightning Rod
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0](突)⇒拡:PSY*\\C[9]Ｄ\\C[0](雷)〙\\i[30]\\i[208]
 針を勢いよく突き刺し　遠隔雷撃を誘導
-> CONTEXT: Skills/153/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/description/
+[Single: ATK*\\C[9]B\\C[0](Thrust)⇒Area: PSY*\\C[9]D\\C[0](Lightning)]\\i[30]\\i[208]
+Stabs and guide a long-range lightning strike
 > END STRING
 
 > BEGIN STRING
 の　避雷針攻撃！
-> CONTEXT: Skills/153/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/message1/
+ used Lightning Rod!
 > END STRING
 
 > BEGIN STRING
@@ -1749,21 +1756,22 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 世界の終わり
-> CONTEXT: Skills/159/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/159/name/
+World's End
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[8]Ｇ\\C[0]*？連撃+急死(稀)/封:4〙\\i[30]\\i[209]
 悪いのは全部君　これで最期だと告げる
-> CONTEXT: Skills/159/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/159/description/
+[Single: ATK*\\C[8]G\\C[0]*?/Deathblow(S)/CD:4]\\i[30]\\i[209]
+It's all your fault. This is the end.
 > END STRING
 
 > BEGIN STRING
 は　めった刺しにした！
-> CONTEXT: Skills/159/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/159/message1/
+ stabbed repeatedly!
 > END STRING
 
 > BEGIN STRING
@@ -1839,46 +1847,48 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 ぶん回し
-> CONTEXT: Skills/166/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/166/name/
+Spinning Strike
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK*\\C[9]Ｃ\\C[0]〙\\i[30]\\i[210]
 対象とその周囲を柄でぶん殴る　遠隔攻撃
-> CONTEXT: Skills/166/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/166/description/
+[Area: ATK*\\C[9]C\\C[0]]\\i[30]\\i[210]
+Strike around the target from range with the hilt
 > END STRING
 
 > BEGIN STRING
 は　槍をぶん回した！
-> CONTEXT: Skills/166/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/166/message1/
+ spun the spear!
 > END STRING
 
 > BEGIN STRING
 無双迎撃
-> CONTEXT: Skills/167/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/167/name/
+Impenetrable Counter
 > END STRING
 
 > BEGIN STRING
 〘近接反撃/ATK*\\C[10]Ａ\\C[0]〙\\i[30]\\i[210]
 近接攻撃に対し　刺突で反撃する　返し技
-> CONTEXT: Skills/167/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/167/description/
+[Melee Counter/ATK*\\C[10]A\\C[0]]\\i[30]\\i[210]
+Counter a melee attack with a thrust
 > END STRING
 
 > BEGIN STRING
 は　敵の突撃に備え
-> CONTEXT: Skills/167/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/167/message1/
+ prepared for enemy attack
 > END STRING
 
 > BEGIN STRING
 無双迎撃の構えを　取った！
-> CONTEXT: Skills/167/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/167/message2/
+with the Impenetrable Counter stance!
 > END STRING
 
 > BEGIN STRING
@@ -1902,21 +1912,22 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 長躯直入
-> CONTEXT: Skills/169/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/169/name/
+Distant Raid
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ｓ\\C[0]〙\\i[31]\\i[210]
 リーチを保って踏み込む　遠隔槍奥義
-> CONTEXT: Skills/169/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/169/description/
+[Single: ATK*\\C[10]S\\C[0]]\\i[31]\\i[210]
+Stay in range and raid
 > END STRING
 
 > BEGIN STRING
 は　長躯直入を行った！
-> CONTEXT: Skills/169/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/169/message1/
+ unleashed Distant Raid!
 > END STRING
 
 > BEGIN STRING
@@ -2016,59 +2027,62 @@ Injure arms with bleeding wounds
 
 > BEGIN STRING
 ハンマービート
-> CONTEXT: Skills/177/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/177/name/
+Hammer Beat
 > END STRING
 
 > BEGIN STRING
 〘全:スタン付与(高)〙\\i[30]\\i[212]
 地面を規則的に叩いて　敵陣の体勢を崩す
-> CONTEXT: Skills/177/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/177/description/
+[All: Stun(L)]\\i[30]\\i[212]
+Slam the ground to disrupt the enemy formation
 > END STRING
 
 > BEGIN STRING
 の　ハンマービート！
-> CONTEXT: Skills/177/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/177/message1/
+ used Hammer Beat!
 > END STRING
 
 > BEGIN STRING
 打ち出の小槌
-> CONTEXT: Skills/178/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/178/name/
+Magic Mallet
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[8]Ｇ\\C[0]+撃破時素材確定〙\\i[28]\\i[212]
 素材供出部を見極め　慎重に叩く
-> CONTEXT: Skills/178/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/178/description/
+[Single: ATK*\\C[8]G\\C[0]+100% Droprate]\\i[28]\\i[212]
+Identify the material drop area and strike
 > END STRING
 
 > BEGIN STRING
 の　打ち出の小槌！
-> CONTEXT: Skills/178/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/178/message1/
+ used Magic Mallet!
 > END STRING
 
 > BEGIN STRING
 殺生砕き
-> CONTEXT: Skills/179/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/179/name/
+Cruel Crush
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ａ\\C[0]+腕固+スタン(高)〙\\i[30]\\i[212]
 敵の害意を大きく挫く　必殺ハンマー撃
-> CONTEXT: Skills/179/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/179/description/
+[Single: ATK*\\C[10]A\\C[0]+Arm Bind+Stun(L)]\\i[30]\\i[212]
+Crush enemy's malice with a deadly strike
 > END STRING
 
 > BEGIN STRING
 の　殺生砕き！
-> CONTEXT: Skills/179/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/179/message1/
+ used Cruel Crush!
 > END STRING
 
 > BEGIN STRING
@@ -4954,21 +4968,22 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 腐竜の呪印
-> CONTEXT: Skills/391/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/391/name/
+Corrupt Dragon Curse
 > END STRING
 
 > BEGIN STRING
 〘全:ATK↓〙\\i[29]
 攻撃力を下げる　呪いの言霊を唱え　放つ
-> CONTEXT: Skills/391/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/391/description/
+[All: ATK↓] \\i[29]
+Chant a curse and unleashe it
 > END STRING
 
 > BEGIN STRING
 は　腐竜の呪印を唱えた！
-> CONTEXT: Skills/391/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/391/message1/
+ chanted Corrupt Dragon Curse!
 > END STRING
 
 > BEGIN STRING
@@ -5011,21 +5026,22 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 落鳳の呪印
-> CONTEXT: Skills/394/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/394/name/
+Falling Phoenix Curse
 > END STRING
 
 > BEGIN STRING
 〘全:AGI+回避力↓〙\\i[29]
 敏捷性を下げる　呪いの言霊を唱え　放つ
-> CONTEXT: Skills/394/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/394/description/
+[All: AGI/Evasion↓]\\i[29]
+Chant a curse and unleash it
 > END STRING
 
 > BEGIN STRING
 は　落鳳の呪印を唱えた！
-> CONTEXT: Skills/394/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/394/message1/
+ chanted Falling Phoenix Curse!
 > END STRING
 
 > BEGIN STRING
@@ -5039,13 +5055,13 @@ Wildcat Curse
 集中力を下げる　呪いの言霊を唱え　放つ
 > CONTEXT: Skills/395/description/
 [All: CON/Accuracy↓]\\i[29]
-Chant a curse and unleashe it
+Chant a curse and unleash it
 > END STRING
 
 > BEGIN STRING
 は　恐山猫の呪印を唱えた！
 > CONTEXT: Skills/395/message1/
- used Wild Cat Curse!
+ chanted Wild Cat Curse!
 > END STRING
 
 > BEGIN STRING
@@ -8281,49 +8297,49 @@ Completely motionless...
 
 > BEGIN STRING
 爪ひっかき(腕)
-> CONTEXT: Skills/601/name/ < UNTRANSLATED
+> CONTEXT: Skills/601/name/
 Nail Scratch(Arm)
 > END STRING
 
 > BEGIN STRING
 〘単：ATK*\\C[9]Ｃ\\C[0]〙　\\i[30]
 通常攻撃
-> CONTEXT: Skills/601/description/ < UNTRANSLATED
-> CONTEXT: Skills/608/description/ < UNTRANSLATED
-> CONTEXT: Skills/612/description/ < UNTRANSLATED
-> CONTEXT: Skills/613/description/ < UNTRANSLATED
-> CONTEXT: Skills/614/description/ < UNTRANSLATED
-> CONTEXT: Skills/615/description/ < UNTRANSLATED
-> CONTEXT: Skills/616/description/ < UNTRANSLATED
+> CONTEXT: Skills/601/description/
+> CONTEXT: Skills/608/description/
+> CONTEXT: Skills/612/description/
+> CONTEXT: Skills/613/description/
+> CONTEXT: Skills/614/description/
+> CONTEXT: Skills/615/description/
+> CONTEXT: Skills/616/description/
 [Single: ATK*\\C[9]C\\C[0]] \\i[30]
 Normal Attack
 > END STRING
 
 > BEGIN STRING
 の　爪ひっかき！
-> CONTEXT: Skills/601/message1/ < UNTRANSLATED
-> CONTEXT: Skills/602/message1/ < UNTRANSLATED
+> CONTEXT: Skills/601/message1/
+> CONTEXT: Skills/602/message1/
  used Nail Scratch!
 > END STRING
 
 > BEGIN STRING
 爪ひっかき(足)
-> CONTEXT: Skills/602/name/ < UNTRANSLATED
+> CONTEXT: Skills/602/name/
 Nail Scratch(Leg)
 > END STRING
 
 > BEGIN STRING
 〘単：ATK*\\C[9]Ｃ\\C[0]〙　\\i[31]
 通常攻撃
-> CONTEXT: Skills/602/description/ < UNTRANSLATED
-> CONTEXT: Skills/605/description/ < UNTRANSLATED
-> CONTEXT: Skills/609/description/ < UNTRANSLATED
-> CONTEXT: Skills/617/description/ < UNTRANSLATED
-> CONTEXT: Skills/618/description/ < UNTRANSLATED
-> CONTEXT: Skills/619/description/ < UNTRANSLATED
-> CONTEXT: Skills/620/description/ < UNTRANSLATED
-> CONTEXT: Skills/621/description/ < UNTRANSLATED
-> CONTEXT: Skills/622/description/ < UNTRANSLATED
+> CONTEXT: Skills/602/description/
+> CONTEXT: Skills/605/description/
+> CONTEXT: Skills/609/description/
+> CONTEXT: Skills/617/description/
+> CONTEXT: Skills/618/description/
+> CONTEXT: Skills/619/description/
+> CONTEXT: Skills/620/description/
+> CONTEXT: Skills/621/description/
+> CONTEXT: Skills/622/description/
 [Single: ATK*\\C[9]C\\C[0]]\\i[31]
 Normal Attack
 > END STRING
@@ -8351,14 +8367,14 @@ Normal Attack
 
 > BEGIN STRING
 嘴つっつき
-> CONTEXT: Skills/604/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/604/name/
+Peck
 > END STRING
 
 > BEGIN STRING
 の　嘴つっつき！
-> CONTEXT: Skills/604/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/604/message1/
+ pecked with its beak!
 > END STRING
 
 > BEGIN STRING
@@ -8423,14 +8439,14 @@ Hard Punch
 
 > BEGIN STRING
 蹴っ飛ばし
-> CONTEXT: Skills/609/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/609/name/
+Hard Kick
 > END STRING
 
 > BEGIN STRING
 の　蹴っ飛ばし！
-> CONTEXT: Skills/609/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/609/message1/
+ kicked hard!
 > END STRING
 
 > BEGIN STRING
@@ -8447,14 +8463,14 @@ Hard Punch
 
 > BEGIN STRING
 体当たり
-> CONTEXT: Skills/611/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/611/name/
+Body Slam
 > END STRING
 
 > BEGIN STRING
 の　体当たり！
-> CONTEXT: Skills/611/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/611/message1/
+ used Body Slam!
 > END STRING
 
 > BEGIN STRING
@@ -8483,14 +8499,14 @@ Hard Punch
 
 > BEGIN STRING
 熱波
-> CONTEXT: Skills/614/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/614/name/
+Heatwave
 > END STRING
 
 > BEGIN STRING
 による　熱波！
-> CONTEXT: Skills/614/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/614/message1/
+ caused a heatwave!
 > END STRING
 
 > BEGIN STRING
@@ -8742,24 +8758,25 @@ for no reason!
 
 > BEGIN STRING
 ボヤ騒ぎ
-> CONTEXT: Skills/641/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/641/name/
+Small Fire
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[8]Ｆ\\C[0]〙\\i[29]
 
-> CONTEXT: Skills/641/description/ < UNTRANSLATED
-> CONTEXT: Skills/642/description/ < UNTRANSLATED
-> CONTEXT: Skills/643/description/ < UNTRANSLATED
-> CONTEXT: Skills/671/description/ < UNTRANSLATED
+> CONTEXT: Skills/641/description/
+> CONTEXT: Skills/642/description/
+> CONTEXT: Skills/643/description/
+> CONTEXT: Skills/671/description/
+〘Single:PSY*\\C[8]F\\C[0]〙\\i[29]
 
 > END STRING
 
 > BEGIN STRING
 は　ボヤ騒ぎを起こした！
-> CONTEXT: Skills/641/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/641/message1/
+ caused a small fire!
 > END STRING
 
 > BEGIN STRING
@@ -8806,20 +8823,20 @@ and drifts through the air!
 
 > BEGIN STRING
 大地を踏みしめて
-> CONTEXT: Skills/645/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/645/name/
+Firm Footing
 > END STRING
 
 > BEGIN STRING
 は　念入りに
-> CONTEXT: Skills/645/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/645/message1/
+ stomped feet
 > END STRING
 
 > BEGIN STRING
 大地を　踏みしめた！
-> CONTEXT: Skills/645/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/645/message2/
+firmly on the ground!
 > END STRING
 
 > BEGIN STRING
@@ -9170,21 +9187,22 @@ EP回復行動（代表）
 
 > BEGIN STRING
 殺意の深呼吸
-> CONTEXT: Skills/670/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/670/name/
+Murderous Breath
 > END STRING
 
 > BEGIN STRING
 〘自:次ATK↑〙
 次ターン　皆殺しの気迫で敵を攻撃できる
-> CONTEXT: Skills/670/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/670/description/
+[Self: Next ATK↑]
+Next turn, attack with fierce determination
 > END STRING
 
 > BEGIN STRING
 は　深く息を吸い込んだ！
-> CONTEXT: Skills/670/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/670/message1/
+ took a deep breath!
 > END STRING
 
 > BEGIN STRING
@@ -10819,8 +10837,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　クレプスコを詠唱！
-> CONTEXT: Skills/790/message1/ < UNTRANSLATED
-> CONTEXT: Skills/877/message1/ < UNTRANSLATED
+> CONTEXT: Skills/790/message1/
+> CONTEXT: Skills/877/message1/
  cast Crepusculo!
 > END STRING
 
@@ -10840,8 +10858,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　ルゥヂャを詠唱！
-> CONTEXT: Skills/791/message1/ < UNTRANSLATED
-> CONTEXT: Skills/811/message1/ < UNTRANSLATED
+> CONTEXT: Skills/791/message1/
+> CONTEXT: Skills/811/message1/
  cast Rouge!
 > END STRING
 
@@ -10861,8 +10879,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　トゥルキーザを詠唱！
-> CONTEXT: Skills/792/message1/ < UNTRANSLATED
-> CONTEXT: Skills/827/message1/ < UNTRANSLATED
+> CONTEXT: Skills/792/message1/
+> CONTEXT: Skills/827/message1/
  cast Turquesa!
 > END STRING
 
@@ -10884,9 +10902,9 @@ LP損耗率依存
 
 > BEGIN STRING
 は　ヴェルダを詠唱！
-> CONTEXT: Skills/793/message1/ < UNTRANSLATED
-> CONTEXT: Skills/795/message1/ < UNTRANSLATED
-> CONTEXT: Skills/851/message1/ < UNTRANSLATED
+> CONTEXT: Skills/793/message1/
+> CONTEXT: Skills/795/message1/
+> CONTEXT: Skills/851/message1/
  cast Verda!
 > END STRING
 
@@ -10898,8 +10916,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　ブルゥナを詠唱！
-> CONTEXT: Skills/794/message1/ < UNTRANSLATED
-> CONTEXT: Skills/841/message1/ < UNTRANSLATED
+> CONTEXT: Skills/794/message1/
+> CONTEXT: Skills/841/message1/
  cast Bruna!
 > END STRING
 
@@ -10917,8 +10935,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　プルプーラを詠唱！
-> CONTEXT: Skills/796/message1/ < UNTRANSLATED
-> CONTEXT: Skills/861/message1/ < UNTRANSLATED
+> CONTEXT: Skills/796/message1/
+> CONTEXT: Skills/861/message1/
  cast Purpura!
 > END STRING
 
@@ -10937,8 +10955,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　エブーラⅡを詠唱！
-> CONTEXT: Skills/797/message1/ < UNTRANSLATED
-> CONTEXT: Skills/885/message1/ < UNTRANSLATED
+> CONTEXT: Skills/797/message1/
+> CONTEXT: Skills/885/message1/
  cast Ebur2!
 > END STRING
 
@@ -10957,8 +10975,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　エボーナⅡを詠唱！
-> CONTEXT: Skills/798/message1/ < UNTRANSLATED
-> CONTEXT: Skills/875/message1/ < UNTRANSLATED
+> CONTEXT: Skills/798/message1/
+> CONTEXT: Skills/875/message1/
  cast Ebon2!
 > END STRING
 
@@ -10977,8 +10995,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　ロズコローラⅡを詠唱！
-> CONTEXT: Skills/799/message1/ < UNTRANSLATED
-> CONTEXT: Skills/865/message1/ < UNTRANSLATED
+> CONTEXT: Skills/799/message1/
+> CONTEXT: Skills/865/message1/
  cast RosaColora!
 > END STRING
 
@@ -10997,8 +11015,8 @@ LP損耗率依存
 
 > BEGIN STRING
 は　カルクⅡを詠唱！
-> CONTEXT: Skills/800/message1/ < UNTRANSLATED
-> CONTEXT: Skills/855/message1/ < UNTRANSLATED
+> CONTEXT: Skills/800/message1/
+> CONTEXT: Skills/855/message1/
  cast Kalk!
 > END STRING
 

@@ -341,8 +341,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 え？　聖焔のロザリオ……？
 えーと……どこかで
 聞いたこと……あったような？
-> CONTEXT: Map012/events/1/pages/3/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/5/Dialogue
+\\NAME[\\n[12]]
+Huh? The Holy Flame Rosary...?
+Um... Have I heard of it 
+somewhere before?
 > END STRING
 
 > BEGIN STRING
@@ -364,8 +367,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 そうそう！　そういえば　ちょっと前に
 \\n[11]から　もらったんだった♪
 私って　装飾品を集めるのが　趣味なの。
-> CONTEXT: Map012/events/1/pages/3/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/21/Dialogue
+\\NAME[\\n[12]]
+That's right! Now that you mention it, 
+I received it from \\n[11] a while ago♪
+Collecting accessories is my hobby.
 > END STRING
 
 > BEGIN STRING
@@ -373,8 +379,10 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 ロザリオって　一部の魔族には
 苦手なものなんだってね。それで
 あの子が　持て余すっていうから……
-> CONTEXT: Map012/events/1/pages/3/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/27/Dialogue
+\\NAME[\\n[12]]
+I heard some demons don't like rosaries. 
+That's why she was having trouble with it...
 > END STRING
 
 > BEGIN STRING
@@ -382,8 +390,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 けど　ごめんなさいね。
 もう使わないと思って　失くしちゃった♪
 でもロザリオなら　20Ｆで売ってるよ♪
-> CONTEXT: Map012/events/1/pages/3/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/34/Dialogue
+\\NAME[\\n[12]]
+But I'm sorry. I lost it because 
+I thought I wouldn't need it anymore♪
+But rosaries are sold at 20F♪
 > END STRING
 
 > BEGIN STRING
@@ -391,8 +402,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 あれを装備していると　火炎属性の攻撃に
 かなり強くなれるんだけど　ええとぉ……
 どうすれば　いいかしら……？
-> CONTEXT: Map012/events/1/pages/3/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/43/Dialogue
+\\NAME[\\n[12]]
+If you equip that, you'll be 
+resistant against fire attacks, 
+but, um... Is that good...?
 > END STRING
 
 > BEGIN STRING
@@ -400,8 +414,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 あ　そうだ！　なんか　お届け便が
 あるみたいだから　そこに頼んで
 夢界中心に　送ってみるね♪
-> CONTEXT: Map012/events/1/pages/3/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/49/Dialogue
+\\NAME[\\n[12]]
+Oh, I know! There's a delivery service, 
+so I'll order from them and have it sent 
+to Central Realms of Reverie♪
 > END STRING
 
 > BEGIN STRING
@@ -409,15 +426,19 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 きっと　業者さんの窓口近くで
 \\C[6]キラキラ　光り出してる\\C[0]かもだから
 あちこち　よ〜く　チェックしてみてね！
-> CONTEXT: Map012/events/1/pages/3/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/55/Dialogue
+\\NAME[\\n[12]]
+It'll probably be \\C[6]sparkling near 
+the counter of the shop\\C[0] so check 
+carefully around there!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 それは　それとして………………
-> CONTEXT: Map012/events/1/pages/3/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/64/Dialogue
+\\NAME[\\n[12]]
+That being said...
 > END STRING
 
 > BEGIN STRING

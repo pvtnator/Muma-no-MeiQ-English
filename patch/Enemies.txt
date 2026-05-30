@@ -13,14 +13,14 @@ Green Crow
 
 > BEGIN STRING
 こぼれウーズ
-> CONTEXT: Enemies/3/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/3/name/
+Spilled Ooze
 > END STRING
 
 > BEGIN STRING
 小鬼
-> CONTEXT: Enemies/4/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/4/name/
+Goblin
 > END STRING
 
 > BEGIN STRING
@@ -31,14 +31,14 @@ Green Crow
 
 > BEGIN STRING
 魔将蟷螂
-> CONTEXT: Enemies/6/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/6/name/
+Demon General Mantis
 > END STRING
 
 > BEGIN STRING
 ベアーレスラー
-> CONTEXT: Enemies/7/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/7/name/
+Bear Wrestler
 > END STRING
 
 > BEGIN STRING
@@ -61,32 +61,32 @@ Flesh Doll
 
 > BEGIN STRING
 闇炎童士
-> CONTEXT: Enemies/11/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/11/name/
+Dark Flame Child
 > END STRING
 
 > BEGIN STRING
 闇氷童士
-> CONTEXT: Enemies/12/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/12/name/
+Dark Ice Child
 > END STRING
 
 > BEGIN STRING
 闇雷童士
-> CONTEXT: Enemies/13/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/13/name/
+Dark Thunder Child
 > END STRING
 
 > BEGIN STRING
 単眼焼骨
-> CONTEXT: Enemies/14/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/14/name/
+Cyclops Remains
 > END STRING
 
 > BEGIN STRING
 モノアイスカル
-> CONTEXT: Enemies/15/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/15/name/
+Monoice Skull
 > END STRING
 
 > BEGIN STRING
@@ -97,44 +97,44 @@ Flesh Doll
 
 > BEGIN STRING
 一目魂
-> CONTEXT: Enemies/17/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/17/name/
+One-Eyed Soul
 > END STRING
 
 > BEGIN STRING
 奴隷幽足
-> CONTEXT: Enemies/18/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/18/name/
+Slave Ghost
 > END STRING
 
 > BEGIN STRING
 冷やし蛭
-> CONTEXT: Enemies/19/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/19/name/
+Chilled Leech
 > END STRING
 
 > BEGIN STRING
 いたち野郎
-> CONTEXT: Enemies/20/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/20/name/
+Rascal Weasel
 > END STRING
 
 > BEGIN STRING
 マーブルアント
-> CONTEXT: Enemies/21/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/21/name/
+Marble Ant
 > END STRING
 
 > BEGIN STRING
 豚男
-> CONTEXT: Enemies/22/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/22/name/
+Pig Man
 > END STRING
 
 > BEGIN STRING
 ランタロイド
-> CONTEXT: Enemies/24/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/24/name/
+Lanteroid
 > END STRING
 
 > BEGIN STRING
@@ -1061,20 +1061,20 @@ Gold Tapir
 
 > BEGIN STRING
 炎貘
-> CONTEXT: Enemies/891/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/891/name/
+Fire Tapir
 > END STRING
 
 > BEGIN STRING
 氷貘
-> CONTEXT: Enemies/892/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/892/name/
+Ice Tapir
 > END STRING
 
 > BEGIN STRING
 雷貘
-> CONTEXT: Enemies/893/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/893/name/
+Lightning Tapir
 > END STRING
 
 > BEGIN STRING

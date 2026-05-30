@@ -24,10 +24,10 @@ This id seems to have run dry.
 
 > BEGIN STRING
 どこからか　声が聞こえる……。
-> CONTEXT: Map009/events/7/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/7/pages/1/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/7/pages/1/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/1/1/Dialogue
+> CONTEXT: Map009/events/7/pages/1/15/Dialogue
+> CONTEXT: Map009/events/7/pages/1/29/Dialogue
+You hear a voice from somewhere...
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +35,11 @@ This id seems to have run dry.
 ちょっと！？　今　その中に
 入っても　仕方ないでしょ！？
 やめときなさい！
-> CONTEXT: Map009/events/7/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/1/5/Dialogue
+\\NAME[\\n[11]]
+Hey!? There's no point in 
+going there now, is there!?
+Stop it!
 > END STRING
 
 > BEGIN STRING

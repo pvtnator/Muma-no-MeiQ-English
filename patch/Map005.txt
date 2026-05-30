@@ -276,7 +276,7 @@ Hmm... what to do?
 > CONTEXT: Map005/events/1/pages/2/65/Dialogue
 \\NAME[\\n[13]]
 You say that, but...
-\\n[11] had already prepared 
+\\n[11] already prepared 
 a relief measure, didn't she〜?
 > END STRING
 
