@@ -720,3 +720,14 @@ You do your best to find it.
 > CONTEXT: Map023/events/22/pages/1/260/Dialogue < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+ここに
+置くことで
+１２番が
+来ないように
+しとります。
+> CONTEXT: Map023/events/19/pages/0/0/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/19/pages/1/0/Comment < UNTRANSLATED
+
+> END STRING

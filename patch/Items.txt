@@ -1456,14 +1456,14 @@ A very sweet nectar from the heavens
 > BEGIN STRING
 独角獣丹
 > CONTEXT: Items/203/name/
-Dokakujutan
+Unicorn Pill
 > END STRING
 
 > BEGIN STRING
 〘単:病気系バステ+被毒完治〙
 ユニコーンの角で作る　病気を治す丸薬
 > CONTEXT: Items/203/description/
-[Single: Disease/Poison Cure]
+[Single: Ailment/Poison Cure]
 A pill made from unicorn horn to cure diseases
 > END STRING
 
@@ -2388,7 +2388,7 @@ Gacha box from the abyss of the Maze of Succubus
 > BEGIN STRING
 ロゴスの鍵
 > CONTEXT: Items/401/name/
-Key of Logos
+Key to Logos
 > END STRING
 
 > BEGIN STRING

@@ -133,3 +133,29 @@
 > CONTEXT: Map018/events/1/pages/1/159/Choice/1 < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+選択肢位置(0,0,14)
+カーソル記憶(574)
+> CONTEXT: Map018/events/1/pages/0/15/Comment < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/1/14/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アッシェ選択の空き4番目枠
+> CONTEXT: Map018/events/2/pages/1/13/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アッシェ選択のキャンセル枠
+> CONTEXT: Map018/events/2/pages/1/17/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX選択のキャンセル枠
+> CONTEXT: Map018/events/2/pages/1/68/Comment < UNTRANSLATED
+
+> END STRING

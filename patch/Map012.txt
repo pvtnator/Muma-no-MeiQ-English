@@ -13,8 +13,8 @@
 
 > BEGIN STRING
 同行交渉en(s[32])
-> CONTEXT: Map012/events/1/pages/1/25/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/25/Choice/3
+Invite to Partyen(s[32])
 > END STRING
 
 > BEGIN STRING
@@ -51,8 +51,8 @@
 
 > BEGIN STRING
 スキル習得en(s[22])
-> CONTEXT: Map012/events/1/pages/1/122/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/122/Choice/1
+Learn Skillsen(s[22])
 > END STRING
 
 > BEGIN STRING
@@ -75,8 +75,11 @@
 夢界中心に降り立って　すぐの十字架は
 ちゃんと　調べたかな？　毎回　必ず
 チェックするクセを　つけようね。
-> CONTEXT: Map012/events/1/pages/2/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/37/Dialogue
+\\NAME[\\n[12]]
+Have you checked the cross right where you 
+landed in Central Realms of Reverie?
+Make sure to check it every time.
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +93,11 @@
 赤い邪気の魔物は　桁違いの強さを誇る
 本当に本当に　危険な魔物なんだよ。
 階層奥の貘ちゃんよりも　強いんだから！
-> CONTEXT: Map012/events/1/pages/2/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/55/Dialogue
+\\NAME[\\n[12]]
+Red Jaqi boast unparalleled strength.
+Truly, truly dangerous monsters.
+Even stronger than Tapirs in deeper levels!
 > END STRING
 
 > BEGIN STRING
@@ -105,8 +111,11 @@
 戦闘が始まると　禿げ上がっちゃいそうな
 音楽が　聞こえてきそうなくらい
 とにかく　戦っちゃダメな相手！
-> CONTEXT: Map012/events/1/pages/2/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/62/Dialogue
+\\NAME[\\n[12]]
+When the battle begins and you hear 
+the music, it will make you go bald.
+In other words, don't fight them!
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +129,11 @@
 だから　絶対に無理なんかしないで
 『今ならまだ逃げれる』っていううちに
 サクッと☆　逃げちゃおうね♪
-> CONTEXT: Map012/events/1/pages/2/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/69/Dialogue
+\\NAME[\\n[12]]
+So, don't push yourself too hard.
+"Run while you can" is a good
+principle to live by♪
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +141,11 @@
 そういえば　貘ちゃんの話って
 もう　していたかしら？
 階層の奥の井戸に　潜んでいるんだよ。
-> CONTEXT: Map012/events/1/pages/2/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/87/Dialogue
+\\NAME[\\n[12]]
+By the way, have I already told you 
+about Tapirs? They hide in wells 
+at the end of each layer.
 > END STRING
 
 > BEGIN STRING
@@ -138,8 +153,11 @@
 つまり　５Ｆ　10Ｆ　15Ｆ……
 通せんぼしてるから　倒すか
 賄賂を渡すかしないと　先に進めないの。
-> CONTEXT: Map012/events/1/pages/2/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/93/Dialogue
+\\NAME[\\n[12]]
+In other words, 5F, 10F, 15F...
+They block the way, so you have to 
+defeat them or give them a bribe.
 > END STRING
 
 > BEGIN STRING
@@ -147,8 +165,11 @@
 もし　戦う場合は　\\C[6]残念ながら
 私たちは　手伝えないから
 一人で戦い抜く　準備と覚悟で\\C[0]お願いね♪
-> CONTEXT: Map012/events/1/pages/2/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/99/Dialogue
+\\NAME[\\n[12]]
+If you decide to fight, \\C[6]unfortunately,
+we can't help you, so prepare to 
+fight alone,\\C[0] okay?♪
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +425,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 今は　とにかく　３つの迷宮を
 踏破してほしいの。
 そうしないと　困っちゃうでしょ？
-> CONTEXT: Map012/events/1/pages/3/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/71/Dialogue
+\\NAME[\\n[12]]
+For now, you should just 
+conquer the three mazes. 
+Otherwise, we'll be stumped
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +437,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 \\n[11]が言うように　あかき迷宮を
 まずクリアすることが　できたなら
 順調に　進めるはずだからね♪
-> CONTEXT: Map012/events/1/pages/3/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/77/Dialogue
+\\NAME[\\n[12]]
+As \\n[11] said, if you can 
+clear the Red Maze first,
+it should make things easier♪
 > END STRING
 
 > BEGIN STRING
@@ -822,4 +849,63 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 残り　\\V[41]個　必要って感じかしら……。
 > CONTEXT: Map012/events/1/pages/4/548/Dialogue < UNTRANSLATED
 
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+ベラからの　収集依頼を
+伺います。
+> CONTEXT: Map012/events/1/pages/1/27/Comment
+Option Help
+Take on Bella's
+collection request.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+ベラから　迷宮での心得や
+攻略のヒントを　聞き出します。
+> CONTEXT: Map012/events/1/pages/1/42/Comment
+Option Help
+Get tips and hints for 
+navigating the maze from Bella.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+ベラと　ざっくばらんな話題で
+雑談します。
+> CONTEXT: Map012/events/1/pages/1/57/Comment
+Option Help
+Have a casual chat with 
+Bella on a frank topic.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+ベラを　仲魔として
+パーティ加入させる　手続きをします。
+> CONTEXT: Map012/events/1/pages/1/72/Comment
+Option Help
+Ask Bella to join your party 
+as a demon ally.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+あおき夢魔の迷宮へと　向かいます。
+> CONTEXT: Map012/events/1/pages/1/124/Comment
+Option Help
+Head to the 
+Blue Maze of Succubus.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+獲得した　スキルポイントで
+武器スキルを　習得します。
+> CONTEXT: Map012/events/1/pages/1/171/Comment
+Option Help
+Use the skill points you've earned 
+to learn weapon skills.
 > END STRING

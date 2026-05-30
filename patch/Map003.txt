@@ -52,3 +52,9 @@ SYSTEM
 > CONTEXT: Map003/events/1/pages/1/34/Dialogue
 What's going on in the world?
 > END STRING
+
+> BEGIN STRING
+選択肢位置(138, 160)
+> CONTEXT: Map003/events/1/pages/1/1/Comment < UNTRANSLATED
+
+> END STRING

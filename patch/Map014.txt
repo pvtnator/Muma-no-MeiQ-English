@@ -501,3 +501,61 @@ RTA MODE
 > CONTEXT: Map014/events/9/pages/0/7/Choice/1 < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+欠番
+
+
+
+扉を間違えてた
+他に使って
+> CONTEXT: Map014/events/4/pages/0/0/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/5/pages/0/0/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/0/0/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢界の攻略で
+
+
+
+条件分岐で
+使ってる（シン用の注釈用）
+> CONTEXT: Map014/events/8/pages/1/0/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(210, 160)
+> CONTEXT: Map014/events/9/pages/0/6/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+全ての消費アイテム・装備品類・所持金の
+持ち込み不可／仲魔を同行しての突入不可
+消費アイテム未識別／鬼畜魔物多数
+> CONTEXT: Map014/events/9/pages/0/9/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+上記＋　①マスタリスキルを封印します。
+②どの貘とも　初対面状態にさせます。
+③仲魔との雑談を　発生させません。
+> CONTEXT: Map014/events/9/pages/0/15/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剥
+奪
+処
+理
+> CONTEXT: Map014/events/9/pages/0/56/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/9/pages/0/95/Comment < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,49 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+2回目以降の演出スキップ時は処理なし
+> CONTEXT: Map025/events/2/pages/0/8/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初回表示はロゴ演出処理
+> CONTEXT: Map025/events/2/pages/0/11/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プレイヤーが演出をスキップした場合の処理
+> CONTEXT: Map025/events/2/pages/2/0/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴ演出完了時にコマンドウインドウを開く
+> CONTEXT: Map025/events/2/pages/2/14/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遷移元画面からのフェードインを開始
+> CONTEXT: Map025/events/3/pages/0/1/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2回目以降のスキップフラグが立っている場合は、
+フェードインを待たず即座にロゴ表示を行う
+> CONTEXT: Map025/events/3/pages/0/4/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初回表示は画面がフェードインを待ってからロゴ演出を行う
+> CONTEXT: Map025/events/3/pages/0/8/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決定キーが押されたら演出をスキップする
+> CONTEXT: Map025/events/4/pages/0/1/Comment < UNTRANSLATED
+
+> END STRING

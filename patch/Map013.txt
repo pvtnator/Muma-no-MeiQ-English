@@ -29,10 +29,10 @@
 
 > BEGIN STRING
 依頼if(s[400])
-> CONTEXT: Map013/events/1/pages/1/25/Choice/0 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/1/25/Choice/0 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/1/25/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/25/Choice/0
+> CONTEXT: Map012/events/1/pages/1/25/Choice/0
+> CONTEXT: Map011/events/1/pages/1/25/Choice/0
+Requestif(s[400])
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +53,8 @@ Talk
 
 > BEGIN STRING
 同行交渉en(s[33])
-> CONTEXT: Map013/events/1/pages/1/25/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/25/Choice/3
+Invite to Partyen(s[33])
 > END STRING
 
 > BEGIN STRING
@@ -91,16 +91,16 @@ Talk
 
 > BEGIN STRING
 夢魔の迷宮へ
-> CONTEXT: Map013/events/1/pages/1/122/Choice/0 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/1/122/Choice/0 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/1/121/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/122/Choice/0
+> CONTEXT: Map012/events/1/pages/1/122/Choice/0
+> CONTEXT: Map011/events/1/pages/1/121/Choice/0
+Enter Maze of Succubus
 > END STRING
 
 > BEGIN STRING
 トロフィーen(s[23])
-> CONTEXT: Map013/events/1/pages/1/122/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/122/Choice/1
+Trophyen(s[23])
 > END STRING
 
 > BEGIN STRING
@@ -116,8 +116,11 @@ Talk
 弱そうな敵やったら　Assault　で手早く
 凡撃で一掃してやるのも　ええかもな。
 EPの節約・回復にも繋がるしな〜♪
-> CONTEXT: Map013/events/1/pages/2/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/37/Dialogue
+\\NAME[\\n[13]]
+Assault is a simple attack that can be
+used to beat easy enemies.
+It helps save and recover EP〜♪
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +134,11 @@ EPの節約・回復にも繋がるしな〜♪
 こーゆー　いかにも特定の属性が
 効きにくそうな魔物は　逆に
 弱点の属性が　あるもんやで〜。
-> CONTEXT: Map013/events/1/pages/2/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/55/Dialogue
+\\NAME[\\n[13]]
+Monsters like this which seem like 
+they'd be resistant to something, 
+actually have a weakness.
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +146,11 @@ EPの節約・回復にも繋がるしな〜♪
 一度でも　とっちめたりした魔物なら
 \\C[6]攻撃対象選択時に　Ｙボタンを押すことで
 弱点とか耐性とか　わかる\\C[0]んやで〜。
-> CONTEXT: Map013/events/1/pages/2/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/62/Dialogue
+\\NAME[\\n[13]]
+If you've beaten up a monster, \\C[6]you can 
+find out its weaknesses and resistances by 
+pressing the Y button when selecting the target.\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -149,8 +158,11 @@ EPの節約・回復にも繋がるしな〜♪
 せやから　相手の弱点を　確認して
 弱点属性のスキルで　大ダメージ狙い！
 これを　クセ付けとくんやで〜♪
-> CONTEXT: Map013/events/1/pages/2/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/70/Dialogue
+\\NAME[\\n[13]]
+So, check your opponent's weaknesses
+and aim for massive damage with skills 
+they're weak to! Make it a habit〜♪
 > END STRING
 
 > BEGIN STRING
@@ -158,8 +170,11 @@ EPの節約・回復にも繋がるしな〜♪
 青枠アイコンの　病気系バステ――
 \\I[8]麻痺　\\I[7]惑乱　\\I[6]寝落　\\I[5]石化　と
 \\I[2]被毒は　\\ITEM[203]で　治せるで？
-> CONTEXT: Map013/events/1/pages/2/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/88/Dialogue
+\\NAME[\\n[13]]
+Ailments with blue borders -- \\I[8] Paralysis, 
+\\I[7] Confusion, \\I[6] Sleep, \\I[5] Petrification and 
+\\I[2] Poison can be cured with \\ITEM[203], right?
 > END STRING
 
 > BEGIN STRING
@@ -167,8 +182,11 @@ EPの節約・回復にも繋がるしな〜♪
 黄色枠アイコンの　怪我系バステ――
 \\I[12]目潰　\\I[13]口封　\\I[14]腕固　\\I[15]足止　と
 \\I[3]流血　\\I[4]火傷　には　\\ITEM[204]や！
-> CONTEXT: Map013/events/1/pages/2/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/2/94/Dialogue
+\\NAME[\\n[13]]
+Injuries with yellow borders --
+\\I[12] Blind, \\I[13] Mouth-/ \\I[14] Arm-/ \\I[15] Leg Bind,
+\\I[3] Bleed and \\I[4] Burn require a \\ITEM[204]!
 > END STRING
 
 > BEGIN STRING
@@ -346,8 +364,11 @@ EPの節約・回復にも繋がるしな〜♪
 あんちゃんの　やるべきことは〜
 まず　３つの迷宮を　クリアしてもろて
 ウチら３人を　夢界中心に呼ぶ……
-> CONTEXT: Map013/events/1/pages/3/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/21/Dialogue
+\\NAME[\\n[13]]
+What you need to do is〜
+First, clear the three mazes, then
+call us to Central Realms of Reverie...
 > END STRING
 
 > BEGIN STRING
@@ -355,8 +376,11 @@ EPの節約・回復にも繋がるしな〜♪
 ほんでもって　夢界中心のお店で
 売っとる　『ロゴスの鍵』っちゅう
 ごっつ高いアイテムを　買うことやで！
-> CONTEXT: Map013/events/1/pages/3/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/27/Dialogue
+\\NAME[\\n[13]]
+And then, you have to buy a really expensive 
+item called "Key to Logos" sold at the 
+shop in Central Realms of Reverie!
 > END STRING
 
 > BEGIN STRING
@@ -797,5 +821,89 @@ EPの節約・回復にも繋がるしな〜♪
 今な　\\V[178]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
 > CONTEXT: Map013/events/1/pages/4/620/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(0, 96)
+> CONTEXT: Map013/events/1/pages/1/24/Comment < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/1/24/Comment < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/24/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+キュミュからの　収集依頼を
+伺います。
+> CONTEXT: Map013/events/1/pages/1/27/Comment
+Option Help
+Take on Cumu's
+collection request.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+キュミュから　迷宮での心得や
+攻略のヒントを　聞き出します。
+> CONTEXT: Map013/events/1/pages/1/42/Comment
+Option Help
+Get tips and hints for 
+navigating the maze from Cumu.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+キュミュと　ざっくばらんな話題で
+雑談します。
+> CONTEXT: Map013/events/1/pages/1/57/Comment
+Option Help
+Have a casual chat with Cumu 
+about a frank topic.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+キュミュを　仲魔として
+パーティ加入させる　手続きをします。
+> CONTEXT: Map013/events/1/pages/1/72/Comment
+Option Help
+Ask Cumu to join your party 
+as a demon ally.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+むらさき夢魔の迷宮へと　向かいます。
+> CONTEXT: Map013/events/1/pages/1/124/Comment
+Option Help
+Head to the 
+Purple Maze of Succubus.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+お題を満たしていると　賞品が貰えます。
+> CONTEXT: Map013/events/1/pages/1/171/Comment
+Option Help
+Receive prizes if you 
+fulfill the requirements.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+夢界中心へ　戻ります。
+> CONTEXT: Map013/events/1/pages/1/187/Comment
+> CONTEXT: Map012/events/1/pages/1/203/Comment
+> CONTEXT: Map011/events/1/pages/1/196/Comment
+Option Help
+Return to the Central Realms of Reverie.
+> END STRING
+
+> BEGIN STRING
+選択肢位置(0, 0, 8)
+> CONTEXT: Map013/events/1/pages/4/43/Comment < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/4/43/Comment < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/4/43/Comment < UNTRANSLATED
 
 > END STRING

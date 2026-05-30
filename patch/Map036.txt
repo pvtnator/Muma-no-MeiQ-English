@@ -194,3 +194,15 @@ Fall asleep......
 > CONTEXT: Map021/events/1/pages/10/45/Dialogue < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+仮
+
+
+
+処理
+ですよーーー
+> CONTEXT: Map036/events/1/pages/1/24/Comment < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/1/42/Comment < UNTRANSLATED
+
+> END STRING

@@ -870,3 +870,83 @@ Found various others!
 > CONTEXT: Map096/events/24/pages/2/16/Dialogue < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+選択肢位置(256, 96)
+> CONTEXT: Map096/events/1/pages/17/1/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/1/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/1/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/13/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/13/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/13/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/30/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/30/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/30/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/102/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/102/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/102/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/114/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/114/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/114/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/168/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/168/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/168/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/240/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/240/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/240/Comment < UNTRANSLATED
+> CONTEXT: Map096/events/1/pages/17/252/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/252/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/252/Comment < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/0/2/Comment < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/0/23/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/3/Comment < UNTRANSLATED
+> CONTEXT: Map029/events/22/pages/1/6/Comment < UNTRANSLATED
+> CONTEXT: Map029/events/22/pages/1/22/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/1/pages/0/76/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/1/59/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/3/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/1/71/Comment < UNTRANSLATED
+> CONTEXT: Map013/events/1/pages/1/136/Comment < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/1/136/Comment < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/135/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/2/pages/0/76/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/2/1/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/0/1/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/2/13/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/0/13/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/3/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/1/1/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/76/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/1/13/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/1/47/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/10/1/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/1/77/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/10/17/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/4/16/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/4/34/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/2/1/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/5/1/Comment < UNTRANSLATED
+> CONTEXT: Map023/events/22/pages/2/13/Comment < UNTRANSLATED
+> CONTEXT: Map009/events/7/pages/5/13/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/53/54/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/53/67/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/60/2/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/60/38/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/68/2/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/68/27/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/5/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/309/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/609/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/649/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/953/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/1253/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※ここから英語版
+> CONTEXT: Map096/events/1/pages/17/163/Comment < UNTRANSLATED
+> CONTEXT: Map095/events/1/pages/17/163/Comment < UNTRANSLATED
+> CONTEXT: Map094/events/1/pages/17/163/Comment < UNTRANSLATED
+
+> END STRING

@@ -13,8 +13,8 @@
 
 > BEGIN STRING
 同行交渉en(s[31])
-> CONTEXT: Map011/events/1/pages/1/25/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/1/25/Choice/3
+Invite to Partyen(s[31])
 > END STRING
 
 > BEGIN STRING
@@ -59,8 +59,10 @@ Storageen(s[21])
 \\NAME[\\n[11]]
 あたしの勝手知ったる　迷宮へ行くよ。
 準備は　いい？
-> CONTEXT: Map011/events/1/pages/1/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/1/136/Dialogue
+\\NAME[\\n[11]]
+This is the maze that's well known to me.
+Ready to go in?
 > END STRING
 
 > BEGIN STRING
@@ -75,8 +77,11 @@ Storageen(s[21])
 ３つの夢魔の迷宮は　５階ごとに
 階層分けされてるの。だから
 20Ｆまでで　４階層ってことね。
-> CONTEXT: Map011/events/1/pages/2/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/37/Dialogue
+\\NAME[\\n[11]]
+The mazes are divided into layers 
+of 5 floors each. So, there are 
+4 layers up to the 20th floor.
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +95,11 @@ Storageen(s[21])
 浅い階層で　気を付けるべき魔物と言えば
 コイツかな。とにかく　呪文を唱える前に
 速攻で倒すべし！　覚えとくようにっ。
-> CONTEXT: Map011/events/1/pages/2/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/60/Dialogue
+\\NAME[\\n[11]]
+If there's one monster you should worry about 
+in earlier levels, it's probably this one. 
+Defeat it before it can cast any spells!
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +107,11 @@ Storageen(s[21])
 いきなり一気に　突き進まないこと！
 新しい階層に　入った辺りで
 一旦帰還するくらい　慎重にね！
-> CONTEXT: Map011/events/1/pages/2/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/78/Dialogue
+\\NAME[\\n[11]]
+Don't rush in all at once!
+Be careful, even if it means 
+returning once you enter a new level!
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +119,11 @@ Storageen(s[21])
 たとえ　Lvはリセットされても
 装備は　持ち込めるんだから
 その分　有利に進めるでしょ？
-> CONTEXT: Map011/events/1/pages/2/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/84/Dialogue
+\\NAME[\\n[11]]
+Even if your level is reset,
+you can bring your equipment with you,
+so you'll have an advantage, get it?
 > END STRING
 
 > BEGIN STRING
@@ -285,8 +299,10 @@ Storageen(s[21])
 とりあえず　あんたが迷宮を
 踏破してくれないことには
 どうにもできないからさ。
-> CONTEXT: Map011/events/1/pages/3/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/78/Dialogue
+\\NAME[\\n[11]]
+For now, there's nothing to do 
+but conquer the maze.
 > END STRING
 
 > BEGIN STRING
@@ -294,8 +310,11 @@ Storageen(s[21])
 焦らずに　しっかりやってよ。
 あたしの迷宮なら　そんなに
 大変じゃないはずだし……。
-> CONTEXT: Map011/events/1/pages/3/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/84/Dialogue
+\\NAME[\\n[11]]
+Don't rush, just do it properly.
+My labyrinth shouldn't be
+all that difficult...
 > END STRING
 
 > BEGIN STRING
@@ -670,4 +689,63 @@ Storageen(s[21])
 あと　\\V[41]個　必要なんだよね。
 > CONTEXT: Map011/events/1/pages/4/476/Dialogue < UNTRANSLATED
 
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+アッシェからの　収集依頼を
+伺います。
+> CONTEXT: Map011/events/1/pages/1/27/Comment
+Option Help
+Take on Asche's
+collection request.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+アッシェから　迷宮での心得や
+攻略のヒントを　聞き出します。
+> CONTEXT: Map011/events/1/pages/1/42/Comment
+Option Help
+Get tips and hints for 
+navigating the maze from Asche.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+アッシェと　ざっくばらんな話題で
+雑談します。
+> CONTEXT: Map011/events/1/pages/1/57/Comment
+Option Help
+Have a casual chat with 
+Asche on a frank topic.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+アッシェを　仲魔として
+パーティ加入させる　手続きをします。
+> CONTEXT: Map011/events/1/pages/1/72/Comment
+Option Help
+Ask Asche to join your party 
+as a demon ally.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+あかき夢魔の迷宮へと　向かいます。
+> CONTEXT: Map011/events/1/pages/1/123/Comment
+Option Help
+Head to the 
+Red Maze of Succubus.
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+預かり領域に　保管してある品々を
+出し挿れします。
+> CONTEXT: Map011/events/1/pages/1/174/Comment
+Option Help
+Add or remove items 
+stored in the storage area.
 > END STRING

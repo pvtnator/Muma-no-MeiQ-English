@@ -4851,8 +4851,8 @@
 
 > BEGIN STRING
 "選択肢ヘルプ"
-> CONTEXT: Scripts/選択肢拡張/19:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/選択肢拡張/19:10
+"Option Help"
 > END STRING
 
 > BEGIN STRING
@@ -10907,7 +10907,7 @@
 "独角獣丹"
 > CONTEXT: Scripts/ショップ在庫制/68:3
 > CONTEXT: Commonevents/303/6/InlineScript/1:25
-"Dokakujutan"
+"Unicorn Pill"
 > END STRING
 
 > BEGIN STRING
@@ -11773,7 +11773,7 @@
 > BEGIN STRING
 "ロゴスの鍵"
 > CONTEXT: Scripts/ショップ在庫制/206:5
-"Key of Logos"
+"Key to Logos"
 > END STRING
 
 > BEGIN STRING

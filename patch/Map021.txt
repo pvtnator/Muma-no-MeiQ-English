@@ -216,3 +216,28 @@ Let's go to bed tonight.
 > CONTEXT: Map021/events/1/pages/10/42/Dialogue < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+体験版or製品版のスイッチ
+体験版40は400で排除する
+製品版スイッチ入ってると
+体験版は作動しない
+> CONTEXT: Map021/events/1/pages/0/29/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(242, 128)
+選択肢位置揃え(0)
+カーソル記憶(574)
+> CONTEXT: Map021/events/1/pages/8/92/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(256, 64)
+選択肢位置揃え(0)
+カーソル記憶(574)
+> CONTEXT: Map021/events/1/pages/9/27/Comment < UNTRANSLATED
+
+> END STRING

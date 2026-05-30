@@ -1,14 +1,14 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 おはじめネズミ
-> CONTEXT: Enemies/1/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/1/name/
+First Mouse
 > END STRING
 
 > BEGIN STRING
 緑葉鴉
-> CONTEXT: Enemies/2/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/2/name/
+Green Crow
 > END STRING
 
 > BEGIN STRING
@@ -55,8 +55,8 @@ Hanatarashi
 
 > BEGIN STRING
 肉人形
-> CONTEXT: Enemies/10/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/10/name/
+Flesh Doll
 > END STRING
 
 > BEGIN STRING

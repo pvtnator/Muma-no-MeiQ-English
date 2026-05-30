@@ -1456,15 +1456,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の命中力が　上昇！
-> CONTEXT: States/251/message1/ < UNTRANSLATED
-> CONTEXT: States/251/message2/ < UNTRANSLATED
-
+> CONTEXT: States/251/message1/
+> CONTEXT: States/251/message2/
+ gained accuracy!
 > END STRING
 
 > BEGIN STRING
 の命中力上昇が　終了！
-> CONTEXT: States/251/message4/ < UNTRANSLATED
-
+> CONTEXT: States/251/message4/
+ lost accuracy increase!
 > END STRING
 
 > BEGIN STRING
@@ -1475,15 +1475,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の命中力が　下落！
-> CONTEXT: States/252/message1/ < UNTRANSLATED
-> CONTEXT: States/252/message2/ < UNTRANSLATED
-
+> CONTEXT: States/252/message1/
+> CONTEXT: States/252/message2/
+ lost accuracy!
 > END STRING
 
 > BEGIN STRING
 の命中力下落が　終了！
-> CONTEXT: States/252/message4/ < UNTRANSLATED
-
+> CONTEXT: States/252/message4/
+ lost accuracy decrease!
 > END STRING
 
 > BEGIN STRING

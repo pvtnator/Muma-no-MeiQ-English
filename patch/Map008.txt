@@ -1,24 +1,24 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 記憶の固執をする
-> CONTEXT: Map008/events/1/pages/0/1/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map008/events/1/pages/0/1/Choice/0
+Cling to Memories
 > END STRING
 
 > BEGIN STRING
 記憶の回想をする
-> CONTEXT: Map008/events/1/pages/0/1/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map008/events/1/pages/0/1/Choice/1
+Recall Memories
 > END STRING
 
 > BEGIN STRING
 戻る
-> CONTEXT: Map008/events/1/pages/0/1/Choice/2 < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/1/122/Choice/2 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/1/122/Choice/2 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/1/121/Choice/2 < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/495/Choice/0 < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/639/Choice/0 < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/567/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map008/events/1/pages/0/1/Choice/2
+> CONTEXT: Map013/events/1/pages/1/122/Choice/2
+> CONTEXT: Map012/events/1/pages/1/122/Choice/2
+> CONTEXT: Map011/events/1/pages/1/121/Choice/2
+> CONTEXT: Map011/events/1/pages/4/495/Choice/0
+> CONTEXT: Map013/events/1/pages/4/639/Choice/0
+> CONTEXT: Map012/events/1/pages/4/567/Choice/0
+Return
 > END STRING

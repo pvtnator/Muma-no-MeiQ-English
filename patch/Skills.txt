@@ -79,7 +79,7 @@ Slash
 武器で　敵を斬り裂く　凡撃
 > CONTEXT: Skills/11/description/
 [Single: ATK*\\C[9]D\\C[0]]\\i[133]
-Slash through enemies with a weapon.
+Slash through enemies with a weapon
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +141,7 @@ Thrust
 鋭い先端で　敵を突き刺す　凡撃
 > CONTEXT: Skills/16/description/
 [Single: ATK*\\C[9]D\\C[0]]\\i[133]
-Stab the enemy with sharp tip.
+Stab the enemy with sharp tip
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +161,7 @@ Archery
 弓を引き絞って　矢を放つ　遠隔凡撃
 > CONTEXT: Skills/17/description/
 [Single: ATK*\\C[9]C\\C[0]]\\i[133]
-Draw and release arrow, ranged attack.
+Draw and release arrow, ranged attack
 > END STRING
 
 > BEGIN STRING
@@ -181,7 +181,7 @@ Shoot
 引き金を引き　敵を撃つ　遠隔凡撃
 > CONTEXT: Skills/18/description/
 [Single: Weapon ATK*\\C[9]C\\C[0]]\\i[133]
-Pull the trigger and shoot, ranged attack.
+Pull the trigger and shoot, ranged attack
 > END STRING
 
 > BEGIN STRING
@@ -5030,21 +5030,22 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 恐山猫の呪印
-> CONTEXT: Skills/395/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/395/name/
+Wildcat Curse
 > END STRING
 
 > BEGIN STRING
 〘全:CON+命中力↓〙\\i[29]
 集中力を下げる　呪いの言霊を唱え　放つ
-> CONTEXT: Skills/395/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/395/description/
+[All: CON/Accuracy↓]\\i[29]
+Chant a curse and unleashe it
 > END STRING
 
 > BEGIN STRING
 は　恐山猫の呪印を唱えた！
-> CONTEXT: Skills/395/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/395/message1/
+ used Wild Cat Curse!
 > END STRING
 
 > BEGIN STRING
@@ -8281,7 +8282,7 @@ Completely motionless...
 > BEGIN STRING
 爪ひっかき(腕)
 > CONTEXT: Skills/601/name/ < UNTRANSLATED
-
+Nail Scratch(Arm)
 > END STRING
 
 > BEGIN STRING
@@ -8294,20 +8295,21 @@ Completely motionless...
 > CONTEXT: Skills/614/description/ < UNTRANSLATED
 > CONTEXT: Skills/615/description/ < UNTRANSLATED
 > CONTEXT: Skills/616/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]C\\C[0]] \\i[30]
+Normal Attack
 > END STRING
 
 > BEGIN STRING
 の　爪ひっかき！
 > CONTEXT: Skills/601/message1/ < UNTRANSLATED
 > CONTEXT: Skills/602/message1/ < UNTRANSLATED
-
+ used Nail Scratch!
 > END STRING
 
 > BEGIN STRING
 爪ひっかき(足)
 > CONTEXT: Skills/602/name/ < UNTRANSLATED
-
+Nail Scratch(Leg)
 > END STRING
 
 > BEGIN STRING
@@ -8322,7 +8324,8 @@ Completely motionless...
 > CONTEXT: Skills/620/description/ < UNTRANSLATED
 > CONTEXT: Skills/621/description/ < UNTRANSLATED
 > CONTEXT: Skills/622/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]C\\C[0]]\\i[31]
+Normal Attack
 > END STRING
 
 > BEGIN STRING
@@ -8636,20 +8639,20 @@ Strange Cry
 
 > BEGIN STRING
 意味もなく鳴く
-> CONTEXT: Skills/635/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/635/name/
+Meaningless Cry
 > END STRING
 
 > BEGIN STRING
 は　意味もなく
-> CONTEXT: Skills/635/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/635/message1/
+ cried out
 > END STRING
 
 > BEGIN STRING
 鳴き声を　漏らしている！
-> CONTEXT: Skills/635/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/635/message2/
+for no reason!
 > END STRING
 
 > BEGIN STRING
@@ -10818,7 +10821,7 @@ LP損耗率依存
 は　クレプスコを詠唱！
 > CONTEXT: Skills/790/message1/ < UNTRANSLATED
 > CONTEXT: Skills/877/message1/ < UNTRANSLATED
-
+ cast Crepusculo!
 > END STRING
 
 > BEGIN STRING
@@ -10839,7 +10842,7 @@ LP損耗率依存
 は　ルゥヂャを詠唱！
 > CONTEXT: Skills/791/message1/ < UNTRANSLATED
 > CONTEXT: Skills/811/message1/ < UNTRANSLATED
-
+ cast Rouge!
 > END STRING
 
 > BEGIN STRING
@@ -10860,7 +10863,7 @@ LP損耗率依存
 は　トゥルキーザを詠唱！
 > CONTEXT: Skills/792/message1/ < UNTRANSLATED
 > CONTEXT: Skills/827/message1/ < UNTRANSLATED
-
+ cast Turquesa!
 > END STRING
 
 > BEGIN STRING
@@ -10884,7 +10887,7 @@ LP損耗率依存
 > CONTEXT: Skills/793/message1/ < UNTRANSLATED
 > CONTEXT: Skills/795/message1/ < UNTRANSLATED
 > CONTEXT: Skills/851/message1/ < UNTRANSLATED
-
+ cast Verda!
 > END STRING
 
 > BEGIN STRING
@@ -10897,7 +10900,7 @@ LP損耗率依存
 は　ブルゥナを詠唱！
 > CONTEXT: Skills/794/message1/ < UNTRANSLATED
 > CONTEXT: Skills/841/message1/ < UNTRANSLATED
-
+ cast Bruna!
 > END STRING
 
 > BEGIN STRING
@@ -10916,7 +10919,7 @@ LP損耗率依存
 は　プルプーラを詠唱！
 > CONTEXT: Skills/796/message1/ < UNTRANSLATED
 > CONTEXT: Skills/861/message1/ < UNTRANSLATED
-
+ cast Purpura!
 > END STRING
 
 > BEGIN STRING
@@ -10936,7 +10939,7 @@ LP損耗率依存
 は　エブーラⅡを詠唱！
 > CONTEXT: Skills/797/message1/ < UNTRANSLATED
 > CONTEXT: Skills/885/message1/ < UNTRANSLATED
-
+ cast Ebur2!
 > END STRING
 
 > BEGIN STRING
@@ -10956,7 +10959,7 @@ LP損耗率依存
 は　エボーナⅡを詠唱！
 > CONTEXT: Skills/798/message1/ < UNTRANSLATED
 > CONTEXT: Skills/875/message1/ < UNTRANSLATED
-
+ cast Ebon2!
 > END STRING
 
 > BEGIN STRING
@@ -10976,7 +10979,7 @@ LP損耗率依存
 は　ロズコローラⅡを詠唱！
 > CONTEXT: Skills/799/message1/ < UNTRANSLATED
 > CONTEXT: Skills/865/message1/ < UNTRANSLATED
-
+ cast RosaColora!
 > END STRING
 
 > BEGIN STRING
@@ -10996,7 +10999,7 @@ LP損耗率依存
 は　カルクⅡを詠唱！
 > CONTEXT: Skills/800/message1/ < UNTRANSLATED
 > CONTEXT: Skills/855/message1/ < UNTRANSLATED
-
+ cast Kalk!
 > END STRING
 
 > BEGIN STRING

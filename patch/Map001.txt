@@ -675,3 +675,9 @@ Cのみ
 > CONTEXT: Map001/events/31/pages/0/18/Choice/0 < UNTRANSLATED
 
 > END STRING
+
+> BEGIN STRING
+マーカー:1
+> CONTEXT: Map001/events/10/pages/1/0/Comment < UNTRANSLATED
+
+> END STRING

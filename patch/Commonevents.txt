@@ -8263,15 +8263,16 @@ Sweet liquid falling from heaven"
 
 > BEGIN STRING
 \\ITEM[203]は　独角獣丹だった！
-> CONTEXT: Commonevents/303/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/303/4/Dialogue
+\\ITEM[203] was Unicorn Pill!
 > END STRING
 
 > BEGIN STRING
 "〘単:病気系バステ+被毒完治〙
 ユニコーンの角で作る　病気を治す丸薬"
-> CONTEXT: Commonevents/303/7/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/303/7/InlineScript/2:1
+[Single: Disease/Poison Cure]
+A pill made from unicorn horn to cure diseases
 > END STRING
 
 > BEGIN STRING
@@ -10524,5 +10525,225 @@ It's pointless writing a name now.
 申し訳ありませんが　体験版データを
 製品版版で　読み込むことはできません。\\|\\|\\~
 > CONTEXT: Commonevents/400/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不一致！
+> CONTEXT: Commonevents/11/62/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ
+こ
+に
+……
+> CONTEXT: Commonevents/12/13/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+データベースの
+
+変更処理コモンイベントを
+
+入れます
+予定
+> CONTEXT: Commonevents/12/17/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+計算
+> CONTEXT: Commonevents/25/16/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/25/68/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/25/120/Comment < UNTRANSLATED
+> CONTEXT: Map014/events/9/pages/0/72/Label < UNTRANSLATED
+> CONTEXT: Map014/events/9/pages/0/85/Label < UNTRANSLATED
+> CONTEXT: Commonevents/26/355/Label < UNTRANSLATED
+> CONTEXT: Commonevents/26/374/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(234, 96)
+選択肢位置揃え(0)
+> CONTEXT: Commonevents/53/83/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/53/93/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(186, 160)
+選択肢位置揃え(0)
+カーソル記憶(574)
+> CONTEXT: Commonevents/86/8/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げ・負けのときは分岐させるよ
+
+↓
+> CONTEXT: Commonevents/89/126/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/89/770/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっと不思議は　こ↑こ↓
+
+
+
+
+こ↑こ↓
+> CONTEXT: Commonevents/91/63/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ↑
+
+
+
+こ↓
+> CONTEXT: Commonevents/91/191/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑
+
+もっとH　は　更に変わる
+
+今は暫定で
+コレ！
+> CONTEXT: Commonevents/94/27/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/94/43/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/94/59/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な
+に
+も
+お
+く
+な
+> CONTEXT: Commonevents/100/0/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同行中スイッチで再加入させるよ
+> CONTEXT: Commonevents/104/47/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(256, 96)
+選択肢位置揃え(0)
+> CONTEXT: Commonevents/108/2/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/108/11/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/108/57/Comment < UNTRANSLATED
+> CONTEXT: Commonevents/108/113/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢位置(0, 0)
+カーソル記憶(574)
+> CONTEXT: Commonevents/123/6/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何がなんでも出る
+21世紀記事
+
+
+
+↓
+> CONTEXT: Commonevents/195/62/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優先的なクリア２とクリア３の記事
+
+
+
+
+↓
+> CONTEXT: Commonevents/195/74/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2も３も既読、通常抽選へ
+> CONTEXT: Commonevents/195/97/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+２は既読、通常抽選へ
+> CONTEXT: Commonevents/195/115/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+↑
+
+
+
+
+優先的なクリア２とクリア３の記事
+> CONTEXT: Commonevents/195/127/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+212～220
+
+変化しないアイテム群
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+↓↓↓↓↓↓↓↓↓↓↓↓
+202206
+> CONTEXT: Commonevents/299/23/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+212～220
+
+変化しないアイテム群
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑
+202206
+> CONTEXT: Commonevents/299/36/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+注意！！！
+
+
+↓適当
+
+注意！！！
+> CONTEXT: Commonevents/320/15/Comment < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィンドウを
+
+閉じさせるために
+
+
+ダミーで置いてますよん
+> CONTEXT: Commonevents/350/0/Comment < UNTRANSLATED
 
 > END STRING
