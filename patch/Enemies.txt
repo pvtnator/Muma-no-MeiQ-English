@@ -151,8 +151,8 @@ Lanteroid
 
 > BEGIN STRING
 アルクメデス
-> CONTEXT: Enemies/28/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/28/name/
+Archimedes
 > END STRING
 
 > BEGIN STRING

@@ -7832,8 +7832,8 @@
 
 > BEGIN STRING
 "\\B"
-> CONTEXT: Scripts/【真】スキル＆アイテムメッセ拡張/73:54 < UNTRANSLATED
-
+> CONTEXT: Scripts/【真】スキル＆アイテムメッセ拡張/73:54
+"\\\\B"
 > END STRING
 
 > BEGIN STRING

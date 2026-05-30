@@ -65,7 +65,7 @@ Analyze all enemies
 > BEGIN STRING
 \\B溶液の飛沫が　魔物たちを解析する！
 > CONTEXT: Skills/6/message1/
-Splashes of \\B analyze the monsters!
+\\\\BSplashes of the solution analyze the monsters!
 > END STRING
 
 > BEGIN STRING
@@ -1069,21 +1069,22 @@ Dream Eating
 
 > BEGIN STRING
 音速青瞬
-> CONTEXT: Skills/106/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/name/
+Sonic Shimmer
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]〙\\i[31]\\i[201]
 剣を構えたまま　素早く敵へと踏み込む
-> CONTEXT: Skills/106/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/description/
+[Single: ATK*\\C[9]C\\C[0]]\\i[31] \\i[201]
+With sword drawn, quickly step towards the enemy
 > END STRING
 
 > BEGIN STRING
 は　音速青瞬を放った！
-> CONTEXT: Skills/106/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/message1/
+ used Sonic Shimmer
 > END STRING
 
 > BEGIN STRING
@@ -3500,8 +3501,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B斬撃で反撃！
-> CONTEXT: Skills/291/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/291/message1/
+\\\\BCounterattack with a slash!
 > END STRING
 
 > BEGIN STRING
@@ -3512,8 +3513,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B刺突で反撃！
-> CONTEXT: Skills/292/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/292/message1/
+\\\\BCounterattack with a thrust!
 > END STRING
 
 > BEGIN STRING
@@ -3524,8 +3525,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B殴打で反撃！
-> CONTEXT: Skills/293/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/293/message1/
+\\\\BCounterattack with a strike!
 > END STRING
 
 > BEGIN STRING
@@ -3545,8 +3546,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B炎が　舞い踊る！
-> CONTEXT: Skills/294/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/294/message1/
+\\\\BFlames dance around!
 > END STRING
 
 > BEGIN STRING
@@ -3557,8 +3558,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B雹が　舞い降る！
-> CONTEXT: Skills/295/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/295/message1/
+\\\\BHail is falling!
 > END STRING
 
 > BEGIN STRING
@@ -3569,8 +3570,8 @@ FIRST COMES ROCK...
 
 > BEGIN STRING
 \\B雷が　舞い狂う！
-> CONTEXT: Skills/296/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/296/message1/
+\\\\BThunder is raging!
 > END STRING
 
 > BEGIN STRING
@@ -7595,8 +7596,8 @@ Show a predicted fate to demoralize
 
 > BEGIN STRING
 \\B推理合戦が　巻き起こる！
-> CONTEXT: Skills/555/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/555/message1/
+\\\\BA battle of wits is about to begin!
 > END STRING
 
 > BEGIN STRING
@@ -7632,8 +7633,8 @@ Show a predicted fate to demoralize
 
 > BEGIN STRING
 \\B眩い光が　敵陣を照らす！
-> CONTEXT: Skills/557/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/557/message1/
+\\\\BA dazzling light illuminates the enemies!
 > END STRING
 
 > BEGIN STRING
@@ -7933,8 +7934,8 @@ Show a predicted fate to demoralize
 
 > BEGIN STRING
 \\B悪意の衝撃波が　襲い掛かる！
-> CONTEXT: Skills/579/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/579/message1/
+\\\\BA shockwave of malice is coming!
 > END STRING
 
 > BEGIN STRING
@@ -7946,14 +7947,15 @@ Show a predicted fate to demoralize
 > BEGIN STRING
 〘全:PSY↑/敵全体:惑乱付与(高)〙 \\i[30]
 酩酊を促すリフで味方が冴え　敵が狂う
-> CONTEXT: Skills/580/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/580/description/
+[Allies: PSY↑/Enemies: Confusion(L)]\\i[30]
+A riff sharpens allies and drives enemies mad
 > END STRING
 
 > BEGIN STRING
 \\Bグルーヴに　ノリが出てきた！
-> CONTEXT: Skills/580/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/580/message1/
+\\\\BThe groove is starting to hit!
 > END STRING
 
 > BEGIN STRING
@@ -8142,8 +8144,8 @@ EX足技
 
 > BEGIN STRING
 \\B驚愕に値する　高度で複雑なフレーズだ！
-> CONTEXT: Skills/590/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/590/message1/
+\\\\BAn astonishingly advanced and complex phrase!
 > END STRING
 
 > BEGIN STRING
@@ -8928,14 +8930,14 @@ firmly on the ground!
 
 > BEGIN STRING
 テクテク歩く
-> CONTEXT: Skills/652/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/652/name/
+Earnest Walk
 > END STRING
 
 > BEGIN STRING
 は　テクテク歩いてる！
-> CONTEXT: Skills/652/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/652/message1/
+ walked earnestly!
 > END STRING
 
 > BEGIN STRING
@@ -9671,8 +9673,8 @@ Next turn, attack with fierce determination
 
 > BEGIN STRING
 \\B名前と寿命が　解読可能に！
-> CONTEXT: Skills/702/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/702/message1/
+\\\\BNames and lifespans can now be deciphered!
 > END STRING
 
 > BEGIN STRING
@@ -10584,8 +10586,8 @@ LP損耗率依存
 
 > BEGIN STRING
 \\B温かな陽光が　降り注ぐ！
-> CONTEXT: Skills/769/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/769/message1/
+\\\\BWarm sunlight pours down!
 > END STRING
 
 > BEGIN STRING
@@ -10622,14 +10624,14 @@ LP損耗率依存
 
 > BEGIN STRING
 は　臨戦態勢を解き
-> CONTEXT: Skills/772/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/772/message1/
+ disengaged from battle
 > END STRING
 
 > BEGIN STRING
 満足そうに　帰っていく……
-> CONTEXT: Skills/772/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/772/message2/
+and left, looking content...
 > END STRING
 
 > BEGIN STRING

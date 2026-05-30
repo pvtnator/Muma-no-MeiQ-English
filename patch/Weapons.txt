@@ -163,7 +163,7 @@ Wooden Greatsword
 習:平打/\\C[6]小手突き\\C[0]〘両〙
 稽古用の和刀　斬るよりも殴る用
 > CONTEXT: Weapons/40/description/
-Skills: Flat strike/\\C[6]Wrist thrust\\C[0] [2H]
+Skills: Blunt Strike/\\C[6]Wrist Thrust\\C[0] [2H]
 Training sword; more for striking than cutting
 > END STRING
 
