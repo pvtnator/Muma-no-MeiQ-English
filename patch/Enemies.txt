@@ -25,8 +25,8 @@ Goblin
 
 > BEGIN STRING
 霊鹿
-> CONTEXT: Enemies/5/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/5/name/
+Spirit Deer
 > END STRING
 
 > BEGIN STRING
@@ -86,13 +86,13 @@ Cyclops Remains
 > BEGIN STRING
 モノアイスカル
 > CONTEXT: Enemies/15/name/
-Monoice Skull
+One-Eyed Skull
 > END STRING
 
 > BEGIN STRING
 単電ドクロ
-> CONTEXT: Enemies/16/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/16/name/
+One-Wired Skull
 > END STRING
 
 > BEGIN STRING
@@ -139,14 +139,14 @@ Lanteroid
 
 > BEGIN STRING
 氷柱怪
-> CONTEXT: Enemies/25/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/25/name/
+Icicle Monster
 > END STRING
 
 > BEGIN STRING
 雷雲児
-> CONTEXT: Enemies/26/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/26/name/
+Jr. Thundercloud
 > END STRING
 
 > BEGIN STRING
@@ -157,50 +157,50 @@ Archimedes
 
 > BEGIN STRING
 ワニ男
-> CONTEXT: Enemies/29/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/29/name/
+Crocoman
 > END STRING
 
 > BEGIN STRING
 背炎のワニ男
-> CONTEXT: Enemies/30/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/30/name/
+Fiery Crocoman
 > END STRING
 
 > BEGIN STRING
 ヴラドン
-> CONTEXT: Enemies/31/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/31/name/
+Dragon
 > END STRING
 
 > BEGIN STRING
 アイロンアント
-> CONTEXT: Enemies/32/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/32/name/
+Iron Ant
 > END STRING
 
 > BEGIN STRING
 赤いモデル
-> CONTEXT: Enemies/33/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/33/name/
+Red Model
 > END STRING
 
 > BEGIN STRING
 ランタゴースト
-> CONTEXT: Enemies/34/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/34/name/
+Lanteghost
 > END STRING
 
 > BEGIN STRING
 垂氷怪
-> CONTEXT: Enemies/35/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/35/name/
+Icedrop Monster
 > END STRING
 
 > BEGIN STRING
 桃雲児
-> CONTEXT: Enemies/36/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/36/name/
+Peach Thundercloud
 > END STRING
 
 > BEGIN STRING
@@ -229,608 +229,608 @@ Redrasnake
 
 > BEGIN STRING
 海蛞蝓
-> CONTEXT: Enemies/55/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/55/name/
+Sea Slug
 > END STRING
 
 > BEGIN STRING
 電気ガマ
-> CONTEXT: Enemies/56/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/56/name/
+Lightning Bulrush
 > END STRING
 
 > BEGIN STRING
 猫武道
 > CONTEXT: Enemies/57/name/
-Budo Cat
+Jr. Budo Cat
 > END STRING
 
 > BEGIN STRING
 愚連翼竜
-> CONTEXT: Enemies/58/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/58/name/
+Pterodactyl
 > END STRING
 
 > BEGIN STRING
 竜巻鮫
-> CONTEXT: Enemies/59/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/59/name/
+Tornado Shark
 > END STRING
 
 > BEGIN STRING
 歯車の生
-> CONTEXT: Enemies/60/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/60/name/
+Raw Cog
 > END STRING
 
 > BEGIN STRING
 邪炎精
-> CONTEXT: Enemies/61/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/61/name/
+Evil Fire
 > END STRING
 
 > BEGIN STRING
 邪氷精
-> CONTEXT: Enemies/62/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/62/name/
+Evil Ice
 > END STRING
 
 > BEGIN STRING
 邪嵐精
-> CONTEXT: Enemies/63/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/63/name/
+Evil Storm
 > END STRING
 
 > BEGIN STRING
 邪岩精
-> CONTEXT: Enemies/64/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/64/name/
+Evil Stone
 > END STRING
 
 > BEGIN STRING
 邪樹精
-> CONTEXT: Enemies/65/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/65/name/
+Evil Tree
 > END STRING
 
 > BEGIN STRING
 邪雷精
-> CONTEXT: Enemies/66/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/66/name/
+Evil Lightning
 > END STRING
 
 > BEGIN STRING
 着火マンキー
-> CONTEXT: Enemies/67/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/67/name/
+Arson Monkey
 > END STRING
 
 > BEGIN STRING
 堕天魚
-> CONTEXT: Enemies/68/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/68/name/
+Fallen Fish
 > END STRING
 
 > BEGIN STRING
 マッドール
-> CONTEXT: Enemies/69/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/69/name/
+Mad Doll
 > END STRING
 
 > BEGIN STRING
 骸骨兵士
-> CONTEXT: Enemies/70/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/70/name/
+Skeleton Soldier
 > END STRING
 
 > BEGIN STRING
 魔人魚
-> CONTEXT: Enemies/71/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/71/name/
+Devil Mermaid
 > END STRING
 
 > BEGIN STRING
 夜半鬼
-> CONTEXT: Enemies/74/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/74/name/
+Midnight Demon
 > END STRING
 
 > BEGIN STRING
 闇邪道士
-> CONTEXT: Enemies/75/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/75/name/
+Dark Heretic
 > END STRING
 
 > BEGIN STRING
 危険な彼岸花
-> CONTEXT: Enemies/77/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/77/name/
+Spider Lily
 > END STRING
 
 > BEGIN STRING
 馬頭槍士
-> CONTEXT: Enemies/78/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/78/name/
+Horse-Spearman
 > END STRING
 
 > BEGIN STRING
 虎頭斧士
-> CONTEXT: Enemies/79/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/79/name/
+Tiger-Axeman
 > END STRING
 
 > BEGIN STRING
 牛頭鎚士
-> CONTEXT: Enemies/80/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/80/name/
+Ox-Hammerman
 > END STRING
 
 > BEGIN STRING
 タホヴラドン
-> CONTEXT: Enemies/81/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/81/name/
+Tahovradon
 > END STRING
 
 > BEGIN STRING
 ブレードメタル
-> CONTEXT: Enemies/82/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/82/name/
+Blade Metal
 > END STRING
 
 > BEGIN STRING
 ピラニアンジュ
-> CONTEXT: Enemies/83/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/83/name/
+Piranhasoju
 > END STRING
 
 > BEGIN STRING
 ニャンフー
-> CONTEXT: Enemies/84/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/84/name/
+Nyanfu
 > END STRING
 
 > BEGIN STRING
 化猫武道
-> CONTEXT: Enemies/85/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/85/name/
+Budo Cat
 > END STRING
 
 > BEGIN STRING
 夜の魍魎
-> CONTEXT: Enemies/86/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/86/name/
+Night Demon
 > END STRING
 
 > BEGIN STRING
 竜頭蛇
-> CONTEXT: Enemies/94/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/94/name/
+Dragon Snake
 > END STRING
 
 > BEGIN STRING
 アイスラッグ
-> CONTEXT: Enemies/95/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/95/name/
+Ice Slug
 > END STRING
 
 > BEGIN STRING
 カイザートード
-> CONTEXT: Enemies/96/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/96/name/
+Kaiser Toad
 > END STRING
 
 > BEGIN STRING
 邪悪な痺れ花
-> CONTEXT: Enemies/98/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/98/name/
+Paraflower
 > END STRING
 
 > BEGIN STRING
 破滅の地獄花
-> CONTEXT: Enemies/99/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/99/name/
+Hellflower
 > END STRING
 
 > BEGIN STRING
 ファイアオクタ
-> CONTEXT: Enemies/101/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/101/name/
+Fire Octo
 > END STRING
 
 > BEGIN STRING
 アイスオクタ
-> CONTEXT: Enemies/102/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/102/name/
+Ice Octo
 > END STRING
 
 > BEGIN STRING
 ヴォルトオクタ
-> CONTEXT: Enemies/103/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/103/name/
+Bolt Octo
 > END STRING
 
 > BEGIN STRING
 好色男夢魔
-> CONTEXT: Enemies/104/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/104/name/
+Lustful Incubus
 > END STRING
 
 > BEGIN STRING
 好色女夢魔
-> CONTEXT: Enemies/105/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/105/name/
+Lustful Succubus
 > END STRING
 
 > BEGIN STRING
 蜥蜴闘士
-> CONTEXT: Enemies/107/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/107/name/
+Lizard Fighter
 > END STRING
 
 > BEGIN STRING
 温泉人鳥
-> CONTEXT: Enemies/108/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/108/name/
+Onsen Penguin
 > END STRING
 
 > BEGIN STRING
 サイケ茸
-> CONTEXT: Enemies/109/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/109/name/
+Psy Shroom
 > END STRING
 
 > BEGIN STRING
 フローガレオン
-> CONTEXT: Enemies/111/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/111/name/
+Flogameleon
 > END STRING
 
 > BEGIN STRING
 邪念魚
-> CONTEXT: Enemies/112/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/112/name/
+Evil Fish
 > END STRING
 
 > BEGIN STRING
 幻影スパイダー
-> CONTEXT: Enemies/113/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/113/name/
+Phantom Spider
 > END STRING
 
 > BEGIN STRING
 小炎竜
-> CONTEXT: Enemies/114/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/114/name/
+Jr. Flame Dragon
 > END STRING
 
 > BEGIN STRING
 小氷竜
-> CONTEXT: Enemies/115/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/115/name/
+Jr. Ice Dragon
 > END STRING
 
 > BEGIN STRING
 小雷竜
-> CONTEXT: Enemies/116/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/116/name/
+Jr. Lightning Dragon
 > END STRING
 
 > BEGIN STRING
 赤熱魔眼膠
-> CONTEXT: Enemies/117/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/117/name/
+Red-Eye Gel Demon
 > END STRING
 
 > BEGIN STRING
 雪雲魔眼膠
-> CONTEXT: Enemies/118/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/118/name/
+Blue-Eye Gel Demon
 > END STRING
 
 > BEGIN STRING
 紫電魔眼膠
-> CONTEXT: Enemies/119/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/119/name/
+Purple-Eye Gel Demon
 > END STRING
 
 > BEGIN STRING
 デスマーク
-> CONTEXT: Enemies/121/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/121/name/
+Death Mark
 > END STRING
 
 > BEGIN STRING
 クラブイコーズ
-> CONTEXT: Enemies/122/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/122/name/
+Crabicoze
 > END STRING
 
 > BEGIN STRING
 伝染士
-> CONTEXT: Enemies/123/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/123/name/
+Infector
 > END STRING
 
 > BEGIN STRING
 堕天使のたまご
-> CONTEXT: Enemies/125/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/125/name/
+Fallen Angel Egg
 > END STRING
 
 > BEGIN STRING
 禍魔手
-> CONTEXT: Enemies/126/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/126/name/
+Evil Hand
 > END STRING
 
 > BEGIN STRING
 スキゾフェイス
-> CONTEXT: Enemies/127/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/127/name/
+Schizoface
 > END STRING
 
 > BEGIN STRING
 首狩兎
-> CONTEXT: Enemies/129/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/129/name/
+Headhunting Rabbit
 > END STRING
 
 > BEGIN STRING
 メイジヴラドン
-> CONTEXT: Enemies/131/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/131/name/
+Magevradon
 > END STRING
 
 > BEGIN STRING
 狂色男夢魔
-> CONTEXT: Enemies/132/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/132/name/
+Wild Incubus
 > END STRING
 
 > BEGIN STRING
 狂色女夢魔
-> CONTEXT: Enemies/133/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/133/name/
+Wild Succubus
 > END STRING
 
 > BEGIN STRING
 虹避役
-> CONTEXT: Enemies/134/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/134/name/
+Rainbow Chameleon
 > END STRING
 
 > BEGIN STRING
 死後念魚
-> CONTEXT: Enemies/135/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/135/name/
+Death Fish
 > END STRING
 
 > BEGIN STRING
 流星スパイダー
-> CONTEXT: Enemies/136/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/136/name/
+Meteor Spider
 > END STRING
 
 > BEGIN STRING
 ブラブラクラブ
-> CONTEXT: Enemies/137/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/137/name/
+Blabla Crab
 > END STRING
 
 > BEGIN STRING
 殺人兎
-> CONTEXT: Enemies/149/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/149/name/
+Killer Rabbit
 > END STRING
 
 > BEGIN STRING
 ヒダルマン
-> CONTEXT: Enemies/151/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/151/name/
+Flameman
 > END STRING
 
 > BEGIN STRING
 豪雪だるま
-> CONTEXT: Enemies/152/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/152/name/
+Snowman
 > END STRING
 
 > BEGIN STRING
 鬼達磨
-> CONTEXT: Enemies/153/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/153/name/
+Oni Daruma
 > END STRING
 
 > BEGIN STRING
 暴色男夢魔
-> CONTEXT: Enemies/154/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/154/name/
+Violent Incubus
 > END STRING
 
 > BEGIN STRING
 暴色女夢魔
-> CONTEXT: Enemies/155/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/155/name/
+Violent Succubus
 > END STRING
 
 > BEGIN STRING
 マグマキッズ
-> CONTEXT: Enemies/157/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/157/name/
+Magma Kid
 > END STRING
 
 > BEGIN STRING
 深層海月
-> CONTEXT: Enemies/158/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/158/name/
+Deep Sea Jellyfish
 > END STRING
 
 > BEGIN STRING
 ナレノハテ
-> CONTEXT: Enemies/159/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/159/name/
+Once-Was
 > END STRING
 
 > BEGIN STRING
 フレアドラゴン
-> CONTEXT: Enemies/161/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/161/name/
+Flare Dragon
 > END STRING
 
 > BEGIN STRING
 スノードラゴン
-> CONTEXT: Enemies/162/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/162/name/
+Snow Dragon
 > END STRING
 
 > BEGIN STRING
 エレキドラゴン
-> CONTEXT: Enemies/163/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/163/name/
+Electro Dragon
 > END STRING
 
 > BEGIN STRING
 レッドオウガ
-> CONTEXT: Enemies/164/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/164/name/
+Red Ogre
 > END STRING
 
 > BEGIN STRING
 雪男
-> CONTEXT: Enemies/165/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/165/name/
+Yeti
 > END STRING
 
 > BEGIN STRING
 ブリキ野郎
-> CONTEXT: Enemies/166/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/166/name/
+Tinman
 > END STRING
 
 > BEGIN STRING
 ニトロック
-> CONTEXT: Enemies/169/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/169/name/
+Nitro
 > END STRING
 
 > BEGIN STRING
 真理の泥巨人
-> CONTEXT: Enemies/170/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/170/name/
+True Mud Giant
 > END STRING
 
 > BEGIN STRING
 摩艾
-> CONTEXT: Enemies/171/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/171/name/
+Moai
 > END STRING
 
 > BEGIN STRING
 百手観音
-> CONTEXT: Enemies/172/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/172/name/
+Guanyin
 > END STRING
 
 > BEGIN STRING
 ヴラドーマ
-> CONTEXT: Enemies/181/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/181/name/
+Vladoma
 > END STRING
 
 > BEGIN STRING
 ゲヘナダルマン
-> CONTEXT: Enemies/184/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/184/name/
+Gehennadaruman
 > END STRING
 
 > BEGIN STRING
 ＤＸスノーマン
-> CONTEXT: Enemies/185/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/185/name/
+DX Snowman
 > END STRING
 
 > BEGIN STRING
 仙格万雷達磨
-> CONTEXT: Enemies/186/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/186/name/
+Thunder Daruma
 > END STRING
 
 > BEGIN STRING
 エレ小僧
-> CONTEXT: Enemies/187/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/187/name/
+Elekid
 > END STRING
 
 > BEGIN STRING
 血海月
-> CONTEXT: Enemies/188/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/188/name/
+Blood Jellyfish
 > END STRING
 
 > BEGIN STRING
 ミーティワン
-> CONTEXT: Enemies/189/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/189/name/
+Meaty One
 > END STRING
 
 > BEGIN STRING
 獄卒
-> CONTEXT: Enemies/191/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/191/name/
+Gaoler
 > END STRING
 
 > BEGIN STRING
 サスクワッチ
-> CONTEXT: Enemies/192/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/192/name/
+Sasquatch
 > END STRING
 
 > BEGIN STRING
 成金野郎
-> CONTEXT: Enemies/193/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/193/name/
+Nouveau Riche
 > END STRING
 
 > BEGIN STRING
 核弾岩
-> CONTEXT: Enemies/199/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/199/name/
+Nuclear
 > END STRING
 
 > BEGIN STRING
 シン・ヴラド
-> CONTEXT: Enemies/201/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/201/name/
+Shin Vlad
 > END STRING
 
 > BEGIN STRING
 イドエニグマ
-> CONTEXT: Enemies/202/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/202/name/
+Idoenigma
 > END STRING
 
 > BEGIN STRING
 シグナルヘルス
-> CONTEXT: Enemies/203/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/203/name/
+Signal Health
 > END STRING
 
 > BEGIN STRING
 ゴンゲフィッシュ
-> CONTEXT: Enemies/204/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/204/name/
+Gongefish
 > END STRING
 
 > BEGIN STRING
 ズロモコシュ
-> CONTEXT: Enemies/205/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/205/name/
+Zlomokosh
 > END STRING
 
 > BEGIN STRING
 宇宙クマムシ
-> CONTEXT: Enemies/206/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/206/name/
+Cosmic Tardigrade
 > END STRING
 
 > BEGIN STRING
@@ -1056,61 +1056,61 @@ Psychoneuro
 > BEGIN STRING
 金貘
 > CONTEXT: Enemies/890/name/
-Gold Tapir
+Gold Baku
 > END STRING
 
 > BEGIN STRING
 炎貘
 > CONTEXT: Enemies/891/name/
-Fire Tapir
+Fire Baku
 > END STRING
 
 > BEGIN STRING
 氷貘
 > CONTEXT: Enemies/892/name/
-Ice Tapir
+Ice Baku
 > END STRING
 
 > BEGIN STRING
 雷貘
 > CONTEXT: Enemies/893/name/
-Lightning Tapir
+Lightning Baku
 > END STRING
 
 > BEGIN STRING
 炎貘獣
-> CONTEXT: Enemies/894/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/894/name/
+Fire Baku Beast
 > END STRING
 
 > BEGIN STRING
 氷貘獣
-> CONTEXT: Enemies/895/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/895/name/
+Ice Baku Beast
 > END STRING
 
 > BEGIN STRING
 雷貘獣
-> CONTEXT: Enemies/896/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/896/name/
+Lightning Baku Beast
 > END STRING
 
 > BEGIN STRING
 炎貘獣王
-> CONTEXT: Enemies/897/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/897/name/
+Fire Baku King
 > END STRING
 
 > BEGIN STRING
 氷貘獣王
-> CONTEXT: Enemies/898/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/898/name/
+Ice Baku King
 > END STRING
 
 > BEGIN STRING
 雷貘獣王
-> CONTEXT: Enemies/899/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/899/name/
+Lightning Baku King
 > END STRING
 
 > BEGIN STRING

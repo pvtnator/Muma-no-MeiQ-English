@@ -31,51 +31,51 @@ Petrification
 
 > BEGIN STRING
 は　石化した！
-> CONTEXT: States/2/message1/ < UNTRANSLATED
-> CONTEXT: States/2/message2/ < UNTRANSLATED
-
+> CONTEXT: States/2/message1/
+> CONTEXT: States/2/message2/
+ got petrified!
 > END STRING
 
 > BEGIN STRING
 は　石になっている！
-> CONTEXT: States/2/message3/ < UNTRANSLATED
-
+> CONTEXT: States/2/message3/
+ can't move while petrified!
 > END STRING
 
 > BEGIN STRING
 は　我に返った！
-> CONTEXT: States/2/message4/ < UNTRANSLATED
-
+> CONTEXT: States/2/message4/
+ recovered from petrification!
 > END STRING
 
 > BEGIN STRING
 寝落
-> CONTEXT: States/5/name/ < UNTRANSLATED
-
+> CONTEXT: States/5/name/
+Sleep
 > END STRING
 
 > BEGIN STRING
 は　寝落ちした！
-> CONTEXT: States/5/message1/ < UNTRANSLATED
-
+> CONTEXT: States/5/message1/
+ fell asleep!
 > END STRING
 
 > BEGIN STRING
 を　眠らせた！
-> CONTEXT: States/5/message2/ < UNTRANSLATED
-
+> CONTEXT: States/5/message2/
+ got put to sleep!
 > END STRING
 
 > BEGIN STRING
 は　眠っている……
-> CONTEXT: States/5/message3/ < UNTRANSLATED
-
+> CONTEXT: States/5/message3/
+ can't wake up...
 > END STRING
 
 > BEGIN STRING
 は　目を覚ました！
-> CONTEXT: States/5/message4/ < UNTRANSLATED
-
+> CONTEXT: States/5/message4/
+ woke up!
 > END STRING
 
 > BEGIN STRING
@@ -94,13 +94,13 @@ Confusion
 は　惑乱した！
 > CONTEXT: States/11/message1/
 > CONTEXT: States/11/message2/
- was confused!
+ got confused!
 > END STRING
 
 > BEGIN STRING
 は　惑乱している！
 > CONTEXT: States/11/message3/
- is confused!
+ couldn't shake confusion!
 > END STRING
 
 > BEGIN STRING
@@ -219,27 +219,27 @@ Paralysis
 
 > BEGIN STRING
 は　被毒した！
-> CONTEXT: States/20/message1/ < UNTRANSLATED
-> CONTEXT: States/20/message2/ < UNTRANSLATED
-> CONTEXT: States/21/message1/ < UNTRANSLATED
-> CONTEXT: States/21/message2/ < UNTRANSLATED
-> CONTEXT: States/22/message1/ < UNTRANSLATED
-> CONTEXT: States/22/message2/ < UNTRANSLATED
-> CONTEXT: States/23/message1/ < UNTRANSLATED
-> CONTEXT: States/23/message2/ < UNTRANSLATED
-> CONTEXT: States/24/message1/ < UNTRANSLATED
-> CONTEXT: States/24/message2/ < UNTRANSLATED
-
+> CONTEXT: States/20/message1/
+> CONTEXT: States/20/message2/
+> CONTEXT: States/21/message1/
+> CONTEXT: States/21/message2/
+> CONTEXT: States/22/message1/
+> CONTEXT: States/22/message2/
+> CONTEXT: States/23/message1/
+> CONTEXT: States/23/message2/
+> CONTEXT: States/24/message1/
+> CONTEXT: States/24/message2/
+ got poisoned!
 > END STRING
 
 > BEGIN STRING
 は　解毒された！
-> CONTEXT: States/20/message4/ < UNTRANSLATED
-> CONTEXT: States/21/message4/ < UNTRANSLATED
-> CONTEXT: States/22/message4/ < UNTRANSLATED
-> CONTEXT: States/23/message4/ < UNTRANSLATED
-> CONTEXT: States/24/message4/ < UNTRANSLATED
-
+> CONTEXT: States/20/message4/
+> CONTEXT: States/21/message4/
+> CONTEXT: States/22/message4/
+> CONTEXT: States/23/message4/
+> CONTEXT: States/24/message4/
+ got detoxified!
 > END STRING
 
 > BEGIN STRING
@@ -1776,69 +1776,69 @@ Water/Ice Enchant
 
 > BEGIN STRING
 物理属性強化
-> CONTEXT: States/267/name/ < UNTRANSLATED
-
+> CONTEXT: States/267/name/
+Physical Enchant
 > END STRING
 
 > BEGIN STRING
 の物理属性が　強化された！
-> CONTEXT: States/267/message1/ < UNTRANSLATED
-
+> CONTEXT: States/267/message1/
+ got a physical attribute enchantment!
 > END STRING
 
 > BEGIN STRING
 の物理属性が　強化！
-> CONTEXT: States/267/message2/ < UNTRANSLATED
-
+> CONTEXT: States/267/message2/
+ got enchanted physical attribute!
 > END STRING
 
 > BEGIN STRING
 の物理属性強化が　終了！
-> CONTEXT: States/267/message4/ < UNTRANSLATED
-
+> CONTEXT: States/267/message4/
+ lost physical attribute enchantment!
 > END STRING
 
 > BEGIN STRING
 化学属性強化
-> CONTEXT: States/268/name/ < UNTRANSLATED
-
+> CONTEXT: States/268/name/
+Elemental Enchant
 > END STRING
 
 > BEGIN STRING
 の化学属性が　強化された！
-> CONTEXT: States/268/message1/ < UNTRANSLATED
-
+> CONTEXT: States/268/message1/
+ got an elemental attribute enchantment!
 > END STRING
 
 > BEGIN STRING
 の化学属性が　強化！
-> CONTEXT: States/268/message2/ < UNTRANSLATED
-
+> CONTEXT: States/268/message2/
+ got enchanted elemental attribute!
 > END STRING
 
 > BEGIN STRING
 の化学属性強化が　終了！
-> CONTEXT: States/268/message4/ < UNTRANSLATED
-
+> CONTEXT: States/268/message4/
+ lost elemental attribute enchantment!
 > END STRING
 
 > BEGIN STRING
 火炎属性弱化
-> CONTEXT: States/271/name/ < UNTRANSLATED
-
+> CONTEXT: States/271/name/
+Fire Resist
 > END STRING
 
 > BEGIN STRING
 の火炎耐性が　下落！
-> CONTEXT: States/271/message1/ < UNTRANSLATED
-> CONTEXT: States/271/message2/ < UNTRANSLATED
-
+> CONTEXT: States/271/message1/
+> CONTEXT: States/271/message2/
+ lost fire resist!
 > END STRING
 
 > BEGIN STRING
 の火炎耐性下落が　終了！
-> CONTEXT: States/271/message4/ < UNTRANSLATED
-
+> CONTEXT: States/271/message4/
+ lost the decrease in fire resist!
 > END STRING
 
 > BEGIN STRING
@@ -2180,8 +2180,8 @@ Preparation
 
 > BEGIN STRING
 の胸部が　膨れ上がる！
-> CONTEXT: States/403/message2/ < UNTRANSLATED
-
+> CONTEXT: States/403/message2/
+ swells its chest!
 > END STRING
 
 > BEGIN STRING

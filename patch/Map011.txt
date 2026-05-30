@@ -23,14 +23,17 @@ Invite to Partyen(s[31])
 ま　いいけど……さ。
 あたし抜きでも　しっかり　やんなよ？
 > CONTEXT: Map011/events/1/pages/1/87/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Ah, I should leave? Well, 
+that's fine... But make sure you 
+do a good job even without me, okay?
 > END STRING
 
 > BEGIN STRING
 \\n[11]が　仲魔から　はずれた。
 > CONTEXT: Map011/events/1/pages/1/97/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/106/15/Dialogue < UNTRANSLATED
-
+\\n[11] left the party.
 > END STRING
 
 > BEGIN STRING
@@ -38,14 +41,16 @@ Invite to Partyen(s[31])
 仲魔になるのは　良いけど
 あたし任せにすんのは　ダメだからねっ！
 > CONTEXT: Map011/events/1/pages/1/104/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+I can be your ally, but you 
+can't leave everything to me!
 > END STRING
 
 > BEGIN STRING
 \\n[11]が　仲魔に　くわわった！
 > CONTEXT: Map011/events/1/pages/1/113/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/399/82/Dialogue < UNTRANSLATED
-
+\\n[11] joined your party!
 > END STRING
 
 > BEGIN STRING
@@ -69,7 +74,8 @@ Ready to go in?
 \\NAME[\\n[11]]
 備え有れば　憂い無しって言うからね。
 > CONTEXT: Map011/events/1/pages/1/188/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+They say, "Forewarned is forearmed."
 > END STRING
 
 > BEGIN STRING
@@ -246,7 +252,10 @@ so you'll have an advantage, get it?
 ダンジョン攻略中に　世間話とか……
 って　思わないことも……ないけどさ。
 > CONTEXT: Map011/events/1/pages/2/257/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Well... I mean, I do sometimes think 
+that I'd like to make small talk or 
+something while we're exploring a dungeon...
 > END STRING
 
 > BEGIN STRING
@@ -255,7 +264,10 @@ so you'll have an advantage, get it?
 良いっていうか……リ　リーダーとして！
 余所見してるとこ　見られたくないから！
 > CONTEXT: Map011/events/1/pages/2/263/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+But those kinds of things are better 
+with just the two of us... I mean... 
+as a leader! I shouldn't be distracted!
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +276,10 @@ so you'll have an advantage, get it?
 聖焔のロザリオを　失くしたって！？
 知らないよ　そんなの！
 > CONTEXT: Map011/events/1/pages/3/19/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Haaaaaaaaaaaaaa!!! ???
+She lost the Holy Flame Rosary!?
+I didn't know anything about that!
 > END STRING
 
 > BEGIN STRING
@@ -273,7 +288,9 @@ so you'll have an advantage, get it?
 用意するけど　その代わり
 お代は　法外だからね！？
 > CONTEXT: Map011/events/1/pages/3/27/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+If you insist, I'll make one, 
+but can you pay that much!?
 > END STRING
 
 > BEGIN STRING
@@ -282,7 +299,10 @@ so you'll have an advantage, get it?
 何とかして　例の場所に　届けておくから
 回収して　あかき迷宮を　踏破しなさい！
 > CONTEXT: Map011/events/1/pages/3/35/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Well, I guess there's no other way... Ugh!
+I'll somehow get it there,
+so retrieve it and traverse the Red Maze!
 > END STRING
 
 > BEGIN STRING
@@ -326,7 +346,9 @@ all that difficult...
 行動可能範囲が　広がったよ。
 ……うんうんっ！
 > CONTEXT: Map011/events/1/pages/3/94/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Thanks to you, the reach of my powers 
+expanded a little... Yep yep!
 > END STRING
 
 > BEGIN STRING
@@ -335,7 +357,10 @@ all that difficult...
 夢魔の迷宮は　ナメてかかると
 すぐに　全滅しちゃうんだから！
 > CONTEXT: Map011/events/1/pages/3/100/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+But don't let your guard down! If you 
+underestimate the Maze of Succubus,
+you'll be wiped out in no time!
 > END STRING
 
 > BEGIN STRING

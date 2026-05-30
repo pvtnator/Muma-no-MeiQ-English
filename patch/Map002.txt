@@ -3,7 +3,9 @@
 ……と　思ったけれど　この全身を襲う
 焼けるような気怠さは　何だ？
 > CONTEXT: Map002/events/1/pages/0/42/Dialogue < UNTRANSLATED
-
+...Or so I thought, but what is this 
+burning lethargy that's 
+gripping my whole body?
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +14,8 @@
 > CONTEXT: Map002/events/1/pages/0/50/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/76/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/102/Dialogue < UNTRANSLATED
-
+Just 5 more minutes... 5 more minutes...
+I'll go back to sleep...back to sleep...
 > END STRING
 
 > BEGIN STRING
@@ -21,19 +24,24 @@
 > CONTEXT: Map002/events/1/pages/0/61/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/87/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/113/Dialogue < UNTRANSLATED
-
+...What exactly was that dream I had?
+Anyway, time to go.
 > END STRING
 
 > BEGIN STRING
 ……と　思ったけれど　この全身を襲う
 凍えるような気怠さは　何だ？
 > CONTEXT: Map002/events/1/pages/0/68/Dialogue < UNTRANSLATED
-
+...Or so I thought, but what is this 
+freezing lethargy that's 
+gripping my whole body?
 > END STRING
 
 > BEGIN STRING
 ……と　思ったけれど　この全身を襲う
 痺れるような気怠さは　何だ？
 > CONTEXT: Map002/events/1/pages/0/94/Dialogue < UNTRANSLATED
-
+...Or so I thought, but what is this 
+numbing lethargy that's 
+gripping my whole body?
 > END STRING

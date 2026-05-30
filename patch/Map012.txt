@@ -97,7 +97,7 @@ Make sure to check it every time.
 \\NAME[\\n[12]]
 Red Jaqi boast unparalleled strength.
 Truly, truly dangerous monsters.
-Even stronger than Tapirs in deeper levels!
+Even stronger than Bakus in deeper levels!
 > END STRING
 
 > BEGIN STRING
@@ -144,7 +144,7 @@ principle to live by♪
 > CONTEXT: Map012/events/1/pages/2/87/Dialogue
 \\NAME[\\n[12]]
 By the way, have I already told you 
-about Tapirs? They hide in wells 
+about Bakus? They hide in wells 
 at the end of each layer.
 > END STRING
 

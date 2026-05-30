@@ -466,7 +466,7 @@
 > BEGIN STRING
 "%sの%sが　元通りに！"
 > CONTEXT: Scripts/Vocab/79:21
-"%s recovered %s to normal!"
+"%s had %s go back to normal!"
 > END STRING
 
 > BEGIN STRING
@@ -11283,8 +11283,8 @@
 
 > BEGIN STRING
 "鋼鉄の刃針"
-> CONTEXT: Scripts/ショップ在庫制/127:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/127:3
+"Steel Lancet"
 > END STRING
 
 > BEGIN STRING
@@ -11295,8 +11295,8 @@
 
 > BEGIN STRING
 "ブロンズメイス"
-> CONTEXT: Scripts/ショップ在庫制/129:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/129:3
+"Bronze Mace"
 > END STRING
 
 > BEGIN STRING
@@ -11367,8 +11367,8 @@
 
 > BEGIN STRING
 "欅の棒"
-> CONTEXT: Scripts/ショップ在庫制/141:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/141:3
+"Wood Club"
 > END STRING
 
 > BEGIN STRING
@@ -11712,8 +11712,8 @@
 
 > BEGIN STRING
 "ムジョルニア"
-> CONTEXT: Scripts/ショップ在庫制/194:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/194:3
+"Mjölnir"
 > END STRING
 
 > BEGIN STRING
@@ -11736,8 +11736,8 @@
 
 > BEGIN STRING
 "ブロンズスピア"
-> CONTEXT: Scripts/ショップ在庫制/198:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/198:3
+"Bronze Spear"
 > END STRING
 
 > BEGIN STRING

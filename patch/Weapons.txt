@@ -135,7 +135,7 @@ Platinum Greatsword
 習:切払/刺突/平打/\\C[6]ドライヴンダー\\C[0]〘両〙
 携えば一目置かれる　銀光沢を放つ両手剣
 > CONTEXT: Weapons/23/description/
-Skills: Cut/Thrust/Blunt Strike/\\C[6]Drei Wunder\\C[0] [Two-handed]
+Skills: Cut/Thrust/Blunt Strike/\\C[6]Drei Wunder\\C[0] [2H]
 A sword that shines silver, commanding respect
 > END STRING
 
@@ -819,112 +819,121 @@ Rosewood Club
 > BEGIN STRING
 習:殴打/\\C[6]無双転地\\C[0]〘両〙
 非常に堅い木材で作られた　濃色の棍棒
-> CONTEXT: Weapons/132/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/132/description/
+Skills: Hit/\\C[6] Unrivaled Turning Ground\\C[0] [2H]
+A dark-colored club made of very hard wood
 > END STRING
 
 > BEGIN STRING
 扶桑樹棍
-> CONTEXT: Weapons/133/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/133/name/
+Divine Tree Club
 > END STRING
 
 > BEGIN STRING
 習:殴打〘両〙
 東の果てに生える　巨木の枝で作られた棍
-> CONTEXT: Weapons/133/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/133/description/
+Skill: Hit [2H]
+Made from a giant tree at the eastern edge
 > END STRING
 
 > BEGIN STRING
 世界樹棍
-> CONTEXT: Weapons/134/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/134/name/
+World Tree club
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]五輪砕\\C[0]〘両〙
 天を衝く大樹の枝で作られた　最上級の棍
-> CONTEXT: Weapons/134/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/134/description/
+Skills: Hit/\\C[6]Five Rings Shatter\\C[0][2H]
+A top-grade club from branches of a towering tree
 > END STRING
 
 > BEGIN STRING
 樫木の杖
-> CONTEXT: Weapons/141/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/141/name/
+Oak Staff
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]治癒の掲揚\\C[0]
 趣のあるカシ材の杖　僅かに霊力を高める
-> CONTEXT: Weapons/141/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/141/description/
+Skills: Hit/\\C[6]Healing Banner\\C[0]
+A staff imbued with some spiritual power
 > END STRING
 
 > BEGIN STRING
 桑木の杖
-> CONTEXT: Weapons/142/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/142/name/
+Mulberry Staff
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]サイコウェポン\\C[0]
 霊力を宿すクワ材で作られた　術者用の杖
-> CONTEXT: Weapons/142/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/142/description/
+Skills: Hit/\\C[6]Psycho Weapon\\C[0]
+A staff imbued with spiritual power
 > END STRING
 
 > BEGIN STRING
 扶桑樹の杖
-> CONTEXT: Weapons/143/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/143/name/
+Divine Tree Staff
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]復活の掲揚\\C[0]
 日出る国の巨木を削った　霊験灼然たる杖
-> CONTEXT: Weapons/143/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/143/description/
+Skills: Hit/\\C[6]Revival Banner\\C[0]
+Made from a giant tree at the eastern edge
 > END STRING
 
 > BEGIN STRING
 世界樹の杖
-> CONTEXT: Weapons/144/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/144/name/
+World Tree Staff
 > END STRING
 
 > BEGIN STRING
 習:殴打
 世界を俯瞰する大樹より作成　最上級の杖
-> CONTEXT: Weapons/144/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/144/description/
+Skill: Hit
+A top-grade staff from branches of a towering tree
 > END STRING
 
 > BEGIN STRING
 錫杖
-> CONTEXT: Weapons/145/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/145/name/
+Khakkhara
 > END STRING
 
 > BEGIN STRING
 習:殴打〘口封耐性↑〙
 先端に付けた錫製の遊環が　術者を補助
-> CONTEXT: Weapons/145/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/145/description/
+Skill: Hit [Mouth Bind Resist↑]
+Has a tin loop attached to the tip
 > END STRING
 
 > BEGIN STRING
 皮鞭
-> CONTEXT: Weapons/150/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/150/name/
+Leather Whip
 > END STRING
 
 > BEGIN STRING
 習:切払
 丈夫で　よくしなる　革製の鎖物武器
-> CONTEXT: Weapons/150/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/150/description/
+Skill: Cut
+A sturdy, flexible leather chain weapon
 > END STRING
 
 > BEGIN STRING
@@ -1163,15 +1172,16 @@ Rosewood Club
 
 > BEGIN STRING
 鋼鉄ブーメラン
-> CONTEXT: Weapons/192/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/192/name/
+Steel Boomerang
 > END STRING
 
 > BEGIN STRING
 習:旋刃/\\C[6]ラウンダバウト\\C[0]
 鋼鉄製で　鋭い刃を備えたブーメラン
-> CONTEXT: Weapons/192/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/192/description/
+Skills: Turning Blade/\\C[6]Roundabout\\C[0]
+A boomerang made of steel with a sharp blade
 > END STRING
 
 > BEGIN STRING
@@ -1202,54 +1212,58 @@ Rosewood Club
 
 > BEGIN STRING
 棒手裏剣
-> CONTEXT: Weapons/201/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/201/name/
+Stick Shuriken
 > END STRING
 
 > BEGIN STRING
 習:投刺
 忍者が必ず携行する　棒状の手裏剣
-> CONTEXT: Weapons/201/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/201/description/
+Skill: Throw
+A stick-shaped shuriken that ninjas always carry
 > END STRING
 
 > BEGIN STRING
 絶手鏢
-> CONTEXT: Weapons/202/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/202/name/
+Master Darts
 > END STRING
 
 > BEGIN STRING
 習:投刺
 十枚一式の鏢の切り札　達人のみが扱える
-> CONTEXT: Weapons/202/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/202/description/
+Skill: Throwing
+A set of 10 darts only for masters
 > END STRING
 
 > BEGIN STRING
 超級車剣
-> CONTEXT: Weapons/203/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/203/name/
+Master Shuriken
 > END STRING
 
 > BEGIN STRING
 習:旋刃/投刺/\\C[6]フランクスロー\\C[0]
 上忍以上が使用を許される　風車型手裏剣
-> CONTEXT: Weapons/203/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/203/description/
+Skills: Turning Blade/Throw/\\C[6]Flank Throw\\C[0]
+A windmill-shaped shuriken for master ninjas
 > END STRING
 
 > BEGIN STRING
 スターダート
-> CONTEXT: Weapons/204/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/204/name/
+Star Darts
 > END STRING
 
 > BEGIN STRING
 習:投刺/\\C[6]ゼロワンゲーム\\C[0]
 貴族らの射的遊戯で使われる　手投げ矢
-> CONTEXT: Weapons/204/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/204/description/
+Skills: Throw/\\C[6]0-1 Game\\C[0]
+Hand-throwing darts used among the nobility
 > END STRING
 
 > BEGIN STRING
@@ -1436,15 +1450,16 @@ Rosewood Club
 
 > BEGIN STRING
 突撃ラッパ
-> CONTEXT: Weapons/232/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/232/name/
+Charge Bugle
 > END STRING
 
 > BEGIN STRING
 習:刺突/平打/\\C[6]憤炎の旋律\\C[0]
 突起状のミュートも付いた　兵隊用の楽器
-> CONTEXT: Weapons/232/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/232/description/
+Skills: Thrust/Hit/\\C[6]Melody of Fury\\C[0]
+A soldier's instrument with a protruding mute
 > END STRING
 
 > BEGIN STRING
@@ -1528,40 +1543,43 @@ Rosewood Club
 > BEGIN STRING
 あかき焔槍
 > CONTEXT: Weapons/311/name/ < UNTRANSLATED
-
+Red Flame Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/\\C[6]追炎貫\\C[0]
 己の容姿に似合うよう考え　デザインした槍
 > CONTEXT: Weapons/311/description/ < UNTRANSLATED
-
+Skills: Cut/Thrust/\\C[6]Flame Pierce\\C[0]
+A spear designed to suit her own appearance
 > END STRING
 
 > BEGIN STRING
 あおき海斧
 > CONTEXT: Weapons/312/name/ < UNTRANSLATED
-
+Blue Ice Spear
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打/\\C[6]追氷斬\\C[0]
 愛情と強権さを兼ね備えた　凍てつく戦斧
 > CONTEXT: Weapons/312/description/ < UNTRANSLATED
-
+Skills: Slash/Hit/\\C[6]Frost Slash\\C[0]
+A freezing battle axe of love and authoritarianism
 > END STRING
 
 > BEGIN STRING
 むらさき靂鎚
 > CONTEXT: Weapons/313/name/ < UNTRANSLATED
-
+Purple Lightning Hammer
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]追雷打\\C[0]
 嗜虐心をそそる　巨大で冒涜的なハンマー
 > CONTEXT: Weapons/313/description/ < UNTRANSLATED
-
+Skills: Hit/\\C[6]Thunderclap\\C[0]
+A blasphemous hammer that arouses sadistic desires
 > END STRING
 
 > BEGIN STRING

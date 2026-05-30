@@ -721,8 +721,8 @@ A dazzling, flashy pink, bead-like sacred amulet
 
 > BEGIN STRING
 御供の指輪
-> CONTEXT: Armors/159/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/159/name/
+Ring of Sacrifice
 > END STRING
 
 > BEGIN STRING

@@ -583,9 +583,9 @@ Do you go down into the id?
 > CONTEXT: Map095/events/1/pages/17/26/Dialogue
 > CONTEXT: Map094/events/1/pages/17/26/Dialogue
 > CONTEXT: Commonevents/89/1/Dialogue
-A tapir is lurking in the abyss of the Id!
+A Baku is lurking in the abyss of the Id!
 To enter this Id,
-annihilate or bribe the tapir!
+annihilate or bribe the Baku!
 > END STRING
 
 > BEGIN STRING
@@ -595,7 +595,7 @@ annihilate or bribe the tapir!
 > CONTEXT: Map094/events/1/pages/17/31/Dialogue
 > CONTEXT: Map023/events/22/pages/1/48/Dialogue
 > CONTEXT: Commonevents/89/6/Dialogue
-Challenge the tapir to a fight?
+Challenge the Baku to a fight?
 > END STRING
 
 > BEGIN STRING
@@ -604,7 +604,7 @@ Challenge the tapir to a fight?
 > CONTEXT: Map095/events/1/pages/17/103/Dialogue
 > CONTEXT: Map094/events/1/pages/17/103/Dialogue
 > CONTEXT: Commonevents/89/310/Dialogue
-Offer bribe to tapir?
+Offer bribe to Baku?
 > END STRING
 
 > BEGIN STRING
@@ -614,7 +614,7 @@ Offer bribe to tapir?
 > CONTEXT: Map095/events/1/pages/17/115/Dialogue
 > CONTEXT: Map094/events/1/pages/17/115/Dialogue
 > CONTEXT: Commonevents/89/610/Dialogue
-Tapir requests \\V[52]M.
+Baku requests \\V[52]M.
 Pay \\V[52]M?
 > END STRING
 
@@ -636,7 +636,7 @@ But there's not enough money!
 > CONTEXT: Map094/events/1/pages/17/143/Dialogue
 > CONTEXT: Map023/events/22/pages/1/141/Dialogue
 > CONTEXT: Commonevents/89/638/Dialogue
-The tapir's form fades to darkness, 
+The Baku's form fades to darkness, 
 and you are dragged down, 
 falling to the depths of the Id!
 > END STRING
@@ -704,13 +704,13 @@ into the id!
 
 > BEGIN STRING
 \\V[51]を　４個　発見！
-> CONTEXT: Map096/events/2/pages/17/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/2/pages/17/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/2/pages/17/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map096/events/3/pages/17/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/3/pages/17/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/3/pages/17/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/2/pages/17/14/Dialogue
+> CONTEXT: Map095/events/2/pages/17/14/Dialogue
+> CONTEXT: Map094/events/2/pages/17/14/Dialogue
+> CONTEXT: Map096/events/3/pages/17/14/Dialogue
+> CONTEXT: Map095/events/3/pages/17/14/Dialogue
+> CONTEXT: Map094/events/3/pages/17/14/Dialogue
+Found 4 \\V[51]s!
 > END STRING
 
 > BEGIN STRING
@@ -726,13 +726,13 @@ Found 4 \\V[51]s!
 
 > BEGIN STRING
 他にも　色々　発見！
-> CONTEXT: Map096/events/2/pages/17/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/2/pages/17/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/2/pages/17/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map096/events/3/pages/17/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map095/events/3/pages/17/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map094/events/3/pages/17/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/2/pages/17/33/Dialogue
+> CONTEXT: Map095/events/2/pages/17/33/Dialogue
+> CONTEXT: Map094/events/2/pages/17/33/Dialogue
+> CONTEXT: Map096/events/3/pages/17/27/Dialogue
+> CONTEXT: Map095/events/3/pages/17/27/Dialogue
+> CONTEXT: Map094/events/3/pages/17/27/Dialogue
+Found various other things!
 > END STRING
 
 > BEGIN STRING

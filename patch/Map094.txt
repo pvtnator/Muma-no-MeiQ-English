@@ -4,7 +4,10 @@
 ようやっと　お出ましね。
 待ちくたびれたよ……まったく。
 > CONTEXT: Map094/events/24/pages/1/2/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Finally you showed up.
+I've been waiting forever...
+Honestly.
 > END STRING
 
 > BEGIN STRING
@@ -13,7 +16,9 @@
 なんだけど……今から　あたしと
 戦ってもらうから……！
 > CONTEXT: Map094/events/24/pages/1/6/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+...So, you've come all the way...
+but now you'll fight me...!
 > END STRING
 
 > BEGIN STRING
@@ -22,7 +27,10 @@
 あたしと　タイマンすんの！
 わかったぁ！？
 > CONTEXT: Map094/events/24/pages/1/11/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Of course, one-on-one!
+One-on-one against me!
+Got it?!
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +39,10 @@
 あんたが　勝ったら
 約束の…………してあげるから。
 > CONTEXT: Map094/events/24/pages/1/16/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+...So, if...
+you win...
+I'll do as promised...
 > END STRING
 
 > BEGIN STRING
@@ -40,7 +51,10 @@
 ……ってか　あたしと
 戦うことに　同意……する？
 > CONTEXT: Map094/events/24/pages/1/25/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Are you ready?
+...I mean, do you agree
+to fight me?
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +63,10 @@
 手加減はしないから　ちゃんと
 準備してから　挑んできてよ！？
 > CONTEXT: Map094/events/24/pages/1/34/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+...Okay then, I'm telling you, I won't 
+hold back, so are you properly 
+prepared before you challenge me!?
 > END STRING
 
 > BEGIN STRING
@@ -58,7 +75,10 @@
 手加減なんて　しないから！
 絶対……しないんだからっ！
 > CONTEXT: Map094/events/24/pages/1/46/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Okay, let's go!
+I'm not going to hold back!
+I...absolutely won't!
 > END STRING
 
 > BEGIN STRING
@@ -67,7 +87,10 @@
 しっかり　しなさいっ！
 まったく　もう！
 > CONTEXT: Map094/events/24/pages/1/102/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Hey!? What's the big idea!?
+Get a grip!
+Honestly!
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +99,10 @@
 \\C[6]宝箱を確かめたり\\C[0]　あと戦闘中も
 あたしの動きを　よく読んで
 > CONTEXT: Map094/events/24/pages/1/121/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+There won't be a next time, okay? Before we fight,
+\\C[6]Check the treasure chests\\C[0], and in battle,
+read my movements carefully.
 > END STRING
 
 > BEGIN STRING
@@ -85,7 +111,10 @@
 って！　別にあんたに　塩を
 送ってるわけじゃないんだから！
 > CONTEXT: Map094/events/24/pages/1/126/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Defend before I unleash my big move---
+Hey! It's not like I'm sending salt
+to my enemy!
 > END STRING
 
 > BEGIN STRING
@@ -93,7 +122,9 @@
 ……どうやら　これでＯＫ
 ……ってことかな？
 > CONTEXT: Map094/events/24/pages/2/1/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+...This seems okay.
+...I guess that's that?
 > END STRING
 
 > BEGIN STRING
@@ -101,7 +132,10 @@
 なっ！
 なんでもない！　こっちの話！
 > CONTEXT: Map094/events/24/pages/2/5/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+What?!
+It's nothing! Just something 
+I was thinking about!
 > END STRING
 
 > BEGIN STRING
@@ -110,7 +144,10 @@
 や　や　約束は　ちゃんと
 果たすから……。
 > CONTEXT: Map094/events/24/pages/2/9/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+M-more importantly,
+I-I-I'll definitely 
+keep my promise...
 > END STRING
 
 > BEGIN STRING
@@ -119,5 +156,8 @@
 来なさいっ！
 ちゃんと　や　や　やるよっ！
 > CONTEXT: Map094/events/24/pages/2/15/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Come...over here?
+Come on!
+Let's do it p-p-properly!
 > END STRING

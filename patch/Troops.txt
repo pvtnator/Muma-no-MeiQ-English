@@ -3645,13 +3645,15 @@ Sunny eye start to move!
 くっ……！　なかなか　やるじゃない。
 あんたの……勝ちだよ。
 > CONTEXT: Troops/811/pages/2/8/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Damn...! Not bad.
+You...win.
 > END STRING
 
 > BEGIN STRING
 \\n[11]を　屈服させた！
 > CONTEXT: Troops/811/pages/2/12/Dialogue < UNTRANSLATED
-
+Subdued \\n[11]!
 > END STRING
 
 > BEGIN STRING
@@ -3932,8 +3934,8 @@ S50以上<BGM:5\>
 
 > BEGIN STRING
 金貘<BGM:5\>
-> CONTEXT: Troops/883/name/
-Gold Tapir<BGM:5\>
+> CONTEXT: Troops/883/name/ < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

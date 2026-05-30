@@ -1322,7 +1322,7 @@ The core of a monster from the 5th layer
 > BEGIN STRING
 貘の縮毛
 > CONTEXT: Items/181/name/
-Tapir's Curly Hair
+Baku's Curly Hair
 > END STRING
 
 > BEGIN STRING
@@ -1330,13 +1330,13 @@ Tapir's Curly Hair
 小型の貘から採取された　軽妙な抜け毛
 > CONTEXT: Items/181/description/
 [For Selling]
-Lightweight shed hair collected from small tapirs
+Lightweight shed hair collected from a small Baku
 > END STRING
 
 > BEGIN STRING
 貘の直毛
 > CONTEXT: Items/182/name/
-Tapir's Straight Hair
+Baku's Straight Hair
 > END STRING
 
 > BEGIN STRING
@@ -1344,13 +1344,13 @@ Tapir's Straight Hair
 中型の貘から採取された　奇妙な抜け毛
 > CONTEXT: Items/182/description/
 [For Selling]
-Strange shed hair collected from a medium-sized tapir
+Strange shed hair collected from a Baku
 > END STRING
 
 > BEGIN STRING
 貘の捻転毛
 > CONTEXT: Items/183/name/
-Tapir's Twisted Hair
+Baku's Twisted Hair
 > END STRING
 
 > BEGIN STRING
@@ -1358,7 +1358,7 @@ Tapir's Twisted Hair
 大型の貘から採取された　珍妙な抜け毛
 > CONTEXT: Items/183/description/
 [For Selling]
-Unusual shed hair collected from a large tapir
+Unusual shed hair collected from a large Baku
 > END STRING
 
 > BEGIN STRING

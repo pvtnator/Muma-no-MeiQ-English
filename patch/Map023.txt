@@ -536,7 +536,7 @@ Something is lurking in this Id!
 手が　出せなくってね……。
 > CONTEXT: Map023/events/22/pages/1/31/Dialogue
 \\NAME[\\n[11]]
-Ah... that's a 'Tapir'.
+Ah... that's a 'Baku'.
 We can't lay a hand on it either...
 > END STRING
 

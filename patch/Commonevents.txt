@@ -314,8 +314,10 @@ The chest is empty...
 箱の蓋には　特殊な仕掛けが
 施されている！　これを　開けるには
 武力が　試されそうだ。
-> CONTEXT: Commonevents/53/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/6/Dialogue
+The box lid has a special mechanism!
+Opening it will likely 
+test your ATK.
 > END STRING
 
 > BEGIN STRING
@@ -330,8 +332,10 @@ ATK to open this.
 箱の蓋には　特殊な仕掛けが
 施されている！　これを　開けるには
 霊力が　試されそうだ。
-> CONTEXT: Commonevents/53/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/22/Dialogue
+The box lid has a special mechanism!
+Opening it will likely 
+test your PSY.
 > END STRING
 
 > BEGIN STRING
@@ -346,8 +350,10 @@ PSY to open this.
 箱の蓋には　特殊な仕掛けが
 施されている！　これを　開けるには
 集中力が　試されそうだ。
-> CONTEXT: Commonevents/53/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/37/Dialogue
+The box lid has a special mechanism!
+Opening it will likely 
+test your CON.
 > END STRING
 
 > BEGIN STRING
@@ -361,8 +367,9 @@ CON to open this.
 > BEGIN STRING
 宝箱の開封に　挑戦しますか？
 （EPを　消費します）
-> CONTEXT: Commonevents/53/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/55/Dialogue
+Try opening the chest?
+(This will consume EP)
 > END STRING
 
 > BEGIN STRING
@@ -374,8 +381,8 @@ Do you want to try to open the chest?
 
 > BEGIN STRING
 "誰が　挑戦しますか？"
-> CONTEXT: Commonevents/53/85/InlineScript/1:11 < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/85/InlineScript/1:11
+"Who will try?"
 > END STRING
 
 > BEGIN STRING
@@ -387,9 +394,10 @@ Do you want to try to open the chest?
 > BEGIN STRING
 しかし　\\N[\\V[575]]は　挑戦できるほど
 EPに　余裕がないようだ！
-> CONTEXT: Commonevents/53/110/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/53/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/110/Dialogue
+> CONTEXT: Commonevents/53/191/Dialogue
+But \\N[\\V[575]] doesn't have 
+enough EP to take on the challenge!
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +412,10 @@ enough to take on the challenge!
 \\NAME[\\n[11]]
 ま……やってみるよ。
 あまり　期待しないようにっ。
-> CONTEXT: Commonevents/53/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/127/Dialogue
+\\NAME[\\n[11]]
+Well... I'll try.
+Don't expect too much.
 > END STRING
 
 > BEGIN STRING
@@ -420,8 +430,10 @@ Don't expect too much.
 \\NAME[\\n[12]]
 面白そうね！
 任せて♪　任せて♪
-> CONTEXT: Commonevents/53/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/144/Dialogue
+\\NAME[\\n[12]]
+Sounds interesting♪
+On it♪
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +449,10 @@ I'm on it!
 しゃ〜ないなぁ。
 あんちゃんの代わりに
 ウチが　やったるわー。
-> CONTEXT: Commonevents/53/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/161/Dialogue
+\\NAME[\\n[13]]
+You're so helpless〜
+I'll do it for you.
 > END STRING
 
 > BEGIN STRING
@@ -451,8 +465,8 @@ I'll do it for you.
 
 > BEGIN STRING
 ……もう　ひとふり！
-> CONTEXT: Commonevents/53/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/257/Dialogue
+...Just a little more!
 > END STRING
 
 > BEGIN STRING
@@ -464,8 +478,9 @@ Just one more ounce!
 > BEGIN STRING
 ──が！　箱が　開くよりも先に
 \\N[\\V[575]]の精神力が　尽きてしまった！
-> CONTEXT: Commonevents/53/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/53/268/Dialogue
+--But! Before the box could open,
+willpower ran out!
 > END STRING
 
 > BEGIN STRING
@@ -477,8 +492,9 @@ before the chest could be opened!
 
 > BEGIN STRING
 フロア内の邪気に　怯えの色を与えた！
-> CONTEXT: Commonevents/54/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/54/8/Dialogue
+It instilled fear in the 
+Jaqi within the floor!
 > END STRING
 
 > BEGIN STRING
@@ -490,8 +506,8 @@ the color of fear!
 
 > BEGIN STRING
 敵陣の　体勢を崩させた！
-> CONTEXT: Commonevents/54/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/54/25/Dialogue
+All enemies were stunned!
 > END STRING
 
 > BEGIN STRING
@@ -1026,7 +1042,10 @@ lingering scent...
 あえっと……あぁ　そうそう　これで
 夢界中心に　あたしは　来れたよ。
 > CONTEXT: Commonevents/103/5/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Um...well...ah, thank you--
+Um...ah, right, with this, I've made it 
+to Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
@@ -1035,7 +1054,10 @@ lingering scent...
 \\C[6]預かり機能も　使えるようになった\\C[0]し
 あんたの冒険も　手助けできるから。
 > CONTEXT: Commonevents/103/11/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+I'm at the communication terminal.
+\\C[6]The storage function is now available\\C[0] 
+and I can help you with your adventure.
 > END STRING
 
 > BEGIN STRING
@@ -1044,7 +1066,10 @@ lingering scent...
 『ロゴスの鍵』ってのが　必要なんだけど
 ……まぁ　それは　ゆっくりでも……。
 > CONTEXT: Commonevents/103/17/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Ideally, you'd need the 'Key to Logos,' 
+which is sold in the shop of Central Realms 
+of Reverie... Well, that can wait...
 > END STRING
 
 > BEGIN STRING
@@ -1052,7 +1077,9 @@ lingering scent...
 ってか　鍵　持ってんじゃん！
 ……マジか。
 > CONTEXT: Commonevents/103/24/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Wait, you have the key!
+...Seriously?
 > END STRING
 
 > BEGIN STRING
@@ -1061,7 +1088,10 @@ lingering scent...
 うん……。
 ………………あ　ありがとう。
 > CONTEXT: Commonevents/103/32/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Anyway, um...thank you.
+Yeah...
+...F-for the help.
 > END STRING
 
 > BEGIN STRING
@@ -3923,24 +3953,30 @@ and it's simply unacceptable.
 近年　大きな賑わいを見せている
 スポーツニュース。我が国を代表する
 選手が数多く　世界規模で活躍している。
-> CONTEXT: Commonevents/196/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/40/Dialogue
+Sports has generated a lot of excitement 
+in recent years. Many of our country's 
+top athletes are active on a global scale.
 > END STRING
 
 > BEGIN STRING
 連日　ニュース番組をはじめとする
 各メディアで　大々的に取り上げられ
 人々の関心と　注目を集めている。
-> CONTEXT: Commonevents/196/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/44/Dialogue
+They've been featured extensively in news 
+programs and other media outlets every day, 
+attracting public attention and interest.
 > END STRING
 
 > BEGIN STRING
 だが　そうした報道を　度の超えた
 もはや　一種のハラスメントだと
 非難する声も　上がっているようだ。
-> CONTEXT: Commonevents/196/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/48/Dialogue
+However, there are also voices criticizing 
+such reporting as going too far 
+and becoming a form of harassment.
 > END STRING
 
 > BEGIN STRING
@@ -3948,32 +3984,41 @@ and it's simply unacceptable.
 国内の問題から　大衆の目を背ける為に
 やたらとスポーツの話題を流す　俗に言う
 スピン報道というやつですな。やれやれ。
-> CONTEXT: Commonevents/196/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/53/Dialogue
+\\NAME[Commentator]
+To divert the attention from domestic issues, 
+they keep airing sports news. This is what's 
+commonly known as spin reporting. Good grief.
 > END STRING
 
 > BEGIN STRING
 スマートフォンで　プレイする
 所謂ソシャゲに　多額の課金を続ける
 廃課金ユーザーの実例を　紹介する。
-> CONTEXT: Commonevents/196/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/79/Dialogue
+This article has real examples of heavy spenders 
+who continue to spend large sums of money on 
+so-called social games played on smartphones.
 > END STRING
 
 > BEGIN STRING
 Ａさんは　ピックアップガチャの度に
 月々の給料の　ほとんど全てをつぎこみ
 時には　消費者金融にも手を出すという。
-> CONTEXT: Commonevents/196/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/83/Dialogue
+'A' spends almost all monthly salary on 
+gacha pulls, and sometimes even resorts 
+to consumer loans.
 > END STRING
 
 > BEGIN STRING
 こうした　ソシャゲの廃課金問題に対し
 とあるゲーム開発者が　匿名で
 私見を　語ってくれた。
-> CONTEXT: Commonevents/196/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/87/Dialogue
+Regarding this issue of excessive spending 
+on social games, a certain game developer 
+shared their personal opinion anonymously.
 > END STRING
 
 > BEGIN STRING
@@ -3981,8 +4026,11 @@ and it's simply unacceptable.
 我々にだって　生活があるんですから
 ユーザーが　いくらお金を使おうと
 特に　罪の意識なんてありませんね。
-> CONTEXT: Commonevents/196/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/92/Dialogue
+\\NAME[Commentator]
+We have lives to live too, so no matter 
+how much money users spend, we don't 
+feel particularly guilty about it.
 > END STRING
 
 > BEGIN STRING
@@ -4032,7 +4080,9 @@ so you can't say the man is entirely to blame!
 覚醒剤取締法違反による　逮捕劇。
 その実例には　枚挙に暇がない。
 > CONTEXT: Commonevents/196/155/Dialogue < UNTRANSLATED
-
+The series of arrests of celebrities 
+for violating the Stimulant Control Act 
+is endless.
 > END STRING
 
 > BEGIN STRING
@@ -4040,7 +4090,8 @@ so you can't say the man is entirely to blame!
 クスリに　手を出してしまうのか。
 何故　再犯を繰り返すのか？
 > CONTEXT: Commonevents/196/159/Dialogue < UNTRANSLATED
-
+Why do they turn to drugs?
+Why do they keep re-offending?
 > END STRING
 
 > BEGIN STRING
@@ -4048,7 +4099,9 @@ so you can't say the man is entirely to blame!
 根源的な　快楽を求める本質が
 薬物依存への　原因だと分析する。
 > CONTEXT: Commonevents/196/163/Dialogue < UNTRANSLATED
-
+An entertainment writer analyzes that 
+the desire for pleasure among celebrities 
+is the cause of their drug addiction.
 > END STRING
 
 > BEGIN STRING
@@ -4057,7 +4110,10 @@ so you can't say the man is entirely to blame!
 快感を求めていった　結果ですからね。
 多少は止む無しとも　思いませんか？
 > CONTEXT: Commonevents/196/168/Dialogue < UNTRANSLATED
-
+\\NAME[Commentator]
+Isn't it just the result of seeking pleasure 
+to make a life of frustration shine?
+Don't you think it's somewhat inevitable?
 > END STRING
 
 > BEGIN STRING
@@ -4171,7 +4227,9 @@ so what's the big deal, right?
 地方新聞の三面記事には　興味深く
 そして　どす黒い事実も掲載されている。
 > CONTEXT: Commonevents/196/305/Dialogue < UNTRANSLATED
-
+Just because the major media outlets don't 
+cover it, the 3rd page of the local newspaper 
+contains interesting and dark facts.
 > END STRING
 
 > BEGIN STRING
@@ -4179,7 +4237,9 @@ so what's the big deal, right?
 とある郊外の田舎町で　中年男性の乗った
 自動車が　崖から転落したらしい。
 > CONTEXT: Commonevents/196/309/Dialogue < UNTRANSLATED
-
+In a rural town far from the city center, 
+a car carrying a middle-aged man 
+reportedly plunged off a cliff.
 > END STRING
 
 > BEGIN STRING
@@ -4187,7 +4247,9 @@ so what's the big deal, right?
 逃走を企てた際に　パトカーに追われて
 その結果　転落死してしまったようだ。
 > CONTEXT: Commonevents/196/313/Dialogue < UNTRANSLATED
-
+Apparently, he was being arrested 
+for drunk driving, tried to escape, 
+and fell to death while being chased.
 > END STRING
 
 > BEGIN STRING
@@ -4196,7 +4258,10 @@ so what's the big deal, right?
 なのに　追い回した挙句　殺したんだ。
 警察だから　無罪なんておかしいよ！
 > CONTEXT: Commonevents/196/318/Dialogue < UNTRANSLATED
-
+\\NAME[Commentator]
+In the countryside, bars have parking lots.
+It's the chase that ended up killing him.
+The policeman shouldn't get away with this!
 > END STRING
 
 > BEGIN STRING
@@ -5057,7 +5122,9 @@ Thank you for your response.
 遅刻したら　また生活指導のセンコーに
 怒鳴られるでしょーが！\\.\\|\\^
 > CONTEXT: Commonevents/271/24/Dialogue < UNTRANSLATED
-
+Hey you!? Get up quickly!
+If you're late, the guidance counselor 
+will yell at you again! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5065,7 +5132,9 @@ Thank you for your response.
 いつまで　惰眠を貪って――――ッ！？\\|
 って！？　あんたさぁ……もう！！！\\.\\|\\^
 > CONTEXT: Commonevents/271/31/Dialogue < UNTRANSLATED
-
+I went through all that trouble waking 
+you up, yet you're still sleeping in---\\|
+Ehh!? What is this!!!\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5073,7 +5142,9 @@ Thank you for your response.
 だ……男性の　生理的な反応？
 なんでしょ？\\|　いいよ　わかったから！\\.\\|\\^
 > CONTEXT: Commonevents/271/38/Dialogue < UNTRANSLATED
-
+Sigh... I guess it's morning after all.
+Is it... a physiological reaction of men?
+Or what is it? \\|Fine, I get it! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5081,7 +5152,9 @@ Thank you for your response.
 顔　洗って　髪　梳かして　制服　着て
 学校………………一緒に　行くよ？\\.\\|\\^
 > CONTEXT: Commonevents/271/46/Dialogue < UNTRANSLATED
-
+Get out of bed quickly, wash your face, 
+comb your hair, put on your uniform,
+and...go to school together? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6680,7 +6753,10 @@ Thank you for your response.
 つ　ついに　やるのね
 セ……セ……ックス。
 > CONTEXT: Commonevents/286/3/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+Haa...haa...
+So, we're finally doing it.
+S...s...sex.
 > END STRING
 
 > BEGIN STRING
@@ -6689,7 +6765,10 @@ Thank you for your response.
 ないったら！　ホラ！
 ちゃんと　エレクチオンして！
 > CONTEXT: Commonevents/286/8/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[11]]
+I...I'm not nervous at all!
+Come on!
+Get a proper erection!
 > END STRING
 
 > BEGIN STRING
@@ -6697,7 +6776,9 @@ Thank you for your response.
 や……優しく　や　やってよね？
 わ……わかってる？\\.\\|\\^
 > CONTEXT: Commonevents/286/31/Dialogue < UNTRANSLATED
-
+Just so you know...um...
+Please...be gentle, okay?
+U...understand? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6705,7 +6786,9 @@ Thank you for your response.
 ちゃんと　気持ち　込めてっていうか
 とにかく　雑にすんなってことで\\.\\|\\^
 > CONTEXT: Commonevents/286/38/Dialogue < UNTRANSLATED
-
+By "gentle," I mean careful, or rather, 
+putting your feelings into it properly, 
+or simply not being careless.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6713,7 +6796,9 @@ Thank you for your response.
 ってか　あんたの方は　その……
 セ　セックスの経験　とかは──\\.\\|\\^
 > CONTEXT: Commonevents/286/45/Dialogue < UNTRANSLATED
-
+Do you understand?
+I mean, what about you...
+Got any s-sex experience, or?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6721,7 +6806,9 @@ Thank you for your response.
 い　いや　違くて……
 今のは　あんたが悪くって……\\.\\|\\^
 > CONTEXT: Commonevents/286/55/Dialogue < UNTRANSLATED
-
+Ouch...!
+N-no, not like that...
+That was your fault...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6729,7 +6816,9 @@ Thank you for your response.
 わ　わかったよ……もう　言うから
 白状するから　だから優しく……して？\\.\\|\\^
 > CONTEXT: Commonevents/286/62/Dialogue < UNTRANSLATED
-
+Ugh... I'm not doing so well.
+O-Okay... I'll tell you now.
+I'll confess, so be gentle...okay?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6737,7 +6826,9 @@ Thank you for your response.
 笑うなよ？　サキュバスなのに
 処女だなんて……気にしてたんだから。\\.\\|\\^
 > CONTEXT: Commonevents/286/69/Dialogue < UNTRANSLATED
-
+This is my first time...
+Don't laugh, okay? I'm a succubus, but... 
+I was worried about being a virgin. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6745,7 +6836,9 @@ Thank you for your response.
 だから　あんたも　ちゃんと　あたしと
 セックスしなさいってこと……っ♡\\.\\|\\^
 > CONTEXT: Commonevents/286/76/Dialogue < UNTRANSLATED
-
+Even so, I'll do it properly
+So you have to have sex with me 
+properly too...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6753,7 +6846,9 @@ Thank you for your response.
 ちょっと……慣れてきた……かも？
 体の芯から　火照ってくる感じがして\\.\\|\\^
 > CONTEXT: Commonevents/286/86/Dialogue < UNTRANSLATED
-
+Haa...Haa...Mmm♡
+I'm...getting used to it...I think?
+Like a fire deep inside my body.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6761,7 +6856,9 @@ Thank you for your response.
 行き来……するたびに　伝わって……くる
 あたたかい熱と　何かの……感情？\\.\\|\\^
 > CONTEXT: Commonevents/286/93/Dialogue < UNTRANSLATED
-
+Each time your penis goes in and out 
+of my vagina, I feel a warm heat 
+and some kind of...emotion?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6769,7 +6866,9 @@ Thank you for your response.
 あたしと　あんたが　繋がって
 今　こうして　やってること……！\\.\\|\\^
 > CONTEXT: Commonevents/286/100/Dialogue < UNTRANSLATED
-
+S-Sex...this is...
+that you and I are connected
+and doing this right now...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6777,7 +6876,9 @@ Thank you for your response.
 熱い……何かに　まるで　理性が
 とろけてくみたいに……っっ♡\\.\\|\\^
 > CONTEXT: Commonevents/286/114/Dialogue < UNTRANSLATED
-
+Ah♡ Aah♡ What is this? Something hot 
+is welling up inside me... 
+As if my reason is melting away...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6785,7 +6886,9 @@ Thank you for your response.
 頭が　沸騰する……何も　わからなく
 なってっちゃう……な　何コレ！？\\.\\|\\^
 > CONTEXT: Commonevents/286/121/Dialogue < UNTRANSLATED
-
+Hot...so hot...ahhh♡
+My head is boiling... I can't understand 
+anything anymore...what is this!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6793,7 +6896,9 @@ Thank you for your response.
 擦って……あんた　もう　出すの？
 スペルマ　出すの？　あたしの中に……！\\.\\|\\^
 > CONTEXT: Commonevents/286/128/Dialogue < UNTRANSLATED
-
+Rubbing my vagina that fast... 
+Are you cumming already?
+Are you cumming? Inside me...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6801,14 +6906,17 @@ Thank you for your response.
 もう　もう　何も　考えられない！
 こ　これが　セックスなのぉぉぉ♡♡♡\\.\\|\\^
 > CONTEXT: Commonevents/286/135/Dialogue < UNTRANSLATED
-
+Ahh♡ I mean, I can't take it, I can't♡
+I can't think straight anymore!
+Th-this is sex♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 いくうううぅぅぅうううぅぅぅ♡♡♡
 ぁ……っ　ぁ……んんん♡♡♡\\.\\|\\^
 > CONTEXT: Commonevents/286/150/Dialogue < UNTRANSLATED
-
+I'm cominggggggggg♡♡♡
+Ah...ah...mmm♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6816,7 +6924,9 @@ Thank you for your response.
 あたし　セックス……やったんだ
 ちゃんと　やれたんだ……。\\.\\|\\^
 > CONTEXT: Commonevents/286/161/Dialogue < UNTRANSLATED
-
+Haa haa... I did it
+I had sex... I did it
+I did it properly...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6824,7 +6934,9 @@ Thank you for your response.
 ことだよね……あんたと　あたし。
 ……ううん。いや　わかってるよ。\\.\\|\\^
 > CONTEXT: Commonevents/286/168/Dialogue < UNTRANSLATED
-
+And...that means...you and I 
+are united, right?
+...No, no, I know.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6832,7 +6944,9 @@ Thank you for your response.
 忘れないと……思う。\\|この先　ずっと……\\|
 初めての……あんたとの……こと。\\.\\|\\^
 > CONTEXT: Commonevents/286/177/Dialogue < UNTRANSLATED
-
+But... I'm sure I'll never forget... 
+I think. Forever and ever... 
+My first time...with you.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7060,7 +7174,7 @@ Ejaculating so much!\\.\\|\\^
 ホンマ　しゃーないやっちゃなぁ。\\.\\|\\^
 > CONTEXT: Commonevents/287/202/Dialogue
 Hey〜, you really made a mess of my face, 
-big guy. You're so hopeless.
+big guy. You're so hopeless.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7412,7 +7526,7 @@ we can stop here if you want!? \\.\\|\\^
 > CONTEXT: Commonevents/289/69/Dialogue
 Or are you saying that my hands 
 aren't good enough to properly...
-get an erection?!
+get an erection?!\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7430,7 +7544,7 @@ Then...if that's the case...\\.\\|\\^
 > CONTEXT: Commonevents/289/89/Dialogue
 Look... my breasts...
 How about you pretend to 
-feel it a little more?
+feel it a little more?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7450,7 +7564,7 @@ A reward...? \\.\\|\\^
 > CONTEXT: Commonevents/289/103/Dialogue
 Well, because of our circumstances,
 it would be unfair towards you
-otherwise.
+otherwise.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7558,7 +7672,7 @@ Why, with such force!? \\.\\|\\^
 > CONTEXT: Commonevents/289/202/Dialogue
 Haa...haa...amazing, amazing!
 So much...coming out!
-Haa...haa... Seriously?
+Haa...haa... Seriously?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7568,7 +7682,7 @@ Haa...haa... Seriously?
 > CONTEXT: Commonevents/289/209/Dialogue
 On my face...warm and sticky... 
 Is this sperm? 
-Is this your...semen?
+Is this your...semen?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
