@@ -3,7 +3,7 @@
 \\NAME[\\n[11]]
 ようやっと　お出ましね。
 待ちくたびれたよ……まったく。
-> CONTEXT: Map094/events/24/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/2/Dialogue
 \\NAME[\\n[11]]
 Finally you showed up.
 I've been waiting forever...
@@ -15,7 +15,7 @@ Honestly.
 ……で　ここまで来てもらって
 なんだけど……今から　あたしと
 戦ってもらうから……！
-> CONTEXT: Map094/events/24/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/6/Dialogue
 \\NAME[\\n[11]]
 ...So, you've come all the way...
 but now you'll fight me...!
@@ -26,7 +26,7 @@ but now you'll fight me...!
 もちろん　一対一で！
 あたしと　タイマンすんの！
 わかったぁ！？
-> CONTEXT: Map094/events/24/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/11/Dialogue
 \\NAME[\\n[11]]
 Of course, one-on-one!
 One-on-one against me!
@@ -38,7 +38,7 @@ Got it?!
 ……そ　それで　もし
 あんたが　勝ったら
 約束の…………してあげるから。
-> CONTEXT: Map094/events/24/pages/1/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/16/Dialogue
 \\NAME[\\n[11]]
 ...So, if...
 you win...
@@ -50,7 +50,7 @@ I'll do as promised...
 準備はいい？
 ……ってか　あたしと
 戦うことに　同意……する？
-> CONTEXT: Map094/events/24/pages/1/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/25/Dialogue
 \\NAME[\\n[11]]
 Are you ready?
 ...I mean, do you agree
@@ -62,7 +62,7 @@ to fight me?
 ……あっそ。言っとっけど
 手加減はしないから　ちゃんと
 準備してから　挑んできてよ！？
-> CONTEXT: Map094/events/24/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/34/Dialogue
 \\NAME[\\n[11]]
 ...Okay then, I'm telling you, I won't 
 hold back, so are you properly 
@@ -74,7 +74,7 @@ prepared before you challenge me!?
 じゃ　行くよ！
 手加減なんて　しないから！
 絶対……しないんだからっ！
-> CONTEXT: Map094/events/24/pages/1/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/46/Dialogue
 \\NAME[\\n[11]]
 Okay, let's go!
 I'm not going to hold back!
@@ -86,7 +86,7 @@ I...absolutely won't!
 ちょっと！？　何やってんの！？
 しっかり　しなさいっ！
 まったく　もう！
-> CONTEXT: Map094/events/24/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/102/Dialogue
 \\NAME[\\n[11]]
 Hey!? What's the big idea!?
 Get a grip!
@@ -98,7 +98,7 @@ Honestly!
 次は無いよ？　もう一度戦う前に
 \\C[6]宝箱を確かめたり\\C[0]　あと戦闘中も
 あたしの動きを　よく読んで
-> CONTEXT: Map094/events/24/pages/1/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/121/Dialogue
 \\NAME[\\n[11]]
 There won't be a next time, okay? Before we fight,
 \\C[6]Check the treasure chests\\C[0], and in battle,
@@ -110,7 +110,7 @@ read my movements carefully.
 大技を出す前に　防御したり──
 って！　別にあんたに　塩を
 送ってるわけじゃないんだから！
-> CONTEXT: Map094/events/24/pages/1/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/1/126/Dialogue
 \\NAME[\\n[11]]
 Defend before I unleash my big move---
 Hey! It's not like I'm sending salt
@@ -121,7 +121,7 @@ to my enemy!
 \\NAME[\\n[11]]
 ……どうやら　これでＯＫ
 ……ってことかな？
-> CONTEXT: Map094/events/24/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/2/1/Dialogue
 \\NAME[\\n[11]]
 ...This seems okay.
 ...I guess that's that?
@@ -131,7 +131,7 @@ to my enemy!
 \\NAME[\\n[11]]
 なっ！
 なんでもない！　こっちの話！
-> CONTEXT: Map094/events/24/pages/2/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/2/5/Dialogue
 \\NAME[\\n[11]]
 What?!
 It's nothing! Just something 
@@ -143,7 +143,7 @@ I was thinking about!
 そ……それより
 や　や　約束は　ちゃんと
 果たすから……。
-> CONTEXT: Map094/events/24/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/2/9/Dialogue
 \\NAME[\\n[11]]
 M-more importantly,
 I-I-I'll definitely 
@@ -155,7 +155,7 @@ keep my promise...
 こっちに……来て？
 来なさいっ！
 ちゃんと　や　や　やるよっ！
-> CONTEXT: Map094/events/24/pages/2/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/24/pages/2/15/Dialogue
 \\NAME[\\n[11]]
 Come...over here?
 Come on!

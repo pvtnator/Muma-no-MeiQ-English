@@ -11507,8 +11507,8 @@
 
 > BEGIN STRING
 "鋼鉄ブーメラン"
-> CONTEXT: Scripts/ショップ在庫制/161:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/161:3
+"Steel Boomerang"
 > END STRING
 
 > BEGIN STRING
@@ -11532,8 +11532,8 @@
 
 > BEGIN STRING
 "突撃ラッパ"
-> CONTEXT: Scripts/ショップ在庫制/163:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/163:3
+"Charge Bugle"
 > END STRING
 
 > BEGIN STRING
@@ -11676,8 +11676,8 @@
 
 > BEGIN STRING
 "超級車剣"
-> CONTEXT: Scripts/ショップ在庫制/188:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/188:3
+"Master Shuriken"
 > END STRING
 
 > BEGIN STRING

@@ -1542,42 +1542,42 @@ A soldier's instrument with a protruding mute
 
 > BEGIN STRING
 あかき焔槍
-> CONTEXT: Weapons/311/name/ < UNTRANSLATED
+> CONTEXT: Weapons/311/name/
 Red Flame Spear
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/\\C[6]追炎貫\\C[0]
 己の容姿に似合うよう考え　デザインした槍
-> CONTEXT: Weapons/311/description/ < UNTRANSLATED
+> CONTEXT: Weapons/311/description/
 Skills: Cut/Thrust/\\C[6]Flame Pierce\\C[0]
 A spear designed to suit her own appearance
 > END STRING
 
 > BEGIN STRING
 あおき海斧
-> CONTEXT: Weapons/312/name/ < UNTRANSLATED
+> CONTEXT: Weapons/312/name/
 Blue Ice Spear
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打/\\C[6]追氷斬\\C[0]
 愛情と強権さを兼ね備えた　凍てつく戦斧
-> CONTEXT: Weapons/312/description/ < UNTRANSLATED
+> CONTEXT: Weapons/312/description/
 Skills: Slash/Hit/\\C[6]Frost Slash\\C[0]
 A freezing battle axe of love and authoritarianism
 > END STRING
 
 > BEGIN STRING
 むらさき靂鎚
-> CONTEXT: Weapons/313/name/ < UNTRANSLATED
+> CONTEXT: Weapons/313/name/
 Purple Lightning Hammer
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]追雷打\\C[0]
 嗜虐心をそそる　巨大で冒涜的なハンマー
-> CONTEXT: Weapons/313/description/ < UNTRANSLATED
+> CONTEXT: Weapons/313/description/
 Skills: Hit/\\C[6]Thunderclap\\C[0]
 A blasphemous hammer that arouses sadistic desires
 > END STRING

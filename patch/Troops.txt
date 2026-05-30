@@ -3644,7 +3644,7 @@ Sunny eye start to move!
 \\NAME[\\n[11]]
 くっ……！　なかなか　やるじゃない。
 あんたの……勝ちだよ。
-> CONTEXT: Troops/811/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/811/pages/2/8/Dialogue
 \\NAME[\\n[11]]
 Damn...! Not bad.
 You...win.
@@ -3652,7 +3652,7 @@ You...win.
 
 > BEGIN STRING
 \\n[11]を　屈服させた！
-> CONTEXT: Troops/811/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/811/pages/2/12/Dialogue
 Subdued \\n[11]!
 > END STRING
 

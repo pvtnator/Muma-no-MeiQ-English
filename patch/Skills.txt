@@ -414,21 +414,21 @@ Unleashe fire towards the enemy from range
 
 > BEGIN STRING
 追炎貫
-> CONTEXT: Skills/45/name/ < UNTRANSLATED
+> CONTEXT: Skills/45/name/
 Flame Pierce
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0](突貫)⇒拡:PSY*\\C[9]Ｄ\\C[0](火炎)〙\\i[30]
 刺突放ち　追撃の拡散遠隔火炎で焼く連撃
-> CONTEXT: Skills/45/description/ < UNTRANSLATED
+> CONTEXT: Skills/45/description/
 [Single:ATK*\\C[9]C\\C[0](Charge)⇒Area:PSY*\\C[9]D\\C[0](Fire)]\\i[30]
 A thrusting attack followed by a ranged flame attack
 > END STRING
 
 > BEGIN STRING
 は　追炎貫を放った！
-> CONTEXT: Skills/45/message1/ < UNTRANSLATED
+> CONTEXT: Skills/45/message1/
  unleashed Flame Pierce!
 > END STRING
 
@@ -530,21 +530,21 @@ Dual attribute ice infused slash
 
 > BEGIN STRING
 追氷斬
-> CONTEXT: Skills/54/name/ < UNTRANSLATED
+> CONTEXT: Skills/54/name/
 Frost Slash
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0](切斬)⇒拡:PSY*\\C[9]Ｄ\\C[0](水氷)〙\\i[30]
 斬撃放ち　追撃の拡散遠隔水氷を生む連撃
-> CONTEXT: Skills/54/description/ < UNTRANSLATED
+> CONTEXT: Skills/54/description/
 [Single:ATK*\\C[9]C\\C[0](Slash)⇒Area:PSY*\\C[9]D\\C[0](Water/Ice)]\\i[30]
 A slashing attack followed by a ranged ice attack
 > END STRING
 
 > BEGIN STRING
 は　追氷斬を放った！
-> CONTEXT: Skills/54/message1/ < UNTRANSLATED
+> CONTEXT: Skills/54/message1/
  unleashed Frost Slash!
 > END STRING
 
@@ -703,14 +703,14 @@ Dual attribute strike imbued with lightning
 
 > BEGIN STRING
 追雷打
-> CONTEXT: Skills/66/name/ < UNTRANSLATED
+> CONTEXT: Skills/66/name/
 Thunderclap
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0](打壊)⇒拡:PSY*\\C[9]Ｄ\\C[0](雷電)〙\\i[30]
 殴打放ち　追撃の拡散遠隔雷電が走る連撃
-> CONTEXT: Skills/66/description/ < UNTRANSLATED
+> CONTEXT: Skills/66/description/
 [Single:ATK*\\C[9]C\\C[0](Strike)⇒Area:PSY*\\C[9]D\\C[0](Lightning)]\\i[30]
 A hit followed by a ranged lightning attack
 > END STRING
@@ -761,35 +761,35 @@ A hit followed by a ranged lightning attack
 
 > BEGIN STRING
 魔族の証
-> CONTEXT: Skills/70/name/ < UNTRANSLATED
-> CONTEXT: States/361/name/ < UNTRANSLATED
+> CONTEXT: Skills/70/name/
+> CONTEXT: States/361/name/
 Demon's Mark
 > END STRING
 
 > BEGIN STRING
 
 人類に仇なす種族が有する　不可視の烙印
-> CONTEXT: Skills/70/description/ < UNTRANSLATED
+> CONTEXT: Skills/70/description/
 Invisible mark of races hostile to humanity
 > END STRING
 
 > BEGIN STRING
 ローターラウフ
-> CONTEXT: Skills/71/name/ < UNTRANSLATED
+> CONTEXT: Skills/71/name/
 Rotlauf
 > END STRING
 
 > BEGIN STRING
 〘全:目潰付与(高)+口封付与(高)〙\\i[30]
 紅き煤煙で　敵陣の頭部を覆う
-> CONTEXT: Skills/71/description/ < UNTRANSLATED
-[All: Blind(L)/Mouth Bind(L)]\i[30]
+> CONTEXT: Skills/71/description/
+[All: Blind(L)/Mouth Bind(L)]\\i[30]
 Cover the enemy's heads with crimson soot
 > END STRING
 
 > BEGIN STRING
 の　ローターラウフ！
-> CONTEXT: Skills/71/message1/ < UNTRANSLATED
+> CONTEXT: Skills/71/message1/
  used Rotlauf!
 > END STRING
 

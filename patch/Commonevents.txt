@@ -1041,7 +1041,7 @@ lingering scent...
 えと……その……あ　あ　あり──
 あえっと……あぁ　そうそう　これで
 夢界中心に　あたしは　来れたよ。
-> CONTEXT: Commonevents/103/5/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/5/Dialogue
 \\NAME[\\n[11]]
 Um...well...ah, thank you--
 Um...ah, right, with this, I've made it 
@@ -1053,7 +1053,7 @@ to Central Realms of Reverie.
 通信端末のところに　いるからさ。
 \\C[6]預かり機能も　使えるようになった\\C[0]し
 あんたの冒険も　手助けできるから。
-> CONTEXT: Commonevents/103/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/11/Dialogue
 \\NAME[\\n[11]]
 I'm at the communication terminal.
 \\C[6]The storage function is now available\\C[0] 
@@ -1065,7 +1065,7 @@ and I can help you with your adventure.
 理想を言えば　夢界中心の商店で売ってる
 『ロゴスの鍵』ってのが　必要なんだけど
 ……まぁ　それは　ゆっくりでも……。
-> CONTEXT: Commonevents/103/17/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/17/Dialogue
 \\NAME[\\n[11]]
 Ideally, you'd need the 'Key to Logos,' 
 which is sold in the shop of Central Realms 
@@ -1076,7 +1076,7 @@ of Reverie... Well, that can wait...
 \\NAME[\\n[11]]
 ってか　鍵　持ってんじゃん！
 ……マジか。
-> CONTEXT: Commonevents/103/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/24/Dialogue
 \\NAME[\\n[11]]
 Wait, you have the key!
 ...Seriously?
@@ -1087,7 +1087,7 @@ Wait, you have the key!
 とにかく　その……たっ　助かったよ。
 うん……。
 ………………あ　ありがとう。
-> CONTEXT: Commonevents/103/32/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/32/Dialogue
 \\NAME[\\n[11]]
 Anyway, um...thank you.
 Yeah...
@@ -4079,7 +4079,7 @@ so you can't say the man is entirely to blame!
 芸能人たちの　相次ぐ
 覚醒剤取締法違反による　逮捕劇。
 その実例には　枚挙に暇がない。
-> CONTEXT: Commonevents/196/155/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/155/Dialogue
 The series of arrests of celebrities 
 for violating the Stimulant Control Act 
 is endless.
@@ -4089,7 +4089,7 @@ is endless.
 何故　彼ら彼女らは
 クスリに　手を出してしまうのか。
 何故　再犯を繰り返すのか？
-> CONTEXT: Commonevents/196/159/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/159/Dialogue
 Why do they turn to drugs?
 Why do they keep re-offending?
 > END STRING
@@ -4098,7 +4098,7 @@ Why do they keep re-offending?
 さる芸能ライターは　タレントたちの
 根源的な　快楽を求める本質が
 薬物依存への　原因だと分析する。
-> CONTEXT: Commonevents/196/163/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/163/Dialogue
 An entertainment writer analyzes that 
 the desire for pleasure among celebrities 
 is the cause of their drug addiction.
@@ -4109,7 +4109,7 @@ is the cause of their drug addiction.
 鬱屈した人生を　輝かせる為に
 快感を求めていった　結果ですからね。
 多少は止む無しとも　思いませんか？
-> CONTEXT: Commonevents/196/168/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/168/Dialogue
 \\NAME[Commentator]
 Isn't it just the result of seeking pleasure 
 to make a life of frustration shine?
@@ -4226,7 +4226,7 @@ so what's the big deal, right?
 大手メディアが　取り上げないだけで
 地方新聞の三面記事には　興味深く
 そして　どす黒い事実も掲載されている。
-> CONTEXT: Commonevents/196/305/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/305/Dialogue
 Just because the major media outlets don't 
 cover it, the 3rd page of the local newspaper 
 contains interesting and dark facts.
@@ -4236,7 +4236,7 @@ contains interesting and dark facts.
 都心から　だいぶ離れた
 とある郊外の田舎町で　中年男性の乗った
 自動車が　崖から転落したらしい。
-> CONTEXT: Commonevents/196/309/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/309/Dialogue
 In a rural town far from the city center, 
 a car carrying a middle-aged man 
 reportedly plunged off a cliff.
@@ -4246,7 +4246,7 @@ reportedly plunged off a cliff.
 どうやら　警察に飲酒運転を咎められ
 逃走を企てた際に　パトカーに追われて
 その結果　転落死してしまったようだ。
-> CONTEXT: Commonevents/196/313/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/313/Dialogue
 Apparently, he was being arrested 
 for drunk driving, tried to escape, 
 and fell to death while being chased.
@@ -4257,7 +4257,7 @@ and fell to death while being chased.
 田舎じゃ　飲み屋に駐車場なんて当たり前
 なのに　追い回した挙句　殺したんだ。
 警察だから　無罪なんておかしいよ！
-> CONTEXT: Commonevents/196/318/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/318/Dialogue
 \\NAME[Commentator]
 In the countryside, bars have parking lots.
 It's the chase that ended up killing him.
@@ -5121,7 +5121,7 @@ Thank you for your response.
 ちょっと　あんた！？　早く起きなさい！
 遅刻したら　また生活指導のセンコーに
 怒鳴られるでしょーが！\\.\\|\\^
-> CONTEXT: Commonevents/271/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/271/24/Dialogue
 Hey you!? Get up quickly!
 If you're late, the guidance counselor 
 will yell at you again! \\.\\|\\^
@@ -5131,7 +5131,7 @@ will yell at you again! \\.\\|\\^
 折角　起こしにやってきたってのに
 いつまで　惰眠を貪って――――ッ！？\\|
 って！？　あんたさぁ……もう！！！\\.\\|\\^
-> CONTEXT: Commonevents/271/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/271/31/Dialogue
 I went through all that trouble waking 
 you up, yet you're still sleeping in---\\|
 Ehh!? What is this!!!\\.\\|\\^
@@ -5141,7 +5141,7 @@ Ehh!? What is this!!!\\.\\|\\^
 はぁ……仕方ないか。朝なんだし。
 だ……男性の　生理的な反応？
 なんでしょ？\\|　いいよ　わかったから！\\.\\|\\^
-> CONTEXT: Commonevents/271/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/271/38/Dialogue
 Sigh... I guess it's morning after all.
 Is it... a physiological reaction of men?
 Or what is it? \\|Fine, I get it! \\.\\|\\^
@@ -5151,7 +5151,7 @@ Or what is it? \\|Fine, I get it! \\.\\|\\^
 さっさと　ベッドから　出て
 顔　洗って　髪　梳かして　制服　着て
 学校………………一緒に　行くよ？\\.\\|\\^
-> CONTEXT: Commonevents/271/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/271/46/Dialogue
 Get out of bed quickly, wash your face, 
 comb your hair, put on your uniform,
 and...go to school together? \\.\\|\\^
@@ -6752,7 +6752,7 @@ and...go to school together? \\.\\|\\^
 ハァ……ハァ……。
 つ　ついに　やるのね
 セ……セ……ックス。
-> CONTEXT: Commonevents/286/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/3/Dialogue
 \\NAME[\\n[11]]
 Haa...haa...
 So, we're finally doing it.
@@ -6764,7 +6764,7 @@ S...s...sex.
 き……緊張してなんか
 ないったら！　ホラ！
 ちゃんと　エレクチオンして！
-> CONTEXT: Commonevents/286/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/8/Dialogue
 \\NAME[\\n[11]]
 I...I'm not nervous at all!
 Come on!
@@ -6775,7 +6775,7 @@ Get a proper erection!
 一応　言っておくけど……そのっ
 や……優しく　や　やってよね？
 わ……わかってる？\\.\\|\\^
-> CONTEXT: Commonevents/286/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/31/Dialogue
 Just so you know...um...
 Please...be gentle, okay?
 U...understand? \\.\\|\\^
@@ -6785,7 +6785,7 @@ U...understand? \\.\\|\\^
 優しくって言うのは　丁寧にっていうか
 ちゃんと　気持ち　込めてっていうか
 とにかく　雑にすんなってことで\\.\\|\\^
-> CONTEXT: Commonevents/286/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/38/Dialogue
 By "gentle," I mean careful, or rather, 
 putting your feelings into it properly, 
 or simply not being careless.\\.\\|\\^
@@ -6795,7 +6795,7 @@ or simply not being careless.\\.\\|\\^
 あんた　わかってんの？
 ってか　あんたの方は　その……
 セ　セックスの経験　とかは──\\.\\|\\^
-> CONTEXT: Commonevents/286/45/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/45/Dialogue
 Do you understand?
 I mean, what about you...
 Got any s-sex experience, or?\\.\\|\\^
@@ -6805,7 +6805,7 @@ Got any s-sex experience, or?\\.\\|\\^
 痛……ッ！
 い　いや　違くて……
 今のは　あんたが悪くって……\\.\\|\\^
-> CONTEXT: Commonevents/286/55/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/55/Dialogue
 Ouch...!
 N-no, not like that...
 That was your fault...\\.\\|\\^
@@ -6815,7 +6815,7 @@ That was your fault...\\.\\|\\^
 うぅ……良くないなぁ　あたし。
 わ　わかったよ……もう　言うから
 白状するから　だから優しく……して？\\.\\|\\^
-> CONTEXT: Commonevents/286/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/62/Dialogue
 Ugh... I'm not doing so well.
 O-Okay... I'll tell you now.
 I'll confess, so be gentle...okay?\\.\\|\\^
@@ -6825,7 +6825,7 @@ I'll confess, so be gentle...okay?\\.\\|\\^
 初めて……なんだよ。
 笑うなよ？　サキュバスなのに
 処女だなんて……気にしてたんだから。\\.\\|\\^
-> CONTEXT: Commonevents/286/69/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/69/Dialogue
 This is my first time...
 Don't laugh, okay? I'm a succubus, but... 
 I was worried about being a virgin. \\.\\|\\^
@@ -6835,7 +6835,7 @@ I was worried about being a virgin. \\.\\|\\^
 それでも　あたし　ちゃんと　やるから
 だから　あんたも　ちゃんと　あたしと
 セックスしなさいってこと……っ♡\\.\\|\\^
-> CONTEXT: Commonevents/286/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/76/Dialogue
 Even so, I'll do it properly
 So you have to have sex with me 
 properly too...♡\\.\\|\\^
@@ -6845,7 +6845,7 @@ properly too...♡\\.\\|\\^
 ハァ……ハァ……んっっ♡
 ちょっと……慣れてきた……かも？
 体の芯から　火照ってくる感じがして\\.\\|\\^
-> CONTEXT: Commonevents/286/86/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/86/Dialogue
 Haa...Haa...Mmm♡
 I'm...getting used to it...I think?
 Like a fire deep inside my body.\\.\\|\\^
@@ -6855,7 +6855,7 @@ Like a fire deep inside my body.\\.\\|\\^
 あんたのペニスが　あたしのヴァギナを
 行き来……するたびに　伝わって……くる
 あたたかい熱と　何かの……感情？\\.\\|\\^
-> CONTEXT: Commonevents/286/93/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/93/Dialogue
 Each time your penis goes in and out 
 of my vagina, I feel a warm heat 
 and some kind of...emotion?\\.\\|\\^
@@ -6865,7 +6865,7 @@ and some kind of...emotion?\\.\\|\\^
 セ　セックス……これが……
 あたしと　あんたが　繋がって
 今　こうして　やってること……！\\.\\|\\^
-> CONTEXT: Commonevents/286/100/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/100/Dialogue
 S-Sex...this is...
 that you and I are connected
 and doing this right now...! \\.\\|\\^
@@ -6875,7 +6875,7 @@ and doing this right now...! \\.\\|\\^
 ぁ♡　あぁ♡　何これ？　込み上げてくる
 熱い……何かに　まるで　理性が
 とろけてくみたいに……っっ♡\\.\\|\\^
-> CONTEXT: Commonevents/286/114/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/114/Dialogue
 Ah♡ Aah♡ What is this? Something hot 
 is welling up inside me... 
 As if my reason is melting away...♡\\.\\|\\^
@@ -6885,7 +6885,7 @@ As if my reason is melting away...♡\\.\\|\\^
 熱い……熱い……はぁん♡
 頭が　沸騰する……何も　わからなく
 なってっちゃう……な　何コレ！？\\.\\|\\^
-> CONTEXT: Commonevents/286/121/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/121/Dialogue
 Hot...so hot...ahhh♡
 My head is boiling... I can't understand 
 anything anymore...what is this!? \\.\\|\\^
@@ -6895,7 +6895,7 @@ anything anymore...what is this!? \\.\\|\\^
 そんなに速く　あたしのヴァギナ
 擦って……あんた　もう　出すの？
 スペルマ　出すの？　あたしの中に……！\\.\\|\\^
-> CONTEXT: Commonevents/286/128/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/128/Dialogue
 Rubbing my vagina that fast... 
 Are you cumming already?
 Are you cumming? Inside me...! \\.\\|\\^
@@ -6905,7 +6905,7 @@ Are you cumming? Inside me...! \\.\\|\\^
 あぁ♡　ってか　もうダメっ　ダメっ♡
 もう　もう　何も　考えられない！
 こ　これが　セックスなのぉぉぉ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/286/135/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/135/Dialogue
 Ahh♡ I mean, I can't take it, I can't♡
 I can't think straight anymore!
 Th-this is sex♡♡♡\\.\\|\\^
@@ -6914,7 +6914,7 @@ Th-this is sex♡♡♡\\.\\|\\^
 > BEGIN STRING
 いくうううぅぅぅうううぅぅぅ♡♡♡
 ぁ……っ　ぁ……んんん♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/286/150/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/150/Dialogue
 I'm cominggggggggg♡♡♡
 Ah...ah...mmm♡♡♡\\.\\|\\^
 > END STRING
@@ -6923,7 +6923,7 @@ Ah...ah...mmm♡♡♡\\.\\|\\^
 ハァハァ……やったっ
 あたし　セックス……やったんだ
 ちゃんと　やれたんだ……。\\.\\|\\^
-> CONTEXT: Commonevents/286/161/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/161/Dialogue
 Haa haa... I did it
 I had sex... I did it
 I did it properly...\\.\\|\\^
@@ -6933,7 +6933,7 @@ I did it properly...\\.\\|\\^
 そ　それに……む　結ばれたって
 ことだよね……あんたと　あたし。
 ……ううん。いや　わかってるよ。\\.\\|\\^
-> CONTEXT: Commonevents/286/168/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/168/Dialogue
 And...that means...you and I 
 are united, right?
 ...No, no, I know.\\.\\|\\^
@@ -6943,7 +6943,7 @@ are united, right?
 でも……きっと　あたしは
 忘れないと……思う。\\|この先　ずっと……\\|
 初めての……あんたとの……こと。\\.\\|\\^
-> CONTEXT: Commonevents/286/177/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/286/177/Dialogue
 But... I'm sure I'll never forget... 
 I think. Forever and ever... 
 My first time...with you.\\.\\|\\^

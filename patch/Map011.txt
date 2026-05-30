@@ -22,7 +22,7 @@ Invite to Partyen(s[31])
 あ　抜けとく？
 ま　いいけど……さ。
 あたし抜きでも　しっかり　やんなよ？
-> CONTEXT: Map011/events/1/pages/1/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/87/Dialogue
 \\NAME[\\n[11]]
 Ah, I should leave? Well, 
 that's fine... But make sure you 
@@ -31,8 +31,8 @@ do a good job even without me, okay?
 
 > BEGIN STRING
 \\n[11]が　仲魔から　はずれた。
-> CONTEXT: Map011/events/1/pages/1/97/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/106/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/97/Dialogue
+> CONTEXT: Commonevents/106/15/Dialogue
 \\n[11] left the party.
 > END STRING
 
@@ -40,7 +40,7 @@ do a good job even without me, okay?
 \\NAME[\\n[11]]
 仲魔になるのは　良いけど
 あたし任せにすんのは　ダメだからねっ！
-> CONTEXT: Map011/events/1/pages/1/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/104/Dialogue
 \\NAME[\\n[11]]
 I can be your ally, but you 
 can't leave everything to me!
@@ -48,8 +48,8 @@ can't leave everything to me!
 
 > BEGIN STRING
 \\n[11]が　仲魔に　くわわった！
-> CONTEXT: Map011/events/1/pages/1/113/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/399/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/113/Dialogue
+> CONTEXT: Commonevents/399/82/Dialogue
 \\n[11] joined your party!
 > END STRING
 
@@ -73,7 +73,7 @@ Ready to go in?
 > BEGIN STRING
 \\NAME[\\n[11]]
 備え有れば　憂い無しって言うからね。
-> CONTEXT: Map011/events/1/pages/1/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/1/188/Dialogue
 \\NAME[\\n[11]]
 They say, "Forewarned is forearmed."
 > END STRING
@@ -251,7 +251,7 @@ so you'll have an advantage, get it?
 その……まぁ　あたしも　少しくらいは
 ダンジョン攻略中に　世間話とか……
 って　思わないことも……ないけどさ。
-> CONTEXT: Map011/events/1/pages/2/257/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/2/257/Dialogue
 \\NAME[\\n[11]]
 Well... I mean, I do sometimes think 
 that I'd like to make small talk or 
@@ -263,7 +263,7 @@ something while we're exploring a dungeon...
 でも　そういうのは　二人きりの……時が
 良いっていうか……リ　リーダーとして！
 余所見してるとこ　見られたくないから！
-> CONTEXT: Map011/events/1/pages/2/263/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/2/263/Dialogue
 \\NAME[\\n[11]]
 But those kinds of things are better 
 with just the two of us... I mean... 
@@ -275,7 +275,7 @@ as a leader! I shouldn't be distracted!
 はぁぁぁぁぁぁぁぁぁ！！！？？？
 聖焔のロザリオを　失くしたって！？
 知らないよ　そんなの！
-> CONTEXT: Map011/events/1/pages/3/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/19/Dialogue
 \\NAME[\\n[11]]
 Haaaaaaaaaaaaaa!!! ???
 She lost the Holy Flame Rosary!?
@@ -287,7 +287,7 @@ I didn't know anything about that!
 どうしてもって　言うんなら
 用意するけど　その代わり
 お代は　法外だからね！？
-> CONTEXT: Map011/events/1/pages/3/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/27/Dialogue
 \\NAME[\\n[11]]
 If you insist, I'll make one, 
 but can you pay that much!?
@@ -298,7 +298,7 @@ but can you pay that much!?
 しょうがないな……もうっ！
 何とかして　例の場所に　届けておくから
 回収して　あかき迷宮を　踏破しなさい！
-> CONTEXT: Map011/events/1/pages/3/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/35/Dialogue
 \\NAME[\\n[11]]
 Well, I guess there's no other way... Ugh!
 I'll somehow get it there,
@@ -345,7 +345,7 @@ all that difficult...
 あんたのおかげで　少しだけ
 行動可能範囲が　広がったよ。
 ……うんうんっ！
-> CONTEXT: Map011/events/1/pages/3/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/94/Dialogue
 \\NAME[\\n[11]]
 Thanks to you, the reach of my powers 
 expanded a little... Yep yep!
@@ -356,7 +356,7 @@ expanded a little... Yep yep!
 だからって　気を抜かないようにねっ！
 夢魔の迷宮は　ナメてかかると
 すぐに　全滅しちゃうんだから！
-> CONTEXT: Map011/events/1/pages/3/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/3/100/Dialogue
 \\NAME[\\n[11]]
 But don't let your guard down! If you 
 underestimate the Maze of Succubus,
