@@ -3667,13 +3667,15 @@ Subdued \\n[11]!
 ちょっと　待って　待って！
 私……もう　降参だからね。
 > CONTEXT: Troops/812/pages/2/8/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+Wait, wait!
+I... I surrender.
 > END STRING
 
 > BEGIN STRING
 \\n[12]を　屈服させた！
 > CONTEXT: Troops/812/pages/2/12/Dialogue < UNTRANSLATED
-
+Subdued \\n[12]!
 > END STRING
 
 > BEGIN STRING

@@ -107,7 +107,7 @@ Bronze Greatsword
 習:切払/刺突/平打〘両〙
 両手で扱う　大振りのブロンズソード
 > CONTEXT: Weapons/21/description/
-Skills: Cut/Thrust/Blunt Strike [2H]
+Skills: Cut/Thrust/Blunt Strike[2H]
 A large bronze sword wielded with both hands
 > END STRING
 
@@ -121,7 +121,7 @@ Steel Greatsword
 習:切払/刺突/平打/\\C[6]アブゼッツェン\\C[0]〘両〙
 腕自慢の兵隊長も扱う　堂々たる両手剣
 > CONTEXT: Weapons/22/description/
-Skills: Cut/Thrust/Blunt Strike/\\C[6]Abzetzen\\C[0] [2H]
+Skills: Cut/Thrust/Blunt Strike/\\C[6]Abzetzen\\C[0][2H]
 A magnificent sword befitting a commander
 > END STRING
 
@@ -135,7 +135,7 @@ Platinum Greatsword
 習:切払/刺突/平打/\\C[6]ドライヴンダー\\C[0]〘両〙
 携えば一目置かれる　銀光沢を放つ両手剣
 > CONTEXT: Weapons/23/description/
-Skills: Cut/Thrust/Blunt Strike/\\C[6]Drei Wunder\\C[0] [2H]
+Skills: Cut/Thrust/Blunt Strike/\\C[6]Drei Wunder\\C[0][2H]
 A sword that shines silver, commanding respect
 > END STRING
 
@@ -149,7 +149,7 @@ Adamantine Greatsword
 習:切払/刺突/平打〘両〙
 剣聖と評される者が持つ　最上級の両手剣
 > CONTEXT: Weapons/24/description/
-Skills: Cut/Thrust/Blunt Strike [2H]
+Skills: Cut/Thrust/Blunt Strike[2H]
 The finest sword wielded by sword saints
 > END STRING
 
@@ -163,7 +163,7 @@ Wooden Greatsword
 習:平打/\\C[6]小手突き\\C[0]〘両〙
 稽古用の和刀　斬るよりも殴る用
 > CONTEXT: Weapons/40/description/
-Skills: Blunt Strike/\\C[6]Wrist Thrust\\C[0] [2H]
+Skills: Blunt Strike/\\C[6]Wrist Thrust\\C[0][2H]
 Training sword; more for striking than cutting
 > END STRING
 
@@ -177,7 +177,7 @@ Wakizashi
 習:斬撃/刺突〘両〙
 補助的に使う小さな刀だが　切れ味は本物
 > CONTEXT: Weapons/41/description/
-Skills: Slash/Thrust [2H]
+Skills: Slash/Thrust[2H]
 For auxiliary purposes, but genuinely sharp
 > END STRING
 
@@ -191,7 +191,7 @@ Uchikatana
 習:斬撃/刺突/\\C[6]無双逆流れ\\C[0]〘両〙
 腰に差して扱う　標準的な和刀
 > CONTEXT: Weapons/42/description/
-Skills: Slash/Thrust/\\C[6]Reverse Flow Slash\\C[0] [2H]
+Skills: Slash/Thrust/\\C[6]Reverse Flow Slash\\C[0][2H]
 A standard Japanese sword worn at the waist
 > END STRING
 
@@ -205,7 +205,7 @@ White Steel Sword
 習:斬撃/刺突〘両〙
 名立たる勇将が用いた　長大な太刀
 > CONTEXT: Weapons/43/description/
-Skills: Slash/Thrust [2H]
+Skills: Slash/Thrust[2H]
 A long, powerful sword used by renowned warriors
 > END STRING
 
@@ -219,7 +219,7 @@ Odachi
 習:斬撃/刺突/\\C[6]１６回斬り\\C[0]〘両〙
 アボイタカラ金属で作刀　最上級の和刀
 > CONTEXT: Weapons/44/description/
-Skills: Slash/Thrust/\\C[6]16 Slashes\\C[0] [2H]
+Skills: Slash/Thrust/\\C[6]16 Slashes\\C[0][2H]
 Finest Japanese sword made from Aboitakara metal
 > END STRING
 
@@ -233,7 +233,7 @@ Washing Pole
 習:斬撃/刺突/\\C[6]燕返し\\C[0]〘両〙
 あまりに長大で　武骨な野太刀
 > CONTEXT: Weapons/45/description/
-Skills: Slash/Thrust/\\C[6]Swallow Reversal\\C[0] [2H]
+Skills: Slash/Thrust/\\C[6]Swallow Reversal\\C[0][2H]
 An extremely long and rugged nodachi
 > END STRING
 
@@ -304,7 +304,7 @@ Curved sword like a scythe hunting snake heads
 
 > CONTEXT: Weapons/61/description/
 > CONTEXT: Weapons/68/description/
-Skills: Slash/Thrust [2H]
+Skills: Slash/Thrust[2H]
 
 > END STRING
 
@@ -792,7 +792,7 @@ Wood Club
 習:殴打〘両〙
 ケヤキ材を削って作った　簡素な武器
 > CONTEXT: Weapons/130/description/
-Skill: Hit [2H]
+Skill: Hit[2H]
 A simple weapon made by carving zelkova wood.
 > END STRING
 
@@ -806,7 +806,7 @@ White Wax Club
 習:殴打〘両〙
 初級武芸者が扱う　真っ白な棍棒
 > CONTEXT: Weapons/131/description/
-Skill: Hit [2H]
+Skill: Hit[2H]
 A pure white club used by beginner fighters
 > END STRING
 
@@ -820,7 +820,7 @@ Rosewood Club
 習:殴打/\\C[6]無双転地\\C[0]〘両〙
 非常に堅い木材で作られた　濃色の棍棒
 > CONTEXT: Weapons/132/description/
-Skills: Hit/\\C[6] Unrivaled Turning Ground\\C[0] [2H]
+Skills: Hit/\\C[6] Unrivaled Turning Ground\\C[0][2H]
 A dark-colored club made of very hard wood
 > END STRING
 
@@ -834,7 +834,7 @@ Divine Tree Club
 習:殴打〘両〙
 東の果てに生える　巨木の枝で作られた棍
 > CONTEXT: Weapons/133/description/
-Skill: Hit [2H]
+Skill: Hit[2H]
 Made from a giant tree at the eastern edge
 > END STRING
 
@@ -1003,80 +1003,86 @@ A sturdy, flexible leather chain weapon
 
 > BEGIN STRING
 丸木弓
-> CONTEXT: Weapons/160/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/160/name/
+Wooden Bow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 簡素な素材のみで作られた　原始的な弓矢
-> CONTEXT: Weapons/160/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/160/description/
+Skills: Shoot/Buttstroke[2H]
+Primitive bow from simple materials
 > END STRING
 
 > BEGIN STRING
 青銅の弓矢
-> CONTEXT: Weapons/161/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/161/name/
+Bronze Bow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打/\\C[6]声帯殺し\\C[0]〘両〙
 木材と青銅を用いた複合弓　初歩的な弓矢
-> CONTEXT: Weapons/161/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/161/description/
+Skills: Shoot/Buttstroke/\\C[6]Throat Shot\\C[0][2H]
+Composite bow made of wood and bronze
 > END STRING
 
 > BEGIN STRING
 鋼鉄の弓矢
-> CONTEXT: Weapons/162/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/162/name/
+Steel Bow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打/\\C[6]影縫合\\C[0]〘両〙
 鋼鉄素材を用いた　本格的な弓矢
-> CONTEXT: Weapons/162/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/162/description/
+Skills: Shoot/Buttstroke/\\C[6]Shadow Weave\\C[0][2H]
+Authentic bow made of steel
 > END STRING
 
 > BEGIN STRING
 白金の弓矢
-> CONTEXT: Weapons/163/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/163/name/
+Platinum Bow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打/\\C[6]腕釣り矢\\C[0]〘両〙
 銀光沢を放つ鏃が　一流の弓士を讃える
-> CONTEXT: Weapons/163/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/163/description/
+Skills: Shoot/Buttstroke/\\C[6]Arm Shot\\C[0][2H]
+Shiny arrowheads for skilled archers
 > END STRING
 
 > BEGIN STRING
 金剛の弓矢
-> CONTEXT: Weapons/164/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/164/name/
+Diamond Bow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 最高級の素材で作られた　最上級の複合弓
-> CONTEXT: Weapons/164/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/164/description/
+Skills: Shoot/Buttstroke[2H]
+Made from the finest materials
 > END STRING
 
 > BEGIN STRING
 クロスボウ
-> CONTEXT: Weapons/171/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/171/name/
+Crossbow
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 膂力に依存しない　カラクリ式の射出武器
-> CONTEXT: Weapons/171/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/171/description/
+Skills: Shoot/Buttstroke[2H]
+Mechanical weapon not reliant on strength
 > END STRING
 
 > BEGIN STRING

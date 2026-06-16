@@ -1,3 +1,11 @@
+Font.default_size = 24
+
+class RPG::BaseItem
+  def bsmw_memo
+    bsmw_memoE
+  end
+end
+
 class Game_Screen
   unless method_defined?(:speedup)
     alias speedup update

@@ -355,8 +355,8 @@
 
 > BEGIN STRING
 "%sを　習得！"
-> CONTEXT: Scripts/Vocab/42:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/42:21
+"Learned %s!"
 > END STRING
 
 > BEGIN STRING
@@ -9656,7 +9656,7 @@
 > BEGIN STRING
 "剣類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/32:24 < UNTRANSLATED
-
+"Sword Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -9719,7 +9719,7 @@
 > BEGIN STRING
 "刀類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/33:24 < UNTRANSLATED
-
+"Katana Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -9796,7 +9796,7 @@
 > BEGIN STRING
 "刀子類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/34:24 < UNTRANSLATED
-
+"Dagger Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -9854,7 +9854,7 @@
 > BEGIN STRING
 "長柄類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/35:24 < UNTRANSLATED
-
+"Polearm Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -9908,7 +9908,7 @@
 > BEGIN STRING
 "鈍器類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/36:24 < UNTRANSLATED
-
+"Blunt Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -9970,7 +9970,7 @@
 > BEGIN STRING
 "射出類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/37:24 < UNTRANSLATED
-
+"Shooting Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -10018,7 +10018,7 @@
 > BEGIN STRING
 "投擲類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/38:24 < UNTRANSLATED
-
+"Throwing Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -10066,7 +10066,7 @@
 > BEGIN STRING
 "暗器類マスタリ"
 > CONTEXT: Scripts/スキルポイント振り分けシステム/39:24 < UNTRANSLATED
-
+"Conceal Mastery"
 > END STRING
 
 > BEGIN STRING
@@ -11307,8 +11307,8 @@
 
 > BEGIN STRING
 "青銅の弓矢"
-> CONTEXT: Scripts/ショップ在庫制/131:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/131:3
+"Bronze Bow"
 > END STRING
 
 > BEGIN STRING

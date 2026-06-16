@@ -59,15 +59,18 @@ Learn Skillsen(s[22])
 \\NAME[\\n[12]]
 涼しくて　過ごしやすい　迷宮だよ。
 準備は　できてる？
-> CONTEXT: Map012/events/1/pages/1/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/137/Dialogue
+\\NAME[\\n[12]]
+It's a cool and comfortable maze.
+Are you ready?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 ここでしか習得できないスキルが　沢山♪
 > CONTEXT: Map012/events/1/pages/1/185/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+Lots of skills you can only learn here♪
 > END STRING
 
 > BEGIN STRING

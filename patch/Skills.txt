@@ -246,21 +246,22 @@ Slam the enemy with the flat surface
 
 > BEGIN STRING
 射体打
-> CONTEXT: Skills/23/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/name/
+Buttstroke
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[8]Ｇ\\C[0]〙\\i[133]
 射出武器本体で　殴り付ける　凡撃
-> CONTEXT: Skills/23/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/description/
+[Single: ATK*\\C[8]G\\C[0]]\\i[133]
+Strike with the weapon itself
 > END STRING
 
 > BEGIN STRING
 は　武器本体を打ち付けた！
-> CONTEXT: Skills/23/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/message1/
+ struck with the weapon itself!
 > END STRING
 
 > BEGIN STRING
@@ -796,20 +797,21 @@ Cover the enemy's heads with crimson soot
 > BEGIN STRING
 オンダフレッダ
 > CONTEXT: Skills/72/name/ < UNTRANSLATED
-
+Onda Fredda
 > END STRING
 
 > BEGIN STRING
 〘全:足止付与(高)+DEF↓〙\\i[31]
 冷たいさざ波を　足許から浴びせる
 > CONTEXT: Skills/72/description/ < UNTRANSLATED
-
+[All: Leg Bind(L)/DEF↓]\\i[31]
+A cold ripple over the feet
 > END STRING
 
 > BEGIN STRING
 の　オンダフレッダ！
 > CONTEXT: Skills/72/message1/ < UNTRANSLATED
-
+ used Onda Fredda!
 > END STRING
 
 > BEGIN STRING
@@ -1004,72 +1006,76 @@ Neochi Hanamuchi
 > BEGIN STRING
 月光衝
 > CONTEXT: Skills/101/name/ < UNTRANSLATED
-
+Moonlight Thrust
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｄ\\C[0]〙\\i[30]\\i[231]
 剣先から月光めいた刺突を放つ　遠隔攻撃
 > CONTEXT: Skills/101/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]D\\C[0]]\\i[30]\\i[231]
+Thrust of moonlight. Ranged
 > END STRING
 
 > BEGIN STRING
 は　月光衝を放った！
 > CONTEXT: Skills/101/message1/ < UNTRANSLATED
-
+ used Moonlight Thrust!
 > END STRING
 
 > BEGIN STRING
 剣の悟り
 > CONTEXT: Skills/102/name/ < UNTRANSLATED
 > CONTEXT: States/201/name/ < UNTRANSLATED
-
+Sword Expert
 > END STRING
 
 > BEGIN STRING
 〘剣類装備時:威力↑〙
 剣類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/102/description/ < UNTRANSLATED
-
+[Sword: Power↑]
+Sword user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 聖杯斬
 > CONTEXT: Skills/103/name/ < UNTRANSLATED
-
+Grail Slash
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ｓ\\C[0]+強化解消〙\\i[30]\\i[231]
 正義の味方が破壊を命じた　必殺遠隔斬撃
 > CONTEXT: Skills/103/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[10]S\\C[0]/Dispel]\\i[30]\\i[231]
+Hero's command of destruction. Ranged
 > END STRING
 
 > BEGIN STRING
 は　聖杯斬を放った！
 > CONTEXT: Skills/103/message1/ < UNTRANSLATED
-
+ used Grail Slash!
 > END STRING
 
 > BEGIN STRING
 ラハトハヘレブ
 > CONTEXT: Skills/104/name/ < UNTRANSLATED
-
+Lahat ha-Herev
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[231]
 楽園に舞うとされる炎剣による　究極斬撃
 > CONTEXT: Skills/104/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[231]
+The ultimate slash with the flaming sword
 > END STRING
 
 > BEGIN STRING
 の　ラハトハヘレブ！
 > CONTEXT: Skills/104/message1/ < UNTRANSLATED
-
+ used Lahat ha-Herev!
 > END STRING
 
 > BEGIN STRING
@@ -1234,72 +1240,76 @@ Slash and thrust, and sometimes slash again
 > BEGIN STRING
 流星斬
 > CONTEXT: Skills/121/name/ < UNTRANSLATED
-
+Meteor Slash
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK*\\C[9]Ｂ\\C[0]〙\\i[30]\\i[232]
 指先で刃を掴み力を溜め　放ち　両断する
 > CONTEXT: Skills/121/description/ < UNTRANSLATED
-
+[Area: ATK*\\C[9]B\\C[0]]\\i[30]\\i[232]
+Gather power, release, and cut in two
 > END STRING
 
 > BEGIN STRING
 は　流星斬を放った！
 > CONTEXT: Skills/121/message1/ < UNTRANSLATED
-
+ used Meteor Slash!
 > END STRING
 
 > BEGIN STRING
 刀の悟り
 > CONTEXT: Skills/122/name/ < UNTRANSLATED
 > CONTEXT: States/202/name/ < UNTRANSLATED
-
+Katana Expert
 > END STRING
 
 > BEGIN STRING
 〘刀類装備時:威力↑〙
 刀類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/122/description/ < UNTRANSLATED
-
+[Katana: Power↑]
+Katana user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 阿修羅天降
 > CONTEXT: Skills/123/name/ < UNTRANSLATED
-
+Asura Tenku
 > END STRING
 
 > BEGIN STRING
 〘乱:ATK+PSY*\\C[8]Ｆ\\C[0]*6連〙\\i[29]\\i[232]
 天に炎剣６刀持つ剣霊を呼び　遠隔刺突
 > CONTEXT: Skills/123/description/ < UNTRANSLATED
-
+[Random: ATK+PSY*\\C[8]F\\C[0]*6]\\i[29]\\i[232]
+Six flaming swords. Ranged
 > END STRING
 
 > BEGIN STRING
 の天より　六腕が刀を放射！
 > CONTEXT: Skills/123/message1/ < UNTRANSLATED
-
+ summoned 6 katanas from the sky!
 > END STRING
 
 > BEGIN STRING
 風伯雷公斬
 > CONTEXT: Skills/124/name/ < UNTRANSLATED
-
+Windgod Blade
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[232]
 雷と風を司る天霊の力得る　究極の斬撃
 > CONTEXT: Skills/124/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[232]
+The ultimate slash of lightning and wind
 > END STRING
 
 > BEGIN STRING
 は　風伯雷公斬を放った！
 > CONTEXT: Skills/124/message1/ < UNTRANSLATED
-
+ used Windgod Blade!
 > END STRING
 
 > BEGIN STRING
@@ -1477,72 +1487,76 @@ Steadfast sword dance that petrifies the enemy
 > BEGIN STRING
 真空刃
 > CONTEXT: Skills/141/name/ < UNTRANSLATED
-
+Vacuum Slice
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]+流血(中)〙\\i[30]\\i[233]
 動脈を狙い　つむじ風を飛ばす　遠隔攻撃
 > CONTEXT: Skills/141/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]C\\C[0]+Bleed(M)]\\i[30]\\i[233]
+Whirlwind targeting arteries. Ranged
 > END STRING
 
 > BEGIN STRING
 は　真空刃を放った！
 > CONTEXT: Skills/141/message1/ < UNTRANSLATED
-
+ used Vacuum Slice!
 > END STRING
 
 > BEGIN STRING
 刀子の悟り
 > CONTEXT: Skills/142/name/ < UNTRANSLATED
 > CONTEXT: States/203/name/ < UNTRANSLATED
-
+Dagger Expert
 > END STRING
 
 > BEGIN STRING
 〘刀子類装備時:威力↑〙
 刀子類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/142/description/ < UNTRANSLATED
-
+[Dagger: Power↑]
+Dagger user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 ニューロ溶き針
 > CONTEXT: Skills/143/name/ < UNTRANSLATED
-
+Neuro Needle
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+被毒(高)+麻痺(中)〙\\i[30]\\i[233]
 凶悪な神経毒を先端に塗り　敵を刺す
 > CONTEXT: Skills/143/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]B\\C[0]+Poison(L)/Paralysis(M)]\\i[30]\\i[233]
+Stab with deadly neurotoxin
 > END STRING
 
 > BEGIN STRING
 の　ニューロ溶き針！
 > CONTEXT: Skills/143/message1/ < UNTRANSLATED
-
+ used Neuro Needle!
 > END STRING
 
 > BEGIN STRING
 アイスウェッジ
 > CONTEXT: Skills/144/name/ < UNTRANSLATED
-
+Ice Wedge
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[233]
 永久凍土の氷楔で貫く　究極の刺突撃
 > CONTEXT: Skills/144/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[233]
+The ultimate permafrost ice wedge thrust
 > END STRING
 
 > BEGIN STRING
 は　アイスウェッジを放った！
 > CONTEXT: Skills/144/message1/ < UNTRANSLATED
-
+ used Ice Wedge!
 > END STRING
 
 > BEGIN STRING
@@ -1783,72 +1797,76 @@ It's all your fault. This is the end.
 > BEGIN STRING
 隕鉄槌
 > CONTEXT: Skills/161/name/ < UNTRANSLATED
-
+Meteor Hammer
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+スタン(低)〙\\i[30]\\i[234]
 武具を掲げ　振り下ろし　柄で叩き潰す
 > CONTEXT: Skills/161/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]B\\C[0]+Stun(S)]\\i[30]\\i[234]
+Swing down and crush with the hilt
 > END STRING
 
 > BEGIN STRING
 は　隕鉄槌を放った！
 > CONTEXT: Skills/161/message1/ < UNTRANSLATED
-
+ used Meteor Hammer!
 > END STRING
 
 > BEGIN STRING
 長柄の悟り
 > CONTEXT: Skills/162/name/ < UNTRANSLATED
 > CONTEXT: States/204/name/ < UNTRANSLATED
-
+Polearm Expert
 > END STRING
 
 > BEGIN STRING
 〘長柄類装備時:威力↑〙
 長柄類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/162/description/ < UNTRANSLATED
-
+[Polearm: Power↑]
+Polearm user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 怒髪天地陣
 > CONTEXT: Skills/163/name/ < UNTRANSLATED
-
+Furious Earth
 > END STRING
 
 > BEGIN STRING
 〘全:ATK*\\C[9]Ｃ\\C[0]*LP損耗率〙\\i[30]\\i[234]
 大地を怒りの隆起させ　敵陣に遠隔刺突撃
 > CONTEXT: Skills/163/description/ < UNTRANSLATED
-
+[All: ATK*\\C[9]C\\C[0]*LP Loss]\\i[30]\\i[234]
+Launch earth at long-range
 > END STRING
 
 > BEGIN STRING
 は　怒髪天地陣を放った！
 > CONTEXT: Skills/163/message1/ < UNTRANSLATED
-
+ used Furious Earth!
 > END STRING
 
 > BEGIN STRING
 ヴルカノブロウ
 > CONTEXT: Skills/164/name/ < UNTRANSLATED
-
+Volcano Blow
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[234]
 燃え盛る活火山をも砕く　究極の殴打撃
 > CONTEXT: Skills/164/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[234]
+The ultimate volcano shattering blow
 > END STRING
 
 > BEGIN STRING
 は　ヴルカノブロウを放った！
 > CONTEXT: Skills/164/message1/ < UNTRANSLATED
-
+ used Volcano Blow!
 > END STRING
 
 > BEGIN STRING
@@ -2094,73 +2112,77 @@ Crush enemy's malice with a deadly strike
 > BEGIN STRING
 天誅伐
 > CONTEXT: Skills/181/name/ < UNTRANSLATED
-
+Heaven's Punishment
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0](対象病気被毒時\\C[10]Ｓ\\C[0])〙\\i[30]\\i[235]
 病魔に冒された相手には　威力を増す体罰
 > CONTEXT: Skills/181/description/ < UNTRANSLATED
-
+[Single:ATK*\\C[9]B\\C[0](Disease:\\C[10]S\\C[0])]\\i[30]\\i[235]
+Punishment to foes afflicted with disease
 > END STRING
 
 > BEGIN STRING
 は　天誅伐を放った！
 > CONTEXT: Skills/181/message1/ < UNTRANSLATED
-
+ used Heaven's Punishment!
 > END STRING
 
 > BEGIN STRING
 鈍器の悟り
 > CONTEXT: Skills/182/name/ < UNTRANSLATED
 > CONTEXT: States/205/name/ < UNTRANSLATED
-
+Blunt Expert
 > END STRING
 
 > BEGIN STRING
 〘鈍器類装備時:威力↑〙
 鈍器類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/182/description/ < UNTRANSLATED
-
+[Blunt: Power↑]
+Blunt weapon user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 雷霆万鈞
 > CONTEXT: Skills/183/name/ < UNTRANSLATED
-
+10k Volts
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[10]Ａ\\C[0]+AGI+回避力↓〙\\i[30]\\i[235]
 非常に重たい雷めいた殴打で　勢いを殺す
 > CONTEXT: Skills/183/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[10]A\\C[0]/AGI+Evasion↓]\\i[30]\\i[235]
+Momentum stopping lightning-like blow
 > END STRING
 
 > BEGIN STRING
 は　雷霆万鈞を放った！
 > CONTEXT: Skills/183/message1/ < UNTRANSLATED
-
+ used 10k Volts!
 > END STRING
 
 > BEGIN STRING
 氷河割り
 > CONTEXT: Skills/184/name/ < UNTRANSLATED
-
+Glacier Split
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[235]
 とこしなえの氷河をも砕く　究極の殴打撃
 > CONTEXT: Skills/184/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[235]
+The ultimate glaciers shattering strike
 > END STRING
 
 > BEGIN STRING
 は　氷河割りを放った！
 > CONTEXT: Skills/184/message1/ < UNTRANSLATED
 > CONTEXT: Skills/905/message1/ < UNTRANSLATED
-
+ used Glacier Split!
 > END STRING
 
 > BEGIN STRING
@@ -2415,129 +2437,136 @@ Transform death energy into life
 > BEGIN STRING
 極点射
 > CONTEXT: Skills/201/name/ < UNTRANSLATED
-
+Cruel Shot
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0](対象怪我流血時\\C[10]Ａ\\C[0])〙\\i[30]\\i[236]
 怪我部位を狙えれば　威力増す　遠隔攻撃
 > CONTEXT: Skills/201/description/ < UNTRANSLATED
-
+[Single: ATK*\\C[9]B\\C[0](Injury:\\C[10]A\\C[0])]\\i[30]\\i[236]
+Power increases if targeting an injury
 > END STRING
 
 > BEGIN STRING
 は　極点射を放った！
 > CONTEXT: Skills/201/message1/ < UNTRANSLATED
-
+ used Cruel Shot!
 > END STRING
 
 > BEGIN STRING
 射出の悟り
 > CONTEXT: Skills/202/name/ < UNTRANSLATED
 > CONTEXT: States/206/name/ < UNTRANSLATED
-
+Shooting Expert
 > END STRING
 
 > BEGIN STRING
 〘射出類装備時:威力↑〙
 射出類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/202/description/ < UNTRANSLATED
-
+[Shooting: Power↑]
+Shooter's tactical intuition
 > END STRING
 
 > BEGIN STRING
 凍矢乱迅
 > CONTEXT: Skills/203/name/ < UNTRANSLATED
-
+Frost Chaos
 > END STRING
 
 > BEGIN STRING
 〘乱:PSY*\\C[9]Ｂ\\C[0]*2〜5連〙\\i[30]\\i[236]
 凍てつく氷の矢玉で　乱れ斬る　遠隔射撃
 > CONTEXT: Skills/203/description/ < UNTRANSLATED
-
+[Random:PSY*\\C[9]B\\C[0]*2-5]\\i[30]\\i[236]
+Chaotic storm of frosty projectiles
 > END STRING
 
 > BEGIN STRING
 は　凍矢乱迅を放った！
 > CONTEXT: Skills/203/message1/ < UNTRANSLATED
-
+used Frost Chaos!
 > END STRING
 
 > BEGIN STRING
 因陀羅襲屠
 > CONTEXT: Skills/204/name/ < UNTRANSLATED
-
+Indra Shot
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[236]
 かつて天帝が放った　究極の遠隔射出撃
 > CONTEXT: Skills/204/description/ < UNTRANSLATED
-
+[Area: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[236]
+The ultimate shot of the Heavenly Emperor
 > END STRING
 
 > BEGIN STRING
 は　因陀羅襲屠を放った！
 > CONTEXT: Skills/204/message1/ < UNTRANSLATED
-
+ used Indra Shot!
 > END STRING
 
 > BEGIN STRING
 影縫合
-> CONTEXT: Skills/206/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/206/name/
+Shadow Weave
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+足止(高)〙\\i[30]\\i[216]
 敵の足元を狙って放つ　遠隔攻撃
-> CONTEXT: Skills/206/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/206/description/
+[Single: ATK*\\C[9]B\\C[0]/Stun(L)]\\i[30]\\i[216]
+A ranged attack aimed at the enemy's feet
 > END STRING
 
 > BEGIN STRING
 は　影縫合を放った！
-> CONTEXT: Skills/206/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/206/message1/
+ unleashed Shadow Weave!
 > END STRING
 
 > BEGIN STRING
 声帯殺し
-> CONTEXT: Skills/207/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/207/name/
+Throat Shot
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+口封(高)〙\\i[30]\\i[216]
 敵の喉笛を狙って放つ　遠隔攻撃
-> CONTEXT: Skills/207/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/207/description/
+[Single: ATK*\\C[9]B\\C[0]/Mouth Bind(L)]\\i[30]\\i[216]
+A ranged attack aimed at the enemy's throat
 > END STRING
 
 > BEGIN STRING
 は　声帯殺しを放った！
-> CONTEXT: Skills/207/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/207/message1/
+ unleashed Throat Shot!
 > END STRING
 
 > BEGIN STRING
 腕釣り矢
-> CONTEXT: Skills/208/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/208/name/
+Arm Shot
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｂ\\C[0]+腕固(高)〙\\i[30]\\i[216]
 敵の腕の腱を狙って放つ　遠隔攻撃
-> CONTEXT: Skills/208/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/208/description/
+[Single: ATK*\\C[9]B\\C[0]/Arm Bind(L)]\\i[30]\\i[216]
+A ranged attack aimed at the enemy's arm tendons.
 > END STRING
 
 > BEGIN STRING
 は　腕釣り矢を放った！
-> CONTEXT: Skills/208/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/208/message1/
+ unleashed Arm Shot!
 > END STRING
 
 > BEGIN STRING
@@ -2714,72 +2743,76 @@ Transform death energy into life
 > BEGIN STRING
 円環撃
 > CONTEXT: Skills/221/name/ < UNTRANSLATED
-
+Circle Slash
 > END STRING
 
 > BEGIN STRING
 〘拡:ATK*\\C[9]Ｃ\\C[0]〙\\i[30]\\i[237]
 鋭い回転で　対象周囲を斬る　遠隔攻撃
 > CONTEXT: Skills/221/description/ < UNTRANSLATED
-
+[Area: ATK*\\C[9]C\\C[0]]\\i[30]\\i[237]
+Slashes an area with sharp rotation
 > END STRING
 
 > BEGIN STRING
 は　円環撃を放った！
 > CONTEXT: Skills/221/message1/ < UNTRANSLATED
-
+ used Circle Slash!
 > END STRING
 
 > BEGIN STRING
 投擲の悟り
 > CONTEXT: Skills/222/name/ < UNTRANSLATED
 > CONTEXT: States/207/name/ < UNTRANSLATED
-
+Throwing Expert
 > END STRING
 
 > BEGIN STRING
 〘投擲類装備時:威力＆命中力↑〙
 投擲類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/222/description/ < UNTRANSLATED
-
+[Throw: Power↑]
+Throwing weapon user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 満塁砲
 > CONTEXT: Skills/223/name/ < UNTRANSLATED
-
+Fully Loaded
 > END STRING
 
 > BEGIN STRING
 〘全:ATK*\\C[8]Ｆ\\C[0]*4連〙\\i[30]\\i[237]
 弾丸ライナー４巡　正に夢のロマン遠隔撃
 > CONTEXT: Skills/223/description/ < UNTRANSLATED
-
+[All: ATK*\\C[8]F\\C[0]*4]\\i[30]\\i[237]
+Dream shot of 4 in a straight line
 > END STRING
 
 > BEGIN STRING
 は　満塁砲を放った！
 > CONTEXT: Skills/223/message1/ < UNTRANSLATED
-
+ used Fully Loaded!
 > END STRING
 
 > BEGIN STRING
 グランドクロス
 > CONTEXT: Skills/224/name/ < UNTRANSLATED
-
+Grand Cross
 > END STRING
 
 > BEGIN STRING
 〘単/全:ATK*\\C[10]Ａ\\C[0](突→斬)/封:4回合〙\\i[30]\\i[237]
 惑星直列の軌道で投擲する　究極の遠隔撃
 > CONTEXT: Skills/224/description/ < UNTRANSLATED
-
+[Single/All: ATK*\\C[10]A\\C[0](Thrust→Slash)/CD:4]\\i[30]\\i[237]
+The ultimate planetary orbit throw
 > END STRING
 
 > BEGIN STRING
 の　グランドクロス！
 > CONTEXT: Skills/224/message1/ < UNTRANSLATED
-
+ used Grand Cross!
 > END STRING
 
 > BEGIN STRING
@@ -3016,7 +3049,7 @@ Ignore DEF and score points from a distance
 > BEGIN STRING
 黒洞撃
 > CONTEXT: Skills/241/name/ < UNTRANSLATED
-
+Black Hole
 > END STRING
 
 > BEGIN STRING
@@ -3025,7 +3058,8 @@ Ignore DEF and score points from a distance
 > CONTEXT: Skills/241/description/ < UNTRANSLATED
 > CONTEXT: Skills/909/description/ < UNTRANSLATED
 > CONTEXT: Skills/910/description/ < UNTRANSLATED
-
+[Single: PSY*\\C[9]C\\C[0]/LP Steal]\\i[30]\\i[238]
+Steal life force with hidden dark power
 > END STRING
 
 > BEGIN STRING
@@ -3033,65 +3067,68 @@ Ignore DEF and score points from a distance
 > CONTEXT: Skills/241/message1/ < UNTRANSLATED
 > CONTEXT: Skills/909/message1/ < UNTRANSLATED
 > CONTEXT: Skills/910/message1/ < UNTRANSLATED
-
+ used Black Hole!
 > END STRING
 
 > BEGIN STRING
 暗器の悟り
 > CONTEXT: Skills/242/name/ < UNTRANSLATED
 > CONTEXT: States/208/name/ < UNTRANSLATED
-
+Conceal Expert
 > END STRING
 
 > BEGIN STRING
 〘暗器類装備時:威力＆暴撃性↑〙
 暗器類に長ずる者が有する　戦術の勘
 > CONTEXT: Skills/242/description/ < UNTRANSLATED
-
+[Conceal: Power↑]
+Concealed weapon user's tactical intuition
 > END STRING
 
 > BEGIN STRING
 デスドロー
 > CONTEXT: Skills/243/name/ < UNTRANSLATED
-
+Death Draw
 > END STRING
 
 > BEGIN STRING
 〘全:次PSY*\\C[9]Ｂ\\C[0]+急死(中)〙\\i[30]\\i[238]
 指先に闇理力込め　引き出す　暗黒遠隔撃
 > CONTEXT: Skills/243/description/ < UNTRANSLATED
-
+[All: Next PSY*\\C[9]B\\C[0]/Death(M)]\\i[30]\\i[238]
+Dark ranged attack from your fingertips
 > END STRING
 
 > BEGIN STRING
 は　暗器を伏せて
 > CONTEXT: Skills/243/message1/ < UNTRANSLATED
-
+ placed hidden weapon face down
 > END STRING
 
 > BEGIN STRING
 ターンエンドを　宣言した！
 > CONTEXT: Skills/243/message2/ < UNTRANSLATED
-
+and declared the end of turn!
 > END STRING
 
 > BEGIN STRING
 ビッグバン
 > CONTEXT: Skills/244/name/ < UNTRANSLATED
-
+Big Bang
 > END STRING
 
 > BEGIN STRING
 〘全:ATK+PSY*\\C[10]SS\\C[0]/封:4回合〙\\i[30]\\i[238]
 宇宙の隠匿を解き　究極の遠隔炎氷雷撃
 > CONTEXT: Skills/244/description/ < UNTRANSLATED
-
+[All: ATK+PSY*\\C[10]SS\\C[0]/CD:4]\\i[30]\\i[238]
+Ultimate ranged fire/ice/lightning strike
 > END STRING
 
 > BEGIN STRING
 は　ビッグバンを放った！
 > CONTEXT: Skills/244/message1/ < UNTRANSLATED
-
+ used Big Bang!
 > END STRING
 
 > BEGIN STRING
@@ -8527,14 +8564,14 @@ Heatwave
 
 > BEGIN STRING
 冷気
-> CONTEXT: Skills/615/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/615/name/
+Cold Air
 > END STRING
 
 > BEGIN STRING
 による　冷気！
-> CONTEXT: Skills/615/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/615/message1/
+ brought forth cold air!
 > END STRING
 
 > BEGIN STRING
@@ -8599,26 +8636,26 @@ Heatwave
 
 > BEGIN STRING
 枝槍
-> CONTEXT: Skills/621/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/621/name/
+Branch Stab
 > END STRING
 
 > BEGIN STRING
 の　枝槍！
-> CONTEXT: Skills/621/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/621/message1/
+ used Branch Stab!
 > END STRING
 
 > BEGIN STRING
 触手鞭
-> CONTEXT: Skills/622/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/622/name/
+Tentacle Whip
 > END STRING
 
 > BEGIN STRING
 の　触手鞭！
-> CONTEXT: Skills/622/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/622/message1/
+ used Tentacle Whip!
 > END STRING
 
 > BEGIN STRING
@@ -8635,14 +8672,14 @@ Burn and Charge
 
 > BEGIN STRING
 冷え切って体当たり
-> CONTEXT: Skills/632/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/632/name/
+Frost Charge
 > END STRING
 
 > BEGIN STRING
 の　冷え切って体当たり！
-> CONTEXT: Skills/632/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/632/message1/
+ unleashed Frost Charge!
 > END STRING
 
 > BEGIN STRING
@@ -8857,8 +8894,8 @@ firmly on the ground!
 
 > BEGIN STRING
 スネ齧り
-> CONTEXT: Skills/646/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/646/name/
+Shin Gnaw
 > END STRING
 
 > BEGIN STRING
@@ -8871,8 +8908,8 @@ firmly on the ground!
 
 > BEGIN STRING
 は　スネを齧ってきた！
-> CONTEXT: Skills/646/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/646/message1/
+ gnawed at the shin!
 > END STRING
 
 > BEGIN STRING
@@ -9043,8 +9080,8 @@ in a creepy way!
 
 > BEGIN STRING
 鈍重なる溶解液
-> CONTEXT: Skills/659/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/659/name/
+Dissolve
 > END STRING
 
 > BEGIN STRING
@@ -9057,8 +9094,8 @@ Low hit rate, normal attack
 
 > BEGIN STRING
 は　鈍重なる溶解液を吐いた！
-> CONTEXT: Skills/659/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/659/message1/
+ spat out thick, dissolving liquid!
 > END STRING
 
 > BEGIN STRING
@@ -9762,26 +9799,26 @@ Thunder Breath
 
 > BEGIN STRING
 ヴァイブス上げ
-> CONTEXT: Skills/707/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/707/name/
+Vibes Up
 > END STRING
 
 > BEGIN STRING
 の　ヴァイブス上げ！
-> CONTEXT: Skills/707/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/707/message1/
+ used Vibes Up!
 > END STRING
 
 > BEGIN STRING
 泡の導き
-> CONTEXT: Skills/708/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/708/name/
+Bubble Guidance
 > END STRING
 
 > BEGIN STRING
 の　泡の導き！
-> CONTEXT: Skills/708/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/708/message1/
+ used Bubble Guidance!
 > END STRING
 
 > BEGIN STRING
@@ -9798,14 +9835,14 @@ Thunder Breath
 
 > BEGIN STRING
 野獣フェロモン
-> CONTEXT: Skills/710/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/710/name/
+Beast Phermones
 > END STRING
 
 > BEGIN STRING
 の　野獣フェロモン！
-> CONTEXT: Skills/710/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/710/message1/
+ used Beast Phermones!
 > END STRING
 
 > BEGIN STRING
@@ -9870,8 +9907,8 @@ Passionate Embrace
 
 > BEGIN STRING
 の　雪だるま式口撃！
-> CONTEXT: Skills/715/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/715/message1/
+ used a snowman mouth attack!
 > END STRING
 
 > BEGIN STRING
@@ -9919,14 +9956,14 @@ LP損耗率依存
 
 > BEGIN STRING
 深海への手招き
-> CONTEXT: Skills/719/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/719/name/
+Deep Sea Invitation
 > END STRING
 
 > BEGIN STRING
 の　深海への手招き！
-> CONTEXT: Skills/719/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/719/message1/
+ used Deep Sea Invitation!
 > END STRING
 
 > BEGIN STRING
@@ -10869,9 +10906,10 @@ and left, looking content...
 > BEGIN STRING
 〘単:PSY*\\C[10]Ａ\\C[0]〙\\i[29]
 赤熱の火球で　敵一体を焼く　攻撃呪文
-> CONTEXT: Skills/791/description/ < UNTRANSLATED
-> CONTEXT: Skills/811/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/791/description/
+> CONTEXT: Skills/811/description/
+[Single:PSY*\\C[10]A\\C[0]]\\i[29]
+Burn one enemy with a red-hot fireball
 > END STRING
 
 > BEGIN STRING

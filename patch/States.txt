@@ -1532,15 +1532,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の暴撃性が　上昇！
-> CONTEXT: States/255/message1/ < UNTRANSLATED
-> CONTEXT: States/255/message2/ < UNTRANSLATED
-
+> CONTEXT: States/255/message1/
+> CONTEXT: States/255/message2/
+ became more aggressive!
 > END STRING
 
 > BEGIN STRING
 の暴撃性上昇が　終了！
-> CONTEXT: States/255/message4/ < UNTRANSLATED
-
+> CONTEXT: States/255/message4/
+ lost aggression increase!
 > END STRING
 
 > BEGIN STRING
@@ -1551,15 +1551,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の暴撃性が　下落！
-> CONTEXT: States/256/message1/ < UNTRANSLATED
-> CONTEXT: States/256/message2/ < UNTRANSLATED
-
+> CONTEXT: States/256/message1/
+> CONTEXT: States/256/message2/
+ became less aggressive!
 > END STRING
 
 > BEGIN STRING
 の暴撃性下落が　終了！
-> CONTEXT: States/256/message4/ < UNTRANSLATED
-
+> CONTEXT: States/256/message4/
+ lost aggression reduction!
 > END STRING
 
 > BEGIN STRING
@@ -1570,15 +1570,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の抗呪力が　上昇！
-> CONTEXT: States/257/message1/ < UNTRANSLATED
-> CONTEXT: States/257/message2/ < UNTRANSLATED
-
+> CONTEXT: States/257/message1/
+> CONTEXT: States/257/message2/
+ increased spell resistance!
 > END STRING
 
 > BEGIN STRING
 の抗呪力上昇が　終了！
-> CONTEXT: States/257/message4/ < UNTRANSLATED
-
+> CONTEXT: States/257/message4/
+ lost increase to spell resistance!
 > END STRING
 
 > BEGIN STRING
@@ -1589,15 +1589,15 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 の抗呪力が　下落！
-> CONTEXT: States/258/message1/ < UNTRANSLATED
-> CONTEXT: States/258/message2/ < UNTRANSLATED
-
+> CONTEXT: States/258/message1/
+> CONTEXT: States/258/message2/
+ became weak to spells!
 > END STRING
 
 > BEGIN STRING
 の抗呪力下落が　終了！
-> CONTEXT: States/258/message4/ < UNTRANSLATED
-
+> CONTEXT: States/258/message4/
+ recovered from spell weakness!
 > END STRING
 
 > BEGIN STRING
@@ -1849,15 +1849,15 @@ Fire Resist
 
 > BEGIN STRING
 の水氷耐性が　下落！
-> CONTEXT: States/272/message1/ < UNTRANSLATED
-> CONTEXT: States/272/message2/ < UNTRANSLATED
-
+> CONTEXT: States/272/message1/
+> CONTEXT: States/272/message2/
+ lost Water/Ice resistance!
 > END STRING
 
 > BEGIN STRING
 の水氷耐性下落が　終了！
-> CONTEXT: States/272/message4/ < UNTRANSLATED
-
+> CONTEXT: States/272/message4/
+ regained Water/Ice resistance!
 > END STRING
 
 > BEGIN STRING
@@ -2122,7 +2122,7 @@ Blue Arts
 > BEGIN STRING
 の水氷耐性が　強化！
 > CONTEXT: States/315/message1/
- enhanced water and ice resistance!
+ enhanced Water/Ice resistance!
 > END STRING
 
 > BEGIN STRING

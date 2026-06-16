@@ -1100,7 +1100,10 @@ Yeah...
 君ったら　大活躍だったね！
 頑張ったね！　エライエライ！
 > CONTEXT: Commonevents/103/50/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+I was waiting♪ The hero is here♪
+You did a great job!
+Good job! You did well!
 > END STRING
 
 > BEGIN STRING
@@ -1109,7 +1112,10 @@ Yeah...
 君のおかげだね　本当にありがとうっ！
 私は　通信端末のところに　いるからね。
 > CONTEXT: Commonevents/103/56/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+Thanks to you, I made it to the
+Central Realms of Reverie!
+I'll be at the communication terminal♪
 > END STRING
 
 > BEGIN STRING
@@ -1118,7 +1124,10 @@ Yeah...
 ……ああ　そうそう。夢界中心のお店で
 売ってる　『ロゴスの鍵』を買うこと！
 > CONTEXT: Commonevents/103/62/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+What's the next goal again? ...Right. 
+To buy the 'Key to Logos' from the shop 
+in the Central Realms of Reverie!
 > END STRING
 
 > BEGIN STRING
@@ -1127,7 +1136,10 @@ Yeah...
 \\C[6]ポイントに応じて　便利で強力なスキルも
 覚えられるようになった\\C[0]し　頑張ろうね！
 > CONTEXT: Commonevents/103/69/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+It might be tough, but at my place,
+\\C[6]you can learn strong skills 
+with your points\\C[0], so let's do our best!
 > END STRING
 
 > BEGIN STRING
@@ -1185,8 +1197,9 @@ Yeah...
 > BEGIN STRING
 \\NAME[\\n[11]]……悪いとは　思うけど
 あたしは一旦　外れておくね。
-> CONTEXT: Commonevents/104/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/3/Dialogue
+\\NAME[\\n[11]]...Sorry, but... 
+I have to step aside for now.
 > END STRING
 
 > BEGIN STRING
@@ -1199,8 +1212,10 @@ I'm going to have to step off.
 > BEGIN STRING
 \\NAME[\\n[12]]ごめんねぇ。君の活躍を
 陰ながら　応援してるね。
-> CONTEXT: Commonevents/104/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/18/Dialogue
+\\NAME[\\n[12]]
+My apologies. I'll cheer you on
+from the sidelines.
 > END STRING
 
 > BEGIN STRING
@@ -1214,8 +1229,9 @@ from behind the scenes.
 > BEGIN STRING
 \\NAME[\\n[13]]すまんなぁ　あんちゃん。
 ウチは　手伝えへんのやぁ〜。
-> CONTEXT: Commonevents/104/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/34/Dialogue
+\\NAME[\\n[13]]Sorry, little guy.
+I can't help you〜.
 > END STRING
 
 > BEGIN STRING
@@ -1347,8 +1363,11 @@ but I can't help you.
 ……どう？
 今　手に入れた　ソレ
 ダンジョン攻略に　役立ちそう？
-> CONTEXT: Commonevents/111/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/10/Dialogue
+\\NAME[\\n[11]]
+...So?
+Does that look useful 
+for conquering the dungeon?
 > END STRING
 
 > BEGIN STRING
@@ -1356,8 +1375,11 @@ but I can't help you.
 そっかっ。それなら　良かった。
 ちゃんと　使い所を　見極めて
 無駄に　消費しないようにねっ！
-> CONTEXT: Commonevents/111/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/19/Dialogue
+\\NAME[\\n[11]]
+I see. That's good then.
+Make sure you use it wisely 
+and don't waste it!
 > END STRING
 
 > BEGIN STRING
@@ -1365,8 +1387,11 @@ but I can't help you.
 ……あ　そう？　けど　無用でも
 売って　資金にできるんだから
 無駄とか　思わないようにね！
-> CONTEXT: Commonevents/111/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/28/Dialogue
+\\NAME[\\n[11]]
+...Oh, really? But, even so,
+you can sell it for money,
+so don't think of it as a waste!
 > END STRING
 
 > BEGIN STRING
@@ -4163,7 +4188,9 @@ so what's the big deal, right?
 かつての　アングラなイメージは
 もはや　薄れてきている。
 > CONTEXT: Commonevents/196/231/Dialogue < UNTRANSLATED
-
+These days, anime has become 
+completely mainstream, and its former 
+underground reputation is fading away.
 > END STRING
 
 > BEGIN STRING
@@ -4171,14 +4198,18 @@ so what's the big deal, right?
 大ヒットアニメ映画も　多く登場する中
 作中の過激描写が　物議をかもすことも。
 > CONTEXT: Commonevents/196/235/Dialogue < UNTRANSLATED
-
+Anime films have broken box office records, 
+but some have sparked controversy 
+due to their graphic depictions.
 > END STRING
 
 > BEGIN STRING
 休日に　親子で　映画館に足を運んだ
 とある主婦の方に　話を伺ってみた。
 > CONTEXT: Commonevents/196/239/Dialogue < UNTRANSLATED
-
+I spoke to a housewife who went 
+to the movie theater 
+with her child on a holiday.
 > END STRING
 
 > BEGIN STRING
@@ -4187,14 +4218,18 @@ so what's the big deal, right?
 ちょっと刺激が　強すぎるのでは？
 相応しい内容とは　思えませんでした。
 > CONTEXT: Commonevents/196/243/Dialogue < UNTRANSLATED
-
+\\NAME[Commentator]
+I watched it because it was popular,
+but it was a bit too intense.
+The content didn't seem appropriate.
 > END STRING
 
 > BEGIN STRING
 異世界に転生して無双する　ＷＥＢ小説が
 エンタメ業界で未だ　流行ってるようだ。
 > CONTEXT: Commonevents/196/268/Dialogue < UNTRANSLATED
-
+Isekai web novels seem to still be 
+popular in the entertainment industry.
 > END STRING
 
 > BEGIN STRING
@@ -4202,7 +4237,9 @@ so what's the big deal, right?
 楽をして　快楽を得たいという物語構造が
 広く　多くの人に　刺さってるようだが
 > CONTEXT: Commonevents/196/271/Dialogue < UNTRANSLATED
-
+It's about seeking comfort and pleasure
+in a fantasy world, because reality is harsh.
+That resonates with a lot of people.
 > END STRING
 
 > BEGIN STRING
@@ -4210,7 +4247,8 @@ so what's the big deal, right?
 現実で　中には　危険視までする
 こんな意見も――
 > CONTEXT: Commonevents/196/275/Dialogue < UNTRANSLATED
-
+Many creators offer critical opinions, 
+and some even view it as dangerous.
 > END STRING
 
 > BEGIN STRING
@@ -4219,7 +4257,10 @@ so what's the big deal, right?
 そんな大切なことすら　忘れてしまうのは
 もはや　人間性の堕落だと　思いますよ。
 > CONTEXT: Commonevents/196/280/Dialogue < UNTRANSLATED
-
+\\NAME[Commentator]
+You can't get results without effort.
+Forgetting such an important truth 
+is a sign of the decline of humanity.
 > END STRING
 
 > BEGIN STRING
@@ -5162,7 +5203,9 @@ and...go to school together? \\.\\|\\^
 お洗濯も　捗っちゃう〜♪
 お日様　サンサンサン　太陽〜〜〜♪\\.\\|\\^
 > CONTEXT: Commonevents/272/24/Dialogue < UNTRANSLATED
-
+Hehe ♪ It's such a beautiful day today♪
+Laundry will go so smoothly〜♪
+The sun is shining brightly〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5170,7 +5213,9 @@ and...go to school together? \\.\\|\\^
 シーツも　洗って　干しておいたからね♪
 私の洗浄パワーで　バッチリ　キレイに☆\\.\\|\\^
 > CONTEXT: Commonevents/272/32/Dialogue < UNTRANSLATED
-
+Oh, right! I washed and hung out 
+the sheets you stained♪ My powers
+made them perfectly clean☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5178,7 +5223,9 @@ and...go to school together? \\.\\|\\^
 もしかして　シーツのシミのこと
 気にしちゃってるのかな？\\.\\|\\^
 > CONTEXT: Commonevents/272/39/Dialogue < UNTRANSLATED
-
+Hmm? You look so embarrassed...
+Could it be that you're worried 
+about the stain on the sheets? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5186,7 +5233,9 @@ and...go to school together? \\.\\|\\^
 通る道なんだから　胸を張って！
 今夜は　お赤飯を　炊いてあげるね☆\\.\\|\\^
 > CONTEXT: Commonevents/272/47/Dialogue < UNTRANSLATED
-
+It's okay♪ Every boy goes through it, 
+so be proud! I'll even cook you some 
+red bean rice tonight☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6592,7 +6641,9 @@ and...go to school together? \\.\\|\\^
 おちんちん……おっき☆
 できてるかなぁ？　そしたら――
 > CONTEXT: Commonevents/285/3/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+Now! Is your penis... 
+Big☆ and ready? If so-
 > END STRING
 
 > BEGIN STRING
@@ -6601,7 +6652,10 @@ and...go to school together? \\.\\|\\^
 かた〜くなった　おちんちんを
 私のナカに　ぐ〜っと挿れて――
 > CONTEXT: Commonevents/285/8/Dialogue < UNTRANSLATED
-
+\\NAME[\\n[12]]
+Stand up and push your 
+big☆ hard dick
+deep inside me〜
 > END STRING
 
 > BEGIN STRING
@@ -6609,7 +6663,9 @@ and...go to school together? \\.\\|\\^
 おっぱいの谷間に　君の頭を挟んで
 抱き締めながら　おせっせしてくよぉ♡\\.\\|\\^
 > CONTEXT: Commonevents/285/31/Dialogue < UNTRANSLATED
-
+Squeeze〜〜〜♡
+Let's have sex while I hold you 
+tight between my boobs♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6617,7 +6673,9 @@ and...go to school together? \\.\\|\\^
 行ったり来たり♪　行ったり来たり♪
 じゅるじゅる　ぐちゅぐちゅ　ずぽずぽ♪\\.\\|\\^
 > CONTEXT: Commonevents/285/38/Dialogue < UNTRANSLATED
-
+Your raw cock☆ goes in and out 
+inside my pussy♪ In and out♪
+Slurp, squelch, thrust, thrust♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6625,7 +6683,9 @@ and...go to school together? \\.\\|\\^
 君と私　今　繋がっちゃってるよぉ？
 ナマえっち☆　しちゃってるんだよぉ？\\.\\|\\^
 > CONTEXT: Commonevents/285/45/Dialogue < UNTRANSLATED
-
+It's fun♪ So fun♪
+You and I, we're connected now.
+Having raw sex☆ We're doing it〜\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6633,7 +6693,9 @@ and...go to school together? \\.\\|\\^
 そんな　苦しそうに　モゾモゾしちゃって
 腰もヒクヒク　浮いちゃってるよぉ？\\.\\|\\^
 > CONTEXT: Commonevents/285/55/Dialogue < UNTRANSLATED
-
+Mh〜〜 What's wrong?
+You're squirming and your hips are 
+twitching and lifting up too? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6641,7 +6703,9 @@ and...go to school together? \\.\\|\\^
 ふふふ♪　そんな君が　かわいいから
 ますます　締め付けちゃうね♡\\.\\|\\^
 > CONTEXT: Commonevents/285/62/Dialogue < UNTRANSLATED
-
+Are you drowning in my big boobs?
+Hehehe♪ You're so cute like that,
+I'll just squeeze you even tighter♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6649,7 +6713,9 @@ and...go to school together? \\.\\|\\^
 窒息寸前の苦しさで　君の性感が
 もっともっと　高まっちゃうの！\\.\\|\\^
 > CONTEXT: Commonevents/285/69/Dialogue < UNTRANSLATED
-
+Sink in the depths of my boobs〜!
+The near suffocation makes the
+pleasure all the more intense! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6657,7 +6723,9 @@ and...go to school together? \\.\\|\\^
 今から　私の『とっておき』を
 してあげるねぇ？　何だと思う？\\.\\|\\^
 > CONTEXT: Commonevents/285/76/Dialogue < UNTRANSLATED
-
+But that's not all! I'll show 
+you my 'special' thing, okay?
+What do you think it is? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6665,7 +6733,9 @@ and...go to school together? \\.\\|\\^
 突き刺してる……私の　尻尾針！
 針の先端が　君の　タマ裏にぃぃぃ♪\\.\\|\\^
 > CONTEXT: Commonevents/285/86/Dialogue < UNTRANSLATED
-
+That is...my tail in your ass!
+The tip of the needle is on the 
+underside of your balls♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6673,7 +6743,9 @@ and...go to school together? \\.\\|\\^
 君のタマタマの裏側に　注入〜♡
 ドクドクドクドク　えっちな液が注入〜♪\\.\\|\\^
 > CONTEXT: Commonevents/285/100/Dialogue < UNTRANSLATED
-
+It's injecting aphrodisiac into 
+the underside of your balls〜♡
+Thump, thump, it's injecting〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6681,7 +6753,9 @@ and...go to school together? \\.\\|\\^
 頭の中　真っ白に　溶けてっちゃうねぇ♪
 このまま君　どうなっちゃうのかなぁ？\\.\\|\\^
 > CONTEXT: Commonevents/285/114/Dialogue < UNTRANSLATED
-
+Between the boobs and the aphrodisiac,
+your mind will melt completely blank♪
+What will even happen to you? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6689,7 +6763,9 @@ and...go to school together? \\.\\|\\^
 濃厚ドロドロ☆圧縮おちんぽ☆ミルク
 どぴゅどぴゅ〜って　いっぱい出そうね？\\.\\|\\^
 > CONTEXT: Commonevents/285/128/Dialogue < UNTRANSLATED
-
+Come, come, squeeze, squeeze!
+Rich, gooey, thick dick milk☆
+Will you spurt it out for me〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6697,7 +6773,9 @@ and...go to school together? \\.\\|\\^
 大洪水にしようね？　しようね？
 密着したまま　ダムが決壊するみたいに♪\\.\\|\\^
 > CONTEXT: Commonevents/285/135/Dialogue < UNTRANSLATED
-
+Make my pussy flood like this, okay? 
+Let's do it! Like a dam breaking 
+while we're still pressed together♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6705,7 +6783,9 @@ and...go to school together? \\.\\|\\^
 遠慮なんかしちゃ　ダメっ！
 いっぱいいっぱい　私にちょうだ〜い♡\\.\\|\\^
 > CONTEXT: Commonevents/285/142/Dialogue < UNTRANSLATED
-
+Let it all out and cum, okay?
+Don't hold back on me!
+Give me lots and lots, please〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6713,14 +6793,17 @@ and...go to school together? \\.\\|\\^
 どぴゅどぴゅどっぴゅん♡ 　私のナカに
 出して　出して　出してぇぇぇ！！！\\.\\|\\^
 > CONTEXT: Commonevents/285/149/Dialogue < UNTRANSLATED
-
+Ahhh♡ Cum☆ Cum☆ Cum for me☆
+Splurt, splurt, splurt♡ Inside me♡
+Cum, cum, let it all out for me!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 きゃあああぁぁぁっっっ♡♡♡
 すっごい……ジューシー♡\\.\\|\\^
 > CONTEXT: Commonevents/285/164/Dialogue < UNTRANSLATED
-
+Kyaaaaaaaaaaaaaa♡♡♡
+Amazing...so juicy♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6728,7 +6811,9 @@ and...go to school together? \\.\\|\\^
 まだ繋がったままだから　体　離したら
 真っ白な滝になって　零れちゃうね。\\.\\|\\^
 > CONTEXT: Commonevents/285/175/Dialogue < UNTRANSLATED
-
+Hehe♪ Good job, aren't you a good boy?
+If we were to separate our bodies now,
+it'll be like a pure white waterfall〜.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6736,7 +6821,9 @@ and...go to school together? \\.\\|\\^
 私のオマンコの中で　たぷたぷ♪
 お精子ちゃんを　泳がせておこうね？\\.\\|\\^
 > CONTEXT: Commonevents/285/182/Dialogue < UNTRANSLATED
-
+Your dick milk☆ Stay like this for a now,
+it's sloshing around inside my pussy♪
+Let's let your sperm swim around, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6744,7 +6831,9 @@ and...go to school together? \\.\\|\\^
 まさか　ホントに　溺れちゃった？\\|
 ふふふっ♪　私に　溺れちゃったんだね。\\.\\|\\^
 > CONTEXT: Commonevents/285/191/Dialogue < UNTRANSLATED
-
+--Hey? You're not breathing...
+Did you really drown in there? \\|
+Hehehe♪ You really drowned, didn't you? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
