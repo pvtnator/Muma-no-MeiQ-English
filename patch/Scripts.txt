@@ -7361,7 +7361,7 @@
 > BEGIN STRING
 "%sは　%s傷害　%s搾取！"
 > CONTEXT: Scripts/吸収ダメージを割合設定/24:21
-"%s suffered %s damage and %s bleed!"
+"%s suffered %s damage, %s drained!"
 > END STRING
 
 > BEGIN STRING
@@ -7372,8 +7372,8 @@
 
 > BEGIN STRING
 "%sに　%s傷害　%s搾取！"
-> CONTEXT: Scripts/吸収ダメージを割合設定/25:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/吸収ダメージを割合設定/25:21
+"%s suffered %s damage, %s drained!"
 > END STRING
 
 > BEGIN STRING
@@ -7939,8 +7939,8 @@
 
 > BEGIN STRING
 "待\#{@actor.cool_time[skill.id]}"
-> CONTEXT: Scripts/スキルクールタイム/130:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/スキルクールタイム/130:21
+"CD:\#{@actor.cool_time[skill.id]}"
 > END STRING
 
 > BEGIN STRING
@@ -8837,8 +8837,8 @@
 
 > BEGIN STRING
 "%sは　耐えきった！"
-> CONTEXT: Scripts/食いしばりスキル/92:8 < UNTRANSLATED
-
+> CONTEXT: Scripts/食いしばりスキル/92:8
+"%s endured it!"
 > END STRING
 
 > BEGIN STRING
@@ -11544,8 +11544,8 @@
 
 > BEGIN STRING
 "仕込み笛"
-> CONTEXT: Scripts/ショップ在庫制/165:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/165:3
+"Practice Flute"
 > END STRING
 
 > BEGIN STRING
@@ -11556,8 +11556,8 @@
 
 > BEGIN STRING
 "バトルリュート"
-> CONTEXT: Scripts/ショップ在庫制/167:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/167:3
+"Battle Lute"
 > END STRING
 
 > BEGIN STRING
@@ -11688,8 +11688,8 @@
 
 > BEGIN STRING
 "竜の爪"
-> CONTEXT: Scripts/ショップ在庫制/190:3 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/190:3
+"Dragon Claw"
 > END STRING
 
 > BEGIN STRING

@@ -137,8 +137,11 @@ so you'll have an advantage, get it?
 入手したアイテム　上手く活用してる？
 例えば　各種の精霊薬は　戦闘前に使って
 予め　バフを掛けておくことができるし
-> CONTEXT: Map011/events/1/pages/2/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/109/Dialogue
+\\NAME[\\n[11]]
+Are you making use of the items you get?
+For example, you can use various spirit potions 
+before battle to apply buffs in advance.
 > END STRING
 
 > BEGIN STRING
@@ -146,8 +149,11 @@ so you'll have an advantage, get it?
 \\C[6]\\ITEM[231]を　戦闘中に　使えば
 敵陣の動きを　止めたりもできる\\C[0]よ？
 アイテムの活用を　常に考えるようにね！
-> CONTEXT: Map011/events/1/pages/2/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/115/Dialogue
+\\NAME[\\n[11]]
+If you use \\C[6]\\ITEM[231] during battle,
+you can even stop the enemy's movements\\C[0]!
+Always think about how to use items!
 > END STRING
 
 > BEGIN STRING
@@ -155,8 +161,11 @@ so you'll have an advantage, get it?
 スキルを　選択する時に　Ｙボタンを
 押すと　そのスキルの　Time Alter
 発動順変動値が　確認できるからね。
-> CONTEXT: Map011/events/1/pages/2/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/129/Dialogue
+\\NAME[\\n[11]]
+When selecting a skill, pressing the 
+Y button allows you to check the 
+Time Alter speed value of that skill.
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +173,11 @@ so you'll have an advantage, get it?
 強力なスキルでも　発動が遅かったり
 他にも　注意事項が　チェックできるから
 特性を理解して　賢く立ち回るようにっ。
-> CONTEXT: Map011/events/1/pages/2/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/135/Dialogue
+\\NAME[\\n[11]]
+Even powerful skills can be slow to activate,
+and there are other things to check,
+so understand your skills and play wisely.
 > END STRING
 
 > BEGIN STRING
@@ -173,8 +185,11 @@ so you'll have an advantage, get it?
 出現する敵の傾向から　対策となる装備を
 身に着けるのも　大事だよ？
 その階層を　ウロウロしてる魔物――
-> CONTEXT: Map011/events/1/pages/2/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/157/Dialogue
+\\NAME[\\n[11]]
+It's also important to equip gear that 
+counters the enemies that appear, you know?
+The monsters wandering around that floor—
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +203,11 @@ so you'll have an advantage, get it?
 例えば　理性を失った魔物の夢魔たちは
 惑乱のバステを　仕掛けてくるから
 蒼玉の指輪を装備して　対策するとかね。
-> CONTEXT: Map011/events/1/pages/2/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/168/Dialogue
+\\NAME[\\n[11]]
+For example, the succubi who try to rob you 
+of your reason, inflict confusion, 
+so equip the Sapphire Ring to counter it.
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +215,11 @@ so you'll have an advantage, get it?
 \\C[6]堅固な金属製の鎧や　大型の盾は
 \\ITEM[300]を　使わないと　開けられない
 宝箱からしか　手に入らない\\C[0]からね。
-> CONTEXT: Map011/events/1/pages/2/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/186/Dialogue
+\\NAME[\\n[11]]
+\\C[6]Sturdy armor and large shields can 
+only be obtained from treasure chests 
+that require using \\ITEM[300]\\C[0].
 > END STRING
 
 > BEGIN STRING
@@ -206,8 +227,11 @@ so you'll have an advantage, get it?
 因みに　大型の盾は　防御力は高いけど
 \\C[6]両手武器が　装備できなくなる\\C[0]し
 ちょっと　動きづらいかもね。
-> CONTEXT: Map011/events/1/pages/2/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/192/Dialogue
+\\NAME[\\n[11]]
+By the way, large shields have high defense, 
+but \\C[6]you can't equip two-handed weapons\\C[0]
+and it might be difficult to move around.
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +239,11 @@ so you'll have an advantage, get it?
 近接攻撃で　魔物の息の根を　止めると
 稀に　迸る邪気が　反転反応を起こして
 スキルポイントとして　獲得できるから。
-> CONTEXT: Map011/events/1/pages/2/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/212/Dialogue
+\\NAME[\\n[11]]
+When you finish a monster in close-range,
+the Jaqi might burst with a revere-reaction,
+and you can acquire it as skill points.
 > END STRING
 
 > BEGIN STRING
@@ -224,8 +251,11 @@ so you'll have an advantage, get it?
 たまに　反応時の音が　聞こえるでしょ？
 攻撃スキルで『遠隔』って記載がない限り
 大体は　近接スキルだからね。
-> CONTEXT: Map011/events/1/pages/2/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/218/Dialogue
+\\NAME[\\n[11]]
+Have you heard the sound of that reaction?
+Unless it says 'ranged' in the description,
+it's probably a close-range skill.
 > END STRING
 
 > BEGIN STRING
@@ -233,8 +263,11 @@ so you'll have an advantage, get it?
 実は　メインに装備する武器種によって
 狙われやすさ――Hateが　変わるんだよ。
 \\i[201]\\i[202]\\i[204]\\i[211]とかは　狙われやすいかな。
-> CONTEXT: Map011/events/1/pages/2/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/231/Dialogue
+\\NAME[\\n[11]]
+The primary weapon you equip determines 
+how likely you are to be targeted.
+\\i[201]\\i[202]\\i[204]\\i[211] are likely to be targeted.
 > END STRING
 
 > BEGIN STRING
@@ -242,8 +275,11 @@ so you'll have an advantage, get it?
 あと　サブ武器種のスキルを　使う時は
 ちゃんと　\\C[6]サブのATKの数値に依存する
 威力になる\\C[0]から　覚えとくんだよ？
-> CONTEXT: Map011/events/1/pages/2/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/2/237/Dialogue
+\\NAME[\\n[11]]
+Also, when you use sub-weapon skills, 
+remember that the \\C[6]power depends 
+on the ATK value of the sub-weapon\\C[0], okay?
 > END STRING
 
 > BEGIN STRING
@@ -368,8 +404,11 @@ you'll be wiped out in no time!
 ってか　もはや　３人とも
 夢界中心に　来れるのか。
 ……ってことは──
-> CONTEXT: Map011/events/1/pages/3/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/108/Dialogue
+\\NAME[\\n[11]]
+So, all 3 of us have come to 
+Central Realms of Reverie...?
+...Which means──
 > END STRING
 
 > BEGIN STRING
@@ -377,8 +416,11 @@ you'll be wiped out in no time!
 ようやく　第一条件をクリア……ね。
 あとは　あたしら３人を　連れた状態で
 ロゴスのところへ　行くだけ……だよ。
-> CONTEXT: Map011/events/1/pages/3/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/121/Dialogue
+\\NAME[\\n[11]]
+Finally, the first task is done...
+All that's left is to take the 
+three of us and go to Logos....
 > END STRING
 
 > BEGIN STRING
@@ -386,9 +428,12 @@ you'll be wiped out in no time!
 うーん……。
 これで　いいんだよね……。
 だって　これが………………。
-> CONTEXT: Map011/events/1/pages/3/130/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/3/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/130/Dialogue
+> CONTEXT: Map011/events/1/pages/3/146/Dialogue
+\\NAME[\\n[11]]
+Hmm...
+That's all good...
+Considering...
 > END STRING
 
 > BEGIN STRING
@@ -396,9 +441,12 @@ you'll be wiped out in no time!
 ──ッ！？　何ッ！？　あんた！？
 さ　さぁ　早く！
 ロゴスのところへ　行くよっっ！！
-> CONTEXT: Map011/events/1/pages/3/136/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/3/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/136/Dialogue
+> CONTEXT: Map011/events/1/pages/3/152/Dialogue
+\\NAME[\\n[11]]
+--!? What!? You!?
+Come on, hurry!
+Let's get to Logos!!
 > END STRING
 
 > BEGIN STRING

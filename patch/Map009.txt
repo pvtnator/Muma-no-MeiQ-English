@@ -122,8 +122,9 @@ with all three of the girls.
 > BEGIN STRING
 ロゴスの鍵を　所持した状態で
 ここに来るべき……そんな　気がする。
-> CONTEXT: Map009/events/7/pages/3/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/54/Dialogue
+You get the feeling you should 
+come here with the Key to Logos.
 > END STRING
 
 > BEGIN STRING

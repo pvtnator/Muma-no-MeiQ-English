@@ -1007,50 +1007,50 @@ Psychoneuro
 
 > BEGIN STRING
 マッドシナプス
-> CONTEXT: Enemies/872/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/872/name/
+Mad Synapse
 > END STRING
 
 > BEGIN STRING
 貘
-> CONTEXT: Enemies/881/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/881/name/
+Baku
 > END STRING
 
 > BEGIN STRING
 貘獣
-> CONTEXT: Enemies/882/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/882/name/
+Baku Beast
 > END STRING
 
 > BEGIN STRING
 貘獣王
-> CONTEXT: Enemies/883/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/883/name/
+Baku King
 > END STRING
 
 > BEGIN STRING
 炎貘獣王竜
-> CONTEXT: Enemies/884/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/884/name/
+Fire Baku Dragon King
 > END STRING
 
 > BEGIN STRING
 氷貘獣王竜
-> CONTEXT: Enemies/885/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/885/name/
+Ice Baku Dragon King
 > END STRING
 
 > BEGIN STRING
 雷貘獣王竜
-> CONTEXT: Enemies/886/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/886/name/
+Lightning Baku Dragon King
 > END STRING
 
 > BEGIN STRING
 貘獣王竜
-> CONTEXT: Enemies/887/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/887/name/
+Baku Dragon King
 > END STRING
 
 > BEGIN STRING

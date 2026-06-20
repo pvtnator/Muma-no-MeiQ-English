@@ -559,9 +559,9 @@ Bleed
 
 > BEGIN STRING
 は　急死した！
-> CONTEXT: States/63/message1/ < UNTRANSLATED
-> CONTEXT: States/63/message2/ < UNTRANSLATED
-
+> CONTEXT: States/63/message1/
+> CONTEXT: States/63/message2/
+ died suddenly!
 > END STRING
 
 > BEGIN STRING
@@ -1114,15 +1114,15 @@ EX足技08
 
 > BEGIN STRING
 は　覚悟完了！
-> CONTEXT: States/163/message1/ < UNTRANSLATED
-> CONTEXT: States/163/message2/ < UNTRANSLATED
-
+> CONTEXT: States/163/message1/
+> CONTEXT: States/163/message2/
+ got prepared!
 > END STRING
 
 > BEGIN STRING
 は　不屈でなくなった！
-> CONTEXT: States/163/message4/ < UNTRANSLATED
-
+> CONTEXT: States/163/message4/
+ lost indomitability!
 > END STRING
 
 > BEGIN STRING
@@ -1632,26 +1632,26 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 火炎属性強化
-> CONTEXT: States/261/name/ < UNTRANSLATED
-
+> CONTEXT: States/261/name/
+Fire Enchant
 > END STRING
 
 > BEGIN STRING
 の火炎属性が　強化された！
-> CONTEXT: States/261/message1/ < UNTRANSLATED
-
+> CONTEXT: States/261/message1/
+ got fire enchantment!
 > END STRING
 
 > BEGIN STRING
 の火炎属性が　強化！
-> CONTEXT: States/261/message2/ < UNTRANSLATED
-
+> CONTEXT: States/261/message2/
+  got fire enchantment!
 > END STRING
 
 > BEGIN STRING
 の火炎属性強化が　終了！
-> CONTEXT: States/261/message4/ < UNTRANSLATED
-
+> CONTEXT: States/261/message4/
+ lost fire enchantment!
 > END STRING
 
 > BEGIN STRING
@@ -1680,98 +1680,98 @@ Water/Ice Enchant
 
 > BEGIN STRING
 切斬属性強化
-> CONTEXT: States/263/name/ < UNTRANSLATED
-
+> CONTEXT: States/263/name/
+Slash Enchant
 > END STRING
 
 > BEGIN STRING
 の切斬属性が　強化された！
-> CONTEXT: States/263/message1/ < UNTRANSLATED
-
+> CONTEXT: States/263/message1/
+ got slash enchantment!
 > END STRING
 
 > BEGIN STRING
 の切斬属性が　強化！
-> CONTEXT: States/263/message2/ < UNTRANSLATED
-
+> CONTEXT: States/263/message2/
+ got slash enchantment!
 > END STRING
 
 > BEGIN STRING
 の切斬属性強化が　終了！
-> CONTEXT: States/263/message4/ < UNTRANSLATED
-
+> CONTEXT: States/263/message4/
+ lost slash enchantment!
 > END STRING
 
 > BEGIN STRING
 打壊属性強化
-> CONTEXT: States/264/name/ < UNTRANSLATED
-
+> CONTEXT: States/264/name/
+Strike Enchant
 > END STRING
 
 > BEGIN STRING
 の打壊属性が　強化された！
-> CONTEXT: States/264/message1/ < UNTRANSLATED
-
+> CONTEXT: States/264/message1/
+ got strike enchantment!
 > END STRING
 
 > BEGIN STRING
 の打壊属性が　強化！
-> CONTEXT: States/264/message2/ < UNTRANSLATED
-
+> CONTEXT: States/264/message2/
+ got strike enchantment!
 > END STRING
 
 > BEGIN STRING
 の打壊属性強化が　終了！
-> CONTEXT: States/264/message4/ < UNTRANSLATED
-
+> CONTEXT: States/264/message4/
+ lost strike enchantment!
 > END STRING
 
 > BEGIN STRING
 突貫属性強化
-> CONTEXT: States/265/name/ < UNTRANSLATED
-
+> CONTEXT: States/265/name/
+Pierce Enchant
 > END STRING
 
 > BEGIN STRING
 の突貫属性が　強化された！
-> CONTEXT: States/265/message1/ < UNTRANSLATED
-
+> CONTEXT: States/265/message1/
+ got pierce enchantment!
 > END STRING
 
 > BEGIN STRING
 の突貫属性が　強化！
-> CONTEXT: States/265/message2/ < UNTRANSLATED
-
+> CONTEXT: States/265/message2/
+ got pierce enchantment!
 > END STRING
 
 > BEGIN STRING
 の突貫属性強化が　終了！
-> CONTEXT: States/265/message4/ < UNTRANSLATED
-
+> CONTEXT: States/265/message4/
+ lost pierce enchantment!
 > END STRING
 
 > BEGIN STRING
 雷電属性強化
-> CONTEXT: States/266/name/ < UNTRANSLATED
-
+> CONTEXT: States/266/name/
+Lightning Enchant
 > END STRING
 
 > BEGIN STRING
 の雷電属性が　強化された！
-> CONTEXT: States/266/message1/ < UNTRANSLATED
-
+> CONTEXT: States/266/message1/
+ got lightning enchantment!
 > END STRING
 
 > BEGIN STRING
 の雷電属性が　強化！
-> CONTEXT: States/266/message2/ < UNTRANSLATED
-
+> CONTEXT: States/266/message2/
+ got lightning enchantment!
 > END STRING
 
 > BEGIN STRING
 の雷電属性強化が　終了！
-> CONTEXT: States/266/message4/ < UNTRANSLATED
-
+> CONTEXT: States/266/message4/
+ lost lightning enchantment!
 > END STRING
 
 > BEGIN STRING
@@ -1843,8 +1843,8 @@ Fire Resist
 
 > BEGIN STRING
 水氷属性弱化
-> CONTEXT: States/272/name/ < UNTRANSLATED
-
+> CONTEXT: States/272/name/
+Water/Ice Weakness
 > END STRING
 
 > BEGIN STRING
@@ -1862,116 +1862,116 @@ Fire Resist
 
 > BEGIN STRING
 切斬属性弱化
-> CONTEXT: States/273/name/ < UNTRANSLATED
-
+> CONTEXT: States/273/name/
+Slash Weakness
 > END STRING
 
 > BEGIN STRING
 の切斬耐性が　下落！
-> CONTEXT: States/273/message1/ < UNTRANSLATED
-> CONTEXT: States/273/message2/ < UNTRANSLATED
-
+> CONTEXT: States/273/message1/
+> CONTEXT: States/273/message2/
+ lost slash resistance!
 > END STRING
 
 > BEGIN STRING
 の切斬耐性下落が　終了！
-> CONTEXT: States/273/message4/ < UNTRANSLATED
-
+> CONTEXT: States/273/message4/
+ regained slash resistance!
 > END STRING
 
 > BEGIN STRING
 打壊属性弱化
-> CONTEXT: States/274/name/ < UNTRANSLATED
-
+> CONTEXT: States/274/name/
+Strike Weakness
 > END STRING
 
 > BEGIN STRING
 の打壊耐性が　下落！
-> CONTEXT: States/274/message1/ < UNTRANSLATED
-> CONTEXT: States/274/message2/ < UNTRANSLATED
-
+> CONTEXT: States/274/message1/
+> CONTEXT: States/274/message2/
+ lost strike resistance!
 > END STRING
 
 > BEGIN STRING
 の打壊耐性下落が　終了！
-> CONTEXT: States/274/message4/ < UNTRANSLATED
-
+> CONTEXT: States/274/message4/
+ regained strike resistance!
 > END STRING
 
 > BEGIN STRING
 突貫属性弱化
-> CONTEXT: States/275/name/ < UNTRANSLATED
-
+> CONTEXT: States/275/name/
+Pierce Weakness
 > END STRING
 
 > BEGIN STRING
 の突貫耐性が　下落！
-> CONTEXT: States/275/message1/ < UNTRANSLATED
-> CONTEXT: States/275/message2/ < UNTRANSLATED
-
+> CONTEXT: States/275/message1/
+> CONTEXT: States/275/message2/
+ lost pierce resistance!
 > END STRING
 
 > BEGIN STRING
 の突貫耐性下落が　終了！
-> CONTEXT: States/275/message4/ < UNTRANSLATED
-
+> CONTEXT: States/275/message4/
+ regained pierce resistance!
 > END STRING
 
 > BEGIN STRING
 雷電属性弱化
-> CONTEXT: States/276/name/ < UNTRANSLATED
-
+> CONTEXT: States/276/name/
+Lightning Weakness
 > END STRING
 
 > BEGIN STRING
 の雷電耐性が　下落！
-> CONTEXT: States/276/message1/ < UNTRANSLATED
-> CONTEXT: States/276/message2/ < UNTRANSLATED
-
+> CONTEXT: States/276/message1/
+> CONTEXT: States/276/message2/
+ lost lightning resistance!
 > END STRING
 
 > BEGIN STRING
 の雷電耐性下落が　終了！
-> CONTEXT: States/276/message4/ < UNTRANSLATED
-
+> CONTEXT: States/276/message4/
+ regained lightning resistance!
 > END STRING
 
 > BEGIN STRING
 物理属性弱化
-> CONTEXT: States/277/name/ < UNTRANSLATED
-
+> CONTEXT: States/277/name/
+Physical Weakness
 > END STRING
 
 > BEGIN STRING
 の物理耐性が　下落！
-> CONTEXT: States/277/message1/ < UNTRANSLATED
-> CONTEXT: States/277/message2/ < UNTRANSLATED
-
+> CONTEXT: States/277/message1/
+> CONTEXT: States/277/message2/
+ lost physical resistance!
 > END STRING
 
 > BEGIN STRING
 の物理耐性下落が　終了！
-> CONTEXT: States/277/message4/ < UNTRANSLATED
-
+> CONTEXT: States/277/message4/
+ regained physical resistance!
 > END STRING
 
 > BEGIN STRING
 化学属性弱化
-> CONTEXT: States/278/name/ < UNTRANSLATED
-
+> CONTEXT: States/278/name/
+Elemental Weakness
 > END STRING
 
 > BEGIN STRING
 の化学耐性が　下落！
-> CONTEXT: States/278/message1/ < UNTRANSLATED
-> CONTEXT: States/278/message2/ < UNTRANSLATED
-
+> CONTEXT: States/278/message1/
+> CONTEXT: States/278/message2/
+ lost elemental resistance!
 > END STRING
 
 > BEGIN STRING
 の化学耐性下落が　終了！
-> CONTEXT: States/278/message4/ < UNTRANSLATED
-
+> CONTEXT: States/278/message4/
+ regained elemental resistance!
 > END STRING
 
 > BEGIN STRING

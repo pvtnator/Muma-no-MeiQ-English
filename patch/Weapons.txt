@@ -352,7 +352,7 @@ Bronze Dagger
 習:斬撃/刺突/\\C[6]レッグカット\\C[0]
 戦闘向けに研磨された　青銅製のナイフ
 > CONTEXT: Weapons/71/description/
-Skills: Slash/Thrust/Leg Cut
+Skills: Slash/Thrust/\\C[6]Leg Cut\\C[0]
 A bronze knife sharpened for combat
 > END STRING
 
@@ -436,7 +436,7 @@ Platinum Lancet
 習:刺突/\\C[6]避雷針\\C[0]
 高位の針使いが扱う　鋭く光る針具
 > CONTEXT: Weapons/83/description/
-Skills: Thrust /\\C[6]Lightning Rod\\C[0]
+Skills: Thrust/\\C[6]Lightning Rod\\C[0]
 Gleaming tool for highly skilled needle users
 > END STRING
 
@@ -1282,184 +1282,198 @@ Hand-throwing darts used among the nobility
 
 > BEGIN STRING
 影刃手裏剣
-> CONTEXT: Weapons/205/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/205/name/
+Shadow Shuriken
 > END STRING
 
 > BEGIN STRING
 習:旋刃/投刺
 謎の宇宙素材による　鋭利な風車型手裏剣
-> CONTEXT: Weapons/205/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/205/description/
+Skills: Spin/Throw
+Shuriken made from mysterious cosmic material
 > END STRING
 
 > BEGIN STRING
 ボーラ
-> CONTEXT: Weapons/211/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/211/name/
+Bola
 > END STRING
 
 > BEGIN STRING
 習:旋打
 縄の先に球状の重石を付けた　投擲武器
-> CONTEXT: Weapons/211/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/211/description/
+Skill: Spin
+Spherical weight at the end of a rope
 > END STRING
 
 > BEGIN STRING
 戦球
-> CONTEXT: Weapons/212/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/212/name/
+Battle Ball
 > END STRING
 
 > BEGIN STRING
 習:旋打/\\C[6]強ストレート\\C[0]
 超人球技でも使われている　戦闘用の硬球
-> CONTEXT: Weapons/212/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/212/description/
+Skills: Spin/\\C[6]Strong Straight\\C[0]
+A hard combat ball used in superhuman ball games
 > END STRING
 
 > BEGIN STRING
 骨破微塵
-> CONTEXT: Weapons/213/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/213/name/
+Bone Duster
 > END STRING
 
 > BEGIN STRING
 習:旋打
 より強化されたボーラ　投げ当てれば粉々
-> CONTEXT: Weapons/213/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/213/description/
+Skill: Spin
+Shatters targets into pieces.
 > END STRING
 
 > BEGIN STRING
 メテオスリング
-> CONTEXT: Weapons/214/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/214/name/
+Meteor Sling
 > END STRING
 
 > BEGIN STRING
 習:旋打/\\C[6]クロスファイア\\C[0]
 宇宙規模の投石紐　最上級の投打武器
-> CONTEXT: Weapons/214/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/214/description/
+Skills: Spin/\\C[6]Crossfire\\C[0]
+Cosmic-scale top-tier slingshot rope
 > END STRING
 
 > BEGIN STRING
 ヒマンテス
-> CONTEXT: Weapons/220/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/220/name/
+Himantes
 > END STRING
 
 > BEGIN STRING
 習:殴打〘肉弾技威力↑〙〘両〙
 拳に巻く堅い革紐　最低限の拳鍔
-> CONTEXT: Weapons/220/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/220/description/
+Skills: Hit [Flesh Skill Power↑][2H]
+A stiff leather strap to wrap around the fist
 > END STRING
 
 > BEGIN STRING
 鉄甲
-> CONTEXT: Weapons/221/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/221/name/
+Iron Shell
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突〘両〙
 拳に嵌めて使う　突起付ナックルダスター
-> CONTEXT: Weapons/221/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/221/description/
+Skills: Cut/Thrust[2H]
+A knuckle duster with a protrusion
 > END STRING
 
 > BEGIN STRING
 手甲鉤
-> CONTEXT: Weapons/222/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/222/name/
+Hand Hook
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]キャットクロー\\C[0]〘両〙
 鋭利な鉄の爪を付けた　拳に嵌める暗器
-> CONTEXT: Weapons/222/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/222/description/
+Skills: Slash/Thrust/\\C[6]Cat Claw\\C[0][2H]
+A hidden sharp iron claws
 > END STRING
 
 > BEGIN STRING
 カエストス
-> CONTEXT: Weapons/223/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/223/name/
+Caestus
 > END STRING
 
 > BEGIN STRING
 習:殴打〘肉弾技威力↑〙〘両〙
 金属を仕込み　攻撃性を増した拳鍔
-> CONTEXT: Weapons/223/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/223/description/
+Skill: Hit[Flesh Skill Power↑][2H]
+Metal fist to increase offensive capabilities
 > END STRING
 
 > BEGIN STRING
 風火輪
-> CONTEXT: Weapons/224/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/224/name/
+Wind-Fire Ring
 > END STRING
 
 > BEGIN STRING
 習:斬撃/旋刃〘両〙
 日輪を模した金属の環で　投擲も可
-> CONTEXT: Weapons/224/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/224/description/
+Skills: Slash/Turning Blade[2H]
+A metal ring modeled after the sun. Throwable
 > END STRING
 
 > BEGIN STRING
 最終バンテージ
-> CONTEXT: Weapons/225/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/225/name/
+Final Bandage
 > END STRING
 
 > BEGIN STRING
 習:殴打〘肉弾技威力↑〙/\\C[6]邪雀拳\\C[0]〘両〙
 最強を志す格闘家が　拳に巻いたと伝わる
-> CONTEXT: Weapons/225/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/225/description/
+Skills: Hit [Flesh Skill Power↑]/\\C[6]Evil Sparrow Fist\\C[0][2H]
+Wrapped around fists of strongest fighters
 > END STRING
 
 > BEGIN STRING
 竜の爪
-> CONTEXT: Weapons/228/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/228/name/
+Dragon Claw
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/\\C[6]燃焼貫\\C[0]〘両〙
 皇帝の証である　燃え盛る竜の五爪
-> CONTEXT: Weapons/228/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/228/description/
+Skills: Slash/Thrust/\\C[6]Burning Pierce\\C[0][2H]
+Claws of a blazing dragon, emperor's symbol
 > END STRING
 
 > BEGIN STRING
 仕込み笛
-> CONTEXT: Weapons/230/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/230/name/
+Practice Flute
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/平打/\\C[6]悲雨の旋律\\C[0]
 演奏用途にも対応　刃を潜ませた初級暗器
-> CONTEXT: Weapons/230/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/230/description/
+Skills: Slash/Thrust/Blunt Strike/\\C[6]Sorrowful Rain\\C[0]
+Simple instrument with a concealed blade
 > END STRING
 
 > BEGIN STRING
 バトルリュート
-> CONTEXT: Weapons/231/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/231/name/
+Battle Lute
 > END STRING
 
 > BEGIN STRING
 習:平打/\\C[6]狂雷の旋律\\C[0]
 武器としても使える　戦場用の弦楽器
-> CONTEXT: Weapons/231/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/231/description/
+Skills: Blunt Strike/\\C[6]Mad Thunder\\C[0]
+A stringed instrument, also a weapon
 > END STRING
 
 > BEGIN STRING
@@ -1478,80 +1492,86 @@ A soldier's instrument with a protruding mute
 
 > BEGIN STRING
 メタルハープ
-> CONTEXT: Weapons/233/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/233/name/
+Metal Harp
 > END STRING
 
 > BEGIN STRING
 習:殴打
 金属製で重量もある　硬質で大型の竪琴
-> CONTEXT: Weapons/233/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/233/description/
+Skill: Hit
+A heavy, hard, large metal lyre
 > END STRING
 
 > BEGIN STRING
 毒手風琴
-> CONTEXT: Weapons/234/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/234/name/
+Poison Wind Harp
 > END STRING
 
 > BEGIN STRING
 習:殴打〘凡撃時被毒(中)〙
 ふいごの中に毒を潜めた　アコーディオン
-> CONTEXT: Weapons/234/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/234/description/
+Skills: Hit[Normal attack poison(M)]
+An accordion with poison hidden inside
 > END STRING
 
 > BEGIN STRING
 サイカリンバ
-> CONTEXT: Weapons/235/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/235/name/
+Psy-Kalimba
 > END STRING
 
 > BEGIN STRING
 習:平打
 霊力を宿した金属片で出来た　指ピアノ
-> CONTEXT: Weapons/235/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/235/description/
+Skill: Blunt Strike
+Made of metal fragments imbued with magic
 > END STRING
 
 > BEGIN STRING
 ストラトスター
-> CONTEXT: Weapons/236/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/236/name/
+Stratostar
 > END STRING
 
 > BEGIN STRING
 習:殴打/\\C[6]フルテンファズ\\C[0]
 星の加護を受けた　最上級の弦楽器
-> CONTEXT: Weapons/236/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/236/description/
+Skills: Hit/\\C[6]Full Ten Fuzz\\C[0]
+A top-of-the-line stringed instrument blessed by the stars.
 > END STRING
 
 > BEGIN STRING
 鉄扇
-> CONTEXT: Weapons/241/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/241/name/
+Iron Fan
 > END STRING
 
 > BEGIN STRING
 習:平打
 護身用にも使われる　鉄で出来た扇子
-> CONTEXT: Weapons/241/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/241/description/
+Skill: Blunt Strike
+Iron fan for self-defense
 > END STRING
 
 > BEGIN STRING
 メタルカード
-> CONTEXT: Weapons/242/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/242/name/
+Metal Card
 > END STRING
 
 > BEGIN STRING
 習:切払
 様々な絵柄の描かれた　刃物のような札
-> CONTEXT: Weapons/242/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/242/description/
+Skill: Cut
+A blade-like tag with various designs
 > END STRING
 
 > BEGIN STRING

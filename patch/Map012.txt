@@ -186,8 +186,11 @@ fight alone,\\C[0] okay?♪
 お店で　お買い物はしてるかな？　たまに
 通路にある扉は　\\ITEM[300]で開くよ？
 見掛けたら　こんにちは☆してみましょ？
-> CONTEXT: Map012/events/1/pages/2/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/124/Dialogue
+\\NAME[\\n[12]]
+Have you been shopping at the store? 
+The door opens with \\ITEM[300].
+Go and say hello☆ for me, okay?
 > END STRING
 
 > BEGIN STRING
@@ -195,8 +198,11 @@ fight alone,\\C[0] okay?♪
 回復アイテムを　仕入れとくのは勿論
 お店だけの限定品も……！　だけど
 \\C[6]売り切れがあるから　在庫には注意\\C[0]ね！
-> CONTEXT: Map012/events/1/pages/2/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/130/Dialogue
+\\NAME[\\n[12]]
+Of course, stock up on recovery items
+and store-exclusive items too...! But
+\\C[6]Some items sell out, be careful with stock\\C[0]!
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +210,11 @@ fight alone,\\C[0] okay?♪
 あと　要らないアイテムや武具は　お店で
 売った方が　断然　お得だからね！
 賢く売買して　目指せ　成金王〜♪
-> CONTEXT: Map012/events/1/pages/2/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/136/Dialogue
+\\NAME[\\n[12]]
+Also, it's best to sell any unwanted items 
+or weapons at the shop! Buy and sell wisely 
+and aim to become a millionaire!
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +222,11 @@ fight alone,\\C[0] okay?♪
 スキル対象の　【単】は　単体お一人様
 【全】は　全体の皆様。【拡】は拡散……
 対象に選んだ方と　隣接する両隣だよ♪
-> CONTEXT: Map012/events/1/pages/2/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/149/Dialogue
+\\NAME[\\n[12]]
+For skill targets, single means 1,
+all means everyone and area means...
+target and adjacent targets♪
 > END STRING
 
 > BEGIN STRING
@@ -222,8 +234,11 @@ fight alone,\\C[0] okay?♪
 ダメージ量は　少し下がっちゃうけど
 拡散スキルで　すぐ傍の　お相手さんも
 巻き込んじゃおうね♪
-> CONTEXT: Map012/events/1/pages/2/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/155/Dialogue
+\\NAME[\\n[12]]
+The damage will be slightly lower, 
+but you can use the area skill to hit 
+nearby opponents as well♪
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +246,11 @@ fight alone,\\C[0] okay?♪
 バステを　放置しちゃってないかな？
 確かに　そのまま　戦うのもありだけど
 \\C[6]特定バステ時に　威力が増加するスキル\\C[0]や
-> CONTEXT: Map012/events/1/pages/2/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/175/Dialogue
+\\NAME[\\n[12]]
+Are you leaving ailments untreated?
+Ignoring them is an option, but then
+\\C[6]some skills are conditionally stronger\\C[0] or
 > END STRING
 
 > BEGIN STRING
@@ -240,8 +258,11 @@ fight alone,\\C[0] okay?♪
 \\C[6]命中率の低い　超強力なスキルに
 当たっちゃうようなことも　ある\\C[0]んだから
 バステに掛かったら　注意してね？
-> CONTEXT: Map012/events/1/pages/2/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/181/Dialogue
+\\NAME[\\n[12]]
+\\C[6]You might get hit by a super powerful skill 
+with a low hit rate\\C[0], so be careful 
+if you get hit by a status effect, okay?
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +270,11 @@ fight alone,\\C[0] okay?♪
 防御っていうのは　とにかく相手の攻撃を
 食らっちゃわないようにする……
 ってことでしょ？
-> CONTEXT: Map012/events/1/pages/2/194/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/194/Dialogue
+\\NAME[\\n[12]]
+Defense is basically about 
+not getting hit by the 
+opponent's attack, right?
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +282,11 @@ fight alone,\\C[0] okay?♪
 だから　Guard　を選んだら
 身をかわす確率も　上がるんだよ♪
 一か八かの時は　防御してみましょ♪
-> CONTEXT: Map012/events/1/pages/2/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/200/Dialogue
+\\NAME[\\n[12]]
+So, if you choose Guard,
+the dodging chance increases♪
+When it looks tough, try defending♪
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +294,11 @@ fight alone,\\C[0] okay?♪
 魔物さんを　チェックした時に
 アイテムが　黄色い文字で　見える時が
 あるでしょ？　それは　限定ドロップ♪
-> CONTEXT: Map012/events/1/pages/2/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/220/Dialogue
+\\NAME[\\n[12]]
+When you check monster details,
+you may see items in yellow text, right?
+Those are limited drops♪
 > END STRING
 
 > BEGIN STRING
@@ -282,8 +312,11 @@ fight alone,\\C[0] okay?♪
 例えば　腕を固めた状態で　倒せば
 ポロっと　お手々の部分の　鋭い素材が
 零れ落ちたりとか……
-> CONTEXT: Map012/events/1/pages/2/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/231/Dialogue
+\\NAME[\\n[12]]
+For example, if you beat it while its arms 
+are bound, the sharp material 
+from its hands might just fall off...
 > END STRING
 
 > BEGIN STRING
@@ -297,8 +330,11 @@ fight alone,\\C[0] okay?♪
 効きにくいけど　纏ってる同じ属性で
 トドメを　刺すと　ゲットできたりね♪
 その場合　物理との複合属性でもＯＫ！
-> CONTEXT: Map012/events/1/pages/2/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/238/Dialogue
+\\NAME[\\n[12]]
+It's hard, but if you finish it with 
+the same attribute it uses, you might get it♪
+A physical compound attribute is also OK!
 > END STRING
 
 > BEGIN STRING
@@ -306,8 +342,11 @@ fight alone,\\C[0] okay?♪
 魔物さんとの戦闘が　長引いちゃうと
 邪気が　濃厚に　溜まってきちゃって
 特殊行動を　起こすことがあるんだよ？
-> CONTEXT: Map012/events/1/pages/2/256/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/256/Dialogue
+\\NAME[\\n[12]]
+If the battle with the monster drags on,
+evil energy can build up intensely,
+and sometimes cause special actions.
 > END STRING
 
 > BEGIN STRING
@@ -315,8 +354,11 @@ fight alone,\\C[0] okay?♪
 逃げ出す　魔物さんもいれば
 中には　プッツン☆して　とっても
 危険な攻撃を　仕掛けてくることも！
-> CONTEXT: Map012/events/1/pages/2/262/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/262/Dialogue
+\\NAME[\\n[12]]
+Some monsters run away,
+but some snap and launch very
+dangerous attacks!
 > END STRING
 
 > BEGIN STRING
@@ -324,16 +366,21 @@ fight alone,\\C[0] okay?♪
 逆に　\\C[6]短い回合で　戦闘を終わらせると
 Expが　多めに　貰えちゃう\\C[0]のっ！
 コレ　知ってたかなぁ？
-> CONTEXT: Map012/events/1/pages/2/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/268/Dialogue
+\\NAME[\\n[12]]
+Conversely, \\C[6]if you finish the battle quickly,
+you'll get more Exp\\C[0]!
+Did you know that?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 二人っきりで　冒険してると
 ついつい　話し掛けたくなっちゃうよね♪
-> CONTEXT: Map012/events/1/pages/2/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/288/Dialogue
+\\NAME[\\n[12]]
+When you're adventuring as a pair
+You can't help but want to talk, right?♪
 > END STRING
 
 > BEGIN STRING
@@ -341,8 +388,11 @@ Expが　多めに　貰えちゃう\\C[0]のっ！
 それも　\\C[6]余裕のある時の方が
 お話しする雰囲気に　なりやすい\\C[0]もの♪
 ふふふっ　体調管理は　しっかりと☆ね？
-> CONTEXT: Map012/events/1/pages/2/293/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/2/293/Dialogue
+\\NAME[\\n[12]]
+\\C[6]It's easier to get in the mood 
+when there's time to spare\\C[0]♪
+Hehe, take good care of your health☆
 > END STRING
 
 > BEGIN STRING

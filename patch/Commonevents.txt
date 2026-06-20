@@ -1146,8 +1146,10 @@ with your points\\C[0], so let's do our best!
 \\NAME[\\n[12]]
 あら！？　もう　鍵を持ってたのね！？
 ……君って　本当に　スゴイんだね。
-> CONTEXT: Commonevents/103/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/76/Dialogue
+\\NAME[\\n[12]]
+Oh!? You already have the key!?
+...You're really amazing.
 > END STRING
 
 > BEGIN STRING
@@ -1155,8 +1157,11 @@ with your points\\C[0], so let's do our best!
 やったなっ　あんちゃん！　大手柄や〜。
 ウチも　夢界中心に　来れるよう
 なったで〜。あんがとな〜♪
-> CONTEXT: Commonevents/103/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/95/Dialogue
+\\NAME[\\n[13]]
+You did it, cutie! Great achievement〜.
+I can now come to Central Realms 
+of Reverie too, thanks〜♪
 > END STRING
 
 > BEGIN STRING
@@ -1164,8 +1169,10 @@ with your points\\C[0], so let's do our best!
 端末んとこ　おるから　いつでも来てや。
 \\C[6]あんちゃんが　見っけたもん　記録した
 図鑑ぽいもん　見せたる\\C[0]で〜。
-> CONTEXT: Commonevents/103/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/101/Dialogue
+\\NAME[\\n[13]]
+I'm at the terminal, so come over anytime.
+\\C[6]I'll show you an encyclopedia I found〜.\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -1173,8 +1180,11 @@ with your points\\C[0], so let's do our best!
 図鑑コンプとか　好きなんやろ〜？
 せやけど　一番　手に入れなあかんのは
 『ロゴスの鍵』っちゅう　アイテムやで？
-> CONTEXT: Commonevents/103/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/107/Dialogue
+\\NAME[\\n[13]]
+You want to complete the encyclopedia〜?
+But the most important thing to get is
+the "Key to Logos", alright?
 > END STRING
 
 > BEGIN STRING
@@ -1182,16 +1192,21 @@ with your points\\C[0], so let's do our best!
 夢界中心のお店で　売っとるで〜。
 ごっつ高いけど　ウチも手伝うから
 あんちゃんでも　そのうち買えるはずや！
-> CONTEXT: Commonevents/103/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/114/Dialogue
+\\NAME[\\n[13]]
+You can buy it in Central Realms of Reverie.
+It's super expensive, but I'll help out, 
+so you should be able to buy it eventually!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ──って！　もう　持っとるんかい！？
 どした　あんちゃん！？　やるやん♪
-> CONTEXT: Commonevents/103/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/103/121/Dialogue
+\\NAME[\\n[13]]
+--Wait! You already have it?!
+What, my cutie?! You're good♪
 > END STRING
 
 > BEGIN STRING
@@ -1426,8 +1441,11 @@ Don't feel like wasting!
 ペース配分　大丈夫？
 ちゃんと　先々のことを考えて
 やりくりしてる？
-> CONTEXT: Commonevents/111/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/77/Dialogue
+\\NAME[\\n[11]]
+Is your pace okay?
+Are you properly thinking ahead 
+and managing your time?
 > END STRING
 
 > BEGIN STRING
@@ -1435,8 +1453,11 @@ Don't feel like wasting!
 ……そう？
 ま　あんたが　そう言うなら
 とりあえず　信じるけど。
-> CONTEXT: Commonevents/111/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/88/Dialogue
+\\NAME[\\n[11]]
+...Really?
+Well, if that's what you say,
+I'll believe you for now.
 > END STRING
 
 > BEGIN STRING
@@ -1444,8 +1465,11 @@ Don't feel like wasting!
 ちょっと！？　真面目にやって！
 いつ　何時　ピンチになるか
 わかんないんだからねっ！
-> CONTEXT: Commonevents/111/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/97/Dialogue
+\\NAME[\\n[11]]
+Hey!? Be serious!
+You never know when or where 
+you might be in trouble!
 > END STRING
 
 > BEGIN STRING
@@ -2095,8 +2119,11 @@ and close that lid♪
 あらそう？　でも品物って
 年月が経てば　価値が出るもの。
 保管しておくのも　ありだよ。
-> CONTEXT: Commonevents/112/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/27/Dialogue
+\\NAME[\\n[12]]
+Oh really? But items may
+gain value as time passes.
+Keeping them is also an option.
 > END STRING
 
 > BEGIN STRING
@@ -3498,328 +3525,348 @@ UR精子　出したるわ♪
 \\\>トロフィー
 \\\>\\C[6]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/10/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear red maze without running!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/22/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear blue maze without running!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/34/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear purple maze without running!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]一時間以内に20Ｆ炎貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/55/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear red maze within an hour!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]一時間以内に20Ｆ氷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/67/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear blue maze within an hour!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]一時間以内に20Ｆ雷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/79/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear purple maze within an hour!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/98/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Earn 10000M while clearing the red maze!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/110/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Earn 10000M while clearing the blue maze!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/122/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Earn 10000M while clearing the purple maze!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]宝箱開封20箱以下で炎貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/141/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear red maze with 20 or less opened chests!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]宝箱開封20箱以下で氷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/153/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear blue maze with 20 or less opened chests!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]宝箱開封20箱以下で雷貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/165/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Clear purple maze with 20 or less opened chests!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\\>トロフィー
 \\\>\\C[6]勝利回数20以下で20Ｆ貘獣王竜を殲滅！\\C[0]
 \\\>を　達成！
-> CONTEXT: Commonevents/119/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/119/183/Dialogue
+\\\>Got trophy:
+\\\>\\C[6]Defeat Baku Dragon King with 20 or less victories!\\C[0]
 > END STRING
 
 > BEGIN STRING
 \\V[51]が　箱から飛び出した！
-> CONTEXT: Commonevents/120/20/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/121/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/120/20/Dialogue
+> CONTEXT: Commonevents/121/26/Dialogue
+\\V[51] jumped out of the box!
 > END STRING
 
 > BEGIN STRING
 この場所では　何故か　箱のリボンは
 解けないようだ！
-> CONTEXT: Commonevents/120/33/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/121/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/120/33/Dialogue
+> CONTEXT: Commonevents/121/39/Dialogue
+For some reason, the ribbon on the box 
+doesn't seem to come undone in this place!
 > END STRING
 
 > BEGIN STRING
 トロフィーの中身は　空っぽだった……。
 お店に苦情を　入れに行こう……。
-> CONTEXT: Commonevents/122/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/122/68/Dialogue
+The trophy was empty...
+Complain to the store...
 > END STRING
 
 > BEGIN STRING
 差し出された　トロフィーの中には
 \\v[51]が　入っていた！
-> CONTEXT: Commonevents/122/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/122/100/Dialogue
+\\v[51]
+was inside the trophy!
 > END STRING
 
 > BEGIN STRING
 更に　ビックリ★バコを　発見！！！！！
-> CONTEXT: Commonevents/122/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/122/108/Dialogue
+Found a Surprise★Box!!!!!
 > END STRING
 
 > BEGIN STRING
 更に　ビックリ☆バコを　発見！
-> CONTEXT: Commonevents/122/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/122/113/Dialogue
+Found a Surprise☆Box!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 こういうの　好きなんやろ〜？
-> CONTEXT: Commonevents/123/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/2/Dialogue
+\\NAME[\\n[13]]
+You're into this kind of thing, 
+aren't you〜?
 > END STRING
 
 > BEGIN STRING
 \\I[0]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！en(s[521])if(v[521]==0)
-> CONTEXT: Commonevents/123/8/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/8/Choice/0
+\\I[0]Clear red maze without running!en(s[521])if(v[521]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一度も逃げずに20Ｆ炎貘獣王竜を殲滅！if(v[521]\>0)en(!s[521])
-> CONTEXT: Commonevents/123/8/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/8/Choice/1
+\\I[37]Clear red maze without running!if(v[521]\>0)en(!s[521])
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 おめっとさ〜ん！
 ほい！　これが　報酬みたいやで！
-> CONTEXT: Commonevents/123/14/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/30/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/46/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/62/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/78/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/94/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/110/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/126/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/142/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/158/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/174/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/190/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/123/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/14/Dialogue
+> CONTEXT: Commonevents/123/30/Dialogue
+> CONTEXT: Commonevents/123/46/Dialogue
+> CONTEXT: Commonevents/123/62/Dialogue
+> CONTEXT: Commonevents/123/78/Dialogue
+> CONTEXT: Commonevents/123/94/Dialogue
+> CONTEXT: Commonevents/123/110/Dialogue
+> CONTEXT: Commonevents/123/126/Dialogue
+> CONTEXT: Commonevents/123/142/Dialogue
+> CONTEXT: Commonevents/123/158/Dialogue
+> CONTEXT: Commonevents/123/174/Dialogue
+> CONTEXT: Commonevents/123/190/Dialogue
+> CONTEXT: Commonevents/123/206/Dialogue
+\\NAME[\\n[13]]
+Congratulations!
+Here you go! Your reward!
 > END STRING
 
 > BEGIN STRING
 \\I[0]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！en(s[522])if(v[522]==0)
-> CONTEXT: Commonevents/123/24/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/24/Choice/0
+\\I[0]Clear blue maze without running!en(s[522])if(v[522]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一度も逃げずに20Ｆ氷貘獣王竜を殲滅！if(v[522]\>0)en(!s[522])
-> CONTEXT: Commonevents/123/24/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/24/Choice/1
+\\I[37]Clear blue maze without running!if(v[522]\>0)en(!s[522])
 > END STRING
 
 > BEGIN STRING
 \\I[0]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！en(s[523])if(v[523]==0)
-> CONTEXT: Commonevents/123/40/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/40/Choice/0
+\\I[0]Clear purple maze without running!en(s[523])if(v[523]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一度も逃げずに20Ｆ雷貘獣王竜を殲滅！if(v[523]\>0)en(!s[523])
-> CONTEXT: Commonevents/123/40/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/40/Choice/1
+\\I[37]Clear purple maze without running!if(v[523]\>0)en(!s[523])
 > END STRING
 
 > BEGIN STRING
 \\I[0]一時間以内に20Ｆ炎貘獣王竜を殲滅！　en(s[524])if(v[524]==0)
-> CONTEXT: Commonevents/123/56/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/56/Choice/0
+\\I[0]Clear red maze within an hour!　en(s[524])if(v[524]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一時間以内に20Ｆ炎貘獣王竜を殲滅！　if(v[524]\>0)en(!s[524])
-> CONTEXT: Commonevents/123/56/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/56/Choice/1
+\\I[37]Clear red maze within an hour!　if(v[524]\>0)en(!s[524])
 > END STRING
 
 > BEGIN STRING
 \\I[0]一時間以内に20Ｆ氷貘獣王竜を殲滅！　en(s[525])if(v[525]==0)
-> CONTEXT: Commonevents/123/72/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/72/Choice/0
+\\I[0]Clear blue maze within an hour!　en(s[525])if(v[525]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一時間以内に20Ｆ氷貘獣王竜を殲滅！　if(v[525]\>0)en(!s[525])
-> CONTEXT: Commonevents/123/72/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/72/Choice/1
+\\I[37]Clear blue maze within an hour!　if(v[525]\>0)en(!s[525])
 > END STRING
 
 > BEGIN STRING
 \\I[0]一時間以内に20Ｆ雷貘獣王竜を殲滅！　en(s[526])if(v[526]==0)
-> CONTEXT: Commonevents/123/88/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/88/Choice/0
+\\I[0]Clear purple maze within an hour!　en(s[526])if(v[526]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]一時間以内に20Ｆ雷貘獣王竜を殲滅！　if(v[526]\>0)en(!s[526])
-> CONTEXT: Commonevents/123/88/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/88/Choice/1
+\\I[37]Clear purple maze within an hour!　if(v[526]\>0)en(!s[526])
 > END STRING
 
 > BEGIN STRING
 \\I[0]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！en(s[527])if(v[527]==0)
-> CONTEXT: Commonevents/123/104/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/104/Choice/0
+\\I[0]Earn 10000M while clearing the red maze!en(s[527])if(v[527]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]壱萬Ｍ獲得して20Ｆ炎貘獣王竜を殲滅！if(v[527]\>0)en(!s[527])
-> CONTEXT: Commonevents/123/104/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/104/Choice/1
+\\I[37]Earned 10000M while clearing the red maze!if(v[527]\>0)en(!s[527])
 > END STRING
 
 > BEGIN STRING
 \\I[0]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！en(s[528])if(v[528]==0)
-> CONTEXT: Commonevents/123/120/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/120/Choice/0
+\\I[0]Earn 10000M while clearing the blue maze!en(s[528])if(v[528]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]壱萬Ｍ獲得して20Ｆ氷貘獣王竜を殲滅！if(v[528]\>0)en(!s[528])
-> CONTEXT: Commonevents/123/120/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/120/Choice/1
+\\I[37]Earned 10000M while clearing the blue maze!if(v[528]\>0)en(!s[528])
 > END STRING
 
 > BEGIN STRING
 \\I[0]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！en(s[529])if(v[529]==0)
-> CONTEXT: Commonevents/123/136/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/136/Choice/0
+\\I[0]Earn 10000M while clearing the purple maze!en(s[529])if(v[529]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]壱萬Ｍ獲得して20Ｆ雷貘獣王竜を殲滅！if(v[529]\>0)en(!s[529])
-> CONTEXT: Commonevents/123/136/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/136/Choice/1
+\\I[37]Earned 10000M while clearing the purple maze!if(v[529]\>0)en(!s[529])
 > END STRING
 
 > BEGIN STRING
 \\I[0]宝箱開封20箱以下で炎貘獣王竜を殲滅！en(s[530])if(v[530]==0)
-> CONTEXT: Commonevents/123/152/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/152/Choice/0
+\\I[0]Clear red maze with 20 or less opened chests!en(s[530])if(v[530]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]宝箱開封20箱以下で炎貘獣王竜を殲滅！if(v[530]\>0)en(!s[530])
-> CONTEXT: Commonevents/123/152/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/152/Choice/1
+\\I[37]Clear red maze with 20 or less opened chests!if(v[530]\>0)en(!s[530])
 > END STRING
 
 > BEGIN STRING
 \\I[0]宝箱開封20箱以下で氷貘獣王竜を殲滅！en(s[531])if(v[531]==0)
-> CONTEXT: Commonevents/123/168/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/168/Choice/0
+\\I[0]Clear blue maze with 20 or less opened chests!en(s[531])if(v[531]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]宝箱開封20箱以下で氷貘獣王竜を殲滅！if(v[531]\>0)en(!s[531])
-> CONTEXT: Commonevents/123/168/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/168/Choice/1
+\\I[37]Clear blue maze with 20 or less opened chests!if(v[531]\>0)en(!s[531])
 > END STRING
 
 > BEGIN STRING
 \\I[0]宝箱開封20箱以下で雷貘獣王竜を殲滅！en(s[532])if(v[532]==0)
-> CONTEXT: Commonevents/123/184/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/184/Choice/0
+\\I[0]Clear purple maze with 20 or less opened chests!en(s[532])if(v[532]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]宝箱開封20箱以下で雷貘獣王竜を殲滅！if(v[532]\>0)en(!s[532])
-> CONTEXT: Commonevents/123/184/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/184/Choice/1
+\\I[37]Clear purple maze with 20 or less opened chests!if(v[532]\>0)en(!s[532])
 > END STRING
 
 > BEGIN STRING
 \\I[0]勝利回数20以下で20Ｆ貘獣王竜を殲滅！en(s[533])if(v[533]==0)
-> CONTEXT: Commonevents/123/200/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/200/Choice/0
+\\I[0]Defeat Baku Dragon King with 20 or less victories!en(s[533])if(v[533]==0)
 > END STRING
 
 > BEGIN STRING
 \\I[37]勝利回数20以下で20Ｆ貘獣王竜を殲滅！if(v[533]\>0)en(!s[533])
-> CONTEXT: Commonevents/123/200/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/200/Choice/1
+\\I[37]Defeated Baku Dragon King with 20 or less victories!if(v[533]\>0)en(!s[533])
 > END STRING
 
 > BEGIN STRING
@@ -3830,32 +3877,38 @@ Back if(v[534] < 100)
 
 > BEGIN STRING
 \\I[37]蒐集図鑑を全て埋め尽くしてしまった！if(v[534]\>99)en(!s[534])
-> CONTEXT: Commonevents/123/216/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/216/Choice/1
+\\I[37]Completed the encyclopedia!if(v[534]\>99)en(!s[534])
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 まさか　ホンマに　やってまうとは
 思っとらんかったわ！
-> CONTEXT: Commonevents/123/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/222/Dialogue
+\\NAME[\\n[13]]
+I never thought you'd 
+actually do it!
 > END STRING
 
 > BEGIN STRING
 さる識者によると　人類滅亡まで
 あと　\\V[228]ターン　らしい……。
 それはそれとして……
-> CONTEXT: Commonevents/195/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/3/Dialogue
+According to a certain expert, 
+humanity will be wiped out in \\V[228] turns...
+That being said...
 > END STRING
 
 > BEGIN STRING
 犯罪の抑制と　治安維持の為に
 いっそ　国営の風俗店を作れ！
 という　意見が　挙がっている。
-> CONTEXT: Commonevents/195/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/195/10/Dialogue
+Some people are suggesting to deter 
+crime and maintain public order 
+by creating state-run brothels!
 > END STRING
 
 > BEGIN STRING
@@ -4314,24 +4367,30 @@ The policeman shouldn't get away with this!
 四年に一度開催される　オリンピック。
 各国で　熾烈な競争を勝ち抜いた
 トップアスリートたちの　祭典だ。
-> CONTEXT: Commonevents/196/343/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/343/Dialogue
+The Olympic Games, held every 4 years, 
+are a celebration of top athletes 
+across various countries.
 > END STRING
 
 > BEGIN STRING
 だが　この祭典には　昔から
 一般人には秘密の　性の祭典
 所謂　夜のオリンピックがあるという。
-> CONTEXT: Commonevents/196/347/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/347/Dialogue
+However, it has long been secretly 
+known as a sexual festival, 
+called "night Olympics".
 > END STRING
 
 > BEGIN STRING
 選手村には　大量のコンドームが配布され
 競技を終えた　アスリートたちが
 夜通し　乱交を繰り広げるという。
-> CONTEXT: Commonevents/196/351/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/351/Dialogue
+Lots of condoms were distributed to the 
+athletes' village, and the athletes reportedly 
+engaged in orgies throughout the night.
 > END STRING
 
 > BEGIN STRING
@@ -4339,32 +4398,41 @@ The policeman shouldn't get away with this!
 別にどうでもいいでしょ？　選手たちは
 禁欲を強いられてるんだし　生物として
 健全な姿だとは　思いませんか？
-> CONTEXT: Commonevents/196/356/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/356/Dialogue
+\\NAME[Commentator]
+What's the problem? They're imposed to 
+abstain from sex, but don't you think 
+it's healthy for a living being?
 > END STRING
 
 > BEGIN STRING
 一見　華やかに見える芸能界。
 だが　その裏側では　往々にして
 どす黒い欲望の闇が　蠢いている。
-> CONTEXT: Commonevents/196/383/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/383/Dialogue
+The entertainment industry may seem 
+glamorous, but sinister desires 
+often lurk behind the scenes.
 > END STRING
 
 > BEGIN STRING
 Ａさんは　アイドルになる夢を叶える為
 過酷な競争を勝ち抜いて　デビューしたが
 待っていたのは　性的圧力ばかりだった。
-> CONTEXT: Commonevents/196/387/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/387/Dialogue
+"A" achieved becoming an idol, winning 
+through fierce competition and debuting, 
+but all that awaited was sexual pressure.
 > END STRING
 
 > BEGIN STRING
 枕営業は勿論のこと　売れたければ
 わかるよね？　といって　ホテルに
 連れ込まれたことも　度々――
-> CONTEXT: Commonevents/196/391/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/391/Dialogue
+Sex is one way to get ahead, 
+know what I mean? She was often taken 
+to hotels with that kind of attitude.
 > END STRING
 
 > BEGIN STRING
@@ -4372,32 +4440,41 @@ The policeman shouldn't get away with this!
 でも　しょうがないのかなって……。
 生き残るには　そうするしかないし
 今更　業界の慣習は変わらないだろうし。
-> CONTEXT: Commonevents/196/396/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/396/Dialogue
+\\NAME[Commentator]
+I guess there's no other way...
+That's the only way to survive, and
+the industry probably won't change now.
 > END STRING
 
 > BEGIN STRING
 かつては　市井の人々からすると
 遠い存在だった　クリエイターや
 アーティストが　今では　身近な存在に。
-> CONTEXT: Commonevents/196/421/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/421/Dialogue
+Creators and artists, who were once 
+distant figures to ordinary people, 
+are now closer to us.
 > END STRING
 
 > BEGIN STRING
 有名漫画家やアニメーター　俳優や声優
 作曲家に歌手　監督クラスの人物まで
 個人のＳＮＳアカウントを　持っている。
-> CONTEXT: Commonevents/196/425/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/425/Dialogue
+Manga artists, animators, actors, 
+composers, singers, and even directors 
+all have personal social media accounts.
 > END STRING
 
 > BEGIN STRING
 だが　そうした　ものつくりの人物こそ
 私生活を切り売りせず　実直に　淡々と
 作品に向き合ってほしいという意見も――
-> CONTEXT: Commonevents/196/429/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/429/Dialogue
+However, some say they should not sell off 
+their personal lives, but instead approach 
+their work honestly and calmly.
 > END STRING
 
 > BEGIN STRING
@@ -4405,8 +4482,11 @@ The policeman shouldn't get away with this!
 昔から作品は好きだったのに　ＳＮＳで
 炎上してて……やっぱり　作家たるもの
 ＳＮＳは　やっちゃダメだと　思います！
-> CONTEXT: Commonevents/196/434/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/434/Dialogue
+\\NAME[Commentator]
+I've always liked their work, but they've 
+caused a lot of controversy on social media... 
+It'd be better if they weren't on social media!
 > END STRING
 
 > BEGIN STRING
@@ -4479,24 +4559,30 @@ The policeman shouldn't get away with this!
 漫画や小説を　原作として
 メディアミックスするのは　もはや常識。
 だが　映像化には　しばしば　問題も。
-> CONTEXT: Commonevents/196/535/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/535/Dialogue
+It's now commonplace to adapt manga and 
+novels into other media. However, adapting 
+them into film and TV often presents problems.
 > END STRING
 
 > BEGIN STRING
 所謂　原作クラッシャーと揶揄される
 大幅な改変に　原作ファンのみならず
 原作者自らが　嘆きの声を上げることも。
-> CONTEXT: Commonevents/196/539/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/539/Dialogue
+The drastic changes, "original work destroyers," 
+have drawn complaints not only from fans of the 
+originals, but also from original authors.
 > END STRING
 
 > BEGIN STRING
 今回は　メディアミックスする側の
 脚本家に　意見を伺った。
 気持ちは分かると　前置きしつつも――
-> CONTEXT: Commonevents/196/543/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/543/Dialogue
+I asked a media mix scriptwriter for their 
+opinion. While prefacing their remarks by 
+saying they understood the situation, they said...
 > END STRING
 
 > BEGIN STRING
@@ -4504,8 +4590,11 @@ The policeman shouldn't get away with this!
 確かに　原作は　大事です。でも
 よりマスに刺すなら　ある程度の改変は
 必要かなと……勿論　誠意をもって！
-> CONTEXT: Commonevents/196/548/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/548/Dialogue
+\\NAME[Commentator]
+The original work is important. But to 
+appeal to a wider audience, some modification 
+may be necessary...of course, in good taste!
 > END STRING
 
 > BEGIN STRING
@@ -4577,23 +4666,29 @@ The policeman shouldn't get away with this!
 > BEGIN STRING
 アイドルや　美人声優との結婚を報じる
 野球選手の祝砲が　連打を続けている。
-> CONTEXT: Commonevents/196/649/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/649/Dialogue
+Baseball players continue to receive tons of 
+celebratory reports about their marriages 
+to idols and beautiful voice actresses.
 > END STRING
 
 > BEGIN STRING
 野球選手たちは　美人との出会いを求め
 頻繁に合コンを　セッティングしている。
-> CONTEXT: Commonevents/196/652/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/652/Dialogue
+Baseball players frequently set up 
+group dates in search of opportunities 
+to meet beautiful women.
 > END STRING
 
 > BEGIN STRING
 一方で　アイドルファンたちにとっては
 天が落ちたも同然で　悲嘆に暮れたり
 中には　凶暴な牙を剥く者も――
-> CONTEXT: Commonevents/196/655/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/655/Dialogue
+But for idol fans, it was the end of the 
+world, and they were plunged into grief,
+and some even bared their ferocious fangs.
 > END STRING
 
 > BEGIN STRING
@@ -4601,30 +4696,37 @@ The policeman shouldn't get away with this!
 裏切ったな！　絶対に許さないぞ！
 アイドルは　恋愛禁止なはずだろ！？
 こんなこと　あっていいわけがないッ！
-> CONTEXT: Commonevents/196/660/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/660/Dialogue
+\\NAME[Commentator]
+I won't stand for this betrayal!
+Idols aren't supposed to date, right?!
+This shouldn't be allowed!
 > END STRING
 
 > BEGIN STRING
 近頃　ＳＮＳ上に　センシティヴな動画の
 アップロードが　横行しているようだ。
-> CONTEXT: Commonevents/196/686/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/686/Dialogue
+Recently, uploading of sensitive videos 
+on social media has become rampant.
 > END STRING
 
 > BEGIN STRING
 勿論　そういった動画投稿は　以前からも
 見受けられていたものだが　どうにも最近
 一種の流行りのような様相を呈している。
-> CONTEXT: Commonevents/196/689/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/689/Dialogue
+Of course it has happened before too, 
+but recently they seem to be taking on 
+the appearance of a kind of trend.
 > END STRING
 
 > BEGIN STRING
 グループＳＥＸが趣味だという　男性に
 ちょっとした　取材を行ってみた――
-> CONTEXT: Commonevents/196/693/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/693/Dialogue
+I conducted a short interview with 
+a man who said his hobby was group sex.
 > END STRING
 
 > BEGIN STRING
@@ -4632,31 +4734,40 @@ The policeman shouldn't get away with this!
 なんか最近　妙にムラムラするんスよね。
 友達とかも　そんな感じで。いや別に
 そんな悪いこと　してないっスよね？
-> CONTEXT: Commonevents/196/697/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/697/Dialogue
+\\NAME[Commentator]
+Lately, I've been feeling strangely horny.
+My friends are feeling the same way. 
+I mean, it's not like it's wrong, right?
 > END STRING
 
 > BEGIN STRING
 今月に入って　全国各地で　しばしば
 性犯罪事件の発生が　相次いでいる。
-> CONTEXT: Commonevents/196/722/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/722/Dialogue
+This month, there has been a series of 
+sexual assault cases occurring frequently 
+throughout the country.
 > END STRING
 
 > BEGIN STRING
 社会の乱れは　心の乱れなのだろうか。
 特に　歓楽街を中心に
 犯罪発生率が　高まっているという。
-> CONTEXT: Commonevents/196/725/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/725/Dialogue
+Is it a sign of unrest in mental wellbeing?
+Crime rates are reportedly rising, 
+particularly in entertainment districts.
 > END STRING
 
 > BEGIN STRING
 我々は　日夜　犯罪と隣り合わせにある
 大都会の暗黒街に　駐在する
 とある警察官に　話を伺ってみた――
-> CONTEXT: Commonevents/196/729/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/729/Dialogue
+I spoke to a police officer stationed 
+in the underworld of a major city, 
+where crime is an everyday thing.
 > END STRING
 
 > BEGIN STRING
@@ -4664,8 +4775,11 @@ The policeman shouldn't get away with this!
 ちょっと前まで　売春取締とかだったのが
 今じゃ　路上で強姦事件ばっかりですよ。
 皆　どうかしちゃってるんじゃないの？
-> CONTEXT: Commonevents/196/734/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/734/Dialogue
+\\NAME[Commentator]
+It used to be about prostitution, but now 
+it's all about rape cases on the streets.
+Is everyone out of their minds?
 > END STRING
 
 > BEGIN STRING
@@ -4694,7 +4808,7 @@ are distorting and trite works of art.
 昨今の情勢に　警鐘を鳴らす作家は――
 > CONTEXT: Commonevents/196/767/Dialogue
 Fiction is, after all, just fiction!
-“Don’t let reality take over fiction,”
+"Don’t let reality take over fiction,"
 warns a writer about recent events—
 > END STRING
 

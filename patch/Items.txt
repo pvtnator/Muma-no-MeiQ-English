@@ -1733,7 +1733,7 @@ Gain temporary blessing of the wind spirit
 > BEGIN STRING
 土の精霊薬
 > CONTEXT: Items/224/name/
-Earth spirit potion
+Earth spirit Potion
 > END STRING
 
 > BEGIN STRING
