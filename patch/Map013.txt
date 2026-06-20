@@ -107,8 +107,10 @@ Trophyen(s[23])
 \\NAME[\\n[13]]
 ものごっつキッツイ迷宮に　なっとるで。
 準備は　ええかぁ〜？
-> CONTEXT: Map013/events/1/pages/1/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/1/137/Dialogue
+\\NAME[\\n[13]]
+It's a really tough maze,
+are you ready〜?
 > END STRING
 
 > BEGIN STRING

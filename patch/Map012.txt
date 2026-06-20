@@ -22,15 +22,18 @@ Invite to Partyen(s[32])
 あら？　外れた方がいいかしら？
 私がいなくても　大丈夫？
 無理しないで　必要なら声を掛けてね。
-> CONTEXT: Map012/events/1/pages/1/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/87/Dialogue
+\\NAME[\\n[12]]
+Oh? You want to go without me?
+Don't push yourself too hard. 
+Let me know if you need anything.
 > END STRING
 
 > BEGIN STRING
 \\n[12]が　仲魔から　はずれた。
-> CONTEXT: Map012/events/1/pages/1/97/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/106/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/97/Dialogue
+> CONTEXT: Commonevents/106/51/Dialogue
+\\n[12] left the party.
 > END STRING
 
 > BEGIN STRING
@@ -38,15 +41,18 @@ Invite to Partyen(s[32])
 ふふふっ♪
 一緒に　冒険するのって
 なんだか　ワクワクしちゃうね♪
-> CONTEXT: Map012/events/1/pages/1/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/104/Dialogue
+\\NAME[\\n[12]]
+Hehehe♪
+Going on an adventure together
+is kind of exciting, isn't it♪
 > END STRING
 
 > BEGIN STRING
 \\n[12]が　仲魔に　くわわった！
-> CONTEXT: Map012/events/1/pages/1/114/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/399/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/1/114/Dialogue
+> CONTEXT: Commonevents/399/102/Dialogue
+\\n[12] joined the party!
 > END STRING
 
 > BEGIN STRING
@@ -68,7 +74,7 @@ Are you ready?
 > BEGIN STRING
 \\NAME[\\n[12]]
 ここでしか習得できないスキルが　沢山♪
-> CONTEXT: Map012/events/1/pages/1/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/1/pages/1/185/Dialogue
 \\NAME[\\n[12]]
 Lots of skills you can only learn here♪
 > END STRING
@@ -473,8 +479,11 @@ it should make things easier♪
 君のおかげで　とっても助かっちゃった♪
 君は　本当に偉いよ！
 感謝☆感謝だねっ♪
-> CONTEXT: Map012/events/1/pages/3/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/87/Dialogue
+\\NAME[\\n[12]]
+Thanks, you really helped me out♪
+You're amazing!
+Thank you so much♪
 > END STRING
 
 > BEGIN STRING
@@ -482,8 +491,11 @@ it should make things easier♪
 このまま　順調に進めていけば
 みんなで一緒に　ロゴスさんのところへ
 向かえるはずだもんね。
-> CONTEXT: Map012/events/1/pages/3/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/93/Dialogue
+\\NAME[\\n[12]]
+If you keep it up, 
+we should all be able to 
+go to Logos together.
 > END STRING
 
 > BEGIN STRING
@@ -491,8 +503,11 @@ it should make things easier♪
 あら！？　よく　考えたら
 既に　３人とも　夢界中心に来ている
 ……てことは──
-> CONTEXT: Map012/events/1/pages/3/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/101/Dialogue
+\\NAME[\\n[12]]
+Oh!? All 3 of us have already come 
+to the Central Realms of Reverie
+...which means──
 > END STRING
 
 > BEGIN STRING
@@ -500,8 +515,10 @@ it should make things easier♪
 上出来　上出来ぃ♪　次に　君が
 やるべきことは　私たち３人を連れて
 ロゴスさんちに　行くこと！
-> CONTEXT: Map012/events/1/pages/3/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/114/Dialogue
+\\NAME[\\n[12]]
+Well done, well done♪ Next, 
+you need to take us to Logos!
 > END STRING
 
 > BEGIN STRING
@@ -509,9 +526,12 @@ it should make things easier♪
 この夢界中心の　中央にある……
 最初に君が　突入した井戸。その奥に
 決戦のバトルフィールドが　あるの！
-> CONTEXT: Map012/events/1/pages/3/120/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/3/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/120/Dialogue
+> CONTEXT: Map012/events/1/pages/3/136/Dialogue
+\\NAME[\\n[12]]
+At the very center of this dream world...
+The well you first entered. Beyond it lies
+the battlefield for the final showdown!
 > END STRING
 
 > BEGIN STRING
@@ -519,8 +539,11 @@ it should make things easier♪
 ロゴスの鍵を　しっかり持ったら
 ４人で　お手々　繋いで
 井戸の奥の奥へと　向かおうね！
-> CONTEXT: Map012/events/1/pages/3/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/126/Dialogue
+\\NAME[\\n[12]]
+Once you have the Key to Logos,
+the four of us will hold hands and
+head deep, deep into the well!
 > END STRING
 
 > BEGIN STRING

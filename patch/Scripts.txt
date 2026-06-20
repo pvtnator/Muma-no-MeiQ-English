@@ -7360,8 +7360,8 @@
 
 > BEGIN STRING
 "%sは　%s傷害　%s搾取！"
-> CONTEXT: Scripts/吸収ダメージを割合設定/24:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/吸収ダメージを割合設定/24:21
+"%s suffered %s damage and %s bleed!"
 > END STRING
 
 > BEGIN STRING
@@ -9655,7 +9655,7 @@
 
 > BEGIN STRING
 "剣類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/32:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/32:24
 "Sword Mastery"
 > END STRING
 
@@ -9718,7 +9718,7 @@
 
 > BEGIN STRING
 "刀類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/33:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/33:24
 "Katana Mastery"
 > END STRING
 
@@ -9795,7 +9795,7 @@
 
 > BEGIN STRING
 "刀子類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/34:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/34:24
 "Dagger Mastery"
 > END STRING
 
@@ -9853,7 +9853,7 @@
 
 > BEGIN STRING
 "長柄類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/35:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/35:24
 "Polearm Mastery"
 > END STRING
 
@@ -9907,7 +9907,7 @@
 
 > BEGIN STRING
 "鈍器類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/36:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/36:24
 "Blunt Mastery"
 > END STRING
 
@@ -9969,7 +9969,7 @@
 
 > BEGIN STRING
 "射出類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/37:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/37:24
 "Shooting Mastery"
 > END STRING
 
@@ -10017,7 +10017,7 @@
 
 > BEGIN STRING
 "投擲類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/38:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/38:24
 "Throwing Mastery"
 > END STRING
 
@@ -10065,7 +10065,7 @@
 
 > BEGIN STRING
 "暗器類マスタリ"
-> CONTEXT: Scripts/スキルポイント振り分けシステム/39:24 < UNTRANSLATED
+> CONTEXT: Scripts/スキルポイント振り分けシステム/39:24
 "Conceal Mastery"
 > END STRING
 

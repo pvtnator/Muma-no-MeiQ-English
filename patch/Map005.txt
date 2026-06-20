@@ -206,7 +206,7 @@ carefully, you'll die in vain〜♪
 > CONTEXT: Map005/events/1/pages/1/185/Dialogue
 \\NAME[\\n[11]]
 Yeah! Listen carefully to what I'm saying—
-Um, what I want from you is
+Um, what we want from you is
 our liberation and the Key to Logos—
 > END STRING
 
@@ -217,9 +217,9 @@ our liberation and the Key to Logos—
 せやろ？　あんちゃん♪
 > CONTEXT: Map005/events/1/pages/1/195/Dialogue
 \\NAME[\\n[13]]
-Doesn't it get confusing
-saying all of that〜?
-Don't you think so, big guy♪
+Isn't it really confusing
+talking about all of this〜?
+Don't you think so, cutie?♪
 > END STRING
 
 > BEGIN STRING

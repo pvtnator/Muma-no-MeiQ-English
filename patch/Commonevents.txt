@@ -1099,7 +1099,7 @@ Yeah...
 待ってたよ♪　英雄の登場♪
 君ったら　大活躍だったね！
 頑張ったね！　エライエライ！
-> CONTEXT: Commonevents/103/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/50/Dialogue
 \\NAME[\\n[12]]
 I was waiting♪ The hero is here♪
 You did a great job!
@@ -1111,7 +1111,7 @@ Good job! You did well!
 おかげさまで　夢界中心に来れちゃった♪
 君のおかげだね　本当にありがとうっ！
 私は　通信端末のところに　いるからね。
-> CONTEXT: Commonevents/103/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/56/Dialogue
 \\NAME[\\n[12]]
 Thanks to you, I made it to the
 Central Realms of Reverie!
@@ -1123,7 +1123,7 @@ I'll be at the communication terminal♪
 次の目標は……何だったかしら？
 ……ああ　そうそう。夢界中心のお店で
 売ってる　『ロゴスの鍵』を買うこと！
-> CONTEXT: Commonevents/103/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/62/Dialogue
 \\NAME[\\n[12]]
 What's the next goal again? ...Right. 
 To buy the 'Key to Logos' from the shop 
@@ -1135,7 +1135,7 @@ in the Central Realms of Reverie!
 ちょっと大変かもだけど　私のところで
 \\C[6]ポイントに応じて　便利で強力なスキルも
 覚えられるようになった\\C[0]し　頑張ろうね！
-> CONTEXT: Commonevents/103/69/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/69/Dialogue
 \\NAME[\\n[12]]
 It might be tough, but at my place,
 \\C[6]you can learn strong skills 
@@ -1230,7 +1230,7 @@ from behind the scenes.
 \\NAME[\\n[13]]すまんなぁ　あんちゃん。
 ウチは　手伝えへんのやぁ〜。
 > CONTEXT: Commonevents/104/34/Dialogue
-\\NAME[\\n[13]]Sorry, little guy.
+\\NAME[\\n[13]]Sorry, cutie.
 I can't help you〜.
 > END STRING
 
@@ -2072,8 +2072,10 @@ who doesn't care about details?
 \\NAME[\\n[12]]
 ……どうかしら？
 何か良い物　見つかった？
-> CONTEXT: Commonevents/112/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/10/Dialogue
+\\NAME[\\n[12]]
+...So, what do you think?
+Did you find something good?
 > END STRING
 
 > BEGIN STRING
@@ -2081,8 +2083,11 @@ who doesn't care about details?
 そう。なら　大切にしないとね。
 厳重に仕舞いこんで　蓋をして
 宝物にしましょ♪
-> CONTEXT: Commonevents/112/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/18/Dialogue
+\\NAME[\\n[12]]
+Yeah. Then we have to cherish it.
+Let's take it, keep good care of it,
+and close that lid♪
 > END STRING
 
 > BEGIN STRING
@@ -4187,7 +4192,7 @@ so what's the big deal, right?
 昨今　アニメ作品は　すっかり大衆化し
 かつての　アングラなイメージは
 もはや　薄れてきている。
-> CONTEXT: Commonevents/196/231/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/231/Dialogue
 These days, anime has become 
 completely mainstream, and its former 
 underground reputation is fading away.
@@ -4197,7 +4202,7 @@ underground reputation is fading away.
 歴代興行収入記録を　更新する
 大ヒットアニメ映画も　多く登場する中
 作中の過激描写が　物議をかもすことも。
-> CONTEXT: Commonevents/196/235/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/235/Dialogue
 Anime films have broken box office records, 
 but some have sparked controversy 
 due to their graphic depictions.
@@ -4206,7 +4211,7 @@ due to their graphic depictions.
 > BEGIN STRING
 休日に　親子で　映画館に足を運んだ
 とある主婦の方に　話を伺ってみた。
-> CONTEXT: Commonevents/196/239/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/239/Dialogue
 I spoke to a housewife who went 
 to the movie theater 
 with her child on a holiday.
@@ -4217,7 +4222,7 @@ with her child on a holiday.
 流行ってるというので　観てみたのですが
 ちょっと刺激が　強すぎるのでは？
 相応しい内容とは　思えませんでした。
-> CONTEXT: Commonevents/196/243/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/243/Dialogue
 \\NAME[Commentator]
 I watched it because it was popular,
 but it was a bit too intense.
@@ -4227,7 +4232,7 @@ The content didn't seem appropriate.
 > BEGIN STRING
 異世界に転生して無双する　ＷＥＢ小説が
 エンタメ業界で未だ　流行ってるようだ。
-> CONTEXT: Commonevents/196/268/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/268/Dialogue
 Isekai web novels seem to still be 
 popular in the entertainment industry.
 > END STRING
@@ -4236,7 +4241,7 @@ popular in the entertainment industry.
 現実がツラいからこそ　空想の世界で
 楽をして　快楽を得たいという物語構造が
 広く　多くの人に　刺さってるようだが
-> CONTEXT: Commonevents/196/271/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/271/Dialogue
 It's about seeking comfort and pleasure
 in a fantasy world, because reality is harsh.
 That resonates with a lot of people.
@@ -4246,7 +4251,7 @@ That resonates with a lot of people.
 苦言を呈するクリエイターも　多いのが
 現実で　中には　危険視までする
 こんな意見も――
-> CONTEXT: Commonevents/196/275/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/275/Dialogue
 Many creators offer critical opinions, 
 and some even view it as dangerous.
 > END STRING
@@ -4256,7 +4261,7 @@ and some even view it as dangerous.
 努力もしないで　結果は得られない。
 そんな大切なことすら　忘れてしまうのは
 もはや　人間性の堕落だと　思いますよ。
-> CONTEXT: Commonevents/196/280/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/196/280/Dialogue
 \\NAME[Commentator]
 You can't get results without effort.
 Forgetting such an important truth 
@@ -5202,7 +5207,7 @@ and...go to school together? \\.\\|\\^
 うふふっ♪　きょ・う・は　良い天気〜♪
 お洗濯も　捗っちゃう〜♪
 お日様　サンサンサン　太陽〜〜〜♪\\.\\|\\^
-> CONTEXT: Commonevents/272/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/272/24/Dialogue
 Hehe ♪ It's such a beautiful day today♪
 Laundry will go so smoothly〜♪
 The sun is shining brightly〜♪\\.\\|\\^
@@ -5212,7 +5217,7 @@ The sun is shining brightly〜♪\\.\\|\\^
 あ　そうそう！　君が　汚しちゃった
 シーツも　洗って　干しておいたからね♪
 私の洗浄パワーで　バッチリ　キレイに☆\\.\\|\\^
-> CONTEXT: Commonevents/272/32/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/272/32/Dialogue
 Oh, right! I washed and hung out 
 the sheets you stained♪ My powers
 made them perfectly clean☆\\.\\|\\^
@@ -5222,7 +5227,7 @@ made them perfectly clean☆\\.\\|\\^
 ん？　そんな　恥ずかしそうな顔して……
 もしかして　シーツのシミのこと
 気にしちゃってるのかな？\\.\\|\\^
-> CONTEXT: Commonevents/272/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/272/39/Dialogue
 Hmm? You look so embarrassed...
 Could it be that you're worried 
 about the stain on the sheets? \\.\\|\\^
@@ -5232,7 +5237,7 @@ about the stain on the sheets? \\.\\|\\^
 いいんだよ♪　男の子なら　誰しも
 通る道なんだから　胸を張って！
 今夜は　お赤飯を　炊いてあげるね☆\\.\\|\\^
-> CONTEXT: Commonevents/272/47/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/272/47/Dialogue
 It's okay♪ Every boy goes through it, 
 so be proud! I'll even cook you some 
 red bean rice tonight☆\\.\\|\\^
@@ -5242,32 +5247,40 @@ red bean rice tonight☆\\.\\|\\^
 あんちゃん　あんちゃん　ホレホレホレ！
 ゲームやるで！　ゲーム　ゲーム！
 ここ　座って　な？　ゲームやるでー！\\.\\|\\^
-> CONTEXT: Commonevents/273/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/273/24/Dialogue
+Hey, hey, hey, cutie!
+Let's play a game! A game! A game!
+Sit here, okay? Let's play a game! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほい！　コントローラー　握ったか？
 今日も　ウチが　あんちゃんのこと
 ボッコボコにしてやんよ♪\\.\\|\\^
-> CONTEXT: Commonevents/273/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/273/31/Dialogue
+Alright! Do you have your controller?
+I'm gonna beat you to a pulp
+today as well♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんは　ドＭな雑魚やから
 ウチに　ボコボコにされんの
 快感なんやろ？　知っとるで？\\.\\|\\^
-> CONTEXT: Commonevents/273/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/273/39/Dialogue
+You're such a masochistic weakling, 
+so getting beaten to a pulp by me
+is probably fun, right? I know〜. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 せやから　ウチがあんちゃんのこと
 た〜〜〜っぷり　可愛がったるわ♪
 どこにも　行かせへんで？　あんちゃん♡\\.\\|\\^
-> CONTEXT: Commonevents/273/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/273/47/Dialogue
+So I'll shower you with lots and 
+lots of love♪ I won't let you go 
+anywhere, okay? My cutie♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6479,8 +6492,11 @@ red bean rice tonight☆\\.\\|\\^
 ほな　あんちゃん♪
 寝っ転がって　チンコ☆
 おっ勃ててや〜♪
-> CONTEXT: Commonevents/284/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/3/Dialogue
+\\NAME[\\n[13]]
+Okay, cutie♪
+Lie down and get your dick hard☆
+Get it hard〜♪
 > END STRING
 
 > BEGIN STRING
@@ -6488,151 +6504,190 @@ red bean rice tonight☆\\.\\|\\^
 ウチのオハコは　騎乗位や！
 あんちゃんのこと　見下しながら
 気持ちよぅ　イかしたるわ〜♪
-> CONTEXT: Commonevents/284/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/8/Dialogue
+\\NAME[\\n[13]]
+My specialty is cowgirl position!
+I'll look down on my cutie
+And make you cum so much!♪
 > END STRING
 
 > BEGIN STRING
 お？　お？　おほぉ？
 どや〜？　あんちゃ〜ん？
 あんちゃんの　ガチ☆勃起チ・ン・コが〜\\.\\|\\^
-> CONTEXT: Commonevents/284/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/31/Dialogue
+Well? Well? Weeellll〜?
+How's it going, cutie?
+Your dick is really hard〜...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチの　トロットロ☆マンコん中
 入ってもうたで〜？　気持ちぃか？
 気持ちぃか？　気もちぃやろ？\\.\\|\\^
-> CONTEXT: Commonevents/284/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/38/Dialogue
+It's inside my super-sweet pussy☆ 
+Does it feel good? Does it? 
+Doesn't it feel good〜?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんのチンコが　ウチのマンコん中
 ピクピク　動いてて　喜んでんのが
 膣肉伝いに　伝わってくるわ〜♪\\.\\|\\^
-> CONTEXT: Commonevents/284/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/45/Dialogue
+Your dick is twitching inside my pussy,
+I can feel how happy it feels
+through the muscles inside me〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ずっと　ウチと　こうやって　セクロス☆
 したかったんやろ？　シたくて　シたくて
 ようやっと　結合できたもんな〜♪\\.\\|\\^
-> CONTEXT: Commonevents/284/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/55/Dialogue
+You always wanted sex with me like this, 
+didn't you? You wanted it so badly, 
+and now we've finally been united〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 そら嬉しいわな〜。感激☆セクロスや〜。
 せやけど　嬉しいからって
 そう簡単にゃ　イかせへんで？\\.\\|\\^
-> CONTEXT: Commonevents/284/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/62/Dialogue
+I'm happy〜. Deeply emotional sex〜.
+But just because I'm happy doesn't mean
+I'll let you come that easily, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチの膣圧コントロールで〜　チンコを
 ギュッ！　きゅっ　ギュッ！　にゅっ
 締め付けたり　いたぶったり　宥めたり\\.\\|\\^
-> CONTEXT: Commonevents/284/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/69/Dialogue
+With my pussy's muscles, I squeeze, 
+squeeze, squeeze, squeeze and tease, 
+bully, and soothe your penis〜.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 弄びまくって　ボロボロに泣かせてくで？
 ホレ！　チンコん先から　涙代わりの
 我慢汁が　零れ出てきとるやろ〜？\\.\\|\\^
-> CONTEXT: Commonevents/284/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/76/Dialogue
+I'll toy with you until you break and cry〜
+Look! Pre-cum dripping from the tip of your 
+dick as if its crying, isn't it〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 苦しくて　ツラくて　気持ちえぇやろ？
 ウチとのセクロス……最高やろぉ？
 気持ち良すぎて　頭飛びそぅなるやろぉ？\\.\\|\\^
-> CONTEXT: Commonevents/284/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/86/Dialogue
+It's painful, tough, but it feels good, right?
+Sex with me...isn't it the best? Feels so good, 
+it's like your head's going to explode, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ピストンするたんびに　ウチのパイオツも
 ぶるん☆ぶるん　揺れとるな〜♪
 エロイな〜　エロエロやな〜♪\\.\\|\\^
-> CONTEXT: Commonevents/284/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/93/Dialogue
+As I bounce on top of you, my boobs
+jiggle☆jiggle and shake〜♪
+How erotic〜 Isn't it so erotic〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 こらもう　堪えられへんやろぉ？
 あんちゃんの　ボロ負け確定や♪
 このままウチに　完全敗北してまえ！\\.\\|\\^
-> CONTEXT: Commonevents/284/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/100/Dialogue
+You can't take this anymore, can you?
+You'll be utterly defeated, cutie♪
+It's time to completely defeat you! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホレホレホレ！　あんちゃ〜ん♡
 大泣きのチンコから　真っ白な
 涙の雑魚精子☆　ぶちまけるんや〜♪\\.\\|\\^
-> CONTEXT: Commonevents/284/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/114/Dialogue
+Come on, come on! My cutie〜♡
+From your crying dick, pure white thin, 
+teary sperm☆, let it splatter out♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 このまま　ウチの生マンコん中
 ぶちまけるんやで！？　ゴムなんか
 あらへん……夢の生中出しや！\\.\\|\\^
-> CONTEXT: Commonevents/284/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/121/Dialogue
+Just like this, cum inside my pussy raw!
+No condom... Live the dream of getting to
+cum inside me raw! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんは　雑魚☆雑魚やから
 せいぜい　ウチのマンコん中くらいにしか
 雑魚精子☆ぶっぱ　できひんもんな〜♪\\.\\|\\^
-> CONTEXT: Commonevents/284/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/128/Dialogue
+You're just a weakling, a loser,
+so best you can do is squirt weak sperm☆
+inside my pussy, right〜?♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 負けろや！　負けろっ！　あんちゃん♪
 生中キメて　ウチに完全敗北の
 雑魚精子　ぶちまけろやぁぁぁ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/284/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/135/Dialogue
+Give in! Give in! My cutie♪
+Be pathetically defeated by me!
+Splatter your pathetic sperm〜〜♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあああぁぁぁっっっ♡♡♡
 マンコん中　めっちゃ出とるぅぅぅ！！！\\.\\|\\^
-> CONTEXT: Commonevents/284/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/150/Dialogue
+Ahhhhhhhh〜〜♡♡♡
+It's gushing out〜〜
+inside my pussy〜〜〜!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ〜あ〜あ〜あ〜。
 こんなん　出しよってからにぃ……
 こらもう　あんちゃんの大負けやな！\\.\\|\\^
-> CONTEXT: Commonevents/284/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/161/Dialogue
+Ah〜ah〜ah〜ah〜
+Seeing something like this...
+Looks like you've lost big time! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんは　ウチの性奴隷確定な！
 奴隷なったんやから　ウチの言うことは
 これから　なんでも　聞くんやで〜？\\.\\|\\^
-> CONTEXT: Commonevents/284/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/168/Dialogue
+You're officially my sex slave, cutie!
+Now that you're my slave, you'll do 
+whatever I say from now on, okay〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチらの頼みを　聞いてくれたら
 毎日　毎晩　いつなんどきでも
 セクロス……させたっからな♪\\.\\|\\^
-> CONTEXT: Commonevents/284/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/284/177/Dialogue
+If you listen to my requests
+I'll let you have sex with me... 
+Every day, every night, anytime♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6640,7 +6695,7 @@ red bean rice tonight☆\\.\\|\\^
 さっ！　しっかりと
 おちんちん……おっき☆
 できてるかなぁ？　そしたら――
-> CONTEXT: Commonevents/285/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/3/Dialogue
 \\NAME[\\n[12]]
 Now! Is your penis... 
 Big☆ and ready? If so-
@@ -6651,7 +6706,7 @@ Big☆ and ready? If so-
 おっき☆したまま　立っちしてぇ
 かた〜くなった　おちんちんを
 私のナカに　ぐ〜っと挿れて――
-> CONTEXT: Commonevents/285/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/8/Dialogue
 \\NAME[\\n[12]]
 Stand up and push your 
 big☆ hard dick
@@ -6662,7 +6717,7 @@ deep inside me〜
 ぎゅ〜〜〜♡
 おっぱいの谷間に　君の頭を挟んで
 抱き締めながら　おせっせしてくよぉ♡\\.\\|\\^
-> CONTEXT: Commonevents/285/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/31/Dialogue
 Squeeze〜〜〜♡
 Let's have sex while I hold you 
 tight between my boobs♡\\.\\|\\^
@@ -6672,7 +6727,7 @@ tight between my boobs♡\\.\\|\\^
 君のナマおちんぽ☆　私のオマンコの中
 行ったり来たり♪　行ったり来たり♪
 じゅるじゅる　ぐちゅぐちゅ　ずぽずぽ♪\\.\\|\\^
-> CONTEXT: Commonevents/285/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/38/Dialogue
 Your raw cock☆ goes in and out 
 inside my pussy♪ In and out♪
 Slurp, squelch, thrust, thrust♪\\.\\|\\^
@@ -6682,7 +6737,7 @@ Slurp, squelch, thrust, thrust♪\\.\\|\\^
 楽しいね♪　楽しいね♪
 君と私　今　繋がっちゃってるよぉ？
 ナマえっち☆　しちゃってるんだよぉ？\\.\\|\\^
-> CONTEXT: Commonevents/285/45/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/45/Dialogue
 It's fun♪ So fun♪
 You and I, we're connected now.
 Having raw sex☆ We're doing it〜\\.\\|\\^
@@ -6692,7 +6747,7 @@ Having raw sex☆ We're doing it〜\\.\\|\\^
 んん〜〜　どぉしたのかなぁ？
 そんな　苦しそうに　モゾモゾしちゃって
 腰もヒクヒク　浮いちゃってるよぉ？\\.\\|\\^
-> CONTEXT: Commonevents/285/55/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/55/Dialogue
 Mh〜〜 What's wrong?
 You're squirming and your hips are 
 twitching and lifting up too? \\.\\|\\^
@@ -6702,7 +6757,7 @@ twitching and lifting up too? \\.\\|\\^
 私の大きなおっぱいで　溺れちゃいそう？
 ふふふ♪　そんな君が　かわいいから
 ますます　締め付けちゃうね♡\\.\\|\\^
-> CONTEXT: Commonevents/285/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/62/Dialogue
 Are you drowning in my big boobs?
 Hehehe♪ You're so cute like that,
 I'll just squeeze you even tighter♡\\.\\|\\^
@@ -6712,7 +6767,7 @@ I'll just squeeze you even tighter♡\\.\\|\\^
 おっぱいの大海原に　どぼ〜ん！
 窒息寸前の苦しさで　君の性感が
 もっともっと　高まっちゃうの！\\.\\|\\^
-> CONTEXT: Commonevents/285/69/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/69/Dialogue
 Sink in the depths of my boobs〜!
 The near suffocation makes the
 pleasure all the more intense! \\.\\|\\^
@@ -6722,7 +6777,7 @@ pleasure all the more intense! \\.\\|\\^
 それだけじゃないよぉ？
 今から　私の『とっておき』を
 してあげるねぇ？　何だと思う？\\.\\|\\^
-> CONTEXT: Commonevents/285/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/76/Dialogue
 But that's not all! I'll show 
 you my 'special' thing, okay?
 What do you think it is? \\.\\|\\^
@@ -6732,7 +6787,7 @@ What do you think it is? \\.\\|\\^
 そ・れ・は……君の　お尻の間から
 突き刺してる……私の　尻尾針！
 針の先端が　君の　タマ裏にぃぃぃ♪\\.\\|\\^
-> CONTEXT: Commonevents/285/86/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/86/Dialogue
 That is...my tail in your ass!
 The tip of the needle is on the 
 underside of your balls♪\\.\\|\\^
@@ -6742,7 +6797,7 @@ underside of your balls♪\\.\\|\\^
 この尻尾針から　催淫液を注入〜♡
 君のタマタマの裏側に　注入〜♡
 ドクドクドクドク　えっちな液が注入〜♪\\.\\|\\^
-> CONTEXT: Commonevents/285/100/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/100/Dialogue
 It's injecting aphrodisiac into 
 the underside of your balls〜♡
 Thump, thump, it's injecting〜♪\\.\\|\\^
@@ -6752,7 +6807,7 @@ Thump, thump, it's injecting〜♪\\.\\|\\^
 おっぱい圧迫と　尻尾針の催淫液でぇ〜
 頭の中　真っ白に　溶けてっちゃうねぇ♪
 このまま君　どうなっちゃうのかなぁ？\\.\\|\\^
-> CONTEXT: Commonevents/285/114/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/114/Dialogue
 Between the boobs and the aphrodisiac,
 your mind will melt completely blank♪
 What will even happen to you? \\.\\|\\^
@@ -6762,7 +6817,7 @@ What will even happen to you? \\.\\|\\^
 ほらほら　搾って　搾ってぇ？
 濃厚ドロドロ☆圧縮おちんぽ☆ミルク
 どぴゅどぴゅ〜って　いっぱい出そうね？\\.\\|\\^
-> CONTEXT: Commonevents/285/128/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/128/Dialogue
 Come, come, squeeze, squeeze!
 Rich, gooey, thick dick milk☆
 Will you spurt it out for me〜? \\.\\|\\^
@@ -6772,7 +6827,7 @@ Will you spurt it out for me〜? \\.\\|\\^
 このまま　私のオマンコの中
 大洪水にしようね？　しようね？
 密着したまま　ダムが決壊するみたいに♪\\.\\|\\^
-> CONTEXT: Commonevents/285/135/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/135/Dialogue
 Make my pussy flood like this, okay? 
 Let's do it! Like a dam breaking 
 while we're still pressed together♪\\.\\|\\^
@@ -6782,7 +6837,7 @@ while we're still pressed together♪\\.\\|\\^
 思いっきりぃ　お射精するんだよ？
 遠慮なんかしちゃ　ダメっ！
 いっぱいいっぱい　私にちょうだ〜い♡\\.\\|\\^
-> CONTEXT: Commonevents/285/142/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/142/Dialogue
 Let it all out and cum, okay?
 Don't hold back on me!
 Give me lots and lots, please〜♡\\.\\|\\^
@@ -6792,7 +6847,7 @@ Give me lots and lots, please〜♡\\.\\|\\^
 あぁん♡　お射精☆お射精☆
 どぴゅどぴゅどっぴゅん♡ 　私のナカに
 出して　出して　出してぇぇぇ！！！\\.\\|\\^
-> CONTEXT: Commonevents/285/149/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/149/Dialogue
 Ahhh♡ Cum☆ Cum☆ Cum for me☆
 Splurt, splurt, splurt♡ Inside me♡
 Cum, cum, let it all out for me!!! \\.\\|\\^
@@ -6801,7 +6856,7 @@ Cum, cum, let it all out for me!!! \\.\\|\\^
 > BEGIN STRING
 きゃあああぁぁぁっっっ♡♡♡
 すっごい……ジューシー♡\\.\\|\\^
-> CONTEXT: Commonevents/285/164/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/164/Dialogue
 Kyaaaaaaaaaaaaaa♡♡♡
 Amazing...so juicy♡\\.\\|\\^
 > END STRING
@@ -6810,7 +6865,7 @@ Amazing...so juicy♡\\.\\|\\^
 うふっ♪　いっぱい出せて　エライよぉ？
 まだ繋がったままだから　体　離したら
 真っ白な滝になって　零れちゃうね。\\.\\|\\^
-> CONTEXT: Commonevents/285/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/175/Dialogue
 Hehe♪ Good job, aren't you a good boy?
 If we were to separate our bodies now,
 it'll be like a pure white waterfall〜.\\.\\|\\^
@@ -6820,7 +6875,7 @@ it'll be like a pure white waterfall〜.\\.\\|\\^
 君のおちんぽ☆ミルク　このままもう少し
 私のオマンコの中で　たぷたぷ♪
 お精子ちゃんを　泳がせておこうね？\\.\\|\\^
-> CONTEXT: Commonevents/285/182/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/182/Dialogue
 Your dick milk☆ Stay like this for a now,
 it's sloshing around inside my pussy♪
 Let's let your sperm swim around, okay? \\.\\|\\^
@@ -6830,7 +6885,7 @@ Let's let your sperm swim around, okay? \\.\\|\\^
 ――って　君？　息……してないけど
 まさか　ホントに　溺れちゃった？\\|
 ふふふっ♪　私に　溺れちゃったんだね。\\.\\|\\^
-> CONTEXT: Commonevents/285/191/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/285/191/Dialogue
 --Hey? You're not breathing...
 Did you really drown in there? \\|
 Hehehe♪ You really drowned, didn't you? \\.\\|\\^
@@ -7224,7 +7279,7 @@ You're cumming, aren't you? \\.\\|\\^
 ホンマ　雑魚やなぁ♪　雑魚♡雑ぁ魚♡
 本番セクロスする前に　もう降参かぁ？\\.\\|\\^
 > CONTEXT: Commonevents/287/162/Dialogue
-How pathetic, big guy♪
+How pathetic, my cutie♪
 You're really just a loser♪ Loser♡
 Giving up before we even have sex? \\.\\|\\^
 > END STRING
@@ -7246,7 +7301,7 @@ I'll bully you and make you cum. \\.\\|\\^
 > CONTEXT: Commonevents/287/176/Dialogue
 I'll make you lose♪ Right? Right?
 Only a loser loses to my boobs☆
-Cum♪ Cum♪ Cute guy〜〜〜♪\\.\\|\\^
+Cum♪ Cum♪ My cutie〜〜〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7263,7 +7318,7 @@ Ejaculating so much!\\.\\|\\^
 ホンマ　しゃーないやっちゃなぁ。\\.\\|\\^
 > CONTEXT: Commonevents/287/202/Dialogue
 Hey〜, you really made a mess of my face, 
-big guy. You're so hopeless.\\.\\|\\^
+my cutie. You're so hopeless.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING

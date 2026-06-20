@@ -1699,7 +1699,7 @@ Fire Spirit Potion
 僅かの間　火の精霊の加護を得る
 > CONTEXT: Items/221/description/
 [Single: Fire Enchant/Large LP Recovery]
-For a time, gain the blessing of the fire spirit
+Gain temporary blessing of the fire spirit
 > END STRING
 
 > BEGIN STRING
@@ -1713,7 +1713,7 @@ Water Spirit Potion
 僅かの間　水の精霊の加護を得る
 > CONTEXT: Items/222/description/
 [Single: Water/Ice Enchant/Large LP Recovery]
-For a time, gain the blessing of the water spirit
+Gain temporary blessing of the water spirit
 > END STRING
 
 > BEGIN STRING
@@ -1727,7 +1727,7 @@ Wind Spirit Potion
 僅かの間　風の精霊の加護を得る
 > CONTEXT: Items/223/description/
 [Single: Slash Enchant/Large LP Recovery]
-For a time, gain the blessing of the wind spirit
+Gain temporary blessing of the wind spirit
 > END STRING
 
 > BEGIN STRING
@@ -1741,7 +1741,7 @@ Earth spirit potion
 僅かの間　土の精霊の加護を得る
 > CONTEXT: Items/224/description/
 [Single: Destruction Enchant/Large LP Recovery]
-For a time, gain the blessing of the earth spirit
+Gain temporary blessing of the earth spirit
 > END STRING
 
 > BEGIN STRING
@@ -1755,7 +1755,7 @@ Herb Spirit Potion
 僅かの間　草の精霊の加護を得る
 > CONTEXT: Items/225/description/
 [Single: Thrust Enchant/Large LP Recovery]
-For a time, gain the blessing of the grass spirit
+Gain temporary blessing of the grass spirit
 > END STRING
 
 > BEGIN STRING
@@ -1769,7 +1769,7 @@ Thunder Spirit Potion
 僅かの間　雷の精霊の加護を得る
 > CONTEXT: Items/226/description/
 [Single: Lightning Enchant/Large LP Recovery]
-For a time, gain the blessing of the lightning spirit
+Gain temporary blessing of the lightning spirit
 > END STRING
 
 > BEGIN STRING
@@ -1783,7 +1783,7 @@ Dark Spirit Potion
 僅かの間　闇の精霊の力で　呪文連続発動
 > CONTEXT: Items/227/description/
 [Single: Scroll Echo/Defense Down/Large EP Recovery]
-For a time, allows for continuous spell casting
+Temporarily allow continuous spell casting
 > END STRING
 
 > BEGIN STRING
@@ -1797,7 +1797,7 @@ Light Spirit Potion
 僅かの間　光の精霊が　高確率致命傷回避
 > CONTEXT: Items/228/description/
 [Single: Indomitable/Large LP Recovery]
-For a time, high chance of avoiding fatal damage
+Temporary high chance of avoiding fatal damage
 > END STRING
 
 > BEGIN STRING
@@ -1811,7 +1811,7 @@ Ultimate Physical Elixir
 僅かの間　切斬・突貫・打壊属性を強化
 > CONTEXT: Items/229/description/
 [Single: Physical Enchant]
-Enhances physical attributes for a time
+Temporarily enhance physical attributes
 > END STRING
 
 > BEGIN STRING
@@ -1825,7 +1825,7 @@ Ultimate Chemical Elixir
 僅かの間　火炎・水氷・雷電属性を強化
 > CONTEXT: Items/230/description/
 [Single: Chemical Enchant]
-Enhances elemental attributes for a short time
+Temporarily enhance elemental attributes
 > END STRING
 
 > BEGIN STRING

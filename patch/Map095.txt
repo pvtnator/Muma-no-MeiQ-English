@@ -4,7 +4,7 @@
 あ〜ら　いらっしゃい♪
 待ってたよぉ。よく　ここまで
 来れたねぇ。頑張ったねぇ！
-> CONTEXT: Map095/events/24/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/2/Dialogue
 \\NAME[\\n[12]]
 Ah〜, welcome♪
 I've been waiting. You did well 
@@ -16,7 +16,7 @@ to make it here. Good job!
 でも　頑張り屋さんの君には
 もうひと頑張り☆してもらうよ？
 私と……今から　戦うのっ！
-> CONTEXT: Map095/events/24/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/7/Dialogue
 \\NAME[\\n[12]]
 But, since you're such a hard worker,
 I must ask just a little more☆
@@ -28,7 +28,7 @@ Fight me...right now!
 君と私の　一対一の大勝負！
 君の成長を　確かめたいのっ。
 できるかなぁ？
-> CONTEXT: Map095/events/24/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/12/Dialogue
 \\NAME[\\n[12]]
 A big one-on-one showdown!
 I want to see how much you've grown.
@@ -40,7 +40,7 @@ Can you do it?
 もちろん　見事　私を倒せたら
 約束の　えっち☆　たっぷりと
 させてあげるからね♪
-> CONTEXT: Map095/events/24/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/17/Dialogue
 \\NAME[\\n[12]]
 Of course, if you manage to beat me,
 I'll give you plenty of the 
@@ -52,7 +52,7 @@ naughty☆ fun I promised♪
 準備は　いいかなぁ？
 私と戦うよね？　ね？　戦って
 えっち☆したいよね？　ね？
-> CONTEXT: Map095/events/24/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/26/Dialogue
 \\NAME[\\n[12]]
 Are you ready?
 Fight me, okay? Hm? Let's fight.
@@ -64,7 +64,7 @@ And then have sex, right? Right?
 あら！？　急かしちゃったかな？
 ゴメンなさいね。準備ができたら
 もう一度　声を掛けてねっ。
-> CONTEXT: Map095/events/24/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/35/Dialogue
 \\NAME[\\n[12]]
 Oh!? Was I too hasty? Sorry. 
 Let me know again 
@@ -76,7 +76,7 @@ when you're ready.
 それじゃあ　行くよぉ！？
 君の強さを　私に
 いっぱいいっぱい　見せて！
-> CONTEXT: Map095/events/24/pages/1/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/47/Dialogue
 \\NAME[\\n[12]]
 Okay, let's go!
 Show me all you've got!
@@ -87,7 +87,7 @@ Show me all you've got!
 ゴメンなさいっ！　ホントに
 殺しちゃうとこだった。
 危ない　危ない……。
-> CONTEXT: Map095/events/24/pages/1/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/103/Dialogue
 \\NAME[\\n[12]]
 I'm so sorry!
 I really almost killed you.
@@ -99,7 +99,7 @@ That was close...
 でもね　ちゃんと
 私を　倒してくれないと
 色々　困っちゃうの。
-> CONTEXT: Map095/events/24/pages/1/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/122/Dialogue
 \\NAME[\\n[12]]
 But, if you don't 
 defeat me properly,
@@ -111,7 +111,7 @@ it'll be a problem.
 \\C[6]宝箱とか　もう一度よく見て\\C[0]
 それで　今度こそ
 上手く　立ち回ってみてね♪
-> CONTEXT: Map095/events/24/pages/1/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/1/127/Dialogue
 \\NAME[\\n[12]]
 \\C[6]Check the treasure chests again\\C[0]
 And this time,
@@ -123,7 +123,7 @@ Try to play your cards right♪
 上出来　上出来ぃ♪
 君ったら　さすがだねっ！
 エライエライ♪
-> CONTEXT: Map095/events/24/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/2/1/Dialogue
 \\NAME[\\n[12]]
 Well done, well done♪
 You're amazing!
@@ -135,7 +135,7 @@ Great job♪
 これで　しっかり……ええ。
 私は君に　負かされたってことで
 つまり………………。
-> CONTEXT: Map095/events/24/pages/2/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/2/6/Dialogue
 \\NAME[\\n[12]]
 So then...yes.
 You've defeated me.
@@ -147,7 +147,7 @@ In other words...
 いよいよ　君と初えっち☆だね♪
 二人きりの空間で　たっぷりと
 愛し合っちゃおうね♪
-> CONTEXT: Map095/events/24/pages/2/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/2/11/Dialogue
 \\NAME[\\n[12]]
 Finally, our first time together☆♪
 Let's make love to our hearts' content 
@@ -159,7 +159,7 @@ in a space just for the two of us♪
 さっ　こっちに来てぇ？
 心も体も　一つになって
 気持ち良くなろうね〜。
-> CONTEXT: Map095/events/24/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/24/pages/2/17/Dialogue
 \\NAME[\\n[12]]
 Here, come this way?
 Let's become one, mind and body,

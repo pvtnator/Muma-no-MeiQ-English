@@ -751,8 +751,11 @@ Found various others!
 あんちゃ〜ん　や〜っと
 来たんやなぁ！　ウチ
 待ちくたびれてもうたわぁ。
-> CONTEXT: Map096/events/24/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/2/Dialogue
+\\NAME[\\n[13]]
+Hey cutie〜, 
+you've finally come!
+I've been waiting forever.
 > END STRING
 
 > BEGIN STRING
@@ -760,8 +763,10 @@ Found various others!
 せやけど　あんちゃんには
 今から　ウチと　サシで
 バトってもらうで〜。
-> CONTEXT: Map096/events/24/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/7/Dialogue
+\\NAME[\\n[13]]
+But now it's time for us to
+battle one-on-one〜.
 > END STRING
 
 > BEGIN STRING
@@ -769,8 +774,11 @@ Found various others!
 セクロスはよ！　っちゅうんは
 わかっけど……ホラ！
 ゲームなら　定番やろぉ？
-> CONTEXT: Map096/events/24/pages/1/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/12/Dialogue
+\\NAME[\\n[13]]
+"Let's have sex already!" you say?
+I know, but...hey!
+This is how games work, right?
 > END STRING
 
 > BEGIN STRING
@@ -778,8 +786,11 @@ Found various others!
 一人で　勝てるかいな？
 あんちゃんを　ウチのこの\\C[6]目力で
 狂わせて\\C[0]　頭パーにしたるわ♪
-> CONTEXT: Map096/events/24/pages/1/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/17/Dialogue
+\\NAME[\\n[13]]
+Do you think you can win by yourself?
+I'll \\C[6]drive you crazy with my intense gaze\\C[0]
+and make your head go blank♪
 > END STRING
 
 > BEGIN STRING
@@ -787,8 +798,11 @@ Found various others!
 ほな！　バトル開始や！
 準備は　ええかー！？
 ウチと　戦うんやろぉ！？
-> CONTEXT: Map096/events/24/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/26/Dialogue
+\\NAME[\\n[13]]
+Alright! Let the battle begin!
+Are you ready?!
+You're going to fight me, right?!
 > END STRING
 
 > BEGIN STRING
@@ -796,8 +810,11 @@ Found various others!
 なんでや！？
 準備できてへんかったんか！？
 はよせーよ！　はよ！　はよ！
-> CONTEXT: Map096/events/24/pages/1/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/35/Dialogue
+\\NAME[\\n[13]]
+Why?!
+You're not ready?!
+Hurry up! Hurry! Hurry!
 > END STRING
 
 > BEGIN STRING
@@ -805,8 +822,11 @@ Found various others!
 ヒヒヒ♪　行くで〜！
 まずは　ガチ☆バトルで
 あんちゃんを　イジメたるわ〜。
-> CONTEXT: Map096/events/24/pages/1/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/47/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ Here we go!
+First, I'll bully my little cutie
+in a serious battle〜.
 > END STRING
 
 > BEGIN STRING
@@ -814,8 +834,11 @@ Found various others!
 どした？　あんちゃん！？
 いくら　雑魚だからって
 そりゃぁ　無いやろぉ！？
-> CONTEXT: Map096/events/24/pages/1/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/103/Dialogue
+\\NAME[\\n[13]]
+What's wrong, my cutie?
+No matter how weak you are
+that's just not okay!
 > END STRING
 
 > BEGIN STRING
@@ -823,8 +846,11 @@ Found various others!
 しゃぁないな〜。あんちゃん
 ホンマ　雑魚のヘタレやから
 ワンチャン　あげるわ〜。
-> CONTEXT: Map096/events/24/pages/1/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/122/Dialogue
+\\NAME[\\n[13]]
+Oh, whatever〜. Cutie, you're 
+really just a pathetic loser,
+so I'll give you one chance〜.
 > END STRING
 
 > BEGIN STRING
@@ -832,16 +858,21 @@ Found various others!
 \\C[6]宝箱とか　もっかい　よう見て\\C[0]
 雑魚雑魚なりに　頭　使うて
 ウチに　リベンジしたれ〜。
-> CONTEXT: Map096/events/24/pages/1/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/1/127/Dialogue
+\\NAME[\\n[13]]
+\\C[6]Check the treasure chests again\\C[0]
+Even if you're weak, use your head
+and get your revenge on me.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 やったな！　あんちゃん！
 これで　ミッションクリアーや！
-> CONTEXT: Map096/events/24/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/2/1/Dialogue
+\\NAME[\\n[13]]
+You did it, cutie!
+Mission accomplished!
 > END STRING
 
 > BEGIN STRING
@@ -849,8 +880,11 @@ Found various others!
 さ〜て　お待ちかねの……
 ご褒美☆セクロスの時間やな♪
 ヒヒヒ♪　覚悟はええか〜？
-> CONTEXT: Map096/events/24/pages/2/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/2/5/Dialogue
+\\NAME[\\n[13]]
+Well then, time for the long-awaited...
+Reward☆ Sex time♪
+Hehehe♪ Are you ready〜?
 > END STRING
 
 > BEGIN STRING
@@ -858,8 +892,10 @@ Found various others!
 ぶっ倒れて　意識飛ぶまで
 あんちゃんを　犯して　犯して
 犯しまくったるで〜♪♪♪
-> CONTEXT: Map096/events/24/pages/2/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/2/10/Dialogue
+\\NAME[\\n[13]]
+I'm gonna fuck, fuck, fuck you
+until you pass out〜♪♪♪
 > END STRING
 
 > BEGIN STRING
@@ -867,8 +903,11 @@ Found various others!
 こっち来いや〜。
 二人っきりんなれっとこで
 たっぷり　イジメたるで〜♪
-> CONTEXT: Map096/events/24/pages/2/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map096/events/24/pages/2/16/Dialogue
+\\NAME[\\n[13]]
+Come over here〜.
+With just the two of us,
+I'll tease you to my heart's content〜♪
 > END STRING
 
 > BEGIN STRING

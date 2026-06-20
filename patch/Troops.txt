@@ -3666,7 +3666,7 @@ Subdued \\n[11]!
 \\NAME[\\n[12]]
 ちょっと　待って　待って！
 私……もう　降参だからね。
-> CONTEXT: Troops/812/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/812/pages/2/8/Dialogue
 \\NAME[\\n[12]]
 Wait, wait!
 I... I surrender.
@@ -3674,7 +3674,7 @@ I... I surrender.
 
 > BEGIN STRING
 \\n[12]を　屈服させた！
-> CONTEXT: Troops/812/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/812/pages/2/12/Dialogue
 Subdued \\n[12]!
 > END STRING
 
@@ -3688,14 +3688,16 @@ Subdued \\n[12]!
 \\NAME[\\n[13]]
 参ったぁ　参ったぁ〜！
 ウチの負けや〜。
-> CONTEXT: Troops/813/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/813/pages/2/8/Dialogue
+\\NAME[\\n[13]]
+I give up, I give up〜!
+I lost〜.
 > END STRING
 
 > BEGIN STRING
 \\n[13]を　屈服させた！
-> CONTEXT: Troops/813/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/813/pages/2/12/Dialogue
+Subdued \\n[13]!
 > END STRING
 
 > BEGIN STRING

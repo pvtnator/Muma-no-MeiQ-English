@@ -589,99 +589,107 @@ Lance
 > BEGIN STRING
 習:刺突〘腕固耐性↑〙
 突貫攻撃に特化した　騎兵用の槍
-> CONTEXT: Weapons/105/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/105/description/
+Skill: Thrust [Arm Bind Resist↑]
+Cavalry spear for charging attacks
 > END STRING
 
 > BEGIN STRING
 ピッケル
-> CONTEXT: Weapons/110/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/110/name/
+Pickel
 > END STRING
 
 > BEGIN STRING
 習:刺突/殴打
 鉱山や雪山で用いられる　頑丈な鶴嘴
-> CONTEXT: Weapons/110/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/110/description/
+Skills: Thrust/Hit
+Used in mines and snow-covered mountains
 > END STRING
 
 > BEGIN STRING
 鉞
-> CONTEXT: Weapons/111/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/111/name/
+Broadaxe
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打
 工具にも伐採用にもなる　刃渡りの広い斧
-> CONTEXT: Weapons/111/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/111/description/
+Skills: Slash/Hit
+A wide-bladed axe for cutting wood
 > END STRING
 
 > BEGIN STRING
 バトルアックス
-> CONTEXT: Weapons/112/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/112/name/
+Battle Axe
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打/\\C[6]トマホーク投法\\C[0]
 戦場向けに作られた　雄々しき戦斧
-> CONTEXT: Weapons/112/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/112/description/
+Skills: Slash/Hit/\\C[6]Tomahawk\\C[0]
+A magnificent battle axe made for the battlefield
 > END STRING
 
 > BEGIN STRING
 半月斧
-> CONTEXT: Weapons/113/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/113/name/
+Crescent Axe
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打/\\C[6]シャイニング\\C[0]
 人体を両断する　巨大な刃を持つ大斧
-> CONTEXT: Weapons/113/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/113/description/
+Skills: Slash/Hit/\\C[6]Shining\\C[0]
+A giant axe that can cut a human in two
 > END STRING
 
 > BEGIN STRING
 開天斧
-> CONTEXT: Weapons/114/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/114/name/
+Heavenly Axe
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打
 世界を切り開くほど甚大な　最上級の斧
-> CONTEXT: Weapons/114/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/114/description/
+Skills: Slash/Hit
+Capable of carving through the world
 > END STRING
 
 > BEGIN STRING
 ハルバード
-> CONTEXT: Weapons/115/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/115/name/
+Halberd
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/殴打
 斧頭に突起を備えた　玄人向けの長柄武具
-> CONTEXT: Weapons/115/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/115/description/
+Skills: Slash/Thrust/Hit
+A long-handled weapon for experts
 > END STRING
 
 > BEGIN STRING
 スミスハンマー
-> CONTEXT: Weapons/120/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/120/name/
+Smith's Hammer
 > END STRING
 
 > BEGIN STRING
 習:殴打
 町の鍛冶屋でも使われてる　丈夫な鎚
-> CONTEXT: Weapons/120/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/120/description/
+Skill: Hit
+A sturdy hammer, also used by town blacksmiths
 > END STRING
 
 > BEGIN STRING

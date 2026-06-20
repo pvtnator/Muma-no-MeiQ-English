@@ -18,8 +18,8 @@ What are you wearing?!
 ウチより　ちっこいやんかー！
 > CONTEXT: Map023/events/2/pages/1/8/Dialogue
 \\NAME[\\n[13]]
-Wow☆ Big guy
-You've gotten so tiny!
+Wow☆ My cutie,
+you've gotten so tiny!
 You're even smaller than me!
 > END STRING
 

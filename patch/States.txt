@@ -186,23 +186,23 @@ Paralysis
 
 > BEGIN STRING
 は　不如意に陥った！
-> CONTEXT: States/18/message1/ < UNTRANSLATED
-> CONTEXT: States/19/message1/ < UNTRANSLATED
-
+> CONTEXT: States/18/message1/
+> CONTEXT: States/19/message1/
+ fell into a difficult position!
 > END STRING
 
 > BEGIN STRING
 は　体勢を崩した！
-> CONTEXT: States/18/message2/ < UNTRANSLATED
-> CONTEXT: States/19/message2/ < UNTRANSLATED
-
+> CONTEXT: States/18/message2/
+> CONTEXT: States/19/message2/
+ lost balance!
 > END STRING
 
 > BEGIN STRING
 は　身動きが取れない！
-> CONTEXT: States/18/message3/ < UNTRANSLATED
-> CONTEXT: States/19/message3/ < UNTRANSLATED
-
+> CONTEXT: States/18/message3/
+> CONTEXT: States/19/message3/
+ can't move!
 > END STRING
 
 > BEGIN STRING
@@ -415,13 +415,13 @@ Bleed
 は　流血した！
 > CONTEXT: States/36/message1/
 > CONTEXT: States/36/message2/
- bleeds!
+ started bleeding!
 > END STRING
 
 > BEGIN STRING
 は　血を流している！
 > CONTEXT: States/36/message3/
- is bleeding!
+ can't stop bleeding!
 > END STRING
 
 > BEGIN STRING
@@ -777,14 +777,14 @@ Bleed
 
 > BEGIN STRING
 は　二回行動が可能になった！
-> CONTEXT: States/99/message1/ < UNTRANSLATED
-
+> CONTEXT: States/99/message1/
+ can now act twice!
 > END STRING
 
 > BEGIN STRING
 は　二回行動が可能に！
-> CONTEXT: States/99/message2/ < UNTRANSLATED
-
+> CONTEXT: States/99/message2/
+ can do 2 actions!
 > END STRING
 
 > BEGIN STRING
@@ -1000,8 +1000,8 @@ EX足技08
 
 > BEGIN STRING
 は　武器を回収した！
-> CONTEXT: States/151/message4/ < UNTRANSLATED
-
+> CONTEXT: States/151/message4/
+ recovered the weapon!
 > END STRING
 
 > BEGIN STRING
