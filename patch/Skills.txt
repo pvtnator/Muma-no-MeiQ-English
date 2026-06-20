@@ -2655,40 +2655,42 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 ビッグショット
-> CONTEXT: Skills/214/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/214/name/
+Big Shot
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[10]SS\\C[0]〙\\i[30]\\i[217]
 充分に霊力を注いで放つ　大味な遠隔射撃
-> CONTEXT: Skills/214/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/214/description/
+[Single:PSY*\\C[10]SS\\C[0]]\\i[30]\\i[217]
+A crude long-range magical shot
 > END STRING
 
 > BEGIN STRING
 の　ビッグショット！
-> CONTEXT: Skills/214/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/214/message1/
+ used Big Shot!
 > END STRING
 
 > BEGIN STRING
 サイコビーム
-> CONTEXT: Skills/216/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/216/name/
+Psycho Beam
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]〙\\i[30]\\i[218]
 自らの霊力を弾丸として射撃　遠隔刺突撃
-> CONTEXT: Skills/216/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/216/description/
+[Single: PSY*\\C[9]B\\C[0]]\\i[30]\\i[218]
+Fire spiritual power as bullets
 > END STRING
 
 > BEGIN STRING
 の　サイコビーム！
-> CONTEXT: Skills/216/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/216/message1/
+ used Psycho Beam!
 > END STRING
 
 > BEGIN STRING
@@ -2712,40 +2714,42 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 バーンビーム
-> CONTEXT: Skills/218/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/218/name/
+Burn Beam
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+火傷(高)〙\\i[30]\\i[218]
 猛火で焼き尽くす　遠隔火炎撃
-> CONTEXT: Skills/218/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/218/description/
+[Single: PSY*\\C[9]B\\C[0]+Burn(L)]\\i[30]\\i[218]
+Burn to ashes with raging flames
 > END STRING
 
 > BEGIN STRING
 の　バーンビーム！
-> CONTEXT: Skills/218/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/218/message1/
+ used Burn Beam!
 > END STRING
 
 > BEGIN STRING
 フリーズビーム
-> CONTEXT: Skills/219/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/219/name/
+Freeze Beam
 > END STRING
 
 > BEGIN STRING
 〘単:PSY*\\C[9]Ｂ\\C[0]+スタン(中)〙\\i[30]\\i[218]
 氷点下の冷気で鎮圧する　遠隔水氷撃
-> CONTEXT: Skills/219/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/219/description/
+[Single: PSY*\\C[9]B\\C[0]+Stun(M)]\\i[30]\\i[218]
+Suppresses with sub-zero cold air
 > END STRING
 
 > BEGIN STRING
 の　フリーズビーム！
-> CONTEXT: Skills/219/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/219/message1/
+ used Freeze Beam!
 > END STRING
 
 > BEGIN STRING
@@ -2883,21 +2887,22 @@ A ranged attack that slashes all enemies
 
 > BEGIN STRING
 ワールドツアー
-> CONTEXT: Skills/229/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/229/name/
+World Tour
 > END STRING
 
 > BEGIN STRING
 〘全:ATK*\\C[9]Ｂ\\C[0]/AGI*\\C[10]Ａ\\C[0]〙\\i[30]\\i[219]
 投擲後　時間差で更に旋回する　遠隔攻撃
-> CONTEXT: Skills/229/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/229/description/
+[All: ATK*\\C[9]B\\C[0]/AGI*\\C[10]A\\C[0]]\\i[30]\\i[219]
+After throwing, rotates again after a delay
 > END STRING
 
 > BEGIN STRING
 の　ワールドツアー！
-> CONTEXT: Skills/229/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/229/message1/
+ used World Tour!
 > END STRING
 
 > BEGIN STRING
@@ -3498,8 +3503,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の　１６回斬り！
-> CONTEXT: Skills/287/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/287/message1/
+ used 16 Slashes!
 > END STRING
 
 > BEGIN STRING
@@ -7166,8 +7171,8 @@ Recreate celebratory gun salute and prepare
 
 > BEGIN STRING
 は　長老亀の祝言を歌った！
-> CONTEXT: Skills/523/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/523/message1/
+ sang the elder turtle wedding song!
 > END STRING
 
 > BEGIN STRING
@@ -8750,8 +8755,8 @@ for no reason!
 
 > BEGIN STRING
 は　腐食液を飛ばした！
-> CONTEXT: Skills/636/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/636/message1/
+ sprayed corrosive liquid!
 > END STRING
 
 > BEGIN STRING
@@ -9192,8 +9197,8 @@ Aim for the artery and unleash a whirlwind
 
 > BEGIN STRING
 は　讃美歌を歌った！
-> CONTEXT: Skills/665/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/665/message1/
+ sang a hymn!
 > END STRING
 
 > BEGIN STRING

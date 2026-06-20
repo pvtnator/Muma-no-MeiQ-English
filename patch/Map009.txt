@@ -98,13 +98,13 @@ Little H Muma no MeiQ
 > BEGIN STRING
 ３人を揃えた状態で　ここに来るべき……
 そんな　気がする。
-> CONTEXT: Map009/events/7/pages/3/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/7/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/7/pages/3/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/3/Dialogue
+> CONTEXT: Map009/events/7/pages/3/18/Dialogue
+> CONTEXT: Map009/events/7/pages/3/33/Dialogue
+> CONTEXT: Map014/events/8/pages/0/5/Dialogue
+> CONTEXT: Map014/events/8/pages/0/25/Dialogue
+> CONTEXT: Map014/events/8/pages/0/45/Dialogue
+All 3 should come here together...
 > END STRING
 
 > BEGIN STRING
@@ -132,8 +132,10 @@ come here with the Key to Logos.
 さて……。これで　いよいよ
 ロゴスのところへ　向かうことに
 なったんだけど……うーん──
-> CONTEXT: Map009/events/7/pages/3/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/90/Dialogue
+\\NAME[\\n[11]]
+So... We're finally heading 
+to Logos... Hmm--
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +143,11 @@ come here with the Key to Logos.
 はよ　ロゴスんとこ　行こな！？
 な？　あんちゃん？
 セクロス☆したいんやろ？
-> CONTEXT: Map009/events/7/pages/3/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/96/Dialogue
+\\NAME[\\n[13]]
+Let's go to Logos quickly!
+Right? Cutie?
+You want to have sex, don't you?
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +155,11 @@ come here with the Key to Logos.
 そうね♪　ロゴスさんが
 いなくなれば　いっぱいいっぱい
 えっち☆が　できちゃうもんね♪
-> CONTEXT: Map009/events/7/pages/3/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/102/Dialogue
+\\NAME[\\n[12]]
+That's right♪ If Logos were gone, 
+we could have lots and lots 
+of naughty fun♪
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +167,11 @@ come here with the Key to Logos.
 そ　そうだけどっ！
 いや　そうじゃなくって！
 えーっと　だから……
-> CONTEXT: Map009/events/7/pages/3/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/107/Dialogue
+\\NAME[\\n[11]]
+Y-Yes, but!
+No, that's not why!
+Um, so...
 > END STRING
 
 > BEGIN STRING
@@ -168,8 +179,10 @@ come here with the Key to Logos.
 \\n[11]のことなんか
 気にせんでええで　あんちゃん？
 後はもう　凸するだけや！
-> CONTEXT: Map009/events/7/pages/3/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/112/Dialogue
+\\NAME[\\n[13]]
+Don't worry about \\n[11],
+All that's left is to go for it!
 > END STRING
 
 > BEGIN STRING
@@ -177,8 +190,11 @@ come here with the Key to Logos.
 ロゴスっちゅうんは　ホンマ
 悪いやっちゃねん！　名前がもう
 ラスボスっぽいやろ！？
-> CONTEXT: Map009/events/7/pages/3/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/119/Dialogue
+\\NAME[\\n[13]]
+Logos is a really bad guy! 
+The name already sounds like 
+a final boss, doesn't it?!
 > END STRING
 
 > BEGIN STRING
@@ -186,8 +202,10 @@ come here with the Key to Logos.
 まぁ　あたしたちの敵であるって
 事実は否定しない。そいつを
 これから　倒しに行くんだよ。
-> CONTEXT: Map009/events/7/pages/3/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/126/Dialogue
+\\NAME[\\n[11]]
+Well, I won't deny Logos is our enemy.
+We're going to go defeat Logos now.
 > END STRING
 
 > BEGIN STRING
@@ -195,8 +213,10 @@ come here with the Key to Logos.
 せやけど　あんちゃんはもう
 ウチらと　来てくれるって
 同意済みなんやで！？
-> CONTEXT: Map009/events/7/pages/3/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/133/Dialogue
+\\NAME[\\n[13]]
+But didn't you already agree
+to come with us!?
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +224,11 @@ come here with the Key to Logos.
 と言っても　\\C[6]ここから先は
 かなり　長い　長い　長〜い
 道のりになる\\C[0]みたいなの。
-> CONTEXT: Map009/events/7/pages/3/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/140/Dialogue
+\\NAME[\\n[12]]
+That said, \\C[6]From here on,
+it's going to be a very, very, 
+very long journey.\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -213,17 +236,21 @@ come here with the Key to Logos.
 そうだよ！
 だから \\C[6]準備は　ちゃんと
 出来てる\\C[0]の！？
-> CONTEXT: Map009/events/7/pages/3/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/147/Dialogue
+\\NAME[\\n[11]]
+That's right!
+So \\C[6]are you all ready?\\C[0]?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……そ。
 とりあえず　出直しね。
-> CONTEXT: Map009/events/7/pages/3/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/7/pages/3/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/157/Dialogue
+> CONTEXT: Map009/events/7/pages/3/212/Dialogue
+\\NAME[\\n[11]]
+...Okay.
+Let's try again later then.
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +258,11 @@ come here with the Key to Logos.
 Lvはこのまま　突入するから
 アイテムや　武器防具の装備品
 ちゃんと　持った！？
-> CONTEXT: Map009/events/7/pages/3/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/170/Dialogue
+\\NAME[\\n[11]]
+Your level will remain the same.
+Got your items, weapons, and armor ready?
+Are you sure you have them?
 > END STRING
 
 > BEGIN STRING
@@ -240,8 +270,10 @@ Lvはこのまま　突入するから
 スキルポイントも　振れるだけ
 振り切ったかしら？
 \\C[6]後戻りは　できない\\C[0]みたいだし
-> CONTEXT: Map009/events/7/pages/3/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/175/Dialogue
+\\NAME[\\n[12]]
+Have you allocated all your skill points?
+\\C[6]There's no turning back\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +281,10 @@ Lvはこのまま　突入するから
 なんや　よう知らんけど
 リセマラも　できんくなる
 みたいやで！？
-> CONTEXT: Map009/events/7/pages/3/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/180/Dialogue
+\\NAME[\\n[13]]
+I don't really know what it means, but
+I think you can't retry anymore!?
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +292,11 @@ Lvはこのまま　突入するから
 お手洗いとか　お腹空いたとか
 大丈夫？　\\C[6]中断もできないから
 時間の余裕も　必要\\C[0]だよ？
-> CONTEXT: Map009/events/7/pages/3/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/185/Dialogue
+\\NAME[\\n[12]]
+Need to use the bathroom or hungry?
+\\C[6]We can't interrupt this, so
+you need to have some extra time\\C[0], okay?
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +304,11 @@ Lvはこのまま　突入するから
 だから　あんたの都合によっては
 別日にしても　いいんだよ？
 それでも……今夜　突入するの？
-> CONTEXT: Map009/events/7/pages/3/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/190/Dialogue
+\\NAME[\\n[11]]
+So, depending on your schedule
+we could do it on another day, you know?
+...Still gonna do it tonight?
 > END STRING
 
 > BEGIN STRING
@@ -276,8 +316,11 @@ Lvはこのまま　突入するから
 因みに　次の選択肢で拒否ったら
 この一連の　やり取り
 もっかい☆やからな♪
-> CONTEXT: Map009/events/7/pages/3/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/195/Dialogue
+\\NAME[\\n[13]]
+By the way, if you refuse the next option,
+this whole exchange☆
+will have to be repeated♪
 > END STRING
 
 > BEGIN STRING
@@ -285,16 +328,20 @@ Lvはこのまま　突入するから
 もう一度　聞く……。
 本当に　あたしたちと
 一緒に　来てくれる？
-> CONTEXT: Map009/events/7/pages/3/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/202/Dialogue
+\\NAME[\\n[11]]
+I'll ask you again...
+Are you ready to go with us?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……分かった。
 じゃ　もう念を押さないから。
-> CONTEXT: Map009/events/7/pages/3/226/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/226/Dialogue
+\\NAME[\\n[11]]
+...Okay.
+Then I won't question it anymore.
 > END STRING
 
 > BEGIN STRING
@@ -302,8 +349,11 @@ Lvはこのまま　突入するから
 合意が得られて　嬉しいよ♪
 準備万端に　なってるなら
 この井戸に　入ってね。
-> CONTEXT: Map009/events/7/pages/3/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/231/Dialogue
+\\NAME[\\n[12]]
+I'm glad we've reached an agreement♪
+If you're all ready,
+jump into this well.
 > END STRING
 
 > BEGIN STRING
@@ -311,22 +361,28 @@ Lvはこのまま　突入するから
 最初に冒険した　ダンジョンの奥
 開かなかった扉を　その鍵で
 こじ開けていくんやで〜。
-> CONTEXT: Map009/events/7/pages/3/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/3/237/Dialogue
+\\NAME[\\n[13]]
+Deep inside the first dungeon,
+use that key to unlock the door 
+that wouldn't open before〜.
 > END STRING
 
 > BEGIN STRING
 このイドは　涸れ渇いてしまってる……。
-> CONTEXT: Map009/events/7/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/4/4/Dialogue
+This id has dried up 
+and become parched...
 > END STRING
 
 > BEGIN STRING
 証明の秘水を　垂らせば
 このイドは　復活しそうだ。
 証明の秘水を　使用しますか？
-> CONTEXT: Map009/events/7/pages/4/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map009/events/7/pages/4/17/Dialogue
+If you use Proof Water,
+then this Id will be revive.
+Use Proof Water?
 > END STRING
 
 > BEGIN STRING

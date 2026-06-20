@@ -11126,7 +11126,7 @@
 "土の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/99:3
 > CONTEXT: Commonevents/324/6/InlineScript/1:25
-"Earth spirit potion"
+"Earth spirit Potion"
 > END STRING
 
 > BEGIN STRING

@@ -1504,8 +1504,11 @@ we'll be in trouble.
 んとさ。
 もう　慣れた？
 つまり　この迷宮に……。
-> CONTEXT: Commonevents/111/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/148/Dialogue
+\\NAME[\\n[11]]
+Um, so.
+Have you gotten used to it yet?
+I mean, this maze...
 > END STRING
 
 > BEGIN STRING
@@ -1513,8 +1516,11 @@ we'll be in trouble.
 ふーん。
 あんたって　意外と有能？
 でも　油断は禁物だからねっ！
-> CONTEXT: Commonevents/111/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/159/Dialogue
+\\NAME[\\n[11]]
+Hmm.
+You're surprisingly capable.
+But don't let your guard down!
 > END STRING
 
 > BEGIN STRING
@@ -1522,8 +1528,11 @@ we'll be in trouble.
 ま……こんな迷路なんて
 あんたの世界に　ないもんね。
 でも　へこたれないで頑張って！
-> CONTEXT: Commonevents/111/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/168/Dialogue
+\\NAME[\\n[11]]
+Well... there's no maze like this
+in your world, is there?
+But don't give up, keep trying!
 > END STRING
 
 > BEGIN STRING
@@ -1558,8 +1567,11 @@ be discouraged! Keep at it!
 あのさ。妙なこと　聞いていい？
 フランクフルトに　マスタードを
 ベッタリつけるのって　変かな？
-> CONTEXT: Commonevents/111/219/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/219/Dialogue
+\\NAME[\\n[11]]
+Hey. Can I ask you something weird?
+Is it weird to put a lot of mustard 
+on a frankfurter?
 > END STRING
 
 > BEGIN STRING
@@ -1567,8 +1579,11 @@ be discouraged! Keep at it!
 うーん……やっぱ　そうなのか。
 \\n[13]が　煽ってきたけど
 間違ってなかったのね……。
-> CONTEXT: Commonevents/111/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/228/Dialogue
+\\NAME[\\n[11]]
+Hmm... I guess that's how it is.
+\\n[13] was teasing me about it,
+but she wasn't wrong after all...
 > END STRING
 
 > BEGIN STRING
@@ -1576,8 +1591,11 @@ be discouraged! Keep at it!
 変じゃないよねっ！　それに
 味の好みは　それぞれだし！
 よかったっ！
-> CONTEXT: Commonevents/111/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/239/Dialogue
+\\NAME[\\n[11]]
+It's not weird, right?! Besides,
+everyone has different preferences!
+That's good!
 > END STRING
 
 > BEGIN STRING
@@ -1612,8 +1630,11 @@ preferences! That's a relief.
 あたしが　人間界の食べ物に
 興味があるのって　気になる？
 夢魔なのに……って　思う？
-> CONTEXT: Commonevents/111/290/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/290/Dialogue
+\\NAME[\\n[11]]
+Are you curious why I'm interested 
+in human food? Do you think, 
+"But she's a succubus..."?
 > END STRING
 
 > BEGIN STRING
@@ -1621,8 +1642,11 @@ preferences! That's a relief.
 文化としては　あるんだよ。
 ずっと昔からね。でも　所詮
 夢の中の料理だけどね。
-> CONTEXT: Commonevents/111/301/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/301/Dialogue
+\\NAME[\\n[11]]
+It exists as a culture.
+It's been around for a long time. 
+But it's just dreaming about food.
 > END STRING
 
 > BEGIN STRING
@@ -1630,8 +1654,11 @@ preferences! That's a relief.
 そうね。別に不思議じゃないよ。
 でも　あんた　細かいことは
 気にしないタイプなの？
-> CONTEXT: Commonevents/111/310/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/310/Dialogue
+\\NAME[\\n[11]]
+I guess it's not that strange.
+But are you the type who doesn't 
+worry about the little things?
 > END STRING
 
 > BEGIN STRING
@@ -1666,8 +1693,11 @@ who doesn't care about details?
 \\n[12]に　何か渡しておくと
 いつも　失くすんだよね。
 あんたは　失くし物　しない方？
-> CONTEXT: Commonevents/111/361/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/361/Dialogue
+NAME[11]]
+Whenever I give something to \\n[12],
+she always loses it. Are you the type 
+who doesn't lose things?
 > END STRING
 
 > BEGIN STRING
@@ -1675,8 +1705,11 @@ who doesn't care about details?
 物の管理は　しっかりしてる
 ってことね？　見直したよ。
 そうそう　何事もしっかりとね！
-> CONTEXT: Commonevents/111/372/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/372/Dialogue
+\\NAME[\\n[11]]
+So you're good at managing your belongings?
+I've changed my opinion of you.
+That's right, be thorough in everything!
 > END STRING
 
 > BEGIN STRING
@@ -1684,8 +1717,11 @@ who doesn't care about details?
 あんたもか……。やれやれ。
 身の回りの事を　疎かにしてると
 手痛い失敗を　するんだからね？
-> CONTEXT: Commonevents/111/381/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/381/Dialogue
+\\NAME[\\n[11]]
+You too...? Good grief. 
+If you don't take care, you'll end up 
+making a mistake you'll regret, you know?
 > END STRING
 
 > BEGIN STRING
@@ -1693,8 +1729,11 @@ who doesn't care about details?
 手に入れたアイテムを　道具袋に
 収納してると　思うけど
 ちゃんと　整理整頓できてる？
-> CONTEXT: Commonevents/111/432/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/432/Dialogue
+\\NAME[\\n[11]]
+I assume you store the items you acquire 
+in your bag, but are you keeping them 
+properly organized?
 > END STRING
 
 > BEGIN STRING
@@ -1702,8 +1741,11 @@ who doesn't care about details?
 きちんと　収納できてるのね。
 戦闘中も　すぐに取り出せるよう
 管理は　しっかりとね！
-> CONTEXT: Commonevents/111/443/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/443/Dialogue
+\\NAME[\\n[11]]
+Make sure you manage it carefully 
+so you can take stuff out 
+immediately during combat!
 > END STRING
 
 > BEGIN STRING
@@ -1711,8 +1753,11 @@ who doesn't care about details?
 はぁぁぁ！？　まさか　あんた
 上から　突っ込んでるんじゃ！？
 ダメだよ　そんなことじゃ！
-> CONTEXT: Commonevents/111/452/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/452/Dialogue
+\\NAME[\\n[11]]
+Huuuh?! Surely you don't just cram
+everything in from the top?!
+That's not good!
 > END STRING
 
 > BEGIN STRING
@@ -1720,8 +1765,11 @@ who doesn't care about details?
 ……ねぇ　改まってだけど
 あたしって……小言が多い？
 小うるさいって　思ってる？
-> CONTEXT: Commonevents/111/503/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/503/Dialogue
+\\NAME[\\n[11]]
+...Hey, I know this is a bit blunt, 
+but am I...a bit of a nagging person?
+Do you think I'm annoying?
 > END STRING
 
 > BEGIN STRING
@@ -1729,8 +1777,11 @@ who doesn't care about details?
 ……そ　そっか。
 う〜ん……良くないなぁ。
 ちょっと　気を付けるよ。
-> CONTEXT: Commonevents/111/514/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/514/Dialogue
+\\NAME[\\n[11]]
+...Oh, I see.
+Hmm〜...That's not good.
+I'll be more careful.
 > END STRING
 
 > BEGIN STRING
@@ -1738,8 +1789,11 @@ who doesn't care about details?
 そ　そう？　べ　別に
 気を遣わなくても　良いんだから
 正直に　言っても　別に……。
-> CONTEXT: Commonevents/111/525/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/525/Dialogue
+\\NAME[\\n[11]]
+R-Really? Y-You don't have to 
+be so considerate, you know.
+To be honest, I understand...
 > END STRING
 
 > BEGIN STRING
@@ -1747,8 +1801,10 @@ who doesn't care about details?
 \\n[12]が　あんたのこと
 子ども扱いしてるみたいだけど
 あんたは……嫌だったりする？
-> CONTEXT: Commonevents/111/578/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/578/Dialogue
+\\NAME[\\n[11]]
+\\n[12] treats you like a child,
+but...do you dislike it?
 > END STRING
 
 > BEGIN STRING
@@ -1756,8 +1812,11 @@ who doesn't care about details?
 だよね。やっぱり　あんたも
 男としてのプライド？　とかさ
 あるもんね。……ね？
-> CONTEXT: Commonevents/111/589/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/589/Dialogue
+\\NAME[\\n[11]]
+Right? After all, you too
+have some pride as a man, 
+don't you? Is that it?
 > END STRING
 
 > BEGIN STRING
@@ -1765,8 +1824,11 @@ who doesn't care about details?
 そ？　気にならないの？
 まさか　喜んでるんじゃ
 ないでしょうねぇ？
-> CONTEXT: Commonevents/111/598/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/598/Dialogue
+\\NAME[\\n[11]]
+Really? Doesn't it bother you?
+You're not actually happy about it, 
+are you?
 > END STRING
 
 > BEGIN STRING
@@ -1774,8 +1836,11 @@ who doesn't care about details?
 はぁ………………。\\|あっ！？
 な　なんでもない！　昨日
 ちょっと――き　気にしないで！
-> CONTEXT: Commonevents/111/649/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/649/Dialogue
+\\NAME[\\n[11]]
+Haa... \\|Ah!?
+N-Nothing! Yesterday was just-
+don't worry about it, okay?!
 > END STRING
 
 > BEGIN STRING
@@ -1783,8 +1848,11 @@ who doesn't care about details?
 そ　そう……気にしない！
 うんうん　気にしない気にしない
 さっ　気を　引き締めて進むよ！
-> CONTEXT: Commonevents/111/660/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/660/Dialogue
+\\NAME[\\n[11]]
+U-um... Don't worry about it!
+Yeah, yeah, don't worry about it.
+Now, let's pull ourselves together and move forward!
 > END STRING
 
 > BEGIN STRING
@@ -1792,8 +1860,10 @@ who doesn't care about details?
 えと……夢をね　見て
 他人のだけど……それが
 ロマンチックで……もじもじ。
-> CONTEXT: Commonevents/111/671/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/671/Dialogue
+\\NAME[\\n[11]]
+Um...I had a dream, about someone else... 
+but it was romantic...*mumble mumble*.
 > END STRING
 
 > BEGIN STRING
@@ -1801,8 +1871,11 @@ who doesn't care about details?
 ねぇ……ちょっと　聞いていい？
 学園生活って　楽しいんでしょ？
 あたしでも　できるかな？
-> CONTEXT: Commonevents/111/724/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/724/Dialogue
+\\NAME[\\n[11]]
+Hey...can I ask you something?
+School life is fun, right?
+Do you think I could do it too?
 > END STRING
 
 > BEGIN STRING
@@ -1810,8 +1883,11 @@ who doesn't care about details?
 だよね！　あたしが着てる
 この服なら　学校に通ってても
 全然　違和感ないはずだよね！？
-> CONTEXT: Commonevents/111/735/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/735/Dialogue
+\\NAME[\\n[11]]
+Right?! With these clothes, there's 
+no way I would look out of place
+even if I went to school, right?!
 > END STRING
 
 > BEGIN STRING
@@ -1819,8 +1895,10 @@ who doesn't care about details?
 そう？　えと……ゾンビが
 襲ってくるんだっけ？　別に
 そんぐらい　大したことないよ？
-> CONTEXT: Commonevents/111/744/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/744/Dialogue
+\\NAME[\\n[11]]
+Really? Um...what about a zombie attack? 
+It's not a big deal, really.
 > END STRING
 
 > BEGIN STRING
@@ -1828,8 +1906,11 @@ who doesn't care about details?
 そういえば　迷宮で襲ってくる
 夢魔の魔物が　いるでしょ？
 アレ　気になった？
-> CONTEXT: Commonevents/111/795/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/795/Dialogue
+\\NAME[\\n[11]]
+By the way, there are those succubus monsters 
+that attack you in the maze, right?
+Did they pique your interest?
 > END STRING
 
 > BEGIN STRING
@@ -1837,8 +1918,11 @@ who doesn't care about details?
 あいつらは　邪気が強まって
 魔物化した　連中だからね。
 気にしないで　殺していいよ。
-> CONTEXT: Commonevents/111/804/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/804/Dialogue
+\\NAME[\\n[11]]
+They had their evil energy intensify 
+and turned into monsters.
+Don't worry about it, you can kill them.
 > END STRING
 
 > BEGIN STRING
@@ -1846,8 +1930,11 @@ who doesn't care about details?
 そう？　一応言っておくと
 魔族は　邪気が強まると
 魔物に　成れ果てるんだよ。
-> CONTEXT: Commonevents/111/813/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/813/Dialogue
+\\NAME[\\n[11]]
+Really? Just so you know, when a 
+demon's evil energy becomes too strong,
+they turn into monsters.
 > END STRING
 
 > BEGIN STRING
@@ -1855,8 +1942,11 @@ who doesn't care about details?
 別に　調べたりしてないけど
 お洒落な　デートスポットが
 人間界には結構あるって　本当？
-> CONTEXT: Commonevents/111/862/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/862/Dialogue
+\\NAME[\\n[11]]
+I haven't looked into it or anything, 
+but is it true that there are quite a few 
+pretty date spots in the human world?
 > END STRING
 
 > BEGIN STRING
@@ -1864,8 +1954,11 @@ who doesn't care about details?
 そ　そっか……。あ　あんたも
 そういうとこ　行ったり……
 行きたかったり……何でもない！
-> CONTEXT: Commonevents/111/873/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/873/Dialogue
+\\NAME[\\n[11]]
+Oh, I see... You've been to 
+places like that too...
+Would you like to... Never mind!
 > END STRING
 
 > BEGIN STRING
@@ -1873,8 +1966,11 @@ who doesn't care about details?
 ……え！？　ないの？　あ
 もしかして　知らないだけ？
 そっか………………よしっ！
-> CONTEXT: Commonevents/111/884/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/884/Dialogue
+\\NAME[\\n[11]]
+...Huh!? Nothing like that? 
+Ah, maybe I was wrong?
+I see... Okay!
 > END STRING
 
 > BEGIN STRING
@@ -1882,8 +1978,11 @@ who doesn't care about details?
 あ……あんたはさ　異種族と
 デートしたり　交際したり
 するのって……抵抗ある方？
-> CONTEXT: Commonevents/111/937/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/937/Dialogue
+\\NAME[\\n[11]]
+D-Do you...have reservations about 
+dating or being in a relationship 
+with someone of a different species?
 > END STRING
 
 > BEGIN STRING
@@ -1891,8 +1990,11 @@ who doesn't care about details?
 フンっ。あっそ！！！！
 別に　どうでもいいよね！！
 変なこと聞いて　悪かったね！！
-> CONTEXT: Commonevents/111/946/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/946/Dialogue
+\\NAME[\\n[11]]
+Hmph. Oh really!!!!
+Not like it matters!!
+Sorry for asking something weird!!
 > END STRING
 
 > BEGIN STRING
@@ -1900,8 +2002,11 @@ who doesn't care about details?
 だよねっ！　関係ないよね
 種族とか……あ　いや　別に
 あんたとって　意味じゃないし！
-> CONTEXT: Commonevents/111/957/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/957/Dialogue
+\\NAME[\\n[11]]
+Right! It's irrelevant, isn't it?
+Race and stuff... Not that I mean 
+it in relation to you!
 > END STRING
 
 > BEGIN STRING
@@ -1909,8 +2014,11 @@ who doesn't care about details?
 ねぇ　学校には　学園祭？
 って行事が　あるんでしょ？
 思い出いっぱい　作れるのかな？
-> CONTEXT: Commonevents/111/1008/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1008/Dialogue
+\\NAME[\\n[11]]
+Hey, doesn't your school have a festival?
+I wonder if we can make 
+lots of memories there?
 > END STRING
 
 > BEGIN STRING
@@ -1918,8 +2026,11 @@ who doesn't care about details?
 フランクフルトに　マスタード
 たっぷり塗って　お化け屋敷に
 演劇……後夜祭で告白したり♪
-> CONTEXT: Commonevents/111/1019/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1019/Dialogue
+\\NAME[\\n[11]]
+Slathering mustard on frankfurters, 
+going to a haunted house and a play... 
+and confessing feelings at the after-party♪
 > END STRING
 
 > BEGIN STRING
@@ -1927,8 +2038,11 @@ who doesn't care about details?
 え？　そうなの？　あ　あれか
 何日も何日も　学園祭の前日を
 繰り返しちゃうんだっけ？
-> CONTEXT: Commonevents/111/1028/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1028/Dialogue
+\\NAME[\\n[11]]
+Huh? Is that so? A-Are you reliving 
+the day before the school festival 
+over and over or what?
 > END STRING
 
 > BEGIN STRING
@@ -1936,8 +2050,11 @@ who doesn't care about details?
 よく　考えたら　あんたと
 二人きりで　こうしてるのって
 デ　デート……みたいな？
-> CONTEXT: Commonevents/111/1079/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1079/Dialogue
+\\NAME[\\n[11]]
+Now that I think about it, 
+being alone with you like this...
+is like a d-date...?
 > END STRING
 
 > BEGIN STRING
@@ -1945,8 +2062,11 @@ who doesn't care about details?
 だよねっ！　これって　デート！
 ……あ！？　違う　違う　違う！
 そ　そんな浮かれてないってっ！
-> CONTEXT: Commonevents/111/1090/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1090/Dialogue
+\\NAME[\\n[11]]
+Right?! This is a date!
+...Ah!? No, no, no!
+I'm not that excited!
 > END STRING
 
 > BEGIN STRING
@@ -1954,8 +2074,11 @@ who doesn't care about details?
 ……そ　そうだよね。あたしも
 別に　そんなつもりじゃないし。
 うん……分かってるから　うん。
-> CONTEXT: Commonevents/111/1099/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1099/Dialogue
+\\NAME[\\n[11]]
+...Y-Yeah, that's right. 
+I didn't think so either.
+Yeah...I know, yeah.
 > END STRING
 
 > BEGIN STRING
@@ -1963,8 +2086,11 @@ who doesn't care about details?
 あのさ……\\n[13]がさ
 すぐに　セ――……したがるけど
 あんたも　すぐ　したいの？
-> CONTEXT: Commonevents/111/1150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1150/Dialogue
+\\NAME[\\n[11]]
+Hey...\\n[13] always wants to have 
+sex right away, do you want to have 
+sex right away too?
 > END STRING
 
 > BEGIN STRING
@@ -1972,8 +2098,11 @@ who doesn't care about details?
 ふーん。そ　そうなんだ。
 やっぱ　オスの本能とか？
 でもなぁ……。う〜ん。
-> CONTEXT: Commonevents/111/1159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1159/Dialogue
+\\NAME[\\n[11]]
+Hmm. I see.
+Is it male instinct or something?
+But... Hmm〜.
 > END STRING
 
 > BEGIN STRING
@@ -1981,8 +2110,11 @@ who doesn't care about details?
 そうだよね！　やっぱり
 そういうのは　段階が大事だし
 お互いの気持ちが　一番大事！
-> CONTEXT: Commonevents/111/1170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1170/Dialogue
+\\NAME[\\n[11]]
+That's right! It's important to
+take things step by step
+and consider each other's feelings!
 > END STRING
 
 > BEGIN STRING
@@ -1990,8 +2122,11 @@ who doesn't care about details?
 こう……今更なんだけど
 理想の　は　初めてって……
 そういうの　考えたことある？
-> CONTEXT: Commonevents/111/1221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1221/Dialogue
+\\NAME[\\n[11]]
+Well... I know this is a bit late, 
+but I was thinking of ideal first time...
+Have you ever thought about it?
 > END STRING
 
 > BEGIN STRING
@@ -1999,8 +2134,11 @@ who doesn't care about details?
 うんうん♪　あるよねっ！
 好きって　伝え合った後に
 見つめ合って――んんっ♡
-> CONTEXT: Commonevents/111/1232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1232/Dialogue
+\\NAME[\\n[11]]
+Yeah, yeah♪ Just so! After we confess 
+our love for each other, we look into 
+each other's eyes—hmmm♡
 > END STRING
 
 > BEGIN STRING
@@ -2008,16 +2146,22 @@ who doesn't care about details?
 そう？　あんまり　興味ない？
 まぁ　今更ってのも　あるか。
 そんなもんか。はぁぁ……。
-> CONTEXT: Commonevents/111/1241/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1241/Dialogue
+\\NAME[\\n[11]]
+Really? You're not very interested?
+Well, I guess it's a bit late now.
+Really... Sigh...
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 えと……学校で　告白するのって
 て　定番みたいだね？
-> CONTEXT: Commonevents/111/1292/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1292/Dialogue
+\\NAME[\\n[11]]
+Um...it seems like confessing 
+feelings at school is a 
+common thing, right?
 > END STRING
 
 > BEGIN STRING
@@ -2025,8 +2169,11 @@ who doesn't care about details?
 屋上とか　桜の木の下とか
 体育館裏とか……色んな話
 聞いたこと　あ　あるからっ！
-> CONTEXT: Commonevents/111/1302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1302/Dialogue
+\\NAME[\\n[11]]
+I've heard all sorts of stories, 
+like on the rooftop, under the 
+cherry trees, behind the gym, etc.!
 > END STRING
 
 > BEGIN STRING
@@ -2034,8 +2181,11 @@ who doesn't care about details?
 え？　そ　そうなんだ。ふーん。
 あ……あんたに　その機会が
 無かったとか？
-> CONTEXT: Commonevents/111/1311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1311/Dialogue
+\\NAME[\\n[11]]
+Huh? Oh, really? Hmm.
+Ah...so you didn't have 
+that opportunity?
 > END STRING
 
 > BEGIN STRING
@@ -2043,8 +2193,11 @@ who doesn't care about details?
 あ　愛の告白から　キ　キスして
 そのまま　服を……ってシチュに
 憧れてても　別に　いいよね？
-> CONTEXT: Commonevents/111/1362/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1362/Dialogue
+\\NAME[\\n[11]]
+It's okay to fantasize about a declaration 
+of love leading to a kiss, and then... 
+the clothes come off, right?
 > END STRING
 
 > BEGIN STRING
@@ -2052,8 +2205,11 @@ who doesn't care about details?
 変じゃないよねっ！　いいよね！
 ……あ　べ　べ　別に　あんたと
 そうしたいとかじゃ――――！！
-> CONTEXT: Commonevents/111/1373/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1373/Dialogue
+\\NAME[\\n[11]]
+It's not weird, right?! It's fine?!
+...Ah, I, I, it's not like I want to 
+do that with you or anything――――!!
 > END STRING
 
 > BEGIN STRING
@@ -2061,8 +2217,11 @@ who doesn't care about details?
 やっぱ　ちょっと　あたし
 変なのかなぁ。うーん。
 でも　ま　それが　あたしだし。
-> CONTEXT: Commonevents/111/1382/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1382/Dialogue
+\\NAME[\\n[11]]
+Maybe I'm a little
+weird after all. Hmm.
+But, well, that's just who I am.
 > END STRING
 
 > BEGIN STRING
@@ -2070,8 +2229,11 @@ who doesn't care about details?
 えと……あのさ　喋る内容が
 無くなっちゃって　同じ話題を
 繰り返しても　別に　いいよね？
-> CONTEXT: Commonevents/111/1433/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1433/Dialogue
+\\NAME[\\n[11]]
+Um...you know, if I run out of things 
+to talk about and end up repeating 
+the same topics, that's fine, right?
 > END STRING
 
 > BEGIN STRING
@@ -2079,8 +2241,10 @@ who doesn't care about details?
 ……そ。ま　あんたとなら
 生産性のない話を　してても
 良いかなって　思ってるよ。
-> CONTEXT: Commonevents/111/1444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1444/Dialogue
+\\NAME[\\n[11]]
+...Yeah. Well, I think it's okay 
+to talk about whatever with you.
 > END STRING
 
 > BEGIN STRING
@@ -2088,8 +2252,11 @@ who doesn't care about details?
 そ……そっか。う〜ん。
 まぁ　でも　こればっかりは
 許容してもらうしかないかな〜。
-> CONTEXT: Commonevents/111/1453/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/111/1453/Dialogue
+\\NAME[\\n[11]]
+I...I see. Hmm〜. Well, nothing 
+we can do about it I guess, but
+you'll just have to accept it.
 > END STRING
 
 > BEGIN STRING
@@ -2157,8 +2324,11 @@ time. It's OK to keep it.
 君……疲れてない？
 無理はしないでね。
 大丈夫かな？
-> CONTEXT: Commonevents/112/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/75/Dialogue
+\\NAME[\\n[12]]
+Hey...are you tired?
+Don't push yourself too hard.
+Are you okay?
 > END STRING
 
 > BEGIN STRING
@@ -2166,8 +2336,11 @@ time. It's OK to keep it.
 大丈夫なのね。
 強い子　強い子♪
 その調子で　進んで行きましょ♪
-> CONTEXT: Commonevents/112/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/86/Dialogue
+\\NAME[\\n[12]]
+It's going to be alright.
+Strong boy, strong boy♪
+Keep going like that♪
 > END STRING
 
 > BEGIN STRING
@@ -2175,8 +2348,11 @@ time. It's OK to keep it.
 あらあら　大丈夫？
 疲れたら　いつでも
 私の胸に　飛び込んできてね♪
-> CONTEXT: Commonevents/112/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/97/Dialogue
+\\NAME[\\n[12]]
+Oh dear, are you not okay?
+If you're tired,
+you can always jump into my arms♪
 > END STRING
 
 > BEGIN STRING
@@ -2211,8 +2387,11 @@ Come and jump into my chest!
 どうかな？
 そろそろ　この迷宮にも
 慣れてきた頃合いかしら？
-> CONTEXT: Commonevents/112/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/150/Dialogue
+\\NAME[\\n[12]]
+Well?
+Are you getting used to 
+this maze by now?
 > END STRING
 
 > BEGIN STRING
@@ -2220,8 +2399,11 @@ Come and jump into my chest!
 あら　嬉しい♡
 とっても　居心地良いでしょう？
 抜け出せなくなっちゃうよね♪
-> CONTEXT: Commonevents/112/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/161/Dialogue
+\\NAME[\\n[12]]
+Oh, how wonderful♡
+It's so nice here, isn't it?
+You don't want to leave, do you?♪
 > END STRING
 
 > BEGIN STRING
@@ -2229,8 +2411,11 @@ Come and jump into my chest!
 それは良くないね。そしたら
 もっと歩き回って　実家のような
 安心感を　感じてね♪
-> CONTEXT: Commonevents/112/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/170/Dialogue
+\\NAME[\\n[12]]
+That's not good. 
+Then, walk around more and 
+feel the comfort of home♪
 > END STRING
 
 > BEGIN STRING
@@ -2265,8 +2450,11 @@ here, like you're at home.
 ふふふ。普段　私たち夢魔が
 どんな暮らしをしてるか
 気になったりする？
-> CONTEXT: Commonevents/112/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/221/Dialogue
+\\NAME[\\n[12]]
+Hehehe. Are you curious about 
+what kind of life we succubi 
+lead on a normal day?
 > END STRING
 
 > BEGIN STRING
@@ -2274,8 +2462,11 @@ here, like you're at home.
 そんなに　変わらないよ。
 君たちの世界と……。
 現実じゃないってだけで。
-> CONTEXT: Commonevents/112/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/232/Dialogue
+\\NAME[\\n[12]]
+It's not that different.
+Compared to your world...
+It's just that it's not reality.
 > END STRING
 
 > BEGIN STRING
@@ -2283,8 +2474,11 @@ here, like you're at home.
 あら？　気にならない？
 君って　落ち着いてるのね。
 なんだか　頼り甲斐があるかも？
-> CONTEXT: Commonevents/112/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/243/Dialogue
+\\NAME[\\n[12]]
+Oh? Doesn't it bother you?
+You're so calm.
+Does that you're quite dependable?
 > END STRING
 
 > BEGIN STRING
@@ -2318,8 +2512,10 @@ Maybe I'm kind of dependable?
 \\NAME[\\n[12]]
 夢魔の歴史は　とても古いの。
 君って　歴史に興味はある？
-> CONTEXT: Commonevents/112/296/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/296/Dialogue
+\\NAME[\\n[12]]
+The history of succubi is very old.
+Are you interested in history?
 > END STRING
 
 > BEGIN STRING
@@ -2327,8 +2523,11 @@ Maybe I'm kind of dependable?
 まぁ　そうなの？
 歴史は　イイものだよね！
 色々　教えてあげたいな♪
-> CONTEXT: Commonevents/112/306/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/306/Dialogue
+\\NAME[\\n[12]]
+Oh, really? History is great!
+I'd love to teach you 
+all sorts of things♪
 > END STRING
 
 > BEGIN STRING
@@ -2336,8 +2535,11 @@ Maybe I'm kind of dependable?
 あら　そう？　もしかして
 過去は振り返らない的な？
 君は　生きる伝説なのかな？
-> CONTEXT: Commonevents/112/315/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/315/Dialogue
+\\NAME[\\n[12]]
+Oh, really? Perhaps you're the type 
+who doesn't look back on the past?
+Are you a living legend?
 > END STRING
 
 > BEGIN STRING
@@ -2372,8 +2574,11 @@ Are you a living legend?
 君が　お利口さんになれるように
 歴史のお勉強を　しましょう！
 準備は　いいかな？
-> CONTEXT: Commonevents/112/366/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/366/Dialogue
+\\NAME[\\n[12]]
+Let's study history so that 
+you can become a good boy!
+Are you ready?
 > END STRING
 
 > BEGIN STRING
@@ -2381,8 +2586,11 @@ Are you a living legend?
 じゃ　さっそく――
 あら？　何から教えたら
 いいのかしら？
-> CONTEXT: Commonevents/112/375/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/375/Dialogue
+\\NAME[\\n[12]]
+Well then, let's get started—
+Oh? Where should I begin 
+teaching you?
 > END STRING
 
 > BEGIN STRING
@@ -2390,8 +2598,11 @@ Are you a living legend?
 え？　今はそんなことしてる
 場合じゃない？　……まぁ！
 君　賢いんだね。
-> CONTEXT: Commonevents/112/384/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/384/Dialogue
+\\NAME[\\n[12]]
+Huh? This isn't the time for that?
+...Well!
+How clever of you.
 > END STRING
 
 > BEGIN STRING
@@ -2399,8 +2610,10 @@ Are you a living legend?
 迷宮を　冒険するのって
 なんだか　楽しいよね？
 遠足みたいで♪
-> CONTEXT: Commonevents/112/433/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/433/Dialogue
+\\NAME[\\n[12]]
+Exploring a maze is kind of fun, 
+isn't it? Like a school trip♪
 > END STRING
 
 > BEGIN STRING
@@ -2408,8 +2621,11 @@ Are you a living legend?
 ふふふっ♪　遠足気分で
 らんらんらん♪　おやつは
 3Ｍまでですよ〜。
-> CONTEXT: Commonevents/112/444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/444/Dialogue
+\\NAME[\\n[12]]
+Hehehe♪ Feeling like we're 
+on a field trip, la la la♪ 
+Snacks only for 3M〜.
 > END STRING
 
 > BEGIN STRING
@@ -2417,8 +2633,11 @@ Are you a living legend?
 あら？　あんまり楽しめてない？
 じゃあ　一緒に　歌いましょ♪
 ラララ〜ララ〜♪
-> CONTEXT: Commonevents/112/453/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/453/Dialogue
+\\NAME[\\n[12]]
+Oh? You're not having much fun?
+Then let's sing together♪
+Lalala〜lala〜♪
 > END STRING
 
 > BEGIN STRING
@@ -2426,8 +2645,11 @@ Are you a living legend?
 この耳のイヤリング☆
 お気に入りなの♪
 君も　つけてみる？
-> CONTEXT: Commonevents/112/504/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/504/Dialogue
+\\NAME[\\n[12]]
+These earrings☆
+They're my favorite♪
+Want to try them on too?
 > END STRING
 
 > BEGIN STRING
@@ -2435,8 +2657,11 @@ Are you a living legend?
 君を　可愛く　着飾っちゃうね。
 ――って　あら？　取れない？
 外し方　忘れちゃったみたい。
-> CONTEXT: Commonevents/112/515/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/515/Dialogue
+\\NAME[\\n[12]]
+I'm going to dress you up so cutely.
+--Oh? They won't come off?
+I've forgotten how to take them off.
 > END STRING
 
 > BEGIN STRING
@@ -2444,16 +2669,20 @@ Are you a living legend?
 あらそう……残念。
 でも　君には　もっと
 男っぽい装飾品が　お勧めかな？
-> CONTEXT: Commonevents/112/524/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/524/Dialogue
+\\NAME[\\n[12]]
+Oh... That's a shame.
+Maybe more masculine 
+accessories would suit you better.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 君は　観光地巡りとか
 興味あるかな？
-> CONTEXT: Commonevents/112/575/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/575/Dialogue
+\\NAME[\\n[12]]
+Are you interested in sightseeing?
 > END STRING
 
 > BEGIN STRING
@@ -2461,8 +2690,11 @@ Are you a living legend?
 まぁ！　本当？　じゃあ　いつか
 一緒に　古城巡りとかしたいね。
 博物館も　行ってみたいな♪
-> CONTEXT: Commonevents/112/585/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/585/Dialogue
+\\NAME[\\n[12]]
+Wow! Really? Then someday
+I'd love to go on a castle tour with you.
+I'd also like to visit a museum♪
 > END STRING
 
 > BEGIN STRING
@@ -2470,8 +2702,11 @@ Are you a living legend?
 ……え　本当に？
 私は　人間界の名所とか
 行ってみたいんだけど……そう？
-> CONTEXT: Commonevents/112/594/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/594/Dialogue
+\\NAME[\\n[12]]
+...Huh? Really?
+Wouldn't it be nice for me to visit 
+some famous places in the human world...?
 > END STRING
 
 > BEGIN STRING
@@ -2479,8 +2714,10 @@ Are you a living legend?
 ねぇ　君は魔物さんたちを
 殺しちゃうことに　心が
 痛んだりするのかな？
-> CONTEXT: Commonevents/112/645/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/645/Dialogue
+\\NAME[\\n[12]]
+Hey, do you feel any pain in your 
+heart when you kill monsters?
 > END STRING
 
 > BEGIN STRING
@@ -2488,8 +2725,11 @@ Are you a living legend?
 君は優しい心の持ち主なんだね♪
 でも　大丈夫。魔物さんたちには
 心が無いから　殺し放題だよ☆
-> CONTEXT: Commonevents/112/656/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/656/Dialogue
+\\NAME[\\n[12]]
+You have such a kind heart♪
+But it's okay. Monsters don't have hearts, 
+so you can kill them as much as you want☆
 > END STRING
 
 > BEGIN STRING
@@ -2497,8 +2737,11 @@ Are you a living legend?
 勇ましいんだね！　魔物さんには
 心が無いから　たくさんたくさん
 勇者の伝説を　作っちゃってね！
-> CONTEXT: Commonevents/112/667/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/667/Dialogue
+\\NAME[\\n[12]]
+So brave! Monsters don't have hearts, 
+so go ahead and create lots and lots 
+of heroic legends!
 > END STRING
 
 > BEGIN STRING
@@ -2506,8 +2749,11 @@ Are you a living legend?
 白身魚のマリネ　海老の生春巻き
 今夜のおかずは　何が良いかな♪
 君も　おかずを　考えちゃう？
-> CONTEXT: Commonevents/112/720/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/720/Dialogue
+\\NAME[\\n[12]]
+Marinated white fish, shrimp spring rolls
+What should we have for dinner tonight?♪
+Are you thinking dinner too?
 > END STRING
 
 > BEGIN STRING
@@ -2515,8 +2761,10 @@ Are you a living legend?
 お料理の献立　考えるの
 楽しいよね。……って　私の体を
 ジロジロ見て　どうしたのかな？
-> CONTEXT: Commonevents/112/731/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/731/Dialogue
+\\NAME[\\n[12]]
+Thinking about the menu for meals is fun! 
+...But why are you staring at my body?
 > END STRING
 
 > BEGIN STRING
@@ -2524,8 +2772,10 @@ Are you a living legend?
 じゃあ　君の今晩のおかずは
 私が　用意しちゃうね♪
 残らず食べないと　ダメだよぉ？
-> CONTEXT: Commonevents/112/742/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/742/Dialogue
+\\NAME[\\n[12]]
+Then, I'll prepare your dinner tonight♪
+You have to eat it all, okay?
 > END STRING
 
 > BEGIN STRING
@@ -2533,8 +2783,11 @@ Are you a living legend?
 お勉強で　悩んでることはない？
 私が　家庭教師になって
 何でも　教えてあげちゃうよ？
-> CONTEXT: Commonevents/112/795/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/795/Dialogue
+\\NAME[\\n[12]]
+Having any trouble with your studies?
+I'll be your tutor, 
+I'll teach you anything!
 > END STRING
 
 > BEGIN STRING
@@ -2542,8 +2795,11 @@ Are you a living legend?
 任せて！　じゃあ　まずは……
 えっと　君の使ってる文字を
 私に　教えてもらえるかしら？
-> CONTEXT: Commonevents/112/806/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/806/Dialogue
+\\NAME[\\n[12]]
+Leave it to me! So, first...
+Um, could you tell me 
+the characters you're using?
 > END STRING
 
 > BEGIN STRING
@@ -2551,8 +2807,11 @@ Are you a living legend?
 まぁ！　君ってば
 博識だったんだね！　これからは
 大賢者様って　呼ばなきゃね？
-> CONTEXT: Commonevents/112/815/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/815/Dialogue
+\\NAME[\\n[12]]
+Wow! You're so knowledgeable! 
+From now on, I'll have to call you 
+Great Sage!
 > END STRING
 
 > BEGIN STRING
@@ -2560,8 +2819,11 @@ Are you a living legend?
 実はね　私たちは　魔族なの♪
 魔族と　魔物の違いを
 君は　知ってるかなぁ？
-> CONTEXT: Commonevents/112/866/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/866/Dialogue
+\\NAME[\\n[12]]
+Actually, we're demons♪
+Do you know the difference 
+between demons and monsters?
 > END STRING
 
 > BEGIN STRING
@@ -2569,8 +2831,11 @@ Are you a living legend?
 まぁ！　知ってたのね！
 恐れ入っちゃった！　君ってば
 本当に　何でも知ってるんだね♪
-> CONTEXT: Commonevents/112/875/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/875/Dialogue
+\\NAME[\\n[12]]
+Wow! You knew!
+I'm impressed!
+You really do know everything♪
 > END STRING
 
 > BEGIN STRING
@@ -2578,8 +2843,11 @@ Are you a living legend?
 微妙に違いがあって　魔物さんは
 理性？　が無くて　下等な存在？
 ……って　感じだったかしら？
-> CONTEXT: Commonevents/112/884/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/884/Dialogue
+\\NAME[\\n[12]]
+There's a subtle difference. Do monsters
+lack reason? Are they inferior beings?
+...Is it something like that?
 > END STRING
 
 > BEGIN STRING
@@ -2587,8 +2855,11 @@ Are you a living legend?
 実は私って　音楽が好きなの♪
 オーケストラのコンサートや
 オペラに　君も興味ある？
-> CONTEXT: Commonevents/112/933/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/933/Dialogue
+\\NAME[\\n[12]]
+Actually, I love music♪
+Are you interested in orchestral 
+concerts and opera too?
 > END STRING
 
 > BEGIN STRING
@@ -2596,8 +2867,11 @@ Are you a living legend?
 一緒に　行きたいね！　あ　でも
 会場では静かにしないと　メっ！
 だからね？　大丈夫かな？
-> CONTEXT: Commonevents/112/944/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/944/Dialogue
+\\NAME[\\n[12]]
+I'd love to go with you! Oh, but
+We have to be quiet at the venue!
+So, will it be okay?
 > END STRING
 
 > BEGIN STRING
@@ -2605,8 +2879,11 @@ Are you a living legend?
 あらそう？　もしかして
 今の若い子の間では
 流行ってないってことなのかな？
-> CONTEXT: Commonevents/112/953/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/953/Dialogue
+\\NAME[\\n[12]]
+Oh really? Perhaps
+it's not popular among 
+young people these days?
 > END STRING
 
 > BEGIN STRING
@@ -2614,8 +2891,11 @@ Are you a living legend?
 あ！　\\|――つい
 お手々　握っちゃった☆
 君　ちゃんと　ついてきてる？
-> CONTEXT: Commonevents/112/1004/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1004/Dialogue
+\\NAME[\\n[12]]
+Ah! \\|――I accidentally
+held your hand☆
+Are you keeping up with me?
 > END STRING
 
 > BEGIN STRING
@@ -2623,8 +2903,11 @@ Are you a living legend?
 だよね☆　すっかり迷宮にも
 慣れてきて　立派に凛々しく
 育っちゃってるもんね〜。
-> CONTEXT: Commonevents/112/1015/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1015/Dialogue
+\\NAME[\\n[12]]
+Right?☆ You've gotten completely 
+used to the maze and grown up 
+to be a fine, dignified young man.
 > END STRING
 
 > BEGIN STRING
@@ -2632,8 +2915,11 @@ Are you a living legend?
 あらあら　やっぱり私が居ないと
 ダメダメちゃんなのかなぁ〜？
 ホラ　手ぇ繋いで　歩きましょ♪
-> CONTEXT: Commonevents/112/1026/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1026/Dialogue
+\\NAME[\\n[12]]
+Oh dear, I guess you really can't do 
+without me, can you〜?
+Come on, let's hold hands and walk♪
 > END STRING
 
 > BEGIN STRING
@@ -2641,8 +2927,11 @@ Are you a living legend?
 一度　言ってみたかったの
 言うね？　今夜は何が食べたい？
 つまり……私を　食べたい？
-> CONTEXT: Commonevents/112/1079/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1079/Dialogue
+\\NAME[\\n[12]]
+I've always wanted to say this, okay? 
+What do you want to eat tonight?
+In other words...do you want me?
 > END STRING
 
 > BEGIN STRING
@@ -2650,8 +2939,11 @@ Are you a living legend?
 まぁ　嬉しい！　じゃあ
 私の尻尾のとこ　斬り落として
 サラダにしてあげるね♪
-> CONTEXT: Commonevents/112/1090/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1090/Dialogue
+\\NAME[\\n[12]]
+Oh, I'm so happy! Well then,
+I'll cut off my tail
+and make a salad out of it♪
 > END STRING
 
 > BEGIN STRING
@@ -2659,16 +2951,21 @@ Are you a living legend?
 まぁ！　お口に合わない？
 う〜ん……君の好みを　もっと
 研究しなきゃだね。
-> CONTEXT: Commonevents/112/1099/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1099/Dialogue
+\\NAME[\\n[12]]
+Oh! It doesn't suit your taste?
+Hmm... I need to study 
+your preferences more.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 ねぇ　疲れてない？
 私の　おっぱい☆　飲むぅ？
-> CONTEXT: Commonevents/112/1150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1150/Dialogue
+\\NAME[\\n[12]]
+Hey, aren't you tired?
+Want some milk from my breast☆?
 > END STRING
 
 > BEGIN STRING
@@ -2676,8 +2973,11 @@ Are you a living legend?
 ふふっ♪　まろやかジューシー
 サキュバスミルクを　いっぱい
 頬張ってね♡　むぎゅ〜〜〜♪
-> CONTEXT: Commonevents/112/1160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1160/Dialogue
+\\NAME[\\n[12]]
+Hehe♪ Take a big taste of 
+smooth and juicy succubus milk♡ 
+Squeeze〜〜〜♪
 > END STRING
 
 > BEGIN STRING
@@ -2685,8 +2985,11 @@ Are you a living legend?
 あら？　いらない？　それとも
 恥ずかしがってるのかなぁ？
 遠慮なんか　しないでいいよ♪
-> CONTEXT: Commonevents/112/1169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1169/Dialogue
+\\NAME[\\n[12]]
+Oh? You don't want it? 
+Or are you feeling shy?
+There's no need to be shy♪
 > END STRING
 
 > BEGIN STRING
@@ -2694,8 +2997,10 @@ Are you a living legend?
 君が　よく眠れるように
 私が　子守唄を
 歌ってあげようかな？
-> CONTEXT: Commonevents/112/1220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1220/Dialogue
+\\NAME[\\n[12]]
+Shall I sing you a lullaby
+so that you can sleep well?
 > END STRING
 
 > BEGIN STRING
@@ -2703,8 +3008,10 @@ Are you a living legend?
 ＯＫ♪　でも　今は冒険中だから
 ぴゅっぴゅ☆した後で
 寝かしつけてあげるからね♪
-> CONTEXT: Commonevents/112/1231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1231/Dialogue
+\\NAME[\\n[12]]
+OK♪ But we're in the middle of an adventure, 
+so I'll put you to sleep after pewpew☆♪
 > END STRING
 
 > BEGIN STRING
@@ -2712,8 +3019,11 @@ Are you a living legend?
 あらあら　大丈夫？
 寝付きは　良い方なのかな？
 エライねぇ　エライエライ♪
-> CONTEXT: Commonevents/112/1240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1240/Dialogue
+\\NAME[\\n[12]]
+Oh dear, are you alright?
+Do you fall asleep easily?
+How wonderful, good job♪
 > END STRING
 
 > BEGIN STRING
@@ -2721,8 +3031,11 @@ Are you a living legend?
 君の後ろを　歩いてたら
 お尻の催淫針　刺したくなって
 きちゃった……いいよね？
-> CONTEXT: Commonevents/112/1291/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1291/Dialogue
+\\NAME[\\n[12]]
+Walking behind you, I started to feel like 
+sticking my aphrodisiac tail needle 
+in your ass...is that okay?
 > END STRING
 
 > BEGIN STRING
@@ -2730,8 +3043,11 @@ Are you a living legend?
 まぁ！　それじゃあ　いつでも
 発情できちゃうね♪　任せて？
 君を私の　虜にしちゃうから♪
-> CONTEXT: Commonevents/112/1302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1302/Dialogue
+\\NAME[\\n[12]]
+Well! So you can get in heat anytime, right?
+Leave it to me♪
+I'll make you my captive!
 > END STRING
 
 > BEGIN STRING
@@ -2739,8 +3055,11 @@ Are you a living legend?
 さすがに　今はマズいんだよね。
 うん……私だって　それくらいは
 空気　読めるよ……。
-> CONTEXT: Commonevents/112/1311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1311/Dialogue
+\\NAME[\\n[12]]
+This is definitely not a good time.
+Yeah... Even I can read the room 
+that much...
 > END STRING
 
 > BEGIN STRING
@@ -2748,8 +3067,11 @@ Are you a living legend?
 君を　私のゆりかごの中に
 閉じ込めて　誰にも渡さない
 ……君も　それを望んでるかな？
-> CONTEXT: Commonevents/112/1362/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1362/Dialogue
+\\NAME[\\n[12]]
+I'll lock you in my cradle
+and never let anyone have you
+...Is that what you want too?
 > END STRING
 
 > BEGIN STRING
@@ -2757,8 +3079,11 @@ Are you a living legend?
 良かった☆　じゃあ気兼ねなく
 君を　独り占めしていいんだね。
 ふふふ……フフフ……フフフ♪
-> CONTEXT: Commonevents/112/1373/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1373/Dialogue
+\\NAME[\\n[12]]
+That's great! So, I can have you all 
+to myself without any reservations, right?
+Hehehe...hehehe...hehehe♪
 > END STRING
 
 > BEGIN STRING
@@ -2766,8 +3091,11 @@ Are you a living legend?
 ……逃げちゃうの？　そう
 君は　行ってしまうんだね。
 それもまた　人生かな……。
-> CONTEXT: Commonevents/112/1382/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1382/Dialogue
+\\NAME[\\n[12]]
+...Are you running away? I see.
+You're leaving, aren't you?
+That's life, I suppose...
 > END STRING
 
 > BEGIN STRING
@@ -2775,8 +3103,11 @@ Are you a living legend?
 あら　いけない！　私ったら
 会話のネタに　詰まっちゃった☆
 リサイクルしても　いいよね？
-> CONTEXT: Commonevents/112/1433/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1433/Dialogue
+\\NAME[\\n[12]]
+Oh dear! I've run out of things 
+to talk about☆
+Is it okay to recycle old topics?
 > END STRING
 
 > BEGIN STRING
@@ -2784,8 +3115,11 @@ Are you a living legend?
 そうね♪　君となら　どんなに
 話題を　使い古しても
 楽しいもんね！　るんるん♪
-> CONTEXT: Commonevents/112/1444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1444/Dialogue
+\\NAME[\\n[12]]
+That's right♪ With you, no matter how
+used up the topics are,
+it's still fun! Yay♪
 > END STRING
 
 > BEGIN STRING
@@ -2793,8 +3127,11 @@ Are you a living legend?
 あらそう？　でも　ダメだよ？
 何度も　同じ話をすることで
 分かることも　あるんだからね！
-> CONTEXT: Commonevents/112/1453/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/1453/Dialogue
+\\NAME[\\n[12]]
+Oh really? But that's not good...
+Sometimes you can only understand things 
+when it's told over and over again!
 > END STRING
 
 > BEGIN STRING
@@ -2802,8 +3139,10 @@ Are you a living legend?
 どやどや？　あんちゃ〜ん♪
 なんか　ええもん
 見つけたんやないかぁ？
-> CONTEXT: Commonevents/113/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/10/Dialogue
+\\NAME[\\n[13]]
+How's it going? Cutie〜♪
+Find something good?
 > END STRING
 
 > BEGIN STRING
@@ -2811,8 +3150,11 @@ Are you a living legend?
 ほーん。じゃ　ソレ使って
 あんちゃんのアソコ☆
 ウチが　イジメてあげんよぉ♪
-> CONTEXT: Commonevents/113/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/19/Dialogue
+\\NAME[\\n[13]]
+Hmm. Well, then let's use that
+to tease you down there☆
+I'll give it a go♪
 > END STRING
 
 > BEGIN STRING
@@ -2820,8 +3162,11 @@ Are you a living legend?
 お？　そうなん？
 なら　ウチに　くれやぁ♪
 大人の玩具に　改造しちゃる♪
-> CONTEXT: Commonevents/113/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/28/Dialogue
+\\NAME[\\n[13]]
+Oh? Is that so?
+Then give it to me♪
+I'll modify it into an adult toy♪
 > END STRING
 
 > BEGIN STRING
@@ -2856,8 +3201,11 @@ you into an adult toy.
 ヒヒヒ♪
 そろそろ　ダンジョン攻略も
 疲れてきたやろぉ？
-> CONTEXT: Commonevents/113/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/77/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪
+You're probably getting tired of 
+conquering mazes by now, right?
 > END STRING
 
 > BEGIN STRING
@@ -2865,8 +3213,11 @@ you into an adult toy.
 うっひゃ☆　もう音を上げるん？
 あんちゃん　雑魚やなぁ♪
 雑魚ちんちん☆なんやなぁ♪
-> CONTEXT: Commonevents/113/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/88/Dialogue
+\\NAME[\\n[13]]
+Whoa☆ Giving up already?
+You're such a loser, cutie♪
+Loser dick☆♪
 > END STRING
 
 > BEGIN STRING
@@ -2874,8 +3225,11 @@ you into an adult toy.
 へぇ〜。ホンマかぁ？
 無理してんちゃう？　なら
 ウチが　もっと責めたげるよぉ♪
-> CONTEXT: Commonevents/113/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/97/Dialogue
+\\NAME[\\n[13]]
+Oh really? Is that true?
+Aren't you trying too hard?
+Then I'll scold you even more♪
 > END STRING
 
 > BEGIN STRING
@@ -2910,8 +3264,11 @@ I'll make it harder for you.
 どやどやどやぁ〜？
 あんちゃん　この迷宮にゃ
 もう　慣れてきたんやろ？
-> CONTEXT: Commonevents/113/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/148/Dialogue
+\\NAME[\\n[13]]
+What's uuupp〜?
+You've gotten used to this maze, 
+haven't you, cutie?
 > END STRING
 
 > BEGIN STRING
@@ -2919,8 +3276,11 @@ I'll make it harder for you.
 ヒヒヒ♪　慣れてきた頃にこそ
 手痛い失敗を　しでかすもんや！
 ワクワク♪　ワクワク♪
-> CONTEXT: Commonevents/113/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/159/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ Just when you get the hang of it,
+you're bound to make a painful mistake!
+Hehe♪ Exciting♪
 > END STRING
 
 > BEGIN STRING
@@ -2928,8 +3288,11 @@ I'll make it harder for you.
 お？　まだ　死に足りないんか？
 なら　もっともっと　ウチの前で
 無様に　全滅せ〜や〜♪
-> CONTEXT: Commonevents/113/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/170/Dialogue
+\\NAME[\\n[13]]
+Oh? Still haven't had enough of dying?
+Then die even more right in front of me
+and be annihilated miserably〜♪
 > END STRING
 
 > BEGIN STRING
@@ -2964,8 +3327,11 @@ a lot more in front of me.
 なぁ　あんちゃん？
 エクレア　好きか？
 好きやろ？　あれ美味いよな！？
-> CONTEXT: Commonevents/113/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/223/Dialogue
+\\NAME[\\n[13]]
+Hey, cutie? Do you like eclairs?
+You do, right? 
+They're delicious, aren't they?
 > END STRING
 
 > BEGIN STRING
@@ -2973,8 +3339,11 @@ a lot more in front of me.
 やっぱな！　ウチは　デカいの
 好きやで！　あんちゃんの股間の
 エクレアも　頬張ったるで！
-> CONTEXT: Commonevents/113/234/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/234/Dialogue
+\\NAME[\\n[13]]
+I knew it! I like big ones! 
+I'll gobble up the eclair 
+between your legs too!
 > END STRING
 
 > BEGIN STRING
@@ -2982,8 +3351,11 @@ a lot more in front of me.
 えー！　まさか　あんちゃんも
 \\n[11]と　同じで辛党なん？
 ガッカリや〜〜〜。
-> CONTEXT: Commonevents/113/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/243/Dialogue
+\\NAME[\\n[13]]
+What?! You mean you too 
+like spicy food?
+I'm so disappointed.
 > END STRING
 
 > BEGIN STRING
@@ -3018,8 +3390,11 @@ Disappointed...
 人間界にゃ　美味い食いもん
 いっぱい　あるよな〜？
 あんちゃんも　よう食うん？
-> CONTEXT: Commonevents/113/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/294/Dialogue
+\\NAME[\\n[13]]
+There are lots of delicious foods 
+in the human world, aren't there?
+Do you eat a lot too, cutie?
 > END STRING
 
 > BEGIN STRING
@@ -3027,8 +3402,11 @@ Disappointed...
 バクバク　食っとるんか？
 手当たり次第に　女を！？
 へぇ〜　ほーん　へぇ〜♪
-> CONTEXT: Commonevents/113/303/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/303/Dialogue
+\\NAME[\\n[13]]
+Are you gobbling it down?
+Sleeping with all the women?!
+Oh, really? Oh, really? ♪
 > END STRING
 
 > BEGIN STRING
@@ -3036,8 +3414,11 @@ Disappointed...
 お？　少食なん？　なら
 ウチの　このカラダで
 女体盛り☆してみるかぁ〜？
-> CONTEXT: Commonevents/113/314/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/314/Dialogue
+\\NAME[\\n[13]]
+Oh? You don't eat much? Well then,
+How about you try a body sushi 
+platter using my body〜?
 > END STRING
 
 > BEGIN STRING
@@ -3071,8 +3452,11 @@ a Nyotai-moli!
 あんちゃん？　まさかやけど
 『こないＲＰＧ　たるいわ
 はよスケベさせて』思うとる？
-> CONTEXT: Commonevents/113/364/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/364/Dialogue
+\\NAME[\\n[13]]
+Hey cutie? Tell me if I'm wrong, 
+but are you thinking, "This RPG is boring, 
+let me have some fun already"?
 > END STRING
 
 > BEGIN STRING
@@ -3080,8 +3464,11 @@ a Nyotai-moli!
 せっかち☆やなぁ〜！
 言うても　ウチかて
 はよ　セクロス☆したいで？
-> CONTEXT: Commonevents/113/373/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/373/Dialogue
+\\NAME[\\n[13]]
+You're so impatient!
+But even I want to 
+have sex soon, you know?
 > END STRING
 
 > BEGIN STRING
@@ -3089,8 +3476,11 @@ a Nyotai-moli!
 お？　わかっとるやん♪
 苦労した分だけ　いざ本番で
 気持ちよう　イケるもんやで！
-> CONTEXT: Commonevents/113/384/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/384/Dialogue
+\\NAME[\\n[13]]
+Oh? You get it♪ The more effort 
+you put in, the better you'll feel 
+when it's time for the real thing!
 > END STRING
 
 > BEGIN STRING
@@ -3098,8 +3488,11 @@ a Nyotai-moli!
 ……あんちゃん　なかなか
 エエ尻☆しとんなぁ♪
 後ろから　触ってもええか？
-> CONTEXT: Commonevents/113/435/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/435/Dialogue
+\\NAME[\\n[13]]
+...Hey cutie, you've got a 
+pretty nice ass♪
+Can I touch it from behind?
 > END STRING
 
 > BEGIN STRING
@@ -3107,8 +3500,10 @@ a Nyotai-moli!
 うっひゃ☆　したら
 あんちゃんが　ピンチん時に
 ベタベタ　触ってやんよ♪
-> CONTEXT: Commonevents/113/446/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/446/Dialogue
+\\NAME[\\n[13]]
+Oooh☆ If you're in trouble, 
+I'll give you lots of touching♪
 > END STRING
 
 > BEGIN STRING
@@ -3116,8 +3511,11 @@ a Nyotai-moli!
 え！？　あかんて？
 まさか　あんちゃん　痔持ちか？
 かわいそうやなぁ〜。
-> CONTEXT: Commonevents/113/455/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/455/Dialogue
+\\NAME[\\n[13]]
+What!? That's not good?
+Could it be that you have hemorrhoids?
+Poor guy.
 > END STRING
 
 > BEGIN STRING
@@ -3125,8 +3523,11 @@ a Nyotai-moli!
 今更やけど……ぶっちゃけ
 あんちゃんて　攻められるの
 好きか？　マゾやろ？
-> CONTEXT: Commonevents/113/506/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/506/Dialogue
+\\NAME[\\n[13]]
+I know it's a bit late to ask, but...
+Be honest, do you like being dominated?
+You're a masochist, aren't you?
 > END STRING
 
 > BEGIN STRING
@@ -3134,8 +3535,11 @@ a Nyotai-moli!
 ヒヒヒ♪　せやろ　せやろ？
 ウチに　バッキバキに
 イジメられたいんやもんなぁ♪
-> CONTEXT: Commonevents/113/517/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/517/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ Right? Right?
+You want me to bully you 
+to the bone, don't you?♪
 > END STRING
 
 > BEGIN STRING
@@ -3143,8 +3547,11 @@ a Nyotai-moli!
 へぇ〜。そうやったんか？
 まぁ　それ聞いたとて　ウチは
 手加減なんか　せえへんけどな！
-> CONTEXT: Commonevents/113/526/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/526/Dialogue
+\\NAME[\\n[13]]
+Oh really? Is that so?
+Well, even so, I'm not 
+going to go easy on you!
 > END STRING
 
 > BEGIN STRING
@@ -3152,8 +3559,11 @@ a Nyotai-moli!
 あんちゃんて　ガチャ☆好きか？
 出るか　出ないんか　わからん
 スリルに　酔うタイプか？
-> CONTEXT: Commonevents/113/577/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/577/Dialogue
+\\NAME[\\n[13]]
+Hey cutie, do you like gacha☆?
+Do you enjoy the thrill of not knowing 
+whether you'll get something or not?
 > END STRING
 
 > BEGIN STRING
@@ -3161,8 +3571,11 @@ a Nyotai-moli!
 ほならね　ウチが　10連ガチャ
 ならぬ　10連シコ☆で
 UR精子　出したるわ♪
-> CONTEXT: Commonevents/113/586/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/586/Dialogue
+\\NAME[\\n[13]]
+Well then, I'll give a 10-pull 
+for your dick instead of a 
+10-pull gacha and get UR sperm♪
 > END STRING
 
 > BEGIN STRING
@@ -3170,8 +3583,11 @@ UR精子　出したるわ♪
 お？　射幸心は煽られんと？
 それとも酔うなら　ウチみたいに
 色欲に　酔いしれたいんか？
-> CONTEXT: Commonevents/113/597/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/597/Dialogue
+\\NAME[\\n[13]]
+Oh? You don't feel any excitement?
+Or if you're going to get drunk, 
+you get drunk on lust for me?
 > END STRING
 
 > BEGIN STRING
@@ -3179,8 +3595,11 @@ UR精子　出したるわ♪
 どうでもええけど　あんちゃんて
 お化けとか　幽霊とか
 オカルト　信じる方か？
-> CONTEXT: Commonevents/113/648/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/648/Dialogue
+\\NAME[\\n[13]]
+It doesn't really matter, 
+but do you believe in ghosts, 
+spirits, or the occult?
 > END STRING
 
 > BEGIN STRING
@@ -3188,8 +3607,11 @@ UR精子　出したるわ♪
 ま　せやろな！
 夢魔と　セクロス☆してる時点で
 信じるも信じないも　あらへん♪
-> CONTEXT: Commonevents/113/657/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/657/Dialogue
+\\NAME[\\n[13]]
+I guessed it! The moment you're having 
+sex with a succubus, 
+there's no question about it♪
 > END STRING
 
 > BEGIN STRING
@@ -3197,8 +3619,11 @@ UR精子　出したるわ♪
 ちゅうことは　まさか怖いんか？
 ヒヒヒ♪　ビビらせたるで？
 恐がるあんちゃん　見モノやな。
-> CONTEXT: Commonevents/113/668/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/668/Dialogue
+\\NAME[\\n[13]]
+So, you're scared, huh?
+Hehehe♪ Then I'll scare you!
+It'll be quite a sight.
 > END STRING
 
 > BEGIN STRING
@@ -3206,8 +3631,11 @@ UR精子　出したるわ♪
 なぁ　あんちゃん……？
 オナニー好きか？　つまり
 一人えっち☆　好きかー！？
-> CONTEXT: Commonevents/113/719/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/719/Dialogue
+\\NAME[\\n[13]]
+Hey, cutie...?
+Do you like masturbating? That is,
+do you like solo sex?!
 > END STRING
 
 > BEGIN STRING
@@ -3215,8 +3643,11 @@ UR精子　出したるわ♪
 うっひゃ☆　やっぱなぁ☆
 ほなら　シコってるとこ　ウチが
 ジーッと　見ててやろか？
-> CONTEXT: Commonevents/113/730/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/730/Dialogue
+\\NAME[\\n[13]]
+Aha☆ I thought so☆
+Well then, how about I watch you 
+intently while you're jerking off?
 > END STRING
 
 > BEGIN STRING
@@ -3224,8 +3655,11 @@ UR精子　出したるわ♪
 嘘こけぇ！　なぁに今更
 恥ずかしがっとんのや！
 ホンマは　好きなんやろ？
-> CONTEXT: Commonevents/113/739/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/739/Dialogue
+\\NAME[\\n[13]]
+Don't lie! What's the big deal?
+Why are you suddenly so embarrassed?
+You really do like me, don't you?
 > END STRING
 
 > BEGIN STRING
@@ -3233,8 +3667,10 @@ UR精子　出したるわ♪
 あんちゃんも　やっぱり
 ウチは　リーダーみたいなガラや
 ないって　思うんか？
-> CONTEXT: Commonevents/113/790/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/790/Dialogue
+\\NAME[\\n[13]]
+So, cutie, you also think
+I'm not the type to be a leader, right?
 > END STRING
 
 > BEGIN STRING
@@ -3242,8 +3678,11 @@ UR精子　出したるわ♪
 せやなぁ。\\n[11]みたいに
 几帳面やないし　愉しめれば
 それでええって　考えやもんな☆
-> CONTEXT: Commonevents/113/799/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/799/Dialogue
+\\NAME[\\n[13]]
+Yeah, I guess so. I'm not as meticulous 
+as \\n[11], and I think it's fine 
+as long as I can have fun☆
 > END STRING
 
 > BEGIN STRING
@@ -3251,8 +3690,11 @@ UR精子　出したるわ♪
 言うて　\\n[12]よりかは
 務まるやろけど　ウチは　あんま
 纏め役とか　好かんしなぁ〜。
-> CONTEXT: Commonevents/113/808/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/808/Dialogue
+\\NAME[\\n[13]]
+I mean, I'm probably better at it 
+than \\n[12], but I don't really like 
+being in charge or anything like that〜.
 > END STRING
 
 > BEGIN STRING
@@ -3260,8 +3702,10 @@ UR精子　出したるわ♪
 どうでもええ　豆知識が
 あるんやけど……
 聞きたいか？
-> CONTEXT: Commonevents/113/857/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/857/Dialogue
+\\NAME[\\n[13]]
+I have some useless trivia... 
+Do you want to hear it?
 > END STRING
 
 > BEGIN STRING
@@ -3269,8 +3713,11 @@ UR精子　出したるわ♪
 ウチら夢魔は　魔族っちゅう
 種族の一派なんや。広い意味では
 魔族なんやで？　覚えときー。
-> CONTEXT: Commonevents/113/866/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/866/Dialogue
+\\NAME[\\n[13]]
+We succubi are a branch of demons.
+In a broad sense, we are demons, 
+you know? Remember that.
 > END STRING
 
 > BEGIN STRING
@@ -3278,8 +3725,11 @@ UR精子　出したるわ♪
 やるな〜　あんちゃん！
 ウチのフリを　華麗にいなすたぁ
 成長したもんやな〜！
-> CONTEXT: Commonevents/113/877/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/877/Dialogue
+\\NAME[\\n[13]]
+Well done, cutie!
+You've grown so much, 
+you brilliantly dodged my trick!
 > END STRING
 
 > BEGIN STRING
@@ -3287,8 +3737,10 @@ UR精子　出したるわ♪
 ヒヒヒ♪　あんちゃんはぁ〜
 なんで　中出し☆が　あんな
 気持ちぃか　知っとるか？
-> CONTEXT: Commonevents/113/928/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/928/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ Cutie, do you know why 
+cumming inside feels so good?
 > END STRING
 
 > BEGIN STRING
@@ -3296,8 +3748,11 @@ UR精子　出したるわ♪
 それはな！　子孫作れるかもって
 可能性を感じて　肉体が
 はしゃいでまうからなんや！
-> CONTEXT: Commonevents/113/939/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/939/Dialogue
+\\NAME[\\n[13]]
+Because! The body gets excited 
+when it senses the possibility 
+of being able to have offspring!
 > END STRING
 
 > BEGIN STRING
@@ -3305,8 +3760,11 @@ UR精子　出したるわ♪
 お？　わからんと？
 ほなら　もっと　ウチと
 中出し☆セクロス　せんとなぁ♪
-> CONTEXT: Commonevents/113/948/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/948/Dialogue
+\\NAME[\\n[13]]
+Oh? You don't understand?
+Then let's have some more
+cum-in-the-vagina sex♪
 > END STRING
 
 > BEGIN STRING
@@ -3314,8 +3772,11 @@ UR精子　出したるわ♪
 あんちゃんて　変態やろ？
 それも　重度の変態やろ？
 な？
-> CONTEXT: Commonevents/113/999/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/999/Dialogue
+\\NAME[\\n[13]]
+You're a pervert, aren't you?
+And a severe pervert at that, right?
+Right?
 > END STRING
 
 > BEGIN STRING
@@ -3323,8 +3784,11 @@ UR精子　出したるわ♪
 うっひゃ☆　隠す気０やん！
 ほな　今すぐ　全裸んなって
 公開ＳＥＸでも　しよかぁ？
-> CONTEXT: Commonevents/113/1010/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1010/Dialogue
+\\NAME[\\n[13]]
+Ooh☆ You're not even trying to hide it!
+So, how about we get naked right now
+and have some public sex?
 > END STRING
 
 > BEGIN STRING
@@ -3332,8 +3796,11 @@ UR精子　出したるわ♪
 冗談やろぉ？　あんちゃん
 変態やなかったんか？
 ……信じられんわ。
-> CONTEXT: Commonevents/113/1019/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1019/Dialogue
+\\NAME[\\n[13]]
+You're kidding, right? Hey cutie.
+Are you really not a pervert?
+...I can't believe it.
 > END STRING
 
 > BEGIN STRING
@@ -3341,8 +3808,11 @@ UR精子　出したるわ♪
 あ〜〜〜〜……性欲
 溜まってきたわぁ。あんちゃんも
 ムラムラ☆してきとるんやろ？
-> CONTEXT: Commonevents/113/1070/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1070/Dialogue
+\\NAME[\\n[13]]
+Ahhh〜〜〜...my libido is building up. 
+You're getting horny too, 
+aren't you, cutie?
 > END STRING
 
 > BEGIN STRING
@@ -3350,8 +3820,11 @@ UR精子　出したるわ♪
 やっぱなぁ☆　あんちゃんも
 立派なＳＥＸ中毒や♪
 ウチと　同じやな♪
-> CONTEXT: Commonevents/113/1081/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1081/Dialogue
+\\NAME[\\n[13]]
+I thought so☆ 
+You're a full-fledged sex addict too♪
+Just like me♪
 > END STRING
 
 > BEGIN STRING
@@ -3359,8 +3832,11 @@ UR精子　出したるわ♪
 まぁた　強がってからにぃ。
 ウチの　エロテクで　本能を
 剥き出しに　剥いたるでぇ？
-> CONTEXT: Commonevents/113/1090/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1090/Dialogue
+\\NAME[\\n[13]]
+You're putting on a poker face again.
+I'll use my erotic techniques to 
+expose your instincts, okay?
 > END STRING
 
 > BEGIN STRING
@@ -3368,8 +3844,10 @@ UR精子　出したるわ♪
 もしかして　あんちゃん
 ウチが　下ネタ以外のトークネタ
 無いんと　思っとるんちゃう？
-> CONTEXT: Commonevents/113/1141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1141/Dialogue
+\\NAME[\\n[13]]
+Do you think I don't have any topics 
+to talk about other than dirty jokes?
 > END STRING
 
 > BEGIN STRING
@@ -3377,8 +3855,10 @@ UR精子　出したるわ♪
 よう　わかっとるやん♪
 せやけど　あんちゃんも
 同じやろ？　な？
-> CONTEXT: Commonevents/113/1152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1152/Dialogue
+\\NAME[\\n[13]]
+You understand perfectly, don't you?
+But you're the same, right? Right!?
 > END STRING
 
 > BEGIN STRING
@@ -3386,16 +3866,21 @@ UR精子　出したるわ♪
 お？　意外と　真面目な話も
 聞きたいんか？　……あれか？
 賢者タイムなってもうたか？
-> CONTEXT: Commonevents/113/1161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1161/Dialogue
+\\NAME[\\n[13]]
+Oh? You actually want to hear some 
+serious talk? ...Is that it?
+Is this post-nut clarity?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 あんちゃ〜ん？？？
 対戦ゲームって　好きか〜？
-> CONTEXT: Commonevents/113/1212/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1212/Dialogue
+\\NAME[\\n[13]]
+Hey cutie〜???
+Do you like competitive games〜?
 > END STRING
 
 > BEGIN STRING
@@ -3403,8 +3888,11 @@ UR精子　出したるわ♪
 ほなら　強力ヴァイブ付けて
 ウチと勝負や〜！　負けたら
 射精確定☆な！
-> CONTEXT: Commonevents/113/1222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1222/Dialogue
+\\NAME[\\n[13]]
+Okay then, put on a powerful vibe
+and let's battle〜! If you lose
+you're guaranteed to ejaculate☆!
 > END STRING
 
 > BEGIN STRING
@@ -3412,8 +3900,10 @@ UR精子　出したるわ♪
 ほーん。……ま　最初から
 ウチには　勝てへんて
 分かっとるもんなぁ。
-> CONTEXT: Commonevents/113/1231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1231/Dialogue
+\\NAME[\\n[13]]
+Hmm...I knew from the start 
+that you couldn't beat us.
 > END STRING
 
 > BEGIN STRING
@@ -3421,8 +3911,11 @@ UR精子　出したるわ♪
 あー　セクロス☆したい〜。
 今すぐ　あんちゃんを
 凌辱したいわ。ええやろ？
-> CONTEXT: Commonevents/113/1282/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1282/Dialogue
+\\NAME[\\n[13]]
+Ah, I want to have sex〜.
+I want to violate you right now. 
+Isn't that great?
 > END STRING
 
 > BEGIN STRING
@@ -3430,8 +3923,11 @@ UR精子　出したるわ♪
 うっひゃ☆　気持ち通じとるな！
 ぴーぴー　泣かしたるでぇ！
 あんちゃんは　ウチの奴隷やし！
-> CONTEXT: Commonevents/113/1293/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1293/Dialogue
+\\NAME[\\n[13]]
+Ooh☆ We understand each other!
+I'm gonna make you cry!
+You're my slave, after all!
 > END STRING
 
 > BEGIN STRING
@@ -3439,8 +3935,11 @@ UR精子　出したるわ♪
 なんでや！？　あんちゃん
 ウチの性奴隷や　なかったんか？
 まさか……下剋上か！？
-> CONTEXT: Commonevents/113/1302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1302/Dialogue
+\\NAME[\\n[13]]
+Why?! Hey, cutie.
+Weren't you my sex slave?
+Could it be...rebellion?!
 > END STRING
 
 > BEGIN STRING
@@ -3448,8 +3947,11 @@ UR精子　出したるわ♪
 あんちゃん　ウチを孕ませる
 自信あるかぁ？　その精子で
 妊娠させる　自信はあるかぁ！？
-> CONTEXT: Commonevents/113/1353/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1353/Dialogue
+\\NAME[\\n[13]]
+Hey cutie, are you confident you can 
+get me pregnant? Can get me pregnant 
+with your sperm?!
 > END STRING
 
 > BEGIN STRING
@@ -3457,8 +3959,11 @@ UR精子　出したるわ♪
 ええ返事や！　せやけど
 膣内射精されたとて　そう簡単に
 問屋は　降ろさへんで〜？
-> CONTEXT: Commonevents/113/1364/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1364/Dialogue
+\\NAME[\\n[13]] 
+Good answer! But even if you cum inside, 
+it's not that easy to get away with it, 
+you know〜?
 > END STRING
 
 > BEGIN STRING
@@ -3466,8 +3971,11 @@ UR精子　出したるわ♪
 ほーん。自信はないと？
 ほな　強気になれるまで
 キツイＥＤ荒療治が　必要やな！
-> CONTEXT: Commonevents/113/1375/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1375/Dialogue
+\\NAME[\\n[13]]
+Hmm. You're not confident?
+Well then, until you can be more assertive,
+you'll need some harsh ED treatment!
 > END STRING
 
 > BEGIN STRING
@@ -3475,8 +3983,11 @@ UR精子　出したるわ♪
 お！　残念やな〜　あんちゃん？
 話題　ネタ切れなってもうたわ。
 ループんなるけど　ええやろ？
-> CONTEXT: Commonevents/113/1428/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1428/Dialogue
+\\NAME[\\n[13]]
+Oh! How unfortunate〜
+I've run out of topics.
+I'll just loop back, okay?
 > END STRING
 
 > BEGIN STRING
@@ -3484,8 +3995,11 @@ UR精子　出したるわ♪
 せやろ　せやろ！　あんちゃんは
 末永く　ウチの玩具やもんな。
 なんぼでも　ウチとダベろうや♪
-> CONTEXT: Commonevents/113/1439/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1439/Dialogue
+\\NAME[\\n[13]]
+Right? Right? You'll always 
+be my toy, won't you?
+Let's chat as much as you want♪
 > END STRING
 
 > BEGIN STRING
@@ -3493,16 +4007,22 @@ UR精子　出したるわ♪
 ほーん？　No　選んでも
 結果は同じって　分かってて
 答えたん？　合ってっけど。
-> CONTEXT: Commonevents/113/1448/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/113/1448/Dialogue
+\\NAME[\\n[13]]
+Hmm? Did you answer knowing 
+it doesn't matter? 
+You're not wrong, though.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……あ　シン・夢魔の迷宮は　違うから。
 注意っ！
-> CONTEXT: Commonevents/118/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/118/1/Dialogue
+\\NAME[\\n[11]]
+...Ah, New Maze of Succubus,
+it's different.
+Be careful!
 > END STRING
 
 > BEGIN STRING
@@ -3866,7 +4386,7 @@ Here you go! Your reward!
 > BEGIN STRING
 \\I[37]勝利回数20以下で20Ｆ貘獣王竜を殲滅！if(v[533]\>0)en(!s[533])
 > CONTEXT: Commonevents/123/200/Choice/1
-\\I[37]Defeated Baku Dragon King with 20 or less victories!if(v[533]\>0)en(!s[533])
+\\I[37]Defeat Baku Dragon King with 20 or less victories!if(v[533]\>0)en(!s[533])
 > END STRING
 
 > BEGIN STRING
@@ -4526,24 +5046,30 @@ It'd be better if they weren't on social media!
 芸能界でも　トップタレントとされる
 大物人物の　スキャンダルが
 週刊誌によって　告発された。
-> CONTEXT: Commonevents/196/497/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/497/Dialogue
+A major figure, considered a top talent 
+in the entertainment industry, has been 
+exposed in a weekly magazine for a scandal.
 > END STRING
 
 > BEGIN STRING
 合コンと称して　集められた女性たちが
 性加害に遭ったと　訴える内容だが
 意外にも　世間の意見は一様ではない。
-> CONTEXT: Commonevents/196/501/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/501/Dialogue
+Women were gathered under the guise of 
+a group blind date leading to sexual assault, 
+but surprisingly, public opinion is not uniform.
 > END STRING
 
 > BEGIN STRING
 既に　大御所ともいえる　その人物を
 支持する声も　多く
 中には　こんな意見も――
-> CONTEXT: Commonevents/196/505/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/505/Dialogue
+There are many voices supporting this 
+celebrity, and some even offer 
+opinions like this:
 > END STRING
 
 > BEGIN STRING
@@ -4551,8 +5077,11 @@ It'd be better if they weren't on social media!
 週刊誌の　意地汚い　稼ぎ方だよ。
 それに　天下取ってんだから　女ぐらい
 好きに抱いてても　文句ないだろ？
-> CONTEXT: Commonevents/196/510/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/510/Dialogue
+\\NAME[Commentator]
+Weekly magazines are greedy. Surely big 
+celebrities can have as many women as 
+they want without any complaints, right?
 > END STRING
 
 > BEGIN STRING
@@ -4634,24 +5163,30 @@ may be necessary...of course, in good taste!
 昨今　貧富の差が開くばかりと
 無策な経済対策や　社会情勢を嘆く声が
 人々の間で　多く囁かれている。
-> CONTEXT: Commonevents/196/611/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/611/Dialogue
+Recently, many are concerned about the 
+widening gap between rich and poor and the 
+lack of effective economic measures.
 > END STRING
 
 > BEGIN STRING
 だが　貧困層が貧困から抜け出せないのは
 ある程度　当人たちの問題ではないかと
 厳しい意見を　呈する人もいる。
-> CONTEXT: Commonevents/196/615/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/615/Dialogue
+However, some offer the harsh opinion 
+that the inability of the poor to escape 
+poverty is, to some extent, their own problem.
 > END STRING
 
 > BEGIN STRING
 社会保障は　ちゃんと機能してるのに
 いつまでも　貧しいままなのは
 生活態度に　所以してるのではないかと。
-> CONTEXT: Commonevents/196/619/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/619/Dialogue
+Even though social security is functioning 
+properly, the reason why people remain poor 
+is probably due to their lifestyle.
 > END STRING
 
 > BEGIN STRING
@@ -4659,8 +5194,11 @@ may be necessary...of course, in good taste!
 毎晩お酒を飲んだり　ギャンブルしたり
 そういう無駄遣いを　徹底して節制すれば
 もう少し　暮らしは楽になるでしょうに！
-> CONTEXT: Commonevents/196/624/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/624/Dialogue
+\\NAME[Commentator]
+If you thoroughly curb your wasteful spending, 
+such as alcohol and gambling every night, 
+your life would be a little easier!
 > END STRING
 
 > BEGIN STRING
@@ -9126,15 +9664,16 @@ Can get all materials when killing"
 
 > BEGIN STRING
 "証明の秘水"
-> CONTEXT: Commonevents/320/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/320/6/InlineScript/1:25
+"Proof Water"
 > END STRING
 
 > BEGIN STRING
 "〘全:LP+EP全回復/枯渇解消〙
 手にした　あなたは　夢魔の迷宮の王"
-> CONTEXT: Commonevents/320/7/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/320/7/InlineScript/2:1
+"[All: Full LP/EP/Depletion Recovery]
+Proof of the King of the Maze of Succubus"
 > END STRING
 
 > BEGIN STRING

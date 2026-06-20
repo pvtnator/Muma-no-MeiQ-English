@@ -1095,93 +1095,100 @@ Mechanical weapon not reliant on strength
 
 > BEGIN STRING
 火銃
-> CONTEXT: Weapons/172/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/172/name/
+Gun
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 火薬を用いて弾丸を発射する　原始的な銃
-> CONTEXT: Weapons/172/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/172/description/
+Skills: Shoot/Buttstroke[2H]
+Primitive gun that uses gunpowder and bullets
 > END STRING
 
 > BEGIN STRING
 連弩
-> CONTEXT: Weapons/173/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/173/name/
+Repeater
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 矢の装填速度を早めた　改良型クロスボウ
-> CONTEXT: Weapons/173/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/173/description/
+Skills: Shoot/Buttstroke[2H]
+Improved crossbow with faster arrow loading speed
 > END STRING
 
 > BEGIN STRING
 マスケット
-> CONTEXT: Weapons/174/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/174/name/
+Musket
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙
 特権階級のみが持つ　最先端の銃火器
-> CONTEXT: Weapons/174/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/174/description/
+Skills: Shoot/Buttstroke[2H]
+State-of-the-art firearm for the privileged
 > END STRING
 
 > BEGIN STRING
 アーバレスト
-> CONTEXT: Weapons/175/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/175/name/
+Arbalest
 > END STRING
 
 > BEGIN STRING
 習:射撃/射体打〘両〙/\\C[6]ビッグショット\\C[0]
 バリスタとも呼ばれる　巨大な弩砲
-> CONTEXT: Weapons/175/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/175/description/
+Skills: Shoot/Buttstroke[2H]/\\C[6]Big Shot\\C[0]
+Also called a ballista, a giant crossbow
 > END STRING
 
 > BEGIN STRING
 サイブラスター
-> CONTEXT: Weapons/181/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/181/name/
+Psy-Blaster
 > END STRING
 
 > BEGIN STRING
 習:\\C[6]サイコビーム\\C[0]/射体打
 古代文明が残した　霊力を弾丸に変える銃
-> CONTEXT: Weapons/181/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/181/description/
+Skills: \\C[6]Psycho Beam\\C[0]/Shoot/Buttstroke
+A gun left behind by an ancient civilization
 > END STRING
 
 > BEGIN STRING
 メーザー砲
-> CONTEXT: Weapons/186/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/186/name/
+Maser Cannon
 > END STRING
 
 > BEGIN STRING
 習:\\C[6]サイコビーム\\C[0]/射体打/\\C[6]バーンビーム\\C[0]
 古の竜使いも手にした　対象を燃やす霊銃
-> CONTEXT: Weapons/186/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/186/description/
+Skills: \\C[6]Psycho Beam\\C[0]/Shoot/\\C[6]Burn Beam\\C[0]
+An ancient dragon tamer wielded this gun
 > END STRING
 
 > BEGIN STRING
 木彫ブーメラン
-> CONTEXT: Weapons/191/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/191/name/
+Wooden Boomerang
 > END STRING
 
 > BEGIN STRING
 習:旋刃/旋打
 呪い文様で　使い手ならば　切断性あり
-> CONTEXT: Weapons/191/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/191/description/
+Skills: Turning Blade/Spin
+Can cut if used by the right person
 > END STRING
 
 > BEGIN STRING
@@ -1200,28 +1207,30 @@ A boomerang made of steel with a sharp blade
 
 > BEGIN STRING
 黄金チャクラム
-> CONTEXT: Weapons/193/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/193/name/
+Golden Chakram
 > END STRING
 
 > BEGIN STRING
 習:旋刃
 美しき輪環を　指先で回転させて投擲する
-> CONTEXT: Weapons/193/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/193/description/
+Skill: Turning Blade
+Spin with your fingertips and throw
 > END STRING
 
 > BEGIN STRING
 満月輪
-> CONTEXT: Weapons/194/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/194/name/
+Full Moon
 > END STRING
 
 > BEGIN STRING
 習:旋刃/\\C[6]ワールドツアー\\C[0]
 月の光が如く　鋭利な刃を持つ円盤状武器
-> CONTEXT: Weapons/194/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/194/description/
+Skills: Turning Blade/\\C[6]World Tour\\C[0]
+A disc-shaped weapon with a blade as sharp as moonlight.
 > END STRING
 
 > BEGIN STRING

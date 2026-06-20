@@ -1677,7 +1677,7 @@ Hardtack that heals ubermensch's body
 > BEGIN STRING
 証明の秘水
 > CONTEXT: Items/220/name/
-Secret Water Proof
+Proof Water
 > END STRING
 
 > BEGIN STRING
