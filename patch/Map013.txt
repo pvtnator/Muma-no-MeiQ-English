@@ -525,8 +525,11 @@ in moderation. I wonder what that means?
 なぁ　あんちゃん？
 スケベしようや　スケベ♪　せっかくの
 エロエロ☆サキュバスやで？　ウチは☆
-> CONTEXT: Map013/events/1/pages/3/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/112/Dialogue
+\\NAME[\\n[13]]
+Hey, cutie?
+Let's have some naughty fun, naughty fun♪ 
+I'm a naughty succubus, after all, I am☆
 > END STRING
 
 > BEGIN STRING
@@ -534,8 +537,11 @@ in moderation. I wonder what that means?
 あんちゃ〜ん♪　セクロス☆しよ……な？
 ウチが　あんちゃんのこと　思う存分
 イジメてやんよ♡　ヒヒヒ♪
-> CONTEXT: Map013/events/1/pages/3/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/122/Dialogue
+\\NAME[\\n[13]]
+Hey cutie♪ Let's have sex...okay?
+I'll tease you to my heart's content♡ 
+Hehehe♪
 > END STRING
 
 > BEGIN STRING
@@ -543,8 +549,11 @@ in moderation. I wonder what that means?
 うっひゃ☆　あんちゃんたら　ホンマに
 ウチのこと　大好きみたいやなぁ〜♪
 ウチに　とことん　骨抜きにされたいと？
-> CONTEXT: Map013/events/1/pages/3/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/133/Dialogue
+\\NAME[\\n[13]]
+Whoa☆ You really seem to love me, 
+don't you〜?♪ Do you want me to 
+completely melt your heart?
 > END STRING
 
 > BEGIN STRING
@@ -552,8 +561,11 @@ in moderation. I wonder what that means?
 ほならね　今度　ベッドで　ウチが
 究極☆ドＳ責めして　廃人にしたるわ♪
 容赦せんから　覚悟しとき！　ヒヒヒ♪
-> CONTEXT: Map013/events/1/pages/3/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/139/Dialogue
+\\NAME[\\n[13]]
+Then, next time in bed, I'll give you the 
+ultimate☆sadistic torture and mess you up♪
+No mercy, so be prepared! Hehehe♪
 > END STRING
 
 > BEGIN STRING
@@ -561,8 +573,11 @@ in moderation. I wonder what that means?
 な？　な？　セクロス☆しよ　な？
 あんちゃんが　くたばるまで　ウチ
 攻めまくったるで？　あんちゃ〜ん♡
-> CONTEXT: Map013/events/1/pages/3/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/152/Dialogue
+\\NAME[\\n[13]]
+Hey? Hey? Let's have sex☆, okay?
+I'll keep attacking you until 
+you're exhausted, okay? Cutie〜♡
 > END STRING
 
 > BEGIN STRING
@@ -570,8 +585,11 @@ in moderation. I wonder what that means?
 まさか　あんちゃん　童貞やないやろ？
 ビビっとらんで　どこでもエッチ　買うて
 ウチとセクロス☆　はよしよな？　な？
-> CONTEXT: Map013/events/1/pages/3/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/163/Dialogue
+\\NAME[\\n[13]]
+Surely you're not a virgin, are you?
+Don't be scared, just buy it, and
+let's have sex☆ Hurry up, okay? Okay?
 > END STRING
 
 > BEGIN STRING
@@ -579,15 +597,19 @@ in moderation. I wonder what that means?
 やったな　あんちゃん♪　ウチのトロトロ
 Ｇスポット☆　――やなくて　秘密の部屋
 解禁やで？　たっぷり　イジメちゃるで♪
-> CONTEXT: Map013/events/1/pages/3/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/171/Dialogue
+\\NAME[\\n[13]]
+You did it, cutie♪ My gooey G-spot☆―― 
+No, my secret room is open now, you know? 
+I'll tease you a lot♪
 > END STRING
 
 > BEGIN STRING
 \\n[13]から　雷霊犀の鍵を
 股間に　押し付けられた！
-> CONTEXT: Map013/events/1/pages/3/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/178/Dialogue
+\\n[13] pressed the Thunder Spirit Key 
+against my crotch!
 > END STRING
 
 > BEGIN STRING
@@ -595,8 +617,11 @@ in moderation. I wonder what that means?
 あんちゃんの　おかげで　ノルマ達成や♪
 この礼は　みっちり☆　あんちゃんの
 カラダに……してやんよ♡
-> CONTEXT: Map013/events/1/pages/4/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/31/Dialogue
+\\NAME[\\n[13]]
+Thanks to you, cutie, we've achieved our quota♪
+I'll repay this favor thoroughly☆ 
+to your body...♡
 > END STRING
 
 > BEGIN STRING
@@ -624,7 +649,7 @@ Bronze Sword ×３if(!s[142])
 > BEGIN STRING
 紫ゲル核　×３if(!s[143])
 > CONTEXT: Map013/events/1/pages/4/48/Choice/2
-Violet Gel Nucleus ×３if(!s[143])
+Purple Gel Nucleus ×３if(!s[143])
 > END STRING
 
 > BEGIN STRING
@@ -646,39 +671,46 @@ Complete〜〜〜♪
 > BEGIN STRING
 \\N[13]に　コットンローブを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/68/Dialogue
+Handed Cotton Robe to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ちょい　足りひんなぁ。
 まぁ　預かっとくで？
-> CONTEXT: Map013/events/1/pages/4/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/219/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/359/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/428/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/499/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/601/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/81/Dialogue
+> CONTEXT: Map013/events/1/pages/4/150/Dialogue
+> CONTEXT: Map013/events/1/pages/4/219/Dialogue
+> CONTEXT: Map013/events/1/pages/4/290/Dialogue
+> CONTEXT: Map013/events/1/pages/4/359/Dialogue
+> CONTEXT: Map013/events/1/pages/4/428/Dialogue
+> CONTEXT: Map013/events/1/pages/4/499/Dialogue
+> CONTEXT: Map013/events/1/pages/4/601/Dialogue
+\\NAME[\\n[13]]
+It's a bit less than needed.
+Should I hold on to it?
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　コットンローブを　渡した！
 現在　\\V[171]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/88/Dialogue
+Delivered Cotton Robe to \\N[13]!
+\\V[171] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[171]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/100/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[171] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
@@ -700,205 +732,241 @@ Complete〜〜〜♪
 > BEGIN STRING
 \\N[13]に　ブロンズソードを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/137/Dialogue
+Handed Bronze Sword to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　ブロンズソードを　渡した！
 現在　\\V[172]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/157/Dialogue
+Handed Bronze Sword to \\N[13]!
+\\V[172] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[172]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/169/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[172] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　紫ゲル核を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/206/Dialogue
+Handed Purple Gel Nucleus to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　紫ゲル核を　渡した！
 現在　\\V[173]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/226/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/226/Dialogue
+Handed Purple Gel Nucleus to \\N[13]!
+\\V[173] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[173]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/238/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[173] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 絹の道着　×３if(!s[144]&&s[141])
-> CONTEXT: Map013/events/1/pages/4/257/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/257/Choice/0
+Silk Dogi ×３if(!s[144]&&s[141])
 > END STRING
 
 > BEGIN STRING
 桑木の杖　×３if(!s[145]&&s[142])
-> CONTEXT: Map013/events/1/pages/4/257/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/257/Choice/1
+Mulberry Staff ×３if(!s[145]&&s[142])
 > END STRING
 
 > BEGIN STRING
 プリズムコア　×３if(!s[146]&&s[143])
-> CONTEXT: Map013/events/1/pages/4/257/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/257/Choice/2
+Prism Core ×３if(!s[146]&&s[143])
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　絹の道着を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/277/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/277/Dialogue
+Handed Silk Dogi to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　絹の道着を　渡した！
 現在　\\V[174]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/297/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/297/Dialogue
+Handed Silk Dogi to \\N[13]!
+\\V[174] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[174]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/309/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/309/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[174] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　桑木の杖を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/346/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/346/Dialogue
+Handed Mulberry Staff to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　桑木の杖を　渡した！
 現在　\\V[175]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/366/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/366/Dialogue
+Handed Mulberry Staff to \\N[13]!
+\\V[175] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[175]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/378/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/378/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[175] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　プリズムコアを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/415/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/415/Dialogue
+Handed Prism Core to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　プリズムコアを　渡した！
 現在　\\V[176]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/435/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/435/Dialogue
+Handed Prism Core to \\N[13]!
+\\V[176] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[176]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/447/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/447/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[176] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 聖印軽盾　×３if(!s[147]&&s[144])
-> CONTEXT: Map013/events/1/pages/4/466/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/466/Choice/0
+Holy Seal Shield ×３if(!s[147]&&s[144])
 > END STRING
 
 > BEGIN STRING
 村雨丸if(!s[148]&&s[145])
-> CONTEXT: Map013/events/1/pages/4/466/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/466/Choice/1
+Murasameif(!s[148]&&s[145])
 > END STRING
 
 > BEGIN STRING
 古跡の邪核　×２if(!s[149]&&s[146])
-> CONTEXT: Map013/events/1/pages/4/466/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/466/Choice/2
+Evil Ruins Core ×２if(!s[149]&&s[146])
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　聖印軽盾を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/486/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/486/Dialogue
+Handed Holy Seal Shield to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　聖印軽盾を　渡した！
 現在　\\V[177]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/506/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/506/Dialogue
+Handed Holy Seal Shield to \\N[13]!
+\\V[177] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[177]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/518/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/518/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[177] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　村雨丸を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/550/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/550/Dialogue
+Handed Murasame to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　古跡の邪核を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map013/events/1/pages/4/588/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/588/Dialogue
+Handed Evil Ruins Core to \\N[13]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[13]に　古跡の邪核を　渡した！
 現在　\\V[178]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map013/events/1/pages/4/608/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/608/Dialogue
+Handed Evil Ruins Core to \\N[13]!
+\\V[178] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 今な　\\V[178]個　納品しとるで。
 コンプまで　あと　\\V[41]個や！
-> CONTEXT: Map013/events/1/pages/4/620/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/620/Dialogue
+\\NAME[\\n[13]]
+You delivered \\V[178] so far.
+\\V[41] more for the complete set!
 > END STRING
 
 > BEGIN STRING

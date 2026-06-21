@@ -735,8 +735,9 @@ Well done〜〜〜♪
 > BEGIN STRING
 \\N[12]に　ミリオン涼鞋を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/63/Dialogue
+Delivered Breeze Shoes to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
@@ -758,202 +759,236 @@ Oh!? You don't have it?
 > BEGIN STRING
 \\N[12]に　青銅の弓矢を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/101/Dialogue
+Delivered Bronze Bow to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 ちょ〜っと　足りないかなぁ？
 でも　預かっておくね♪
-> CONTEXT: Map012/events/1/pages/4/114/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/183/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/287/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/356/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/427/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/529/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/114/Dialogue
+> CONTEXT: Map012/events/1/pages/4/183/Dialogue
+> CONTEXT: Map012/events/1/pages/4/287/Dialogue
+> CONTEXT: Map012/events/1/pages/4/356/Dialogue
+> CONTEXT: Map012/events/1/pages/4/427/Dialogue
+> CONTEXT: Map012/events/1/pages/4/529/Dialogue
+\\NAME[\\n[12]]
+Isn't it not enough yet〜?
+But I'll hold onto it for you♪
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　青銅の弓矢を　渡した！
 現在　\\V[165]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/121/Dialogue
+Delivered Bronze Bow to \\N[12]!
+\\V[165] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[165]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/133/Dialogue
+\\NAME[\\n[12]]
+There's \\V[165] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　邪茸カットを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/170/Dialogue
+Handed Evil Mushroom Cut to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　邪茸カットを　渡した！
 現在　\\V[166]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/190/Dialogue
+Handed Evil Mushroom Cut to \\N[12]!
+\\V[166] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[166]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/202/Dialogue
+\\NAME[\\n[12]]
+There's \\V[166] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING
 蒼玉の指輪if(!s[134]&&s[131])
-> CONTEXT: Map012/events/1/pages/4/221/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/221/Choice/0
+Sapphire Ringif(!s[134]&&s[131])
 > END STRING
 
 > BEGIN STRING
 鋼鉄の刃針　×３if(!s[135]&&s[132])
-> CONTEXT: Map012/events/1/pages/4/221/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/221/Choice/1
+Steel Lancet ×３if(!s[135]&&s[132])
 > END STRING
 
 > BEGIN STRING
 闇の冷凍切り身　×９if(!s[136]&&s[133])
-> CONTEXT: Map012/events/1/pages/4/221/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/221/Choice/2
+Dark Frozen Fish ×９if(!s[136]&&s[133])
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　蒼玉の指輪を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/236/Dialogue
+Handed Sapphire Ring to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　鋼鉄の刃針を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/274/Dialogue
+Handed Steel Lancet to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　鋼鉄の刃針を　渡した！
 現在　\\V[167]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/294/Dialogue
+Delivered Steel Lancet to \\N[12]!
+\\V[167] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[167]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/306/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/306/Dialogue
+\\NAME[\\n[12]]
+There's \\V[167] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　闇の冷凍切り身を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/343/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/343/Dialogue
+Handed Dark Frozen Fish to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　闇の冷凍切り身を　渡した！
 現在　\\V[168]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/363/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/363/Dialogue
+Handed Dark Frozen Fish to \\N[12]!
+\\V[168] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[168]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/375/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/375/Dialogue
+\\NAME[\\n[12]]
+There's \\V[168] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING
 聖焔のロザリオ　×２if(!s[137]&&s[134])
-> CONTEXT: Map012/events/1/pages/4/394/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/394/Choice/0
+Holy Flame Rosary ×２if(!s[137]&&s[134])
 > END STRING
 
 > BEGIN STRING
 竜の爪if(!s[138]&&s[135])
-> CONTEXT: Map012/events/1/pages/4/394/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/394/Choice/1
+Dragon Clawif(!s[138]&&s[135])
 > END STRING
 
 > BEGIN STRING
 魔胎の邪核　×３if(!s[139]&&s[136])
-> CONTEXT: Map012/events/1/pages/4/394/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/394/Choice/2
+Evil Demon Womb Core ×３if(!s[139]&&s[136])
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　聖焔のロザリオを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/414/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/414/Dialogue
+Handed Holy Flame Rosary to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　聖焔のロザリオを　渡した！
 現在　\\V[169]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/434/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/434/Dialogue
+Handed Holy Flame Rosary to \\N[12]!
+\\V[169] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[169]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/446/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/446/Dialogue
+\\NAME[\\n[12]]
+There's \\V[169] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　竜の爪を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/478/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/478/Dialogue
+Handed Dragon Claw to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　魔胎の邪核を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map012/events/1/pages/4/516/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/516/Dialogue
+Handed Evil Demon Womb Core to \\N[12]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[12]に　魔胎の邪核を　渡した！
 現在　\\V[170]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map012/events/1/pages/4/536/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/536/Dialogue
+Handed Evil Demon Womb Core to \\N[12]!
+\\V[170] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 今　\\V[170]個　納品してるみたいで
 残り　\\V[41]個　必要って感じかしら……。
-> CONTEXT: Map012/events/1/pages/4/548/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/548/Dialogue
+\\NAME[\\n[12]]
+There's \\V[170] here so far,
+could you get \\V[41] more...?
 > END STRING
 
 > BEGIN STRING

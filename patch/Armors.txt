@@ -708,7 +708,7 @@ A sacred amulet so blue it's almost transparent
 > BEGIN STRING
 聖靂のロザリオ
 > CONTEXT: Armors/143/name/
-Light Rosary
+Holy Lightning Rosary
 > END STRING
 
 > BEGIN STRING

@@ -7468,8 +7468,8 @@
 
 > BEGIN STRING
 "窃盗未遂に　終わった！"
-> CONTEXT: Scripts/盗むスキル/124:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/盗むスキル/124:11
+"Failed to steal!"
 > END STRING
 
 > BEGIN STRING
@@ -7480,8 +7480,8 @@
 
 > BEGIN STRING
 "奪えるものが　無かった！"
-> CONTEXT: Scripts/盗むスキル/130:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/盗むスキル/130:11
+"There was nothing to take!"
 > END STRING
 
 > BEGIN STRING
@@ -7498,8 +7498,8 @@
 
 > BEGIN STRING
 "%sを　強奪！"
-> CONTEXT: Scripts/盗むスキル/135:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/盗むスキル/135:11
+"Stole %s!"
 > END STRING
 
 > BEGIN STRING
@@ -7522,8 +7522,8 @@
 
 > BEGIN STRING
 '%1のスキルは　不発！'
-> CONTEXT: Scripts/アドオン:遅延時バトラー状態確認/26:22 < UNTRANSLATED
-
+> CONTEXT: Scripts/アドオン:遅延時バトラー状態確認/26:22
+'%1 failed the skill!'
 > END STRING
 
 > BEGIN STRING
@@ -7838,8 +7838,8 @@
 
 > BEGIN STRING
 "\\\\B"
-> CONTEXT: Scripts/【真】スキル＆アイテムメッセ拡張/96:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/【真】スキル＆アイテムメッセ拡張/96:16
+"\\\\B "
 > END STRING
 
 > BEGIN STRING
@@ -8382,9 +8382,9 @@
 
 > BEGIN STRING
 '%1の%2が　%3上昇！'
-> CONTEXT: Scripts/スリップダメージメッセ/29:15 < UNTRANSLATED
-> CONTEXT: Scripts/スリップダメージメッセ/43:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/スリップダメージメッセ/29:15
+> CONTEXT: Scripts/スリップダメージメッセ/43:15
+'%1 gained %2 (%3)!'
 > END STRING
 
 > BEGIN STRING
@@ -8395,20 +8395,20 @@
 
 > BEGIN STRING
 '%1の%2が　%3下落！'
-> CONTEXT: Scripts/スリップダメージメッセ/49:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/スリップダメージメッセ/49:15
+'%1 lost %2 (%3)!'
 > END STRING
 
 > BEGIN STRING
 '%1の%2が %3 上昇！'
-> CONTEXT: Scripts/スリップダメージメッセ/57:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/スリップダメージメッセ/57:15
+'%1 gained %2 (%3)!'
 > END STRING
 
 > BEGIN STRING
 '%1の%2が %3 下落！'
-> CONTEXT: Scripts/スリップダメージメッセ/63:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/スリップダメージメッセ/63:15
+'%1 lost %2 (%3)!'
 > END STRING
 
 > BEGIN STRING
@@ -10735,15 +10735,15 @@
 
 > BEGIN STRING
 "%sを　見極められなかった！"
-> CONTEXT: Scripts/☆☆アナライズ/53:11 < UNTRANSLATED
-> CONTEXT: Scripts/☆☆アナライズ/56:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆☆アナライズ/53:11
+> CONTEXT: Scripts/☆☆アナライズ/56:12
+"%s could not be identified!"
 > END STRING
 
 > BEGIN STRING
 "%sは　既に見極めている！"
-> CONTEXT: Scripts/☆☆アナライズ/54:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆☆アナライズ/54:11
+"%s is already identified!"
 > END STRING
 
 > BEGIN STRING
@@ -11126,7 +11126,7 @@
 "土の精霊薬"
 > CONTEXT: Scripts/ショップ在庫制/99:3
 > CONTEXT: Commonevents/324/6/InlineScript/1:25
-"Earth spirit Potion"
+"Earth Spirit Potion"
 > END STRING
 
 > BEGIN STRING

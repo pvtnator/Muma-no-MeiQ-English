@@ -466,8 +466,11 @@ That is my mission.
 ねぇ……あたしと　あんたって
 ずっと前にも　会っていたのかな？
 何か最近　そんな風に　思う時があって。
-> CONTEXT: Map011/events/1/pages/3/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/174/Dialogue
+\\NAME[\\n[11]]
+Hey... I wonder if you and I
+have met before, a long time ago?
+Lately, I've been thinking that sometimes.
 > END STRING
 
 > BEGIN STRING
@@ -475,8 +478,11 @@ That is my mission.
 運命かもって　思われたら　迷惑？
 ……ううん　なんでもないよっ！
 あ　あたしが勝手に　思ってるだけから！
-> CONTEXT: Map011/events/1/pages/3/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/184/Dialogue
+\\NAME[\\n[11]]
+Would it be wrong to think it's fate?
+...No, nothing!
+Ah, it's just a thought I had!
 > END STRING
 
 > BEGIN STRING
@@ -484,8 +490,10 @@ That is my mission.
 はぁ……。あんたは　ここまで
 やってくれたってのに　あたしは
 どうして　素直に　なれないんだろ。
-> CONTEXT: Map011/events/1/pages/3/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/195/Dialogue
+\\NAME[\\n[11]]
+Sigh... You've done so much for me, 
+yet why can't I be honest with you?
 > END STRING
 
 > BEGIN STRING
@@ -493,8 +501,11 @@ That is my mission.
 とりあえずさ……その……
 二人きりに　なることが　あったら
 あたしも　勇気……出してみるよ。
-> CONTEXT: Map011/events/1/pages/3/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/201/Dialogue
+\\NAME[\\n[11]]
+Anyway... um... 
+if we ever end up alone together
+I'll try to be brave too.
 > END STRING
 
 > BEGIN STRING
@@ -502,8 +513,11 @@ That is my mission.
 あんたに　出会えて　良かったと思うよ。
 だから……いつまでかは　分からないけど
 ずっと一緒に　いてほしいかなって……。
-> CONTEXT: Map011/events/1/pages/3/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/214/Dialogue
+\\NAME[\\n[11]]
+I'm so glad I met you. So... 
+I don't know how long it will last, but
+I'd like you to stay with me forever...
 > END STRING
 
 > BEGIN STRING
@@ -511,8 +525,11 @@ That is my mission.
 うーん……あたしって　そんなに
 サキュバスとして　魅力ない……かなぁ？
 一度くらいなら――しても　いいじゃん。
-> CONTEXT: Map011/events/1/pages/3/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/225/Dialogue
+\\NAME[\\n[11]]
+Hmm... Am I really that unattractive 
+as a succubus...?
+Would it hurt to try for once?
 > END STRING
 
 > BEGIN STRING
@@ -520,15 +537,18 @@ That is my mission.
 こ……これっ！！！
 もらって！　いいから！　何も聞かずに！
 黙っておいてよっ！　ホラ！　しまって！
-> CONTEXT: Map011/events/1/pages/3/233/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/233/Dialogue
+\\NAME[\\n[11]]
+H-Here!!!
+Take it! It's fine! Don't ask!
+Be quiet! Here! Put it away!
 > END STRING
 
 > BEGIN STRING
 \\n[11]から　炎霊犀の鍵を
 ぶん投げられた！
-> CONTEXT: Map011/events/1/pages/3/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/240/Dialogue
+\\n[11] threw the Flame Spirit Key!
 > END STRING
 
 > BEGIN STRING
@@ -536,8 +556,11 @@ That is my mission.
 あんたが　手伝ってくれた　おかげで
 必要な物資は　あらかた　揃ったよっ！
 その……………………ありがとう。
-> CONTEXT: Map011/events/1/pages/4/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/31/Dialogue
+\\NAME[\\n[11]]
+Thanks to your help,
+we've gathered almost all the 
+necessary supplies! Um...thank you.
 > END STRING
 
 > BEGIN STRING
@@ -587,35 +610,42 @@ OK! Thanks for your hard work♪
 > BEGIN STRING
 \\N[11]に　レザーアーマーを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/68/Dialogue
+Handed over Leather Armor to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ちょっと　足りないみたいだね。
 ま　預かっておくよ……。
-> CONTEXT: Map011/events/1/pages/4/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/287/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/457/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/81/Dialogue
+> CONTEXT: Map011/events/1/pages/4/150/Dialogue
+> CONTEXT: Map011/events/1/pages/4/287/Dialogue
+> CONTEXT: Map011/events/1/pages/4/457/Dialogue
+\\NAME[\\n[11]]
+It's not quite enough yet.
+Well, I'll hold onto it for you...
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　レザーアーマーを　渡した！
 現在　\\V[161]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map011/events/1/pages/4/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/88/Dialogue
+Delivered Leather Armor to \\N[11]!
+\\V[161] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 現状　\\V[161]個　納品してるけど
 あと　\\V[41]個　必要なんだよね。
-> CONTEXT: Map011/events/1/pages/4/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/100/Dialogue
+\\NAME[\\n[11]]
+We have \\V[161] so far,
+we need \\V[41] more.
 > END STRING
 
 > BEGIN STRING
@@ -637,141 +667,161 @@ Stop teasing!
 > BEGIN STRING
 \\N[11]に　ブロンズメイスを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/137/Dialogue
+Handed Bronze Mace to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　ブロンズメイスを　渡した！
 現在　\\V[162]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map011/events/1/pages/4/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/157/Dialogue
+Handed Bronze Mace to \\N[11]!
+\\V[162] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 現状　\\V[162]個　納品してるけど
 あと　\\V[41]個　必要なんだよね。
-> CONTEXT: Map011/events/1/pages/4/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/169/Dialogue
+\\NAME[\\n[11]]
+We have \\V[162] so far,
+we need \\V[41] more.
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　貘の直毛を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/201/Dialogue
+Delivered Baku's Straight Hair to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 スケイルメイルif(!s[124]&&s[121])
-> CONTEXT: Map011/events/1/pages/4/221/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/221/Choice/0
+Scalemailif(!s[124]&&s[121])
 > END STRING
 
 > BEGIN STRING
 戦球　×３if(!s[125]&&s[122])
-> CONTEXT: Map011/events/1/pages/4/221/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/221/Choice/1
+Battle Ball ×３if(!s[125]&&s[122])
 > END STRING
 
 > BEGIN STRING
 逆鱗if(!s[126]&&s[123])
-> CONTEXT: Map011/events/1/pages/4/221/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/221/Choice/2
+Wrathif(!s[126]&&s[123])
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　スケイルメイルを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/236/Dialogue
+Delivered Scale Mail to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　戦球を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/274/Dialogue
+Handed Battle Ball to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　戦球を　渡した！
 現在　\\V[163]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map011/events/1/pages/4/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/294/Dialogue
+Handed Battle Ball to \\N[11]!
+\\V[163] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 現状　\\V[163]個　納品してるけど
 あと　\\V[41]個　必要なんだよね。
-> CONTEXT: Map011/events/1/pages/4/306/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/306/Dialogue
+\\NAME[\\n[11]]
+We have \\V[163] so far,
+we need \\V[41] more.
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　逆鱗を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/338/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/338/Dialogue
+Handed over Wrath to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 オグルシールドif(!s[127]&&s[124])
-> CONTEXT: Map011/events/1/pages/4/358/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/358/Choice/0
+Ogre Shieldif(!s[127]&&s[124])
 > END STRING
 
 > BEGIN STRING
 ムジョルニアif(!s[128]&&s[125])
-> CONTEXT: Map011/events/1/pages/4/358/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/358/Choice/1
+Mjölnirif(!s[128]&&s[125])
 > END STRING
 
 > BEGIN STRING
 地獄の邪核　×４if(!s[129]&&s[126])
-> CONTEXT: Map011/events/1/pages/4/358/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/358/Choice/2
+Evil Hell Core ×４if(!s[129]&&s[126])
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　オグルシールドを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/373/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/373/Dialogue
+Handed Ogre Shield to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　ムジョルニアを　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/406/Dialogue
+Handed Mjölnir to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　地獄の邪核を　渡した！
 謝礼を　受け取った！
-> CONTEXT: Map011/events/1/pages/4/444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/444/Dialogue
+Handed the Evil Hell Core to \\N[11]!
+Received a reward!
 > END STRING
 
 > BEGIN STRING
 \\N[11]に　地獄の邪核を　渡した！
 現在　\\V[164]個　納品済みだ！
 あと　\\V[41]個　必要のようだ！
-> CONTEXT: Map011/events/1/pages/4/464/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/464/Dialogue
+Handed over Evil Hell Core to \\N[11]!
+\\V[164] delivered so far!
+\\V[41] more needed!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 現状　\\V[164]個　納品してるけど
 あと　\\V[41]個　必要なんだよね。
-> CONTEXT: Map011/events/1/pages/4/476/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/476/Dialogue
+\\NAME[\\n[11]]
+We have \\V[164] so far,
+we need \\V[41] more.
 > END STRING
 
 > BEGIN STRING

@@ -518,8 +518,8 @@ All enemies were stanned!
 
 > BEGIN STRING
 フロア内の邪気が　殺気を強めた！
-> CONTEXT: Commonevents/55/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/55/7/Dialogue
+The Jaqi on this floor are murderous!
 > END STRING
 
 > BEGIN STRING
@@ -530,8 +530,8 @@ The Jaqi on the floor was ready to kill!
 
 > BEGIN STRING
 フロア内の邪気を　釘付けにした！
-> CONTEXT: Commonevents/56/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/7/Dialogue
+Jaqi on this floor were pinned down!
 > END STRING
 
 > BEGIN STRING
@@ -542,8 +542,8 @@ The Jaqi on the floor was nailed!
 
 > BEGIN STRING
 敵陣を　麻痺させた！
-> CONTEXT: Commonevents/56/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/56/22/Dialogue
+Enemies were paralyzed!
 > END STRING
 
 > BEGIN STRING
@@ -554,8 +554,8 @@ All enemies were paralyzed!
 
 > BEGIN STRING
 音を殺して　走ることができる！
-> CONTEXT: Commonevents/57/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/57/5/Dialogue
+You can run silently!
 > END STRING
 
 > BEGIN STRING
@@ -566,8 +566,8 @@ You can walk around killing the sound!
 
 > BEGIN STRING
 瓶の中から　煙がモクモク　立ち上がる！
-> CONTEXT: Commonevents/58/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/58/1/Dialogue
+Smoke billows out of the bottle!
 > END STRING
 
 > BEGIN STRING
@@ -1694,7 +1694,7 @@ who doesn't care about details?
 いつも　失くすんだよね。
 あんたは　失くし物　しない方？
 > CONTEXT: Commonevents/111/361/Dialogue
-NAME[11]]
+\\NAME[\\n[11]]
 Whenever I give something to \\n[12],
 she always loses it. Are you the type 
 who doesn't lose things?
@@ -1852,7 +1852,7 @@ don't worry about it, okay?!
 \\NAME[\\n[11]]
 U-um... Don't worry about it!
 Yeah, yeah, don't worry about it.
-Now, let's pull ourselves together and move forward!
+Now, let's pull ourselves together!
 > END STRING
 
 > BEGIN STRING
@@ -1908,7 +1908,7 @@ It's not a big deal, really.
 アレ　気になった？
 > CONTEXT: Commonevents/111/795/Dialogue
 \\NAME[\\n[11]]
-By the way, there are those succubus monsters 
+By the way, there are those succubi 
 that attack you in the maze, right?
 Did they pique your interest?
 > END STRING
@@ -2030,7 +2030,7 @@ lots of memories there?
 \\NAME[\\n[11]]
 Slathering mustard on frankfurters, 
 going to a haunted house and a play... 
-and confessing feelings at the after-party♪
+confessing feelings at the after-party♪
 > END STRING
 
 > BEGIN STRING

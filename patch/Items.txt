@@ -435,7 +435,7 @@ A slightly cool, bright blue gel core
 > BEGIN STRING
 紫ゲル核
 > CONTEXT: Items/33/name/
-Violet Gel Nucleus
+Purple Gel Nucleus
 > END STRING
 
 > BEGIN STRING
@@ -1290,6 +1290,7 @@ Evil Demon Womb Core
 〘換金素材〙
 第３層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/173/description/
+[For Selling]
 The core of a monster from the 3rd layer
 > END STRING
 
@@ -1303,6 +1304,7 @@ Evil Ruins Core
 〘換金素材〙
 第４層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/174/description/
+[For Selling]
 The core of a monster from the 4th layer
 > END STRING
 
@@ -1316,6 +1318,7 @@ Evil Fiction Core
 〘換金素材〙
 第５層を徘徊する凶悪な魔物の　コア部分
 > CONTEXT: Items/175/description/
+[For Selling]
 The core of a monster from the 5th layer
 > END STRING
 
@@ -1733,7 +1736,7 @@ Gain temporary blessing of the wind spirit
 > BEGIN STRING
 土の精霊薬
 > CONTEXT: Items/224/name/
-Earth spirit Potion
+Earth Spirit Potion
 > END STRING
 
 > BEGIN STRING

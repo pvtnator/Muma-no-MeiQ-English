@@ -6262,21 +6262,22 @@ Chant a curse and unleash it
 
 > BEGIN STRING
 クイックワン
-> CONTEXT: Skills/465/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/465/name/
+Quick One
 > END STRING
 
 > BEGIN STRING
 〘単:AGI*\\C[9]Ｄ\\C[0]+凡素材強奪〙\\i[30]
 素早く懐に入り　条件無しアイテムを奪う
-> CONTEXT: Skills/465/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/465/description/
+[Single: AGI*\\C[9]D\\C[0]+Steal Common] \\i[30]
+Quickly get close and steal an item
 > END STRING
 
 > BEGIN STRING
 の　クイックワン！
-> CONTEXT: Skills/465/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/465/message1/
+ did a Quick One!
 > END STRING
 
 > BEGIN STRING
@@ -8570,8 +8571,8 @@ Body Slam
 
 > BEGIN STRING
 の　尻尾でぶった斬る！
-> CONTEXT: Skills/613/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/613/message1/
+ chopped with its tail!
 > END STRING
 
 > BEGIN STRING
@@ -8618,8 +8619,8 @@ Cold Air
 
 > BEGIN STRING
 の　尻尾でぶっ叩く！
-> CONTEXT: Skills/617/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/617/message1/
+ hit with its tail!
 > END STRING
 
 > BEGIN STRING
@@ -8685,13 +8686,13 @@ Tentacle Whip
 > BEGIN STRING
 燃え盛って体当たり
 > CONTEXT: Skills/631/name/
-Burn and Charge
+Burn Charge
 > END STRING
 
 > BEGIN STRING
 の　燃え盛って体当たり！
 > CONTEXT: Skills/631/message1/
- charged while burning!
+ unleashed Burn Charge!
 > END STRING
 
 > BEGIN STRING
@@ -8708,14 +8709,14 @@ Frost Charge
 
 > BEGIN STRING
 稲光って体当たり
-> CONTEXT: Skills/633/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/633/name/
+Lightning Charge!
 > END STRING
 
 > BEGIN STRING
 の　稲光って体当たり！
-> CONTEXT: Skills/633/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/633/message1/
+ unleashed Lightning Charge!
 > END STRING
 
 > BEGIN STRING
@@ -9060,7 +9061,7 @@ Earnest Walk
 > BEGIN STRING
 は　痺れ舌で舐め回した！
 > CONTEXT: Skills/656/message1/
- licked all over with numbing tongue!
+ licked with numbing tongue!
 > END STRING
 
 > BEGIN STRING
@@ -9728,14 +9729,14 @@ Cybernet
 
 > BEGIN STRING
 死神の目
-> CONTEXT: Skills/701/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/701/name/
+Eye of the Reaper
 > END STRING
 
 > BEGIN STRING
 は　目の取引をした！
-> CONTEXT: Skills/701/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/701/message1/
+ made a deal for an eye!
 > END STRING
 
 > BEGIN STRING
@@ -10114,8 +10115,8 @@ as if to warn of danger!
 
 > BEGIN STRING
 の　恐ろしく速い手刀！
-> CONTEXT: Skills/728/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/728/message1/
+ used a terrifyingly fast hand chop!
 > END STRING
 
 > BEGIN STRING
@@ -10303,14 +10304,14 @@ used Poly Demon Vortex!
 
 > BEGIN STRING
 リング砲
-> CONTEXT: Skills/744/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/744/name/
+Ring Cannon
 > END STRING
 
 > BEGIN STRING
 の　リング砲！
-> CONTEXT: Skills/744/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/744/message1/
+ used Ring Cannon!
 > END STRING
 
 > BEGIN STRING
