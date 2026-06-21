@@ -65,7 +65,7 @@ Analyze all enemies
 > BEGIN STRING
 \\B溶液の飛沫が　魔物たちを解析する！
 > CONTEXT: Skills/6/message1/
-\\\\BSplashes of the solution analyze the monsters!
+\\\\B Splashes of solution analyze the monsters!
 > END STRING
 
 > BEGIN STRING
@@ -3574,7 +3574,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B斬撃で反撃！
 > CONTEXT: Skills/291/message1/
-\\\\BCounterattack with a slash!
+\\\\B Counterattack with a slash!
 > END STRING
 
 > BEGIN STRING
@@ -3586,7 +3586,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B刺突で反撃！
 > CONTEXT: Skills/292/message1/
-\\\\BCounterattack with a thrust!
+\\\\B Counterattack with a thrust!
 > END STRING
 
 > BEGIN STRING
@@ -3598,7 +3598,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B殴打で反撃！
 > CONTEXT: Skills/293/message1/
-\\\\BCounterattack with a strike!
+\\\\B Counterattack with a strike!
 > END STRING
 
 > BEGIN STRING
@@ -3619,7 +3619,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B炎が　舞い踊る！
 > CONTEXT: Skills/294/message1/
-\\\\BFlames dance around!
+\\\\B Flames dance around!
 > END STRING
 
 > BEGIN STRING
@@ -3631,7 +3631,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B雹が　舞い降る！
 > CONTEXT: Skills/295/message1/
-\\\\BHail is falling!
+\\\\B Hail is falling!
 > END STRING
 
 > BEGIN STRING
@@ -3643,7 +3643,7 @@ Attack with the sound of a loud performance
 > BEGIN STRING
 \\B雷が　舞い狂う！
 > CONTEXT: Skills/296/message1/
-\\\\BThunder is raging!
+\\\\B Thunder is raging!
 > END STRING
 
 > BEGIN STRING
@@ -7671,7 +7671,7 @@ Show a predicted fate to demoralize
 > BEGIN STRING
 \\B推理合戦が　巻き起こる！
 > CONTEXT: Skills/555/message1/
-\\\\BA battle of wits is about to begin!
+\\\\B A battle of wits is about to begin!
 > END STRING
 
 > BEGIN STRING
@@ -7708,7 +7708,7 @@ Show a predicted fate to demoralize
 > BEGIN STRING
 \\B眩い光が　敵陣を照らす！
 > CONTEXT: Skills/557/message1/
-\\\\BA dazzling light illuminates the enemies!
+\\\\B Dazzling light illuminates the enemies!
 > END STRING
 
 > BEGIN STRING
@@ -8009,7 +8009,7 @@ Show a predicted fate to demoralize
 > BEGIN STRING
 \\B悪意の衝撃波が　襲い掛かる！
 > CONTEXT: Skills/579/message1/
-\\\\BA shockwave of malice is coming!
+\\\\B Shockwave of malice is coming!
 > END STRING
 
 > BEGIN STRING
@@ -8029,7 +8029,7 @@ A riff sharpens allies and drives enemies mad
 > BEGIN STRING
 \\Bグルーヴに　ノリが出てきた！
 > CONTEXT: Skills/580/message1/
-\\\\BThe groove is starting to hit!
+\\\\B The groove is starting to hit!
 > END STRING
 
 > BEGIN STRING
@@ -8219,7 +8219,7 @@ EX足技
 > BEGIN STRING
 \\B驚愕に値する　高度で複雑なフレーズだ！
 > CONTEXT: Skills/590/message1/
-\\\\BAn astonishingly advanced and complex phrase!
+\\\\B Astonishingly advanced and complex phrase!
 > END STRING
 
 > BEGIN STRING
@@ -9752,7 +9752,7 @@ Cybernet
 > BEGIN STRING
 \\B名前と寿命が　解読可能に！
 > CONTEXT: Skills/702/message1/
-\\\\BNames and lifespans can now be deciphered!
+\\\\B Names and details can now be seen!
 > END STRING
 
 > BEGIN STRING
@@ -10296,8 +10296,8 @@ used Poly Demon Vortex!
 
 > BEGIN STRING
 は　ロックフェスを開催！
-> CONTEXT: Skills/743/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/743/message1/
+ held a rock festival!
 > END STRING
 
 > BEGIN STRING
@@ -10539,8 +10539,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 紅き眼差し
-> CONTEXT: Skills/761/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/761/name/
+Crimson Gaze
 > END STRING
 
 > BEGIN STRING
@@ -10552,14 +10552,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　紅き眼差し！
-> CONTEXT: Skills/761/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/761/message1/
+ used Crimson Gaze!
 > END STRING
 
 > BEGIN STRING
 蒼き眼差し
-> CONTEXT: Skills/762/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/762/name/
+Blue Gaze
 > END STRING
 
 > BEGIN STRING
@@ -10571,14 +10571,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　蒼き眼差し！
-> CONTEXT: Skills/762/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/762/message1/
+ used Blue Gaze!
 > END STRING
 
 > BEGIN STRING
 群咲き眼差し
-> CONTEXT: Skills/763/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/763/name/
+Blooming Flower Gaze
 > END STRING
 
 > BEGIN STRING
@@ -10590,14 +10590,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　群咲き眼差し！
-> CONTEXT: Skills/763/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/763/message1/
+ used Blooming Flower Gaze!
 > END STRING
 
 > BEGIN STRING
 射貫き眼差し
-> CONTEXT: Skills/765/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/765/name/
+Piercing Gaze
 > END STRING
 
 > BEGIN STRING
@@ -10609,14 +10609,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　射貫き眼差し！
-> CONTEXT: Skills/765/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/765/message1/
+ used Piercing Gaze!
 > END STRING
 
 > BEGIN STRING
 ディオニゲイズ
-> CONTEXT: Skills/767/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/767/name/
+Dionygaze
 > END STRING
 
 > BEGIN STRING
@@ -10628,14 +10628,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　ディオニゲイズ！
-> CONTEXT: Skills/767/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/767/message1/
+ used Dionygaze!
 > END STRING
 
 > BEGIN STRING
 アポロニゲイズ
-> CONTEXT: Skills/768/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/768/name/
+Apollonigaze
 > END STRING
 
 > BEGIN STRING
@@ -10647,8 +10647,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　アポロニゲイズ！
-> CONTEXT: Skills/768/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/768/message1/
+ used Apollonigaze!
 > END STRING
 
 > BEGIN STRING
@@ -10666,7 +10666,7 @@ Deal and take percentage based damage
 > BEGIN STRING
 \\B温かな陽光が　降り注ぐ！
 > CONTEXT: Skills/769/message1/
-\\\\BWarm sunlight pours down!
+\\\\B Warm sunlight pours down!
 > END STRING
 
 > BEGIN STRING
@@ -12552,8 +12552,8 @@ Protects all allies with butyric orchid membrane
 
 > BEGIN STRING
 の　目的テロス！
-> CONTEXT: Skills/920/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/920/message1/
+ used Strive For Telos!
 > END STRING
 
 > BEGIN STRING
@@ -12564,13 +12564,13 @@ Protects all allies with butyric orchid membrane
 
 > BEGIN STRING
 は　ページを手繰った！
-> CONTEXT: Skills/921/message1/ < UNTRANSLATED
-> CONTEXT: Skills/922/message1/ < UNTRANSLATED
-> CONTEXT: Skills/923/message1/ < UNTRANSLATED
-> CONTEXT: Skills/924/message1/ < UNTRANSLATED
-> CONTEXT: Skills/925/message1/ < UNTRANSLATED
-> CONTEXT: Skills/926/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/921/message1/
+> CONTEXT: Skills/922/message1/
+> CONTEXT: Skills/923/message1/
+> CONTEXT: Skills/924/message1/
+> CONTEXT: Skills/925/message1/
+> CONTEXT: Skills/926/message1/
+ turned pages!
 > END STRING
 
 > BEGIN STRING

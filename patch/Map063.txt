@@ -3,8 +3,10 @@
 風の意匠を象った　巨大な扉が
 行く手を　塞いでいる。
 突破しますか？
-> CONTEXT: Map063/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map063/events/2/pages/0/3/Dialogue
+A huge door with a wind design
+blocks the way.
+Do you want to break through?
 > END STRING
 
 > BEGIN STRING
@@ -17,22 +19,22 @@ Do you want to break through?
 
 > BEGIN STRING
 モウ　モドレナイ……。
-> CONTEXT: Map063/events/3/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/4/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map062/events/13/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/5/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/6/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/7/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/8/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/9/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/10/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/11/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/12/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/13/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/14/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/15/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/16/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/17/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map063/events/18/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map063/events/3/pages/1/0/Dialogue
+> CONTEXT: Map063/events/4/pages/1/0/Dialogue
+> CONTEXT: Map062/events/13/pages/1/0/Dialogue
+> CONTEXT: Map063/events/5/pages/1/0/Dialogue
+> CONTEXT: Map063/events/6/pages/1/0/Dialogue
+> CONTEXT: Map063/events/7/pages/1/0/Dialogue
+> CONTEXT: Map063/events/8/pages/1/0/Dialogue
+> CONTEXT: Map063/events/9/pages/1/0/Dialogue
+> CONTEXT: Map063/events/10/pages/1/0/Dialogue
+> CONTEXT: Map063/events/11/pages/1/0/Dialogue
+> CONTEXT: Map063/events/12/pages/1/0/Dialogue
+> CONTEXT: Map063/events/13/pages/1/0/Dialogue
+> CONTEXT: Map063/events/14/pages/1/0/Dialogue
+> CONTEXT: Map063/events/15/pages/1/0/Dialogue
+> CONTEXT: Map063/events/16/pages/1/0/Dialogue
+> CONTEXT: Map063/events/17/pages/1/0/Dialogue
+> CONTEXT: Map063/events/18/pages/1/0/Dialogue
+There's no turning back now...
 > END STRING

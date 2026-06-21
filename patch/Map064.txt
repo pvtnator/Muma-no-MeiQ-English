@@ -3,8 +3,10 @@
 土の意匠を象った　巨大な扉が
 行く手を　塞いでいる。
 突破しますか？
-> CONTEXT: Map064/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map064/events/2/pages/0/3/Dialogue
+A huge door with an earth design
+blocks the way.
+Do you want to break through?
 > END STRING
 
 > BEGIN STRING

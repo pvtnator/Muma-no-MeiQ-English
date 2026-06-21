@@ -4,8 +4,11 @@
 こいつが　ロゴスか……。
 確かに　この世の理を超えた
 とんでもない　力を感じる。
-> CONTEXT: Map065/events/1/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/8/Dialogue
+\\NAME[\\n[11]]
+So this is Logos...
+I sense an incredible power that 
+transcends the laws of this world.
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 世界を　書き換えちゃうほどの
 とんでもない　ラスボスさんと
 いよいよ　最終決戦だね！？
-> CONTEXT: Map065/events/1/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/14/Dialogue
+\\NAME[\\n[12]]
+It's finally time for the final battle 
+with the incredible final boss 
+who can rewrite the world!?
 > END STRING
 
 > BEGIN STRING
@@ -22,15 +28,19 @@
 ごっつ　醜悪なナリしとるで！？
 マジキチ外道の　ラスボスや！
 準備は　ええかーーー！？
-> CONTEXT: Map065/events/1/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/20/Dialogue
+\\NAME[\\n[13]]
+He looks hideous!? He's the truly 
+insane villain of a final boss!
+Are you readyーーー?!
 > END STRING
 
 > BEGIN STRING
 夢魔たちと共闘し　戦いを挑みますか？
-> CONTEXT: Map065/events/1/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/1/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/31/Dialogue
+> CONTEXT: Map065/events/1/pages/0/97/Dialogue
+Join forces with the succubi 
+and challenge it to battle?
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +48,11 @@
 なんでや！？
 ここまで来て　戦わんとか
 そんなん　無いやろーっ！？
-> CONTEXT: Map065/events/1/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/43/Dialogue
+\\NAME[\\n[13]]
+What?! You've come this far 
+and you're not going to fight?
+No way you're doing that!?
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +60,10 @@
 待ってっ！
 ……どうも　あんたからは
 強固な意志を　感じる。
-> CONTEXT: Map065/events/1/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/52/Dialogue
+\\NAME[\\n[11]]
+Wait!
+...I sense a strong will from you.
 > END STRING
 
 > BEGIN STRING
@@ -180,15 +195,19 @@
 その意気やー！
 おーっし！
 いてまえーーー！
-> CONTEXT: Map065/events/1/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/187/Dialogue
+\\NAME[\\n[13]]
+That's the spirit!
+Alright!
+Go for it!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 一緒に　頑張ろうね♪
-> CONTEXT: Map065/events/1/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/193/Dialogue
+\\NAME[\\n[12]]
+Let's do our best together♪
 > END STRING
 
 > BEGIN STRING
@@ -196,23 +215,29 @@
 こいつを　倒す……。
 倒す……倒す……
 そう　倒しさえすれば――
-> CONTEXT: Map065/events/1/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/197/Dialogue
+\\NAME[\\n[11]]
+We'll defeat this guy...
+Beat him... Beat him...
+Yes, if we just beat him—
 > END STRING
 
 > BEGIN STRING
 ロゴスは　自身の能力を割いて
 贈呈品と　超人能力の底上げを
 あなたに　施した！
-> CONTEXT: Map065/events/1/pages/1/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/1/62/Dialogue
+Logos has dedicated his abilities 
+to providing you with a gift and 
+enhancing your superhuman abilities!
 > END STRING
 
 > BEGIN STRING
 \\\>・・
 諸君は　選択をした──
-> CONTEXT: Map065/events/1/pages/1/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/1/77/Dialogue
+\\\>・・
+You have made your choice──
 > END STRING
 
 > BEGIN STRING
@@ -817,8 +842,10 @@
 ……なんだか　気が遠くなるほど
 長い道のりだったけど
 やっと　辿り着いたようだね。
-> CONTEXT: Map065/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/2/pages/0/3/Dialogue
+\\NAME[\\n[11]]
+...What a long journey,
+but it seems we've finally arrived.
 > END STRING
 
 > BEGIN STRING
@@ -826,8 +853,11 @@
 ここが　ロゴスさんのおうち
 なのかしら？　なんだか妙に
 スッキリ☆した　感じだけど。
-> CONTEXT: Map065/events/2/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/2/pages/0/9/Dialogue
+\\NAME[\\n[12]]
+Is this where Logos lives?
+It feels refreshingly☆ 
+clean and tidy.
 > END STRING
 
 > BEGIN STRING
@@ -835,8 +865,11 @@
 よう知らんけど　ウチらの調子も
 整っとるな〜。それに　ホレ！
 足下にも　出迎えの品があるで？
-> CONTEXT: Map065/events/2/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/2/pages/0/15/Dialogue
+\\NAME[\\n[13]]
+I don't know, but we're doing great〜. 
+And look! There's a welcome gift 
+at your feet, too!
 > END STRING
 
 > BEGIN STRING
@@ -867,8 +900,8 @@ welcome gifts under our feet!
 
 > BEGIN STRING
 色々　発見！
-> CONTEXT: Map065/events/2/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/2/pages/0/49/Dialogue
+Found various things!
 > END STRING
 
 > BEGIN STRING

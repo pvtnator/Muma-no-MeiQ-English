@@ -3,8 +3,10 @@
 火の意匠を象った　巨大な扉が
 行く手を　塞いでいる。
 突破しますか？
-> CONTEXT: Map061/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/2/pages/0/3/Dialogue
+A gigantic door with a fire design
+blocks your path.
+Will you break through?
 > END STRING
 
 > BEGIN STRING

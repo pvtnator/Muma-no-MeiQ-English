@@ -466,7 +466,7 @@
 > BEGIN STRING
 "%sの%sが　元通りに！"
 > CONTEXT: Scripts/Vocab/79:21
-"%s had %s go back to normal!"
+"%s regained %s!"
 > END STRING
 
 > BEGIN STRING
@@ -10729,8 +10729,8 @@
 
 > BEGIN STRING
 "%sを　見極めた！"
-> CONTEXT: Scripts/☆☆アナライズ/52:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/☆☆アナライズ/52:11
+"%s was identified!"
 > END STRING
 
 > BEGIN STRING

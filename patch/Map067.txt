@@ -1,196 +1,241 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 最初は　些細な　兆候からだった。
-> CONTEXT: Map067/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/15/Dialogue
+It started with small signs.
 > END STRING
 
 > BEGIN STRING
 夜の繁華街――とりわけ　若者たちが
 酒と色欲に　溺れる　そんな街角で。
-> CONTEXT: Map067/events/1/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/20/Dialogue
+In the bustling nightlife district—
+on the street corners where young people
+drown in alcohol and lust.
 > END STRING
 
 > BEGIN STRING
 度重なる　性犯罪の発生と　惨劇の風聞
 何人もの　失神者　心神喪失者
 そして　重傷者　死亡者の報告が
-> CONTEXT: Map067/events/1/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/23/Dialogue
+Repeated sexual assaults and tragedy.
+Many people fainted, lost their minds
+and some were seriously injured or died.
 > END STRING
 
 > BEGIN STRING
 はじめは　ぽつり　ぽつり
 次第に　あちら　こちらで
-> CONTEXT: Map067/events/1/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/27/Dialogue
+At first, a little here and there,
+and gradually, all over.
 > END STRING
 
 > BEGIN STRING
 まるで　ウイルス感染症の如く
 次々に伝播し　拡散し　瞬く間に
 全国各地に　それは　広まっていった。
-> CONTEXT: Map067/events/1/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/31/Dialogue
+Like an infection, it spread rapidly, 
+one person to another, and suddenly,
+it had spread throughout the country.
 > END STRING
 
 > BEGIN STRING
 明らかに　これは　おかしいと
 騒がれ始めたのは　著名人らの同時多発的
 変死事件が　報道された辺りで　ようやく
-> CONTEXT: Map067/events/1/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/35/Dialogue
+Only when simultaneous mysterious deaths 
+of celebrities were reported that people 
+began to notice that something was wrong.
 > END STRING
 
 > BEGIN STRING
 人類は　未曽有のハザードに直面してると
 メディアからの洗礼を　受けるかのように
 自覚しだすに　至ったのである。
-> CONTEXT: Map067/events/1/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/39/Dialogue
+Humanity came to realize, as if 
+receiving a baptism of fire from the media, 
+that it is facing an unprecedented hazard.
 > END STRING
 
 > BEGIN STRING
 街中で突然　奇声を上げたかと思えば
 手当たり次第に　異性へと　飛び掛かり
 衣服を剥ぎ取り　性器を剥き出しにし
-> CONTEXT: Map067/events/1/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/43/Dialogue
+Suddenly, in the streets, you could hear
+strange voices, jumping on anyone of the opposite
+sex, ripping their clothes, exposing genitals.
 > END STRING
 
 > BEGIN STRING
 抵抗すれば　腕力でもって屈服させ
 白昼堂々と　恐るべき強姦を繰り広げる。
 男も　女も　関係ないッ！
-> CONTEXT: Map067/events/1/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/47/Dialogue
+If you resist, you'll be overpowered with 
+brute force, and raped in broad daylight.
+Man or a woman, it's all the same!
 > END STRING
 
 > BEGIN STRING
 あちらこちらで　正気を失った民衆が
 圧倒的な　加害暴力の化身となって
 強姦を繰り広げる！　強姦殺人を！
-> CONTEXT: Map067/events/1/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/51/Dialogue
+Everywhere, people lose their minds and
+give in to overwhelming aggression and violence
+and commit rape! Rape and murder!
 > END STRING
 
 > BEGIN STRING
 女たちは　狂気に淀んだ瞳で
 視界に入る　男性たちの男根を
 飢えた野獣のように　奪い求めあう！
-> CONTEXT: Map067/events/1/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/56/Dialogue
+Eyes clouded with madness, the women, 
+like hungry beasts, devour and seize 
+the male organs that come into their sight!
 > END STRING
 
 > BEGIN STRING
 男たちは　道行く女たちを暴行して
 押し倒し　そのまま　鋼のような男根を
 突き刺して　無慈悲な膣内射精を行う！
-> CONTEXT: Map067/events/1/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/60/Dialogue
+The men assault women walking down the street,
+pushing down and thrusting their hard penises 
+into them, mercilessly ejaculating inside!
 > END STRING
 
 > BEGIN STRING
 もし異性がいなければ　同性を襲いだす！
 女は女に　襲い掛かり　秘部を摩擦し合い
 強き男は　弱き男の　肛門を掘削する！
-> CONTEXT: Map067/events/1/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/64/Dialogue
+If not opposite sex, even same sex will do!
+Women on women, rubbing private parts together.
+Strong men drill into the anuses of weaker men!
 > END STRING
 
 > BEGIN STRING
 暴力！　暴力！　暴力！　容赦なき暴力！
 自制心　倫理観　道徳心　そんなものは
 どこを見渡しても　存在していない！
-> CONTEXT: Map067/events/1/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/68/Dialogue
+Violence! Violence! Ruthless violence!
+Self-control, ethics, morality—
+none of those exist anywhere you look!
 > END STRING
 
 > BEGIN STRING
 全国各地で巻き起こる　信じられぬ痴態と
 あるまじき猟奇的な強姦殺人に対し
 政府の動きは終始　後手に回るばかりで
-> CONTEXT: Map067/events/1/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/72/Dialogue
+Faced with utterly horrific rape and murder 
+unfolding across the country, the government 
+is consistently reactive and behind the curve.
 > END STRING
 
 > BEGIN STRING
 当初予定していた　国際的スポーツ大会を
 何が何でも開催実現させる為に　全集中し
 具体的な対策も　打ち出さず
-> CONTEXT: Map067/events/1/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/77/Dialogue
+They focused on the planned international 
+sports event to happen no matter what, 
+and did not implement any concrete measures.
 > END STRING
 
 > BEGIN STRING
 季節性インフルエンザか　ともすれば
 若者たちの流行か　何かだと　この事態を
 深刻に受け止めることに　甚だ及び腰で
-> CONTEXT: Map067/events/1/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/81/Dialogue
+They were hesitant to take this situation 
+seriously, like it's just seasonal influenza 
+or an epidemic among young people.
 > END STRING
 
 > BEGIN STRING
 苦しみもがき死んでいく民衆の声も聞かず
 大会の開催を最優先に――その利潤をのみ
 最優先にして　現状を軽視するばかり。
-> CONTEXT: Map067/events/1/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/85/Dialogue
+Ignoring the suffering, struggling, and dying, 
+they prioritized the tournament above all else—
+disregarding the situation in favor of profits.
 > END STRING
 
 > BEGIN STRING
 慎重に慎重に　検討に検討を重ねると
 壊れた機械人形のように　念仏を繰り返し
 張り子の虎そのものの空虚な物言いを続け
-> CONTEXT: Map067/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/91/Dialogue
+With great care and consideration, they continued 
+their empty pronouncements like a broken record, 
+repeating the same mantra over and over.
 > END STRING
 
 > BEGIN STRING
 その裏で　官僚や閣僚たちは　我先にと
 自己保身の為の行動を　最優先させ
 地下シェルター　国外退避　隔離政策
-> CONTEXT: Map067/events/1/pages/0/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/95/Dialogue
+Behind the scenes, bureaucrats and cabinet ministers, 
+took action for their own self-preservation, implementing 
+underground shelters, evacuation, and quarantine policies.
 > END STRING
 
 > BEGIN STRING
 築き上げた財と地位を　固守する為に
 苦しみもがき死んでいく　民衆の命など
 何一つ　顧みようとはしない態度。
-> CONTEXT: Map067/events/1/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/99/Dialogue
+Clinging to the wealth and status they have, 
+they show no regard whatsoever for the lives 
+of the people who suffer, struggle, and die.
 > END STRING
 
 > BEGIN STRING
 が　そうした国家の指導者たちの迷走など
 取るに足らない　児戯に過ぎなかった。
 ――そう　夢魔たちにとっては。
-> CONTEXT: Map067/events/1/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/105/Dialogue
+But the missteps of those national leaders 
+were nothing more than child's play.
+――At least, to the succubi.
 > END STRING
 
 > BEGIN STRING
 人類が如何なる対策を講じようと　もはや
 夢魔たちの侵攻を　防衛し対抗する余地は
 何一つ　残されていなかった。
-> CONTEXT: Map067/events/1/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/109/Dialogue
+No matter what measures humanity took, 
+there was no longer any way to defend against 
+or resist the invasion of the succubi.
 > END STRING
 
 > BEGIN STRING
 何故なら　全ての人々の理性――ロゴスは
 既に　破壊されてしまっていたからだ。
-> CONTEXT: Map067/events/1/pages/0/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/113/Dialogue
+Because the reason of all people,
+Logos, had already been destroyed.
 > END STRING
 
 > BEGIN STRING
 ――そう　人類の集合意識として選ばれた
 あなた自身の手によって！
-> CONTEXT: Map067/events/1/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/122/Dialogue
+...Yes, as the collective consciousness 
+of humanity, by your own hands!
 > END STRING
 
 > BEGIN STRING
@@ -215,129 +260,158 @@
 故に　論理も秩序も　もはや　どこにも
 残されていない！　人々は夢魔たちの放つ
 邪気に　無抵抗の状態で　感染・汚染し
-> CONTEXT: Map067/events/1/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/144/Dialogue
+Therefore, logic and order are no more! 
+People are contaminated without resistance 
+by the evil energy emanating from the succubi.
 > END STRING
 
 > BEGIN STRING
 仕事も　勉学も　家庭も　趣味も　目標も
 何もかもを忘れ去り　ただ心を狂わせる
 欲情のままに　暴虐を繰り返すのみ！
-> CONTEXT: Map067/events/1/pages/0/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/148/Dialogue
+Work, studies, family, hobbies, goals—
+all forgotten, driven solely by lust,
+commiting repeated acts of violence!
 > END STRING
 
 > BEGIN STRING
 道端で　女が　数人の見知らぬ男たちに
 圧し潰されて　凌辱され続けていく
 ……その命が　奪われるまで！
-> CONTEXT: Map067/events/1/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/159/Dialogue
+On the roadside, a woman is squashed and 
+repeatedly raped by several strangers
+...until her life is gone!
 > END STRING
 
 > BEGIN STRING
 狂乱の女が　見知らぬ男の男根を
 限度を越えて扱き続け　しまいには
 引き千切って　鮮血が舞い散る！
-> CONTEXT: Map067/events/1/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/163/Dialogue
+A frenzied woman strokes a stranger's penis 
+beyond all limits, ultimately tearing it off, 
+sending blood flying everywhere!
 > END STRING
 
 > BEGIN STRING
 老人が　襲われている！
 幼き子らが　四肢をもがれていく！
 動物たちが　そそくさと逃げ出していく。
-> CONTEXT: Map067/events/1/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/167/Dialogue
+Old men are being attacked!
+Children are having their limbs torn off!
+Animals are fleeing in a panic.
 > END STRING
 
 > BEGIN STRING
 性衝動の過剰暴走――種の保存の極致は
 他者への殺人動機！　究極の自我暴発で
 犯し合い　殺し合う　亡者たちの群れ！
-> CONTEXT: Map067/events/1/pages/0/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/171/Dialogue
+Excessive outburst of sexual urge――preservation 
+of the species is a motive for murder! Mindless 
+horde, raping and killing in ultimate self-indulgence!
 > END STRING
 
 > BEGIN STRING
 情報発信機器が　機能を停止した頃には
 人々の間で　安楽死の思想が流布され
 すっかり　定着しきっていた。
-> CONTEXT: Map067/events/1/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/176/Dialogue
+By the time the communication devices ceased 
+functioning, accepting death had spread 
+among people and became completely entrenched.
 > END STRING
 
 > BEGIN STRING
 誰かが警鐘を鳴らしても　大多数の人々は
 なるようになろう　なるようになろう
 このまま悦と楽に溺れて　死んでしまおう
-> CONTEXT: Map067/events/1/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/180/Dialogue
+Even if someone calls for help, most
+will think, "Whatever happens, happens,"
+"Let's just drown in pleasure and die."
 > END STRING
 
 > BEGIN STRING
 曇りきった瞳で　崩壊の時を受け入れ
 脳内を犯されて　命を散らす間際にも
 受動的な救済を　夢想するばかり。
-> CONTEXT: Map067/events/1/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/184/Dialogue
+With clouded eyes, accepting collapse, minds 
+invaded, they can only fantasize about passive 
+salvation even as their lives are about to end.
 > END STRING
 
 > BEGIN STRING
 あなたは　どうだ！？
-> CONTEXT: Map067/events/1/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/190/Dialogue
+What about you?!
 > END STRING
 
 > BEGIN STRING
 誰も　責任を問う者はいない。
 ただ　あなただけは　その経験から
 かろうじて　五体無事を保っていた。
-> CONTEXT: Map067/events/1/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/192/Dialogue
+No one held anyone accountable.
+Only you, however, managed to survive, 
+albeit barely, thanks to your experience.
 > END STRING
 
 > BEGIN STRING
 日常が狂い出してから　指数関数的に
 最多記録を更新していく　死傷者の統計を
 数えるともなく　数えながら
-> CONTEXT: Map067/events/1/pages/0/216/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/216/Dialogue
+Since life began to go awry, casualties 
+have been exponentially increasing, 
+breaking new records just like that.
 > END STRING
 
 > BEGIN STRING
 今日もあなたは　暴力的な色欲に支配され
 性衝動以外を持ち合わせぬ　殺人鬼たちに
 命を狙われながら　怯え隠れて街を歩く。
-> CONTEXT: Map067/events/1/pages/0/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/220/Dialogue
+You walk the streets in fear of murderers 
+who are controlled by violent lust 
+and possess nothing but sexual urges.
 > END STRING
 
 > BEGIN STRING
 暴徒と化した　彼ら彼女らを　首尾よく
 避けれても　夢魔たちが　あなたの
 生存への活路を　頑として塞ぐ！
-> CONTEXT: Map067/events/1/pages/0/229/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/229/Dialogue
+Even if you avoid that mob, 
+the succubi stubbornly 
+block your path to survival!
 > END STRING
 
 > BEGIN STRING
 理性や論理は　既に　破壊されてしまって
 夢魔たちの支配から　逃れる術はない！
-> CONTEXT: Map067/events/1/pages/0/294/Dialogue < UNTRANSLATED
-> CONTEXT: Map067/events/1/pages/0/307/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/294/Dialogue
+> CONTEXT: Map067/events/1/pages/0/307/Dialogue
+Reason and logic have already been destroyed, 
+and there is no way to escape 
+the control of the succubi!
 > END STRING
 
 > BEGIN STRING
 何度……やり直しても　この結果は
 変わらない！
-> CONTEXT: Map067/events/1/pages/0/310/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/310/Dialogue
+No matter how many times you try, 
+the end result will not change!
 > END STRING
 
 > BEGIN STRING
 何度……\\C[6]CONTINUE\\C[0]しても！
-> CONTEXT: Map067/events/1/pages/0/313/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/1/pages/0/313/Dialogue
+However many times you \\C[6]CONTINUE\\C[0]!
 > END STRING

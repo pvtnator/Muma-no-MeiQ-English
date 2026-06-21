@@ -25,12 +25,12 @@
 
 > BEGIN STRING
 \\NAME[ロゴス]知は　力なり。
-> CONTEXT: Troops/4/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/650/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/831/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/832/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/833/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/1/2/Dialogue
+> CONTEXT: Troops/650/pages/0/3/Dialogue
+> CONTEXT: Troops/831/pages/0/9/Dialogue
+> CONTEXT: Troops/832/pages/0/9/Dialogue
+> CONTEXT: Troops/833/pages/0/9/Dialogue
+\\NAME[LOGOS]Scientia est potentia.
 > END STRING
 
 > BEGIN STRING
@@ -3096,17 +3096,19 @@ Dammy<BGM:1\>
 
 > BEGIN STRING
 ノームドア
-> CONTEXT: Troops/646/name/ < UNTRANSLATED
-> CONTEXT: Enemies/846/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/646/name/
+> CONTEXT: Enemies/846/name/
+Gnomedoor
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ヒヒヒ♪　そろそろ　何が何だか
 ようわからんくなってきたな〜。
-> CONTEXT: Troops/646/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/646/pages/0/3/Dialogue
+\\NAME[\\n[13]]
+Hehehe♪ It's starting to get hard 
+to understand what's going on〜.
 > END STRING
 
 > BEGIN STRING
@@ -3114,16 +3116,21 @@ Dammy<BGM:1\>
 この扉さんは　土気色なのかしら？
 ってことは　君のお仲間さんね♪
 ドシンドシン　叩いてあげましょ♪
-> CONTEXT: Troops/646/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/646/pages/0/7/Dialogue
+\\NAME[\\n[12]]
+Is this door the color of earth?
+That means it's one of your friends♪
+Let's knock on it loud and hard♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 火。水。風？　……そして　土？
 四つの扉を　壊した先には………………。
-> CONTEXT: Troops/646/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/646/pages/0/12/Dialogue
+\\NAME[\\n[11]]
+Fire. Water. Wind? ...And Earth?
+What could be beyond these doors...?
 > END STRING
 
 > BEGIN STRING
@@ -3155,8 +3162,8 @@ doors...
 > BEGIN STRING
 ノームドアから　プシュケーが
 失われた！
-> CONTEXT: Troops/646/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/646/pages/2/3/Dialogue
+Gnomedoor lost its psyche!
 > END STRING
 
 > BEGIN STRING
@@ -3170,17 +3177,19 @@ Psyche was lost from a door!
 
 > BEGIN STRING
 シルフィドア
-> CONTEXT: Troops/647/name/ < UNTRANSLATED
-> CONTEXT: Enemies/847/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/647/name/
+> CONTEXT: Enemies/847/name/
+Sylphdoor
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 あら！？　今度の扉さんは……
 これは　どういう顔色なのかしら？
-> CONTEXT: Troops/647/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/647/pages/0/3/Dialogue
+\\NAME[\\n[12]]
+Oh!? This time, Mr. Door is...
+What kind of expression is this?
 > END STRING
 
 > BEGIN STRING
@@ -3188,8 +3197,11 @@ Psyche was lost from a door!
 火……水……と来て　次は風？　確か
 人間たちの西の方の国で　四元素って
 ……あれ？　じゃあ　雷って風なの？
-> CONTEXT: Troops/647/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/647/pages/0/7/Dialogue
+\\NAME[\\n[11]]
+Fire...water...and wind? In the western 
+human world, they speak of 4 elements...
+...Wait? So, is thunder wind?
 > END STRING
 
 > BEGIN STRING
@@ -3197,8 +3209,11 @@ Psyche was lost from a door!
 一つ　言っとくと　風は緑ちゃうで？
 灰色やで？　あと　雷は紫やで！
 こいつ　ごっちゃなっとるなー！
-> CONTEXT: Troops/647/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/647/pages/0/12/Dialogue
+\\NAME[\\n[13]]
+Just so you know, wind isn't green!
+It's gray! And lightning is purple!
+This guy's all mixed up!
 > END STRING
 
 > BEGIN STRING
@@ -3230,37 +3245,43 @@ I don't care what the humans think.
 > BEGIN STRING
 シルフィドアから　プシュケーが
 失われた！
-> CONTEXT: Troops/647/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/647/pages/2/3/Dialogue
+Sylphdoor lost its psyche!
 > END STRING
 
 > BEGIN STRING
 ウンディードア
-> CONTEXT: Troops/648/name/ < UNTRANSLATED
-> CONTEXT: Enemies/848/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/648/name/
+> CONTEXT: Enemies/848/name/
+Undidoor
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 今度は　水氷属性のドアってこと！？
-> CONTEXT: Troops/648/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/648/pages/0/3/Dialogue
+\\NAME[\\n[11]]
+So this time it's a 
+water/ice attribute door!?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 \\n[12]の出番やな！　キンキンに冷えた
 冷や水　浴びせたれー！
-> CONTEXT: Troops/648/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/648/pages/0/6/Dialogue
+\\NAME[\\n[13]]
+It's \\n[12]'s turn!
+Douse some ice-cold water on it!
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 ふふふ♪　任せてっ　任せてっ♪
-> CONTEXT: Troops/648/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/648/pages/0/10/Dialogue
+\\NAME[\\n[12]]
+Hehehe♪ Leave it to me, 
+leave it to me♪
 > END STRING
 
 > BEGIN STRING
@@ -3288,37 +3309,42 @@ All right, I've got it!
 > BEGIN STRING
 ウンディードアから　プシュケーが
 失われた！
-> CONTEXT: Troops/648/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/648/pages/2/3/Dialogue
+Undidoor lost its psyche!
 > END STRING
 
 > BEGIN STRING
 サラマンドア
-> CONTEXT: Troops/649/name/ < UNTRANSLATED
-> CONTEXT: Enemies/849/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/649/name/
+> CONTEXT: Enemies/849/name/
+Salamandoor
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 火炎属性のプロっちゅう顔　しとるな。
-> CONTEXT: Troops/649/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/649/pages/0/3/Dialogue
+\\NAME[13]]
+Looks like a fire-attack user.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 でも逆に　お得意の火炎属性で
 攻めてあげたら　いいのかも？
-> CONTEXT: Troops/649/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/649/pages/0/6/Dialogue
+\\NAME[\\n[12]]
+But on the other hand, would it be 
+better to attack with the very same
+element, fire?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 それなら　あたしの出番だねっ！
-> CONTEXT: Troops/649/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/649/pages/0/10/Dialogue
+\\NAME[\\n[11]]
+Then it's my turn!
 > END STRING
 
 > BEGIN STRING
@@ -3348,8 +3374,8 @@ Well, that's my cue!
 > BEGIN STRING
 サラマンドアから　プシュケーが
 失われた！
-> CONTEXT: Troops/649/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/649/pages/2/3/Dialogue
+Salamdoor lost its psyche!
 > END STRING
 
 > BEGIN STRING
@@ -3360,9 +3386,9 @@ Well, that's my cue!
 
 > BEGIN STRING
 深紅の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/650/pages/12/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/0/14/Dialogue
+> CONTEXT: Troops/650/pages/12/12/Dialogue
+Red eye begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3374,18 +3400,18 @@ Red eye start to move!
 
 > BEGIN STRING
 ロゴスは　破壊された！
-> CONTEXT: Troops/650/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/830/pages/5/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/831/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/832/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/833/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/2/0/Dialogue
+> CONTEXT: Troops/830/pages/5/0/Dialogue
+> CONTEXT: Troops/831/pages/2/0/Dialogue
+> CONTEXT: Troops/832/pages/2/0/Dialogue
+> CONTEXT: Troops/833/pages/2/0/Dialogue
+Logos has been destroyed!
 > END STRING
 
 > BEGIN STRING
 純白の唇が　動き出す！
-> CONTEXT: Troops/650/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/3/11/Dialogue
+White mouth begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3396,8 +3422,8 @@ White mouth start to move!
 
 > BEGIN STRING
 翠緑の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/4/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/4/12/Dialogue
+Green eye begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3408,8 +3434,8 @@ Green eye start to move!
 
 > BEGIN STRING
 鉄錆の唇が　動き出す！
-> CONTEXT: Troops/650/pages/5/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/5/12/Dialogue
+Brown mouth begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3420,8 +3446,8 @@ Brown mouth start to move!
 
 > BEGIN STRING
 蒼海の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/6/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/6/12/Dialogue
+Blue eye begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3432,8 +3458,8 @@ Blue eye start to move!
 
 > BEGIN STRING
 漆黒の唇が　動き出す！
-> CONTEXT: Troops/650/pages/7/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/7/12/Dialogue
+Black mouth begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3444,8 +3470,8 @@ Black mouth start to move!
 
 > BEGIN STRING
 紫桜の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/8/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/8/12/Dialogue
+Purple eye begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3456,8 +3482,8 @@ Purple eye start to move!
 
 > BEGIN STRING
 灰霞の唇が　動き出す！
-> CONTEXT: Troops/650/pages/9/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/9/12/Dialogue
+Gray mouth begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3468,8 +3494,8 @@ Gray mouth start to move!
 
 > BEGIN STRING
 夜陰の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/10/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/10/12/Dialogue
+Dark eye begun to move!
 > END STRING
 
 > BEGIN STRING
@@ -3480,8 +3506,8 @@ Dark eye start to move!
 
 > BEGIN STRING
 天日の瞳が　動き出す！
-> CONTEXT: Troops/650/pages/11/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/650/pages/11/12/Dialogue
+Sunny eye begun to move!
 > END STRING
 
 > BEGIN STRING

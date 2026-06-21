@@ -4,8 +4,11 @@
 でかしたで〜〜〜♪　あんちゃ〜ん♪
 ようやったなぁ〜♪
 ホンマ　ようやったなぁ〜♪
-> CONTEXT: Map066/events/2/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/13/Dialogue
+\\NAME[\\n[13]]
+You did it〜〜〜♪ My cutie〜♪
+You did a great job〜♪
+Really, what a great job〜♪
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 すごい　すごい！　君ったら　ホントに
 あのロゴスさんを　壊しちゃったんだね♪
 とっても　とっても　エライよ〜〜〜♪
-> CONTEXT: Map066/events/2/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/23/Dialogue
+\\NAME[\\n[12]]
+Wow, wow! You really
+broke that Logos♪
+You're so, so great〜〜〜♪
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +28,11 @@
 そう……。あんたが　破壊したんだよね。
 あたしたちも　手伝いはしたけど
 結局は　あんたが……。
-> CONTEXT: Map066/events/2/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/33/Dialogue
+\\NAME[\\n[11]]
+That's right... You're the one 
+who did it. We helped too, but
+In the end, it was you...
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +40,11 @@
 つまり……………………。
 \\\>・・・　・・・・・・・・・\\<
 これは　あんたが選んだ結果であって――
-> CONTEXT: Map066/events/2/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/39/Dialogue
+\\NAME[\\n[11]]
+In other words.......
+\\\>・・・　・・・・・・・・・\\<
+This is the result of your choice――
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +66,11 @@
 ホンマ　ようやってくれたな〜。
 これで　やっと　ウチらも
 好き勝手できるようなったわ〜。
-> CONTEXT: Map066/events/2/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/93/Dialogue
+\\NAME[\\n[13]]
+You really did a great job〜.
+Now we can finally do 
+whatever we want〜.
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +78,11 @@
 私たち　本当に　困っていたんだよ？
 だから　君の力を　借りるしかなかった。
 君の意志で　やってもらうしかなかった。
-> CONTEXT: Map066/events/2/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/101/Dialogue
+\\NAME[\\n[12]]
+We were really in trouble, you know?
+That's why we had to ask for your help.
+You had to do it of your own free will.
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +90,11 @@
 何度も　あんたに　確認したよね？
 その都度　あんたは　選択したんだ。
 この結果を……あんたは　選択したんだ。
-> CONTEXT: Map066/events/2/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/109/Dialogue
+\\NAME[\\n[11]]
+I asked you many times, didn't I?
+Each time, you made a choice.
+You chose this result...
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +102,11 @@
 ウチらを夢界中心に呼んで　仲魔として
 従えて　ロゴスを　破壊したんや。
 他でもない……人間の意志で！
-> CONTEXT: Map066/events/2/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/117/Dialogue
+\\NAME[\\n[13]]
+You summoned us to Central Realms of Reverie, 
+made us your allies, and destroyed Logos. 
+By none other than...human will!
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +114,11 @@
 だからもう　どうすることもできない。
 この結果を　今更　変えることも
 やり直すことも　もう　できないの。
-> CONTEXT: Map066/events/2/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/125/Dialogue
+\\NAME[\\n[12]]
+There's nothing more that can be done.
+It's too late to change this result now,
+and to start over.
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +126,11 @@
 全ては　あんたが――ノームの姿を借りて
 人類の集合意識として　選ばれたあんたが
 選択してしまったことなんだから……。
-> CONTEXT: Map066/events/2/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/133/Dialogue
+\\NAME[\\n[11]]
+It's all because you—chosen as the collective 
+consciousness of humanity by taking on the 
+form of a gnome—you made the choice...
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +138,11 @@
 ごっそさ〜ん♪　もし　生きとったら
 また　セクロス☆させたるわ〜♪
 今度は　死ぬまでコースでな！
-> CONTEXT: Map066/events/2/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/142/Dialogue
+\\NAME[\\n[13]]
+Thanks〜♪ If you're still alive, 
+I'll let you have sex with me again♪ 
+This time until you die!
 > END STRING
 
 > BEGIN STRING
@@ -117,8 +150,11 @@
 気を悪くさせちゃったかしら？　でもね
 私たちも　こうするしかなかったんだよ？
 大変だと思うけど　がんばってね。
-> CONTEXT: Map066/events/2/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/154/Dialogue
+\\NAME[\\n[12]]
+Are you upset? But you know,
+we had no other choice.
+I know it's tough, but hang in there.
 > END STRING
 
 > BEGIN STRING
@@ -141,15 +177,19 @@
 弁解はしないよ。あんたを利用した。
 それは事実だからね。あたしたちだって
 生き残る為には　こうするしか――
-> CONTEXT: Map066/events/2/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/168/Dialogue
+\\NAME[\\n[11]]
+I won't make excuses. I used you.
+That's the truth. We too had no 
+choice but to do this in order to survive—
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 でも……
-> CONTEXT: Map066/events/2/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/173/Dialogue
+\\NAME[\\n[11]]
+But...
 > END STRING
 
 > BEGIN STRING
@@ -157,8 +197,11 @@
 でも……あたしは　どこかで　悪いと
 思ってはいた……。今となっては
 ただの言い訳にしか　聞こえないけど。
-> CONTEXT: Map066/events/2/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/177/Dialogue
+\\NAME[\\n[11]]
+But...somewhere deep down, I knew 
+it was wrong... Now, it just 
+sounds like an excuse.
 > END STRING
 
 > BEGIN STRING
@@ -166,13 +209,16 @@
 だから　もし　どこかで　あたしたちに
 会うことがあったなら　その時は……
 遠慮なく……殺してくれていい。
-> CONTEXT: Map066/events/2/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/186/Dialogue
+\\NAME[\\n[11]]
+So, if you ever happen to meet us 
+somewhere, then...don't hesitate... 
+feel free to kill us.
 > END STRING
 
 > BEGIN STRING
 そんなことが　本当に　できればの
 話……だけどね。
-> CONTEXT: Map066/events/2/pages/0/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/2/pages/0/196/Dialogue
+Assuming you're able...
 > END STRING

@@ -5130,24 +5130,30 @@ may be necessary...of course, in good taste!
 オンラインゲームで　知り合った
 年下の男子学生に　猥褻な行為を
 行ったとして　20代の女が逮捕された。
-> CONTEXT: Commonevents/196/573/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/573/Dialogue
+A woman in her 20s has been arrested for 
+committing indecent acts against a younger 
+male student she met through an online game.
 > END STRING
 
 > BEGIN STRING
 だが　この記事に対するコメントには
 不謹慎な意見だとは　弁えつつも
 やはり　歪んだ羨望も　見受けられる。
-> CONTEXT: Commonevents/196/577/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/577/Dialogue
+However, among the comments on this article, 
+despite acknowledging it may be inapproriate,
+there are hints of perverted envy.
 > END STRING
 
 > BEGIN STRING
 年上の女性から　所謂　筆卸しを
 施されたと　事件を捉える
 男性は――
-> CONTEXT: Commonevents/196/581/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/581/Dialogue
+A man who sees the incident as 
+"taken for the first time" 
+by an older woman said—
 > END STRING
 
 > BEGIN STRING
@@ -5155,8 +5161,11 @@ may be necessary...of course, in good taste!
 まったく羨ま――けしからん事件です！
 年上のお姉さんに……畜生ッ！
 なんで　俺じゃないんだぁ！！！
-> CONTEXT: Commonevents/196/586/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/586/Dialogue
+\\NAME[Commentator]
+This is absolutely outrageous!
+With an older woman...damn it!
+Why wasn't it me!!!
 > END STRING
 
 > BEGIN STRING

@@ -3,8 +3,10 @@
 まるで　脊髄からの　伝達のように
 「ここを超えたら　もう戻れない」
 ──そう　確信する。
-> CONTEXT: Map028/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/5/pages/1/1/Dialogue
+As if a signal was coming from my spine,
+"Once I cross here, there's no turning back."
+──I was absolutely certain of it.
 > END STRING
 
 > BEGIN STRING
@@ -17,8 +19,8 @@ like a message from the spinal cord.
 
 > BEGIN STRING
 この下へと　降りていきますか？
-> CONTEXT: Map028/events/5/pages/1/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/5/pages/1/25/Dialogue
+Do you want to go this way?
 > END STRING
 
 > BEGIN STRING
@@ -32,8 +34,11 @@ Do you want to go down this way?
 待って。こっから先は
 いよいよ　ヤバいって話……。
 覚悟と準備は　できてる？
-> CONTEXT: Map028/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/3/Dialogue
+\\NAME[\\n[11]]
+Wait. From here on,
+things get really dangerous...
+Are you ready and prepared?
 > END STRING
 
 > BEGIN STRING
@@ -41,8 +46,11 @@ Do you want to go down this way?
 \\C[6]アイテムも　使えないし
 装備の変更も　できなくなる\\C[0]
 ……かもしれないから
-> CONTEXT: Map028/events/7/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/9/Dialogue
+\\NAME[\\n[12]]
+\\C[6]You won't be able to use items, 
+or change your equipment either.\\C[0]
+...Maybe
 > END STRING
 
 > BEGIN STRING
@@ -50,8 +58,11 @@ Do you want to go down this way?
 あんちゃん……そんな装備で
 ホンマに　大丈夫かー！？
 気張っていくで〜！
-> CONTEXT: Map028/events/7/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map028/events/7/pages/0/15/Dialogue
+\\NAME[\\n[13]]
+Hey cutie... are you really sure 
+you'll be okay with that equipment!?
+Let's do our best〜!
 > END STRING
 
 > BEGIN STRING

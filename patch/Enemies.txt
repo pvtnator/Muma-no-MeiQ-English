@@ -835,168 +835,168 @@ Cosmic Tardigrade
 
 > BEGIN STRING
 ニクタラシ
-> CONTEXT: Enemies/211/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/211/name/
+Nikutarashi
 > END STRING
 
 > BEGIN STRING
 夜ノ鎌鼬
-> CONTEXT: Enemies/212/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/212/name/
+Night Weasel
 > END STRING
 
 > BEGIN STRING
 デスケルトン
-> CONTEXT: Enemies/213/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/213/name/
+Death Skeleton
 > END STRING
 
 > BEGIN STRING
 黄鮫
-> CONTEXT: Enemies/214/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/214/name/
+Yellow Shark
 > END STRING
 
 > BEGIN STRING
 蜥蜴騎士
-> CONTEXT: Enemies/215/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/215/name/
+Lizard Knight
 > END STRING
 
 > BEGIN STRING
 マイコトキシン
-> CONTEXT: Enemies/216/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/216/name/
+Mycotoxins
 > END STRING
 
 > BEGIN STRING
 狂犯者
-> CONTEXT: Enemies/217/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/217/name/
+Mad Criminal
 > END STRING
 
 > BEGIN STRING
 バイオモコシュ
-> CONTEXT: Enemies/219/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/219/name/
+Bio Mocosh
 > END STRING
 
 > BEGIN STRING
 デューンワーム
-> CONTEXT: Enemies/221/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/221/name/
+Dune Worm
 > END STRING
 
 > BEGIN STRING
 メルヴィル
-> CONTEXT: Enemies/222/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/222/name/
+Melville
 > END STRING
 
 > BEGIN STRING
 電気羊
-> CONTEXT: Enemies/223/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/223/name/
+Electric Sheep
 > END STRING
 
 > BEGIN STRING
 エギウェッグ
-> CONTEXT: Enemies/229/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/229/name/
+Egiweg
 > END STRING
 
 > BEGIN STRING
 悪色男夢魔
-> CONTEXT: Enemies/231/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/231/name/
+Evil Incubus
 > END STRING
 
 > BEGIN STRING
 悪色女夢魔
-> CONTEXT: Enemies/232/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/232/name/
+Evil Succubus
 > END STRING
 
 > BEGIN STRING
 語りうるもの
-> CONTEXT: Enemies/650/name/ < UNTRANSLATED
-> CONTEXT: Enemies/651/name/ < UNTRANSLATED
-> CONTEXT: Enemies/652/name/ < UNTRANSLATED
-> CONTEXT: Enemies/653/name/ < UNTRANSLATED
-> CONTEXT: Enemies/654/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/650/name/
+> CONTEXT: Enemies/651/name/
+> CONTEXT: Enemies/652/name/
+> CONTEXT: Enemies/653/name/
+> CONTEXT: Enemies/654/name/
+Untold Thing
 > END STRING
 
 > BEGIN STRING
 悲劇のミュトス
-> CONTEXT: Enemies/801/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/801/name/
+Tragedy Mythos
 > END STRING
 
 > BEGIN STRING
 喜劇のミュトス
-> CONTEXT: Enemies/802/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/802/name/
+Comedy Mythos
 > END STRING
 
 > BEGIN STRING
 学術のミュトス
-> CONTEXT: Enemies/803/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/803/name/
+Science Mythos
 > END STRING
 
 > BEGIN STRING
 恐怖のミュトス
-> CONTEXT: Enemies/804/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/804/name/
+Horror Mythos
 > END STRING
 
 > BEGIN STRING
 狂気のミュトス
-> CONTEXT: Enemies/805/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/805/name/
+Mad Mythos
 > END STRING
 
 > BEGIN STRING
 絶望のミュトス
-> CONTEXT: Enemies/806/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/806/name/
+Despair Mythos
 > END STRING
 
 > BEGIN STRING
 炎魔アッシェ
-> CONTEXT: Enemies/814/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/814/name/
+Flame Demon Asche
 > END STRING
 
 > BEGIN STRING
 氷魔ベラ
-> CONTEXT: Enemies/815/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/815/name/
+Ice Demon Bella
 > END STRING
 
 > BEGIN STRING
 雷魔キュミュ
-> CONTEXT: Enemies/816/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/816/name/
+Lightning Demon Cumu
 > END STRING
 
 > BEGIN STRING
 現界男夢魔
-> CONTEXT: Enemies/821/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/821/name/
+Reality Incubus
 > END STRING
 
 > BEGIN STRING
 現界女夢魔
-> CONTEXT: Enemies/822/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/822/name/
+Reality Succubus
 > END STRING
 
 > BEGIN STRING
 死後硬直
-> CONTEXT: Enemies/845/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/845/name/
+Rigor Mortis
 > END STRING
 
 > BEGIN STRING

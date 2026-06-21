@@ -2,96 +2,110 @@
 > BEGIN STRING
 クルナ　クルナ　クルナ　クルナ
 クルナ　クルナ　クルナ　クルナ……
-> CONTEXT: Map070/events/1/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/1/2/Dialogue
+Come Come Come Come 
+Come Come Come Come...
 > END STRING
 
 > BEGIN STRING
 コワイ　コワイ　コワイ　コワイ
 コワイ　コワイ　コワイ　コワイ……
-> CONTEXT: Map070/events/1/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/3/1/Dialogue
+Scary Scary Scary Scary 
+Scary Scary Scary Scary...
 > END STRING
 
 > BEGIN STRING
 ドコヘ　ドコヘ　ドコヘ　ドコヘ
 ドコヘ　ドコヘ　ドコヘ　ドコヘ
 ドコヘ　ドコヘ　ドコヘ　ドコヘ
-> CONTEXT: Map070/events/1/pages/5/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/5/1/Dialogue
+Where Where Where Where
+Where Where Where Where
+Where Where Where Where
 > END STRING
 
 > BEGIN STRING
 ナゼダ　ナゼダ　ナゼダ　ナゼダ
 ナゼダ　ナゼダ　ナゼダ　ナゼダ
 ナゼダ　ナゼダ　ナゼダ　ナゼダ
-> CONTEXT: Map070/events/1/pages/7/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/1/Dialogue
+Why Why Why Why
+Why Why Why Why
+Why Why Why Why
 > END STRING
 
 > BEGIN STRING
 モ
-> CONTEXT: Map070/events/1/pages/7/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/7/Dialogue
+G-
 > END STRING
 
 > BEGIN STRING
 モドセ
-> CONTEXT: Map070/events/1/pages/7/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/9/Dialogue
+Give it back
 > END STRING
 
 > BEGIN STRING
 モドセ　モドセ　モドセ　モドセ
 モドセ　モドセ　モドセ　モドセ
 モドセ　モドセ　モドセ　モドセ
-> CONTEXT: Map070/events/1/pages/7/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/1/pages/7/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/1/pages/7/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/12/Dialogue
+> CONTEXT: Map070/events/1/pages/7/16/Dialogue
+> CONTEXT: Map070/events/1/pages/7/20/Dialogue
+Give it back Give it back Give it back.
+Give it back Give it back Give it back
+Give it back Give it back Give it back
 > END STRING
 
 > BEGIN STRING
 ダレダ　ダレダ　ダレダ　ダレダ
 ダレダ　ダレダ　ダレダ　ダレダ
 ダレダ　ダレダ　ダレダ　ダレダ
-> CONTEXT: Map070/events/1/pages/7/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/25/Dialogue
+Who are you Who are you Who are you
+Who are you Who are you Who are you
+Who are you Who are you Who are you
 > END STRING
 
 > BEGIN STRING
 ダレ？　ダレ？　ダレ？　ダレ？
 ダレ？　ダレ？　ダレ？　ダレ？
 ダレ？　ダレ？　ダレ？　ダレ？
-> CONTEXT: Map070/events/1/pages/7/30/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/1/pages/7/34/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/1/pages/7/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/1/pages/7/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/7/30/Dialogue
+> CONTEXT: Map070/events/1/pages/7/34/Dialogue
+> CONTEXT: Map070/events/1/pages/7/38/Dialogue
+> CONTEXT: Map070/events/1/pages/7/42/Dialogue
+Who? Who? Who? Who?
+Who? Who? Who? Who?
+Who? Who? Who? Who?
 > END STRING
 
 > BEGIN STRING
 ダレダ？　ダレ？\\|\\^
-> CONTEXT: Map070/events/1/pages/10/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/10/10/Dialogue
+Who are you? Who?\\|\\^
 > END STRING
 
 > BEGIN STRING
 ダレダ？　ダレダ？
 ダレダ？　ダレダ？　ダレダ？
 ダレダ？　ダレダ？　ダレダ？　ダレダ？\\|\\^
-> CONTEXT: Map070/events/1/pages/10/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/10/12/Dialogue
+Who are you? 
+Who are you? Who are you?
+Who are you? Who are you? Who are you?\\|\\^
 > END STRING
 
 > BEGIN STRING
 オマエハ\\|\\|\\^
-> CONTEXT: Map070/events/1/pages/10/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/10/22/Dialogue
+You\\|\\|\\^
 > END STRING
 
 > BEGIN STRING
 ダ　レ　ダ　？\\|\\|\\^
-> CONTEXT: Map070/events/1/pages/10/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/1/pages/10/75/Dialogue
+W H O ?\\|\\|\\^
 > END STRING
