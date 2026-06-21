@@ -71,8 +71,11 @@ Wait!
 私たちには　協力したくない
 ……ってこと？
 ここまで　来たのに？
-> CONTEXT: Map065/events/1/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/58/Dialogue
+\\NAME[\\n[12]]
+You don't want to cooperate with us?
+...Is that what you mean?
+After we've come this far?
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +83,11 @@ Wait!
 何　言うてんねや！
 ウチらと　一緒に　このロゴス
 ボコすんやろー！？
-> CONTEXT: Map065/events/1/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/63/Dialogue
+\\NAME[\\n[13]]
+What are you talking about!
+You're going to beat up this 
+Logos with us, right?!
 > END STRING
 
 > BEGIN STRING
@@ -89,8 +95,11 @@ Wait!
 そしたら　気持ちの良いこと♡
 いっぱい　いっぱい
 できるようになるんだよ？
-> CONTEXT: Map065/events/1/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/68/Dialogue
+\\NAME[\\n[12]]
+Then you'll be able to do lots 
+and lots of things that feel good♡ 
+you know?
 > END STRING
 
 > BEGIN STRING
@@ -98,24 +107,31 @@ Wait!
 せや　せや！　あんちゃん
 ＳＥＸ好きなんやろ？　な？
 ＳＥＸしまくりたいんやろ？
-> CONTEXT: Map065/events/1/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/73/Dialogue
+\\NAME[\\n[13]]
+Yeah, yeah! Hey cutie,
+you like sex, right? Right?
+Wanna have lots of sex?
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……わかった。
 もう一度だけ　聞く。
-> CONTEXT: Map065/events/1/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/88/Dialogue
+\\NAME[\\n[11]]
+...I see.
+I'll ask one more time.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ……バレとったんか。
 まぁ　ええわ。
-> CONTEXT: Map065/events/1/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/127/Dialogue
+\\NAME[\\n[13]]
+...So you found out.
+Well, whatever.
 > END STRING
 
 > BEGIN STRING
@@ -123,8 +139,10 @@ Wait!
 別に　騙してるつもりは
 なかったんだけど……
 しょうがないよね。
-> CONTEXT: Map065/events/1/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/131/Dialogue
+\\NAME[\\n[12]]
+I didn't mean to deceive, 
+but...oh well.
 > END STRING
 
 > BEGIN STRING
@@ -132,8 +150,11 @@ Wait!
 ロゴスは　絶対的な定理の概念。
 それを人類の手で　破壊すれば
 あたしたち　魔族である夢魔が
-> CONTEXT: Map065/events/1/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/136/Dialogue
+\\NAME[\\n[11]]
+Logos is the concept of an absolute theorem.
+If humanity destroys it,
+we, the demons, the succubi...
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +162,10 @@ Wait!
 犯りたい放題　やれるんや！
 たとえ　人類なんか
 おらんくなってもな♪
-> CONTEXT: Map065/events/1/pages/0/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/141/Dialogue
+\\NAME[\\n[13]]
+We can do whatever we want!
+Even if humanity disappears♪
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +173,11 @@ Wait!
 でも　逆に　君が
 ロゴスさんの力を　借りて
 私たち　３人を　倒したら――
-> CONTEXT: Map065/events/1/pages/0/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/146/Dialogue
+\\NAME[\\n[12]]
+But on the other hand, if you
+borrow the power of Logos
+and defeat the three of us—
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +185,11 @@ Wait!
 あたしたち　サキュバスは
 人間世界への干渉が　金輪際
 できなくなり……滅亡する。
-> CONTEXT: Map065/events/1/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/151/Dialogue
+\\NAME[\\n[11]]
+We succubi will be completely unable 
+to interfere with the human world... 
+and will perish.
 > END STRING
 
 > BEGIN STRING
@@ -168,8 +197,11 @@ Wait!
 要するに　ウチらが覇権を取るか
 あんちゃんら　人間が生き残るか
 二つに一つ。
-> CONTEXT: Map065/events/1/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/156/Dialogue
+\\NAME[\\n[13]]
+In short, either we take over the world,
+or you humans survive,
+it's one or the other.
 > END STRING
 
 > BEGIN STRING
@@ -177,8 +209,11 @@ Wait!
 君が　人間世界の秩序を
 守りたいのなら……
 いいよ。戦いましょう。
-> CONTEXT: Map065/events/1/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/161/Dialogue
+\\NAME[\\n[12]]
+If you want to protect the order 
+of the human world...
+Fine. Let's fight.
 > END STRING
 
 > BEGIN STRING
@@ -186,8 +221,11 @@ Wait!
 手加減はしない。ロゴスを
 介在させた　勝敗の結果は
 絶対的なものになるから――
-> CONTEXT: Map065/events/1/pages/0/166/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/0/166/Dialogue
+\\NAME[\\n[11]]
+I won't hold back. Because the outcome 
+of the battle, with Logos intervening, 
+will be absolute.
 > END STRING
 
 > BEGIN STRING
@@ -228,7 +266,7 @@ Yes, if we just beat him—
 あなたに　施した！
 > CONTEXT: Map065/events/1/pages/1/62/Dialogue
 Logos has dedicated his abilities 
-to providing you with a gift and 
+to providing you with gifts and 
 enhancing your superhuman abilities!
 > END STRING
 
@@ -244,8 +282,10 @@ You have made your choice──
 ロゴスは　破壊され　あなたの敗北により
 人類は　夢魔たちに　敗北したと
 定義されてしまった。
-> CONTEXT: Map065/events/1/pages/2/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/2/61/Dialogue
+Logos has been destroyed, 
+and your defeat has defined humanity 
+as having been defeated by the succubi.
 > END STRING
 
 > BEGIN STRING
@@ -253,8 +293,10 @@ You have made your choice──
 悪かったね。
 あんたは　このまま
 自分の道を　進みなよ――
-> CONTEXT: Map065/events/1/pages/4/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/8/Dialogue
+\\NAME[\\n[11]]
+I'm sorry.
+Just continue on your own path.
 > END STRING
 
 > BEGIN STRING
@@ -273,8 +315,11 @@ You have made your choice──
 さようなら。
 せめて　君の　思い出の中に
 深く　沈めて――
-> CONTEXT: Map065/events/1/pages/4/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/38/Dialogue
+\\NAME[\\n[12]]
+Goodbye.
+At least let me sink deep 
+into your memories――
 > END STRING
 
 > BEGIN STRING
@@ -293,16 +338,21 @@ You have made your choice──
 ……ええわ。
 また　未来で　会おうな。
 あんちゃん――
-> CONTEXT: Map065/events/1/pages/4/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/68/Dialogue
+\\NAME[\\n[13]]
+...Okay.
+Let's meet again in the future.
+My cutie——
 > END STRING
 
 > BEGIN STRING
 すべては　選択である。
 汝　次の相手を　選べ。
 \\C[6]心を掛ける相手は　最後に残せ。\\C[0]
-> CONTEXT: Map065/events/1/pages/4/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/123/Dialogue
+It all comes down to choice.
+Choose your next opponent.
+\\C[6]Save the one you care about for last.\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -327,24 +377,30 @@ You have made your choice──
 \\NAME[\\n[11]]
 どいて……！
 次は　あたしが　相手をする。
-> CONTEXT: Map065/events/1/pages/4/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/133/Dialogue
+\\NAME[\\n[11]]
+Out of the way...!
+Next, it's my turn.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 危ないから　下がってて。
 私が　こらしめてあげるから。
-> CONTEXT: Map065/events/1/pages/4/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/150/Dialogue
+\\NAME[\\n[12]]
+Stay back, it's dangerous.
+I'll teach him a lesson.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ソコ　どきー！　ウチが
 ボッコボコに　してやんよ♪
-> CONTEXT: Map065/events/1/pages/4/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/4/167/Dialogue
+\\NAME[\\n[13]]
+Out of the way! 
+I'm gonna beat you to a pulp♪
 > END STRING
 
 > BEGIN STRING
@@ -357,8 +413,9 @@ You have made your choice──
 > BEGIN STRING
 \\NAME[\\n[11]]
 あたしも……　殺すの？
-> CONTEXT: Map065/events/1/pages/5/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/16/Dialogue
+\\NAME[\\n[11]]
+Are you...going to kill me too?
 > END STRING
 
 > BEGIN STRING
@@ -366,8 +423,11 @@ You have made your choice──
 ……そ。
 別に　いいけどさ。
 でも　その前に
-> CONTEXT: Map065/events/1/pages/5/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/22/Dialogue
+\\NAME[\\n[11]]
+...Yeah.
+I guess that's how it is.
+But before that...
 > END STRING
 
 > BEGIN STRING
@@ -375,8 +435,10 @@ You have made your choice──
 そ……そう？
 でも　日和らない方が
 良いと思うよ。
-> CONTEXT: Map065/events/1/pages/5/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/30/Dialogue
+\\NAME[\\n[11]]
+R-Really?
+But you shouldn't waver.
 > END STRING
 
 > BEGIN STRING
@@ -384,8 +446,11 @@ You have made your choice──
 この場合　日和るの意味は
 どっちか　わからないけど。
 じゃあ　せめて
-> CONTEXT: Map065/events/1/pages/5/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/35/Dialogue
+\\NAME[\\n[11]]
+In this case, I don't know
+what "waver" really stands for.
+Well then, at least
 > END STRING
 
 > BEGIN STRING
@@ -393,8 +458,10 @@ You have made your choice──
 あたしの話を……
 あたしたちの　話を
 聞いといてくれる？
-> CONTEXT: Map065/events/1/pages/5/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/46/Dialogue
+\\NAME[\\n[11]]
+My story...
+Will you listen to our story?
 > END STRING
 
 > BEGIN STRING
@@ -402,8 +469,11 @@ You have made your choice──
 ちょっと！？
 少しは　空気読め！
 良いから　聞きなさい！
-> CONTEXT: Map065/events/1/pages/5/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/57/Dialogue
+\\NAME[\\n[11]]
+Hey!?
+Read the room a little!
+Just listen!
 > END STRING
 
 > BEGIN STRING
@@ -411,8 +481,11 @@ You have made your choice──
 あたしたち　夢魔は
 知っての通り　人間の精気を
 せ……性欲を　糧としてる。
-> CONTEXT: Map065/events/1/pages/5/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/66/Dialogue
+\\NAME[\\n[11]]
+As you know, we succubi
+feed on human life force
+...sexual desire.
 > END STRING
 
 > BEGIN STRING
@@ -420,8 +493,11 @@ You have made your choice──
 サキュバスは　男の――
 インキュバスは　女の――
 性的な力を　糧として生きてる。
-> CONTEXT: Map065/events/1/pages/5/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/71/Dialogue
+\\NAME[\\n[11]]
+Succubus feeds on the sexual power of men—
+Incubus feeds on the sexual power of women—
+They live by feeding on their sexual power.
 > END STRING
 
 > BEGIN STRING
@@ -429,8 +505,11 @@ You have made your choice──
 その摂取方法を　上手くは
 説明できないけど　よく言われる
 夢の中……だけじゃなくて
-> CONTEXT: Map065/events/1/pages/5/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/76/Dialogue
+\\NAME[\\n[11]]
+I can't really explain how they take it, 
+but it's often said that
+...it's not just in dreams...
 > END STRING
 
 > BEGIN STRING
@@ -438,8 +517,11 @@ You have made your choice──
 日常の瞬間に　人間が発する
 せ……性欲や肉欲　色欲　つまり
 リビドーが　あたしたちの糧。
-> CONTEXT: Map065/events/1/pages/5/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/81/Dialogue
+\\NAME[\\n[11]]
+In everyday moments, humans emit
+...sexual desire, lust, in other words
+libido, which is our sustenance.
 > END STRING
 
 > BEGIN STRING
@@ -447,8 +529,11 @@ You have made your choice──
 でもさ。なんだか　ここ最近
 あんたら人間は　その欲望を
 やけに　抑圧してるよね？
-> CONTEXT: Map065/events/1/pages/5/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/86/Dialogue
+\\NAME[\\n[11]]
+But you know, lately, you humans 
+are suppressing your desires a lot, 
+aren't you?
 > END STRING
 
 > BEGIN STRING
@@ -456,8 +541,11 @@ You have made your choice──
 その抑圧は　本当に必要なの？
 理性で　何もかも　抑え付ける
 それが　人間として正しいの？
-> CONTEXT: Map065/events/1/pages/5/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/91/Dialogue
+\\NAME[\\n[11]]
+Is that suppression really necessary?
+Is it right for a human being to 
+suppress everything with reason?
 > END STRING
 
 > BEGIN STRING
@@ -465,8 +553,11 @@ You have made your choice──
 過度に　抑え付けた欲望は
 いずれ　爆発するんだよ。
 熱膨張みたいに
-> CONTEXT: Map065/events/1/pages/5/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/96/Dialogue
+\\NAME[\\n[11]]
+Desires that are excessively suppressed
+will eventually explode.
+Like thermal expansion.
 > END STRING
 
 > BEGIN STRING
@@ -474,8 +565,11 @@ You have made your choice──
 圧縮された欲望は　暴力と化し
 ある日　突然　暴発する。
 あたしたち夢魔も　同じ。
-> CONTEXT: Map065/events/1/pages/5/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/101/Dialogue
+\\NAME[\\n[11]]
+Compressed desires turn into violence,
+and one day, they suddenly explode.
+We succubi are the same.
 > END STRING
 
 > BEGIN STRING
@@ -483,8 +577,11 @@ You have made your choice──
 生き残る為に　あたしたちは
 人間界へと　爆進する！
 このままじゃ　飢えて死ぬだけ！
-> CONTEXT: Map065/events/1/pages/5/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/108/Dialogue
+\\NAME[\\n[11]]
+To survive, we must charge headfirst 
+into the human world! If we stay 
+like this, we'll just starve to death!
 > END STRING
 
 > BEGIN STRING
@@ -492,8 +589,11 @@ You have made your choice──
 恨むなら　過度な抑圧を強いる
 あんたら　人間自身を　恨め！
 あたしたちは　もう止まらない！
-> CONTEXT: Map065/events/1/pages/5/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/5/119/Dialogue
+\\NAME[\\n[11]]
+If you're going to hate someone, hate 
+yourself, humans, for excessive suppression!
+You can't stop us now!
 > END STRING
 
 > BEGIN STRING
@@ -507,8 +607,9 @@ You have made your choice──
 > BEGIN STRING
 \\NAME[\\n[12]]
 私のことも　殺しちゃうの？
-> CONTEXT: Map065/events/1/pages/6/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/16/Dialogue
+\\NAME[\\n[12]]
+Are you going to kill me too?
 > END STRING
 
 > BEGIN STRING
@@ -516,8 +617,11 @@ You have made your choice──
 ……そうなんだ。
 悲しいけれど　仕方ないね。
 でも　ちょっと待って？
-> CONTEXT: Map065/events/1/pages/6/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/22/Dialogue
+\\NAME[\\n[12]]
+...I see.
+It's sad, but it can't be helped.
+But wait a minute?
 > END STRING
 
 > BEGIN STRING
@@ -525,8 +629,10 @@ You have made your choice──
 あらあら。
 やっぱり　君って
 優しいのかな？
-> CONTEXT: Map065/events/1/pages/6/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/30/Dialogue
+\\NAME[\\n[12]]
+Oh my.
+Are you truly so kind?
 > END STRING
 
 > BEGIN STRING
@@ -534,8 +640,10 @@ You have made your choice──
 でも　この戦いは
 もう　止められないの。
 だけど　その前に
-> CONTEXT: Map065/events/1/pages/6/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/35/Dialogue
+\\NAME[\\n[12]]
+This battle is inevitable now.
+But before that...
 > END STRING
 
 > BEGIN STRING
@@ -543,8 +651,10 @@ You have made your choice──
 私のお話を……ううん
 私たちの　お話を
 聞いておいてくれるかな？
-> CONTEXT: Map065/events/1/pages/6/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/46/Dialogue
+\\NAME[\\n[12]]
+Would you listen to my...
+...no, our story?
 > END STRING
 
 > BEGIN STRING
@@ -552,8 +662,11 @@ You have made your choice──
 まぁ！　せっかちさんね！
 でも　ダ〜メ☆
 ちゃんと　聞きなさい？
-> CONTEXT: Map065/events/1/pages/6/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/57/Dialogue
+\\NAME[\\n[12]]
+Hey! You're so impatient!
+That's no good〜☆
+Listen carefully, okay?
 > END STRING
 
 > BEGIN STRING
@@ -561,8 +674,11 @@ You have made your choice──
 私たちは　夢魔。
 人間の性欲を　少しずつ
 貰って　生きている。
-> CONTEXT: Map065/events/1/pages/6/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/66/Dialogue
+\\NAME[\\n[12]]
+We are succubi.
+We survive by taking small amounts 
+of human sexual desire.
 > END STRING
 
 > BEGIN STRING
@@ -570,8 +686,11 @@ You have made your choice──
 でもね　ここ最近は
 めっきり　貰えなく
 なってきちゃってたの。
-> CONTEXT: Map065/events/1/pages/6/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/71/Dialogue
+\\NAME[\\n[12]]
+But lately,
+we haven't been 
+receiving them at all.
 > END STRING
 
 > BEGIN STRING
@@ -579,8 +698,11 @@ You have made your choice──
 これは　えっと……概念的？
 な　お話なんだけどね。
 人間界は　なんだか妙に
-> CONTEXT: Map065/events/1/pages/6/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/76/Dialogue
+\\NAME[\\n[12]]
+This is, well...a general thing?
+It's a story, you see.
+The human world is somehow strange
 > END STRING
 
 > BEGIN STRING
@@ -588,8 +710,11 @@ You have made your choice──
 えっち☆なことを　禁止にして
 何でもかんでも　ダ〜メよって
 凍結祭り　してたでしょ？
-> CONTEXT: Map065/events/1/pages/6/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/81/Dialogue
+\\NAME[\\n[12]] 
+Naughty☆ things were banned, saying 
+no to everything, coldly shaming
+others online?
 > END STRING
 
 > BEGIN STRING
@@ -597,8 +722,11 @@ You have made your choice──
 考えてみて？　人が生きるのに
 えっちなこと……つまり　性欲は
 必要不可欠なもののはずでしょ？
-> CONTEXT: Map065/events/1/pages/6/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/86/Dialogue
+\\NAME[\\n[12]]
+Think about it. For people to live,
+sex...that is, sexual desire must be 
+an indispensable thing, right?
 > END STRING
 
 > BEGIN STRING
@@ -606,8 +734,10 @@ You have made your choice──
 それを　禁止にするってことは
 自分たちで　滅びの道を
 選んでるようなものなんだよ。
-> CONTEXT: Map065/events/1/pages/6/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/91/Dialogue
+\\NAME[\\n[12]]
+To ban that would be like choosing 
+the path to destruction for yourselves.
 > END STRING
 
 > BEGIN STRING
@@ -615,8 +745,10 @@ You have made your choice──
 しかも　人間たちが　えっちじゃ
 なくなると　私たち夢魔は
 活動できなくなっちゃう。
-> CONTEXT: Map065/events/1/pages/6/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/96/Dialogue
+\\NAME[\\n[12]]
+Moreover, if humans stop being horny, 
+we succubi will be unable to function.
 > END STRING
 
 > BEGIN STRING
@@ -624,8 +756,11 @@ You have made your choice──
 だから　もう仕方ないから
 直接　私たちが　人間界に
 お邪魔して　世の中を
-> CONTEXT: Map065/events/1/pages/6/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/101/Dialogue
+\\NAME[\\n[12]]
+So, there's no other choice but 
+for us to directly enter the 
+human world and change it.
 > END STRING
 
 > BEGIN STRING
@@ -633,8 +768,11 @@ You have made your choice──
 えっちでいっぱいにしちゃう！
 そうすれば　人間たちは
 性欲に　支配されて
-> CONTEXT: Map065/events/1/pages/6/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/106/Dialogue
+\\NAME[\\n[12]]
+Fill them up with sex!
+That way, humans will be
+controlled by sexual desire
 > END STRING
 
 > BEGIN STRING
@@ -642,8 +780,11 @@ You have made your choice──
 獣以下の状態になって　やがて
 滅んじゃうけど　仕方ないよね？
 だって　そうなることを
-> CONTEXT: Map065/events/1/pages/6/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/113/Dialogue
+\\NAME[\\n[12]]
+We'll end up worse than animals and eventually
+perish, but there's nothing we can do about it.
+That's what's going to happen, you see?
 > END STRING
 
 > BEGIN STRING
@@ -651,8 +792,10 @@ You have made your choice──
 あなたたち　人間自身が
 選んだのだから。ね？
 ……さぁ　終わりにしてあげる！
-> CONTEXT: Map065/events/1/pages/6/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/6/124/Dialogue
+\\NAME[\\n[12]]
+You humans chose this yourselves, okay?
+...Now, let's put an end to this!
 > END STRING
 
 > BEGIN STRING
@@ -665,8 +808,9 @@ You have made your choice──
 > BEGIN STRING
 \\NAME[\\n[13]]
 ウチも　殺すんか？
-> CONTEXT: Map065/events/1/pages/7/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/16/Dialogue
+\\NAME[\\n[13]]
+Are you going to kill me too?
 > END STRING
 
 > BEGIN STRING
@@ -674,8 +818,11 @@ You have made your choice──
 うっひゃ☆
 雑魚のあんちゃんも
 言うよう　なったな〜。
-> CONTEXT: Map065/events/1/pages/7/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/22/Dialogue
+\\NAME[\\n[13]]
+Whoa☆
+Even a low-level cutie like you 
+is saying things like that now〜.
 > END STRING
 
 > BEGIN STRING
@@ -683,8 +830,10 @@ You have made your choice──
 ホンマか？　あんちゃん
 やっぱ　ウチのことだけは
 殺せへんて？
-> CONTEXT: Map065/events/1/pages/7/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/30/Dialogue
+\\NAME[\\n[13]]
+Really? My cutie,
+you still won't kill me?
 > END STRING
 
 > BEGIN STRING
@@ -692,8 +841,11 @@ You have made your choice──
 言うても　タイマン勝負は
 もう避けれへん。そんかし
 ちょい　前口上させてもらうわ。
-> CONTEXT: Map065/events/1/pages/7/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/35/Dialogue
+\\NAME[\\n[13]]
+Even so, a one-on-one fight is 
+unavoidable now. 
+But, let me explain first.
 > END STRING
 
 > BEGIN STRING
@@ -701,8 +853,11 @@ You have made your choice──
 とりま　今からネタバレすっから
 耳穴かっぽじって　ウチの話
 聞いとけ……な？
-> CONTEXT: Map065/events/1/pages/7/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/46/Dialogue
+\\NAME[\\n[13]]
+I'm going to spill the beans now, 
+so open your ears and listen to 
+what I have to say...okay?
 > END STRING
 
 > BEGIN STRING
@@ -710,8 +865,10 @@ You have made your choice──
 なんでや！？　どうせ
 断っても　喋り出すって
 分からんかったんか！？
-> CONTEXT: Map065/events/1/pages/7/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/57/Dialogue
+\\NAME[\\n[13]]
+What?! Didn't you realize that even if 
+you refused, I'd start talking anyway?!
 > END STRING
 
 > BEGIN STRING
@@ -719,8 +876,10 @@ You have made your choice──
 ウチら　夢魔には人間の
 エロエロ☆エネルギーが
 必要不可欠なんや。
-> CONTEXT: Map065/events/1/pages/7/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/66/Dialogue
+\\NAME[\\n[13]]
+To us succubi, erotic☆energy
+is absolutely essential.
 > END STRING
 
 > BEGIN STRING
@@ -728,8 +887,11 @@ You have made your choice──
 せやけど　人間の奴らて
 最近　めっちゃ　タブー
 増えとるよな？
-> CONTEXT: Map065/events/1/pages/7/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/71/Dialogue
+\\NAME[\\n[13]]
+But lately, humans have been 
+setting a lot more taboos, 
+haven't they?
 > END STRING
 
 > BEGIN STRING
@@ -737,8 +899,11 @@ You have made your choice──
 やれコンプラや！　やれ規制や！
 やれ性的搾取や　なんやかや。
 性的搾取は　ウチらのオハコや！
-> CONTEXT: Map065/events/1/pages/7/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/76/Dialogue
+\\NAME[\\n[13]]
+Oh, compliance! Oh, regulations!
+Oh, sexual exploitation and stuff.
+Sexual exploitation is their specialty!
 > END STRING
 
 > BEGIN STRING
@@ -746,8 +911,11 @@ You have made your choice──
 そないアホみたいなこと　ばっか
 しよるから　ウチらも困ってな。
 メシ食えへんから　いよいよ
-> CONTEXT: Map065/events/1/pages/7/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/81/Dialogue
+\\NAME[\\n[13]]
+Because you keep doing stupid things,
+we're having trouble with you.
+We can't even eat, so...
 > END STRING
 
 > BEGIN STRING
@@ -755,8 +923,10 @@ You have made your choice──
 直に　凸して　人間界を
 めっちゃめちゃにしたろ
 って　なったわけや！
-> CONTEXT: Map065/events/1/pages/7/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/86/Dialogue
+\\NAME[\\n[13]]
+We decided to go straight in 
+and mess up the human world!
 > END STRING
 
 > BEGIN STRING
@@ -764,8 +934,11 @@ You have made your choice──
 夢の世界にいる分にゃ　そりゃ
 大人しいもんやで？　でもな
 夢の世界から　現実の世界へ
-> CONTEXT: Map065/events/1/pages/7/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/91/Dialogue
+\\NAME[\\n[13]]
+Of course, it's all quiet in the 
+dream world, but to go from the 
+dream world to the real world...
 > END STRING
 
 > BEGIN STRING
@@ -773,8 +946,11 @@ You have made your choice──
 それこそ　理性と論理を支配する
 そのロゴス　ぶっ壊して
 カチコミしたら　どうなるか？
-> CONTEXT: Map065/events/1/pages/7/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/96/Dialogue
+\\NAME[\\n[13]]
+What would happen if we destroyed that 
+Logos that governs reason and logic
+and charged in?
 > END STRING
 
 > BEGIN STRING
@@ -782,8 +958,11 @@ You have made your choice──
 毒電波や！　皆アホなって
 狂い死ぬまで　性欲の奴隷や！
 な？　おもろいやろ？
-> CONTEXT: Map065/events/1/pages/7/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/103/Dialogue
+\\NAME[\\n[13]]
+A poisonous radio wave! Everyone goes crazy
+and becomes a slave to their sexual desires 
+until they die insane! See? Isn't that fun?
 > END STRING
 
 > BEGIN STRING
@@ -791,8 +970,11 @@ You have made your choice──
 そないおもろいこと　邪魔しちゃ
 あかんて！　分かったなら
 ウチに負けろや！　あんちゃん？
-> CONTEXT: Map065/events/1/pages/7/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/7/114/Dialogue
+\\NAME[\\n[13]]
+You shouldn't stop something that fun!
+If you understand that, then lose to me!
+Hey cutie?
 > END STRING
 
 > BEGIN STRING
@@ -800,8 +982,10 @@ You have made your choice──
 ……そ。
 これが　あんたの選んだ
 選択……。
-> CONTEXT: Map065/events/1/pages/8/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/8/5/Dialogue
+\\NAME[\\n[11]]
+...So.
+This is the choice you made...
 > END STRING
 
 > BEGIN STRING
@@ -809,8 +993,10 @@ You have made your choice──
 そう。
 これが　君の選んだ
 選択なのね……。
-> CONTEXT: Map065/events/1/pages/8/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/8/16/Dialogue
+\\NAME[\\n[12]]
+Yes.
+This is the choice you made...
 > END STRING
 
 > BEGIN STRING
@@ -818,23 +1004,28 @@ You have made your choice──
 ほーん。
 これが　あんちゃんの
 選択っちゅうわけか。
-> CONTEXT: Map065/events/1/pages/8/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/8/27/Dialogue
+\\NAME[\\n[13]]
+Hmm.
+So this is your choice, huh?
 > END STRING
 
 > BEGIN STRING
 魔物と化していた夢魔の　禍々しき邪気は
 すっかり消失し　元の麗しき姿へと
 戻った……
-> CONTEXT: Map065/events/1/pages/8/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/8/60/Dialogue
+The transforming Jaqi of the succubus
+completely vanished, returning to 
+original beautiful form...
 > END STRING
 
 > BEGIN STRING
 が　それは　同時に　彼女の命が
 果てゆくことを　意味していた――
-> CONTEXT: Map065/events/1/pages/8/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/1/pages/8/64/Dialogue
+But that also meant that 
+her life was coming to an end.
 > END STRING
 
 > BEGIN STRING

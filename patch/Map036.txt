@@ -70,108 +70,125 @@ right before you quit, didn't I?
 
 > BEGIN STRING
 何か……
-> CONTEXT: Map036/events/1/pages/2/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/23/Dialogue
+What...
 > END STRING
 
 > BEGIN STRING
 途方もなく　長い夢を　見ていたような
 ……気がする。
-> CONTEXT: Map036/events/1/pages/2/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/25/Dialogue
+Feels like it was an 
+incredibly long dream...
 > END STRING
 
 > BEGIN STRING
 だけど　あらゆる夢の記憶というものが
 そうであるように　長大な夢であっても
 今はもう　はっきりとは　思い出せない。
-> CONTEXT: Map036/events/1/pages/2/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/28/Dialogue
+But like all dreams, even long dreams, 
+you can no longer recall them clearly.
 > END STRING
 
 > BEGIN STRING
 しかし　この全身に　澄み渡る
 初春の陽射しのような　爽快感は
 一体　なんだろう？
-> CONTEXT: Map036/events/1/pages/2/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/32/Dialogue
+But what is this refreshing feeling that 
+permeates my entire body, 
+like the clear sunlight of early spring?
 > END STRING
 
 > BEGIN STRING
 まるで　世界が　書き変わって
 瑞々しく　刷新されたような……。
-> CONTEXT: Map036/events/1/pages/2/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/36/Dialogue
+It's as if the world has been rewritten
+and refreshed...
 > END STRING
 
 > BEGIN STRING
 ………………とにかく
 今日も　出掛けなくては。
-> CONTEXT: Map036/events/1/pages/2/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/39/Dialogue
+......Anyway,
+I have to go out again today.
 > END STRING
 
 > BEGIN STRING
 奇妙に――
-> CONTEXT: Map036/events/1/pages/2/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/47/Dialogue
+Strangely --
 > END STRING
 
 > BEGIN STRING
 この世界の何処か一部　一要素　一概念が
 生まれ変わったような
-> CONTEXT: Map036/events/1/pages/2/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/49/Dialogue
+It's as if a part of this world, 
+a single element, a single concept, 
+has been reborn.
 > END STRING
 
 > BEGIN STRING
 不確かな　リニューアルの空気感を
 感じるともなく　感じながら
-> CONTEXT: Map036/events/1/pages/2/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/52/Dialogue
+While vaguely sensing the uncertain 
+atmosphere of the change,
 > END STRING
 
 > BEGIN STRING
 あなたは　生気潑溂な肉体と頭脳で
 日々を　過ごしていった。
-> CONTEXT: Map036/events/1/pages/2/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/55/Dialogue
+You lived each day with 
+a vibrant body and mind.
 > END STRING
 
 > BEGIN STRING
 あなたの顔や姿を　目にした者が
 一時期よりも　だいぶ　健康そうに見える
 と評するほどに　輝かしい日々を――
-> CONTEXT: Map036/events/1/pages/2/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/58/Dialogue
+May your days be so brilliant that those 
+who see your face remark that you look 
+much healthier than you did before.
 > END STRING
 
 > BEGIN STRING
 そうして　連日のように
 悪夢のようなものを　見ていた
 誘惑の季節を　忘れた頃――
-> CONTEXT: Map036/events/1/pages/2/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/63/Dialogue
+And so, after forgetting the time of temptation, 
+during which there were nightmarish experiences 
+day after day—
 > END STRING
 
 > BEGIN STRING
 今日も　良い一日だった。
-> CONTEXT: Map036/events/1/pages/2/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/85/Dialogue
+Today was a good day.
 > END STRING
 
 > BEGIN STRING
 この充足感に　包まれながら
-> CONTEXT: Map036/events/1/pages/2/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/87/Dialogue
+While enveloped in this 
+feeling of contentment,
 > END STRING
 
 > BEGIN STRING
 寝よう。
 眠ろう……。
 おやすみ…………。
-> CONTEXT: Map036/events/1/pages/2/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/90/Dialogue
+Lie down.
+Go to sleep...
+Goodnight......
 > END STRING
 
 > BEGIN STRING

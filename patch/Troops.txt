@@ -3743,8 +3743,11 @@ Subdued \\n[13]!
 たとえ　ロゴスが　あんちゃんの味方
 しとっても　三人掛りなら　絶対勝つる！
 \\C[6]ロゴスさえ倒せば　ウチらの勝ち\\C[0]や！
-> CONTEXT: Troops/830/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/0/6/Dialogue
+\\NAME[\\n[13]]
+Even if Logos is on your side,
+three of us together, can definitely win!
+\\C[6]If we can just defeat Logos, we'll win!\\C[0]
 > END STRING
 
 > BEGIN STRING
@@ -3752,8 +3755,11 @@ Subdued \\n[13]!
 ……けど　３人で　戦うとなると
 属性が干渉しちゃって　全力モードには
 なれないね。単独でなら　まだしも……。
-> CONTEXT: Troops/830/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/0/11/Dialogue
+\\NAME[\\n[11]]
+...But when the three of us fight, our 
+attributes interfere, and can't go full power. 
+It would be different if I fought alone...
 > END STRING
 
 > BEGIN STRING
@@ -3761,8 +3767,10 @@ Subdued \\n[13]!
 \\C[6]お気に入りの子は　最後に取っておく\\C[0]
 でしょうから　まずは　３人で
 お相手しましょ！
-> CONTEXT: Troops/830/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/0/16/Dialogue
+\\NAME[\\n[12]]
+\\C[6]Save your favorite girl for last\\C[0]
+if you want, let's start with the three of us!
 > END STRING
 
 > BEGIN STRING
@@ -3796,8 +3804,11 @@ Let's fight the three of us first.
 くっ……！　こうなったら　いよいよ
 本気で行くしか　ないみたいね！
 二人は　下がってて！
-> CONTEXT: Troops/830/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/2/2/Dialogue
+\\NAME[\\n[11]]
+Damn...! Looks like I have no choice 
+but to go all out now!
+You two stay back!
 > END STRING
 
 > BEGIN STRING
@@ -3812,8 +3823,9 @@ You two, stay back!
 > BEGIN STRING
 \\n[11]は　赤く　燃え盛る
 禍々しき　炎の邪気を纏った！
-> CONTEXT: Troops/830/pages/2/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/2/21/Dialogue
+\\n[11] was covered by a red-hot,
+burning Jaqi of disaster!
 > END STRING
 
 > BEGIN STRING
@@ -3826,9 +3838,10 @@ burning Jaqi of disaster!
 > BEGIN STRING
 \\NAME[\\n[11]]
 もう　どうなっても知らないから！
-> CONTEXT: Troops/830/pages/2/46/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/831/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/2/46/Dialogue
+> CONTEXT: Troops/831/pages/0/5/Dialogue
+\\NAME[\\n[11]]
+I don't care what happens anymore!
 > END STRING
 
 > BEGIN STRING
@@ -3873,9 +3886,10 @@ freezing Jaqi of disaster!
 > BEGIN STRING
 \\NAME[\\n[12]]
 悪い子は　お仕置きしなくっちゃね！
-> CONTEXT: Troops/830/pages/3/45/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/832/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/3/45/Dialogue
+> CONTEXT: Troops/832/pages/0/5/Dialogue
+\\NAME[\\n[12]]
+Bad boys must be punished!
 > END STRING
 
 > BEGIN STRING
@@ -3920,9 +3934,10 @@ sparking Jaqi of disaster!
 > BEGIN STRING
 \\NAME[\\n[13]]
 ガチで　ぶっ殺したるわ〜！
-> CONTEXT: Troops/830/pages/4/45/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/833/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/830/pages/4/45/Dialogue
+> CONTEXT: Troops/833/pages/0/5/Dialogue
+\\NAME[\\n[13]]
+I'm seriously going to kill you〜!
 > END STRING
 
 > BEGIN STRING

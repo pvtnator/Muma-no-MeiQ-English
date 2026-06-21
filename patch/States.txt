@@ -2236,7 +2236,7 @@ Nightmare Foresight
 > BEGIN STRING
 邪気が　臨界点を突破！
 > CONTEXT: States/408/message2/
-Jaqi reached a critical point!
+'s Jaqi reached a critical point!
 > END STRING
 
 > BEGIN STRING

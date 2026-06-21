@@ -120,15 +120,19 @@ It all comes down to choice.
 > BEGIN STRING
 \\v[229]ターン――。
 其が　人類滅亡までの　数字なり。
-> CONTEXT: Map059/events/1/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map059/events/1/pages/1/4/Dialogue
+\\v[229] turns—
+The number of turns 
+until the extinction of humanity.
 > END STRING
 
 > BEGIN STRING
 欲動を　理性にて　御せよ　人類。
 共栄と　理解心を　ゆめ　忘れるなかれ。
-> CONTEXT: Map059/events/1/pages/1/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map059/events/1/pages/1/18/Dialogue
+Humanity, control your desires with reason.
+Never forget the importance of 
+coexistence and understanding.
 > END STRING
 
 > BEGIN STRING

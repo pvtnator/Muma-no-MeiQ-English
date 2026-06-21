@@ -610,8 +610,11 @@ head deep, deep into the well!
 君の元気な顔が　見れるだけで
 なんだか　嬉しくなっちゃうね♪
 もっともっと　私に会いに来てね♪
-> CONTEXT: Map012/events/1/pages/3/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/158/Dialogue
+\\NAME[\\n[12]]
+Just seeing your cheerful face
+makes me happy somehow♪
+Please come and see me more and more♪
 > END STRING
 
 > BEGIN STRING
@@ -688,41 +691,45 @@ head deep, deep into the well!
 \\NAME[\\n[12]]
 君は優しいから　私たちの復興支援事業に
 協力してくれるよね？　どうかな？
-> CONTEXT: Map012/events/1/pages/4/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/44/Dialogue
+\\NAME[\\n[12]]
+You're so kind, so you'll cooperate 
+with our disaster relief project? 
+What do you think?
 > END STRING
 
 > BEGIN STRING
 ミリオン涼鞋if(!s[131])
-> CONTEXT: Map012/events/1/pages/4/48/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/48/Choice/0
+Breeze Shoesif(!s[131])
 > END STRING
 
 > BEGIN STRING
 青銅の弓矢　×４if(!s[132])
-> CONTEXT: Map012/events/1/pages/4/48/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/48/Choice/1
+Bronze Bow ×４if(!s[132])
 > END STRING
 
 > BEGIN STRING
 邪茸カット　×３if(!s[133])
-> CONTEXT: Map012/events/1/pages/4/48/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/48/Choice/2
+Evil Mushroom Cut ×３if(!s[133])
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 大変　よくできました〜〜〜♪
-> CONTEXT: Map012/events/1/pages/4/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/91/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/160/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/225/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/264/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/333/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/404/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/467/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/506/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/52/Dialogue
+> CONTEXT: Map012/events/1/pages/4/91/Dialogue
+> CONTEXT: Map012/events/1/pages/4/160/Dialogue
+> CONTEXT: Map012/events/1/pages/4/225/Dialogue
+> CONTEXT: Map012/events/1/pages/4/264/Dialogue
+> CONTEXT: Map012/events/1/pages/4/333/Dialogue
+> CONTEXT: Map012/events/1/pages/4/404/Dialogue
+> CONTEXT: Map012/events/1/pages/4/467/Dialogue
+> CONTEXT: Map012/events/1/pages/4/506/Dialogue
+\\NAME[\\n[12]]
+Well done〜〜〜♪
 > END STRING
 
 > BEGIN STRING
@@ -735,16 +742,17 @@ head deep, deep into the well!
 > BEGIN STRING
 \\NAME[\\n[12]]
 あら！？　持ってないみたいだよ？
-> CONTEXT: Map012/events/1/pages/4/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/140/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/209/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/246/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/313/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/382/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/453/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/488/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/1/pages/4/555/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/73/Dialogue
+> CONTEXT: Map012/events/1/pages/4/140/Dialogue
+> CONTEXT: Map012/events/1/pages/4/209/Dialogue
+> CONTEXT: Map012/events/1/pages/4/246/Dialogue
+> CONTEXT: Map012/events/1/pages/4/313/Dialogue
+> CONTEXT: Map012/events/1/pages/4/382/Dialogue
+> CONTEXT: Map012/events/1/pages/4/453/Dialogue
+> CONTEXT: Map012/events/1/pages/4/488/Dialogue
+> CONTEXT: Map012/events/1/pages/4/555/Dialogue
+\\NAME[\\n[12]]
+Oh!? You don't have it?
 > END STRING
 
 > BEGIN STRING

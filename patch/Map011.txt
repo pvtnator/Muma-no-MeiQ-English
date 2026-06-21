@@ -454,8 +454,11 @@ Let's get to Logos!!
 あたしの名前は　\\n[11]。
 サキュバス族　復興の為に　尽力する
 それが　あたしの使命なんだよ。
-> CONTEXT: Map011/events/1/pages/3/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/3/165/Dialogue
+\\NAME[\\n[11]]
+My name is \\n[11]. I am dedicated 
+to the restoration of succubi.
+That is my mission.
 > END STRING
 
 > BEGIN STRING
@@ -541,41 +544,44 @@ Let's get to Logos!!
 \\NAME[\\n[11]]
 これは　あくまで　慈善事業なんだから！
 で？　どれを　納品してくれんの？
-> CONTEXT: Map011/events/1/pages/4/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/44/Dialogue
+\\NAME[\\n[11]]
+This is purely a charity endeavor!
+So? Which one are you going to deliver?
 > END STRING
 
 > BEGIN STRING
 レザーアーマー　×３if(!s[121])
-> CONTEXT: Map011/events/1/pages/4/48/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/48/Choice/0
+Leather Armor ×３if(!s[121])
 > END STRING
 
 > BEGIN STRING
 ブロンズメイス　×３if(!s[122])
-> CONTEXT: Map011/events/1/pages/4/48/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/48/Choice/1
+Bronze Mace ×３if(!s[122])
 > END STRING
 
 > BEGIN STRING
 貘の直毛if(!s[123])
-> CONTEXT: Map011/events/1/pages/4/48/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/48/Choice/2
+Baku's Straight Hairif(!s[123])
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ＯＫ！　ご苦労さんっ♪
-> CONTEXT: Map011/events/1/pages/4/58/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/127/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/190/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/225/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/264/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/327/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/362/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/395/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/434/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/58/Dialogue
+> CONTEXT: Map011/events/1/pages/4/127/Dialogue
+> CONTEXT: Map011/events/1/pages/4/190/Dialogue
+> CONTEXT: Map011/events/1/pages/4/225/Dialogue
+> CONTEXT: Map011/events/1/pages/4/264/Dialogue
+> CONTEXT: Map011/events/1/pages/4/327/Dialogue
+> CONTEXT: Map011/events/1/pages/4/362/Dialogue
+> CONTEXT: Map011/events/1/pages/4/395/Dialogue
+> CONTEXT: Map011/events/1/pages/4/434/Dialogue
+\\NAME[\\n[11]]
+OK! Thanks for your hard work♪
 > END STRING
 
 > BEGIN STRING
@@ -615,16 +621,17 @@ Let's get to Logos!!
 > BEGIN STRING
 \\NAME[\\n[11]]
 冷やかしは　やめなさいっ！
-> CONTEXT: Map011/events/1/pages/4/107/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/176/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/211/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/246/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/313/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/348/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/383/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/416/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/1/pages/4/483/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map011/events/1/pages/4/107/Dialogue
+> CONTEXT: Map011/events/1/pages/4/176/Dialogue
+> CONTEXT: Map011/events/1/pages/4/211/Dialogue
+> CONTEXT: Map011/events/1/pages/4/246/Dialogue
+> CONTEXT: Map011/events/1/pages/4/313/Dialogue
+> CONTEXT: Map011/events/1/pages/4/348/Dialogue
+> CONTEXT: Map011/events/1/pages/4/383/Dialogue
+> CONTEXT: Map011/events/1/pages/4/416/Dialogue
+> CONTEXT: Map011/events/1/pages/4/483/Dialogue
+\\NAME[\\n[11]]
+Stop teasing!
 > END STRING
 
 > BEGIN STRING

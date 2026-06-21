@@ -2,30 +2,37 @@
 > BEGIN STRING
 遠い遠い昔……私は君を
 この胸に　抱いていたのかもしれない。\\.\\|\\^
-> CONTEXT: Map032/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map032/events/1/pages/0/12/Dialogue
+A long, long time ago... 
+I may have held you in my arms.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あやして　甘やかして　遊んであげて
 頭を撫でて…………\\|いっぱい　いっぱい
 可愛がってあげて……\\.\\|\\^
-> CONTEXT: Map032/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map032/events/1/pages/0/18/Dialogue
+Soothe you, spoil you, play with you
+Pat your head...\\| Giving
+lots and lots of love...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 でも　そんな夢みたいな思い出は\\|
 いつか　冷たい過去になってしまうもの。\\|
 君は私の元を　去らなくちゃいけない。\\.\\|\\^
-> CONTEXT: Map032/events/1/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map032/events/1/pages/0/25/Dialogue
+But those dreamlike memories will one day\\|
+become a cold past.\\|
+You have to leave and get away from me.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 さようなら……可愛い坊や。\\|
 君は大人になって\\|　私のことを忘れて
 思い出に背を向けて　\\|生きていくんだよ。\\.\\|\\^
-> CONTEXT: Map032/events/1/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map032/events/1/pages/0/32/Dialogue
+Goodbye...my sweet little boy.\\| You will grow, 
+forget about me,\\| and turn your back on
+memories\\| as you go on living your life.\\.\\|\\^
 > END STRING

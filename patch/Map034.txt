@@ -231,55 +231,62 @@
 > BEGIN STRING
 
 現在の消失。
-> CONTEXT: Map034/events/1/pages/0/223/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/223/Dialogue
 
+The present is gone.
 > END STRING
 
 > BEGIN STRING
 故に　あなたを　縛り付ける
 枷は　もう何も無い。
-> CONTEXT: Map034/events/1/pages/0/226/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/226/Dialogue
+Therefore, there are no longer 
+any shackles that bind you.
 > END STRING
 
 > BEGIN STRING
 
 過去の消失。
-> CONTEXT: Map034/events/1/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/232/Dialogue
 
+The past is gone.
 > END STRING
 
 > BEGIN STRING
 故に　あなたを　縛り付ける
 呪いは　もう何も無い。
-> CONTEXT: Map034/events/1/pages/0/235/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/235/Dialogue
+Therefore, there are no longer 
+any curses that bind you.
 > END STRING
 
 > BEGIN STRING
 
 未来の消失。
-> CONTEXT: Map034/events/1/pages/0/241/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/241/Dialogue
 
+The future is gone.
 > END STRING
 
 > BEGIN STRING
 故に　あなたを　縛り付ける
 運命は　もう何も無い。
-> CONTEXT: Map034/events/1/pages/0/244/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/244/Dialogue
+Therefore, there is no longer 
+any fate that can bind you.
 > END STRING
 
 > BEGIN STRING
 どんな選択肢も　あなたの手に
 握られている。
-> CONTEXT: Map034/events/1/pages/0/255/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/255/Dialogue
+Every option is in your hands.
 > END STRING
 
 > BEGIN STRING
 
 すべては　選択である。
-> CONTEXT: Map034/events/1/pages/0/265/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/1/pages/0/265/Dialogue
 
+It all comes down to choice.
 > END STRING

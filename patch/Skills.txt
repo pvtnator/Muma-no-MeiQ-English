@@ -720,8 +720,8 @@ A hit followed by a ranged lightning attack
 
 > BEGIN STRING
 は　追雷打を放った！
-> CONTEXT: Skills/66/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/66/message1/
+ unleashed a lightning strike!
 > END STRING
 
 > BEGIN STRING
@@ -8348,15 +8348,16 @@ EX足技
 
 > BEGIN STRING
 不動
-> CONTEXT: Skills/600/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/600/name/
+Inaction
 > END STRING
 
 > BEGIN STRING
 〘無為〙\\i[133]
 ただ何もせずに　ターンを消費する
-> CONTEXT: Skills/600/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/600/description/
+[Inaction] \\i[133]
+Simply do nothing and consume the turn
 > END STRING
 
 > BEGIN STRING
@@ -10622,8 +10623,9 @@ Dionygaze
 > BEGIN STRING
 〘両陣:EP回復/自:LP半減〙 \\i[28]
 月の瞳から　闇の活力を得る
-> CONTEXT: Skills/767/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/767/description/
+[Both Sides: EP Recovery / Self: LP halved] \\i[28]
+Vitality of darkness from the eye of the moon
 > END STRING
 
 > BEGIN STRING
@@ -10641,8 +10643,9 @@ Apollonigaze
 > BEGIN STRING
 〘両陣:魔族弱体/気絶+バステ完治〙 \\i[28]
 陽の瞳から　激励と制裁の光
-> CONTEXT: Skills/768/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/768/description/
+[Both Sides: Demon Weakness/Stun/Status Cure] \\i[28]
+Light of encouragement and punishment sun's eyes
 > END STRING
 
 > BEGIN STRING
@@ -10787,8 +10790,8 @@ and left, looking content...
 
 > BEGIN STRING
 は　後方へ身を引いた！
-> CONTEXT: Skills/778/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/778/message1/
+ retreated to the backline!
 > END STRING
 
 > BEGIN STRING
@@ -12337,40 +12340,42 @@ Protects all allies with butyric orchid membrane
 
 > BEGIN STRING
 アパッチビート
-> CONTEXT: Skills/900/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/900/name/
+Apache Beat
 > END STRING
 
 > BEGIN STRING
 〘全:ATK*\\C[9]Ｂ\\C[0]+スタン(中)〙\\i[30]\\i[212]
 激しく地を規則的に叩き　遠隔衝撃波打撃
-> CONTEXT: Skills/900/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/900/description/
+[All: ATK*\\C[9]B\\C[0]+Stun(M)]\\i[30]\\i[212]
+Strike the ground violently for a shockwave attack
 > END STRING
 
 > BEGIN STRING
 の　アパッチビート！
-> CONTEXT: Skills/900/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/900/message1/
+ used Apache Beat!
 > END STRING
 
 > BEGIN STRING
 ブリオナック
-> CONTEXT: Skills/901/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/901/name/
+Brionac
 > END STRING
 
 > BEGIN STRING
 〘全:PSY+ATK*\\C[8]Ｆ\\C[0]〙\\i[30]
 人々の夢想が創造せし炎槍で　遠隔炎突撃
-> CONTEXT: Skills/901/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/901/description/
+[All: PSY+ATK*\\C[8]F\\C[0]]\\i[30]
+Spear of flame created by people's dreams
 > END STRING
 
 > BEGIN STRING
 は　ブリオナックを放った！
-> CONTEXT: Skills/901/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/901/message1/
+ unleashed Brionac!
 > END STRING
 
 > BEGIN STRING
@@ -12470,40 +12475,43 @@ Protects all allies with butyric orchid membrane
 > BEGIN STRING
 〘全:火炎耐性強化〙\\i[30]
 発動ターン　火炎攻撃の被ダメを　激減
-> CONTEXT: Skills/914/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/914/description/
+[All: Fire Resistance For 1 Turn] \\i[30]
+Greatly reduce damage from fire attacks
 > END STRING
 
 > BEGIN STRING
 は　あかき武氣を　輝かせた！
-> CONTEXT: Skills/914/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/914/message1/
+ shone with brilliant red martial spirit!
 > END STRING
 
 > BEGIN STRING
 〘全:水氷耐性強化〙\\i[30]
 発動ターン　水氷攻撃の被ダメを　激減
-> CONTEXT: Skills/915/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/915/description/
+[All: Water/Ice Resistance For 1 Turn] \\i[30]
+Greatly reduce damage from water/ice attacks
 > END STRING
 
 > BEGIN STRING
 は　あおき武氣を　輝かせた！
-> CONTEXT: Skills/915/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/915/message1/
+ shone with brilliant blue martial spirit!
 > END STRING
 
 > BEGIN STRING
 〘全:雷電耐性強化〙\\i[30]
 発動ターン　雷電攻撃の被ダメを　激減
-> CONTEXT: Skills/916/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/916/description/
+[All: Lightning Resistance For 1 Turn] \\i[30]
+Greatly reduce damage from lightning attacks
 > END STRING
 
 > BEGIN STRING
 は　むらさき武氣を　輝かせた！
-> CONTEXT: Skills/916/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/916/message1/
+ shone with brilliant purple martial spirit!
 > END STRING
 
 > BEGIN STRING
@@ -12515,8 +12523,8 @@ Protects all allies with butyric orchid membrane
 
 > BEGIN STRING
 は　悪夢の予知夢を発動！
-> CONTEXT: Skills/917/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/917/message1/
+ activated nightmare premonition!
 > END STRING
 
 > BEGIN STRING

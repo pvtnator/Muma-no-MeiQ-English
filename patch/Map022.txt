@@ -546,8 +546,11 @@ Don't forget this process! OK!?
 違うでしょ！　\\n[13]！
 いや……まぁ　彼が望むなら　それも
 し……しなくっちゃとは　思うけど……。
-> CONTEXT: Map022/events/1/pages/2/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/142/Dialogue
+\\NAME[\\n[11]]
+That's not it! \\n[13]!
+Well...if that's what he wants, then...
+I suppose I should do it...
 > END STRING
 
 > BEGIN STRING
@@ -555,8 +558,11 @@ Don't forget this process! OK!?
 そうね。見返りは　必要だよね。
 なんせ　頼めるのは　彼ぐらいだって
 ロゴスさんに言われて　来たんだから。
-> CONTEXT: Map022/events/1/pages/2/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/151/Dialogue
+\\NAME[\\n[12]]
+That's right. Something in return 
+is necessary, isn't it? After all, 
+Logos said he was the only one we could ask.
 > END STRING
 
 > BEGIN STRING
@@ -564,8 +570,11 @@ Don't forget this process! OK!?
 って　言っても　一方的なのは
 良くないな。えと……あたしたちは
 ちょっと　困っててね。
-> CONTEXT: Map022/events/1/pages/2/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/159/Dialogue
+\\NAME[\\n[11]]
+But even so, it's not good to be 
+one-sided. Um... 
+We're in a bit of a predicament.
 > END STRING
 
 > BEGIN STRING
@@ -573,8 +582,11 @@ Don't forget this process! OK!?
 よう分からんけど　ウチら夢魔の種族は今
 絶賛☆復興状態中なんや。ほんでまぁ
 あんちゃんには　その手伝いを――
-> CONTEXT: Map022/events/1/pages/2/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/167/Dialogue
+\\NAME[\\n[13]]
+We don't really know why, but succubi are 
+currently in the midst of a great recovery. 
+And well, we'd like you to help us with that—
 > END STRING
 
 > BEGIN STRING
@@ -582,8 +594,11 @@ Don't forget this process! OK!?
 お願いしに来たの。私たちだけじゃ
 ちょっと大変で……。君には素質があって
 夢界中心にも来れるって　聞いたから
-> CONTEXT: Map022/events/1/pages/2/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/176/Dialogue
+\\NAME[\\n[12]]
+We came to ask for your help. It's difficult 
+for us alone...We heard you have the potential 
+and can even come to Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
@@ -591,8 +606,11 @@ Don't forget this process! OK!?
 勿論　タダでとは　言わないよ？
 み……見返りも。ロゴスから　節度ある
 い……営みは　推奨してもらえてるし。
-> CONTEXT: Map022/events/1/pages/2/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/185/Dialogue
+\\NAME[\\n[11]]
+Of course, not for free, okay?
+S-Something in return. Logos encourages 
+moderate...activities, after all.
 > END STRING
 
 > BEGIN STRING
@@ -600,8 +618,11 @@ Don't forget this process! OK!?
 どうかな？　初対面の夢魔からの
 申し出なんて　信用できないかもだけど
 \\|頼んでもいいかな？
-> CONTEXT: Map022/events/1/pages/2/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/195/Dialogue
+\\NAME[\\n[11]]
+What do you think? You might not trust 
+an offer from a succubus you've just met, 
+but...\\|can we ask you for a favor?
 > END STRING
 
 > BEGIN STRING
@@ -609,8 +630,10 @@ Don't forget this process! OK!?
 まぁ！　嬉しい！
 やっぱり　ロゴスさんの言ってたことは
 間違ってなかったんだね♪
-> CONTEXT: Map022/events/1/pages/2/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/207/Dialogue
+\\NAME[\\n[12]]
+Wow! I'm so happy!
+So Logos wasn't wrong after all♪
 > END STRING
 
 > BEGIN STRING
@@ -618,8 +641,11 @@ Don't forget this process! OK!?
 なんでや！？　もしかして　あんちゃん
 既に　涸れてもうたんか！？　ウチらと
 ドスケベ☆なこと　したくないんか！？
-> CONTEXT: Map022/events/1/pages/2/219/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/219/Dialogue
+\\NAME[\\n[13]]
+What?! Could it be that you've already 
+dried up?! Don't you want to do 
+something perverted with us?!
 > END STRING
 
 > BEGIN STRING
@@ -627,8 +653,11 @@ Don't forget this process! OK!?
 ちょっと　\\n[13]！　そればっかかよ！
 ……けど　断った時の　対応も
 ロゴスから　聞かされてるし
-> CONTEXT: Map022/events/1/pages/2/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/228/Dialogue
+\\NAME[\\n[11]]
+Hey \\n[13]! Is that all you ever 
+talk about?! ...But I've also heard from 
+Logos what to do if he refuses.
 > END STRING
 
 > BEGIN STRING
@@ -636,8 +665,11 @@ Don't forget this process! OK!?
 心証を悪くしたことを　悔やませながら
 無理矢理　連れてくる……だっけ？
 よく　分からないけれど……。
-> CONTEXT: Map022/events/1/pages/2/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/237/Dialogue
+\\NAME[\\n[12]]
+Something like, make him regret giving a bad 
+impression, then forcibly bring him along?
+I'm not really sure, though...
 > END STRING
 
 > BEGIN STRING
@@ -645,8 +677,11 @@ Don't forget this process! OK!?
 とりあえず　夢界中心に　来てもらうよ。
 あんたは　以前にも　頻繁に
 行き来してたんでしょ？
-> CONTEXT: Map022/events/1/pages/2/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/248/Dialogue
+\\NAME[\\n[11]]
+For now, come to the Dream World.
+You've been coming and going 
+frequently before, haven't you?
 > END STRING
 
 > BEGIN STRING
@@ -654,8 +689,11 @@ Don't forget this process! OK!?
 ウチらも　端末んとこ　おるから
 なんぼでも　会いに来てくれな？
 仲魔にしてもろて　迷宮でアイテム漁って
-> CONTEXT: Map022/events/1/pages/2/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/257/Dialogue
+\\NAME[\\n[13]]
+We're also at the terminals,
+visit us anytime, okay? Let's be allies 
+and search for items in the mazes.
 > END STRING
 
 > BEGIN STRING
@@ -663,8 +701,11 @@ Don't forget this process! OK!?
 復興支援依頼を　達成してね♪
 
 さぁ……おいで？
-> CONTEXT: Map022/events/1/pages/2/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map022/events/1/pages/2/266/Dialogue
+\\NAME[\\n[12]]
+Please complete the restoration 
+support requests♪
+Now...come here?
 > END STRING
 
 > BEGIN STRING

@@ -245,7 +245,7 @@ them, so don't get wiped out like that♪
 ──この３つが　物理属性や！
 > CONTEXT: Map013/events/1/pages/2/147/Dialogue
 \\NAME[\\n[13]]
-\\i[125]Slash \\i[126]Pierce \\i[127]Strike
+\\i[125] Slash \\i[126] Pierce \\i[127] Strike
 --These 3 are physical attributes!
 > END STRING
 
@@ -256,7 +256,7 @@ them, so don't get wiped out like that♪
 よう　覚えといてくれや〜。
 > CONTEXT: Map013/events/1/pages/2/152/Dialogue
 \\NAME[\\n[13]]
-\\i[109]Fire \\i[110]Water/Ice \\i[111]Lightning
+\\i[109] Fire \\i[110] Water/Ice \\i[111] Lightning
 --These 3 are elemental attributes!
 Remember that well.
 > END STRING
@@ -513,8 +513,11 @@ all four of us!
 ウチの名前は　\\n[13]や。よろしゅ〜♪
 なんや知らんが　節度ある活動なら
 許してもらえるんやて。何のことやろな？
-> CONTEXT: Map013/events/1/pages/3/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/3/103/Dialogue
+\\NAME[\\n[13]]
+My name is \\n[13]. Nice to meet you〜♪
+I don't get it, but apparently, it's okay
+in moderation. I wonder what that means?
 > END STRING
 
 > BEGIN STRING
@@ -600,41 +603,44 @@ all four of us!
 \\NAME[\\n[13]]
 復興支援という名の　依頼クエストや！
 じゃんじゃん　こなしてもらうでー！
-> CONTEXT: Map013/events/1/pages/4/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/44/Dialogue
+\\NAME[\\n[13]]
+It's a quest disguised as disaster relief!
+Complete them one after another!
 > END STRING
 
 > BEGIN STRING
 コットンローブ　×４if(!s[141])
-> CONTEXT: Map013/events/1/pages/4/48/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/48/Choice/0
+Cotton Robe ×４if(!s[141])
 > END STRING
 
 > BEGIN STRING
 ブロンズソード　×３if(!s[142])
-> CONTEXT: Map013/events/1/pages/4/48/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/48/Choice/1
+Bronze Sword ×３if(!s[142])
 > END STRING
 
 > BEGIN STRING
 紫ゲル核　×３if(!s[143])
-> CONTEXT: Map013/events/1/pages/4/48/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/48/Choice/2
+Violet Gel Nucleus ×３if(!s[143])
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 コンプリートや〜〜〜♪
-> CONTEXT: Map013/events/1/pages/4/58/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/127/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/196/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/267/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/336/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/405/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/476/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/539/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/578/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/58/Dialogue
+> CONTEXT: Map013/events/1/pages/4/127/Dialogue
+> CONTEXT: Map013/events/1/pages/4/196/Dialogue
+> CONTEXT: Map013/events/1/pages/4/267/Dialogue
+> CONTEXT: Map013/events/1/pages/4/336/Dialogue
+> CONTEXT: Map013/events/1/pages/4/405/Dialogue
+> CONTEXT: Map013/events/1/pages/4/476/Dialogue
+> CONTEXT: Map013/events/1/pages/4/539/Dialogue
+> CONTEXT: Map013/events/1/pages/4/578/Dialogue
+\\NAME[\\n[13]]
+Complete〜〜〜♪
 > END STRING
 
 > BEGIN STRING
@@ -678,16 +684,17 @@ all four of us!
 > BEGIN STRING
 \\NAME[\\n[13]]
 ――って！　持っとらんやんけ！？
-> CONTEXT: Map013/events/1/pages/4/107/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/176/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/245/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/316/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/385/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/454/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/525/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/560/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/1/pages/4/627/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map013/events/1/pages/4/107/Dialogue
+> CONTEXT: Map013/events/1/pages/4/176/Dialogue
+> CONTEXT: Map013/events/1/pages/4/245/Dialogue
+> CONTEXT: Map013/events/1/pages/4/316/Dialogue
+> CONTEXT: Map013/events/1/pages/4/385/Dialogue
+> CONTEXT: Map013/events/1/pages/4/454/Dialogue
+> CONTEXT: Map013/events/1/pages/4/525/Dialogue
+> CONTEXT: Map013/events/1/pages/4/560/Dialogue
+> CONTEXT: Map013/events/1/pages/4/627/Dialogue
+\\NAME[\\n[13]]
+--Wait! You don't have it!?
 > END STRING
 
 > BEGIN STRING

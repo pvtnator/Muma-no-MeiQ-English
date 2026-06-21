@@ -1627,104 +1627,112 @@ A blasphemous hammer that arouses sadistic desires
 
 > BEGIN STRING
 ロゴスの大剣
-> CONTEXT: Weapons/651/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/651/name/
+Logos Greatsword
 > END STRING
 
 > BEGIN STRING
 習:切払/刺突/平打/武氣系スキル〘両〙
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/651/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/651/description/
+Skills: Cut/Thrust/Blunt Strike/Martial Arts Skills[2H]
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスの太刀
-> CONTEXT: Weapons/652/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/652/name/
+Logos Katana
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/武氣系スキル〘両〙
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/652/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/652/description/
+Skills: Slash/Thrust/Martial Arts Skills[2H]
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスのタスク
-> CONTEXT: Weapons/653/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/653/name/
+Logos Tusk
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/武氣系スキル
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/653/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/653/description/
+Skills: Slash/Thrust/Martial Arts Skills
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスの槍斧
-> CONTEXT: Weapons/654/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/654/name/
+Logos Polearm
 > END STRING
 
 > BEGIN STRING
 習:斬撃/刺突/殴打/武氣系スキル
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/654/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/654/description/
+Skills: Slash/Thrust/Hit/Martial Arts Skills
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスのロッド
-> CONTEXT: Weapons/655/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/655/name/
+Logos Rod
 > END STRING
 
 > BEGIN STRING
 習:殴打/武氣系スキル
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/655/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/655/description/
+Skills: Hit/Martial Arts Skill
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスの剛弓
-> CONTEXT: Weapons/656/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/656/name/
+Logos Bow
 > END STRING
 
 > BEGIN STRING
 習:弓射/射体打/武氣系スキル〘両〙
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/656/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/656/description/
+Skills: Shoot/Buttstroke/Martial Arts Skills[2H]
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスの歯車
-> CONTEXT: Weapons/657/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/657/name/
+Logos Gear
 > END STRING
 
 > BEGIN STRING
 習:旋刃/投刺/旋打/武氣系スキル
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/657/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/657/description/
+Skills: Turning Blade/Thrust/Spin/Martial Arts Skills
+Raising both arms manifests a logical barrier
 > END STRING
 
 > BEGIN STRING
 ロゴスの竪琴
-> CONTEXT: Weapons/658/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/658/name/
+Logos Lyre
 > END STRING
 
 > BEGIN STRING
 習:斬撃/殴打/武氣系スキル
 両腕で掲げると　論理の防壁を顕現する
-> CONTEXT: Weapons/658/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/658/description/
+Skills: Slash/Hit/Martial Arts Skills
+Raising both arms manifests a logical barrier
 > END STRING
