@@ -3,24 +3,29 @@
 扉には　鍵が　掛かっている！
 炎霊犀の鍵で　扉を開け　入室しますか？
 （入ったら　事を為すまで出られません）
-> CONTEXT: Map014/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/1/pages/0/4/Dialogue
+The door is locked!
+Use Flame Spirit Key and enter?
+(You can't leave until you're done)
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[11]と　二人きりでないと
 色々　都合が悪そうだ……。
-> CONTEXT: Map014/events/1/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/1/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/1/pages/0/17/Dialogue
+> CONTEXT: Map014/events/1/pages/0/30/Dialogue
+However!
+It wouldn't be right 
+if not alone with \\n[11]...
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[11]が居ないと　中に入れない！
-> CONTEXT: Map014/events/1/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/1/pages/0/45/Dialogue
+But!
+You can't get in without \\n[11]!
 > END STRING
 
 > BEGIN STRING
@@ -28,8 +33,11 @@
 その時が来たら　ここに
 あんたと　二人で――
 って　なんでもないから！
-> CONTEXT: Map014/events/1/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/1/pages/0/62/Dialogue
+\\NAME[\\n[11]]
+When that time comes, I'll be here 
+with you, just the two of us—
+Ah, don't worry about it!
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +76,10 @@ time in this――It's nothing!
 \\NAME[\\n[11]]
 その……手　繋いでも
 いい……よね？
-> CONTEXT: Map014/events/1/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/1/pages/0/159/Dialogue
+\\NAME[\\n[11]]
+Um...is it okay... 
+if we hold hands...?
 > END STRING
 
 > BEGIN STRING
@@ -84,24 +94,29 @@ with... you?
 扉には　鍵が　掛かっている！
 氷霊犀の鍵で　扉を開け　入室しますか？
 （入ったら　事を為すまで出られません）
-> CONTEXT: Map014/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/2/pages/0/4/Dialogue
+The door is locked!
+Use Ice Spirit Key and enter?
+(You can't leave until you're done)
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[12]と　二人きりでないと
 色々　都合が悪そうだ……。
-> CONTEXT: Map014/events/2/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/2/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/2/pages/0/17/Dialogue
+> CONTEXT: Map014/events/2/pages/0/30/Dialogue
+However!
+It wouldn't be right 
+if not alone with \\n[12]...
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[12]が居ないと　中に入れない！
-> CONTEXT: Map014/events/2/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/2/pages/0/45/Dialogue
+But!
+You can't get in without \\n[12]!
 > END STRING
 
 > BEGIN STRING
@@ -109,8 +124,11 @@ with... you?
 ここは　君が生まれた部屋？
 それとも　君が産ませる部屋？
 二人きりで　来れたらいいね♪
-> CONTEXT: Map014/events/2/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/2/pages/0/62/Dialogue
+\\NAME[\\n[12]]
+Is this the room where you were born?
+Or is this where you will reproduce?
+We should come here just the two of us♪
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +168,11 @@ I wish we could be here alone.
 ドキドキ☆しちゃうね♪
 ホラ！　お手々　繋いで
 ベッドまで　行きましょう？
-> CONTEXT: Map014/events/2/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/2/pages/0/159/Dialogue
+\\NAME[\\n[12]]
+My heart's beating so fast♪
+Come on! Let's hold hands
+and hop on the bed?
 > END STRING
 
 > BEGIN STRING
@@ -167,24 +188,29 @@ Me too!
 扉には　鍵が　掛かっている！
 雷霊犀の鍵で　扉を開け　入室しますか？
 （入ったら　事を為すまで出られません）
-> CONTEXT: Map014/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/3/pages/0/4/Dialogue
+The door is locked!
+Use Thunder Spirit Key and enter?
+(You can't leave until you're done)
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[13]と　二人きりでないと
 色々　都合が悪そうだ……。
-> CONTEXT: Map014/events/3/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/3/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/3/pages/0/17/Dialogue
+> CONTEXT: Map014/events/3/pages/0/30/Dialogue
+However!
+It wouldn't be right 
+if not alone with \\n[13]...
 > END STRING
 
 > BEGIN STRING
 しかし！
 \\n[13]が居ないと　中に入れない！
-> CONTEXT: Map014/events/3/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/3/pages/0/45/Dialogue
+But!
+You can't get in without \\n[13]!
 > END STRING
 
 > BEGIN STRING
@@ -192,8 +218,11 @@ Me too!
 ウチの好感度　めっちゃ
 上げてくれたら　この部屋で
 セクロス☆させたるわ〜。
-> CONTEXT: Map014/events/3/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/3/pages/0/62/Dialogue
+\\NAME[\\n[13]]
+If you really raise my approval rating,
+I'll let you have sex with me 
+in this room〜.
 > END STRING
 
 > BEGIN STRING
@@ -233,8 +262,11 @@ this room with you for sex.
 ほな　あんちゃ〜ん？
 手ぇ繋いで　ベッドインやで♪
 \\|――あ　コレ　チンコやった☆
-> CONTEXT: Map014/events/3/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/3/pages/0/159/Dialogue
+\\NAME[\\n[13]]
+So, cutie?
+Let's hold hands and get into bed♪
+\\|――Oh, this is your dick☆
 > END STRING
 
 > BEGIN STRING

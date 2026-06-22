@@ -469,8 +469,8 @@ A thrusting attack followed by a ranged flame attack
 
 > BEGIN STRING
 の　冷凍噴射！
-> CONTEXT: Skills/50/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/50/message1/
+ used Freezing Spray!
 > END STRING
 
 > BEGIN STRING

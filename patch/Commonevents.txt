@@ -115,28 +115,31 @@ Now is not the time for that!
 このフロアで　事に及ぶには
 邪気の数を　あと\\V[41]つ
 消す必要がある。
-> CONTEXT: Commonevents/17/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/52/Dialogue
+To proceed on this floor, 
+you must eliminate \\V[41] more Jaqi.
 > END STRING
 
 > BEGIN STRING
 しかし　相手がいなかった……。
-> CONTEXT: Commonevents/17/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/61/Dialogue
+But there was no one to play with...
 > END STRING
 
 > BEGIN STRING
 今なら　夢魔の魔力を解放することで
 夢から　醒めてしまうものの
 性交渉を行うことが　できそうだ。
-> CONTEXT: Commonevents/17/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/66/Dialogue
+Right now, by unleashing the succubi's magic, 
+I might be able to wake up from my dream, 
+but still have sex.
 > END STRING
 
 > BEGIN STRING
 誰を　選びますか？
-> CONTEXT: Commonevents/17/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/75/Dialogue
+Who will you choose?
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +162,8 @@ Now is not the time for that!
 
 > BEGIN STRING
 差し控える
-> CONTEXT: Commonevents/17/77/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/77/Choice/3
+Refrain
 > END STRING
 
 > BEGIN STRING
@@ -168,22 +171,27 @@ Now is not the time for that!
 え　マジ？
 うーん……。
 ……ま　まぁ　いいけど。
-> CONTEXT: Commonevents/17/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/80/Dialogue
+\\NAME[\\n[11]]
+Huh? Really?
+Hmm...
+...Well, I guess it's okay.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 あらあら……。
-> CONTEXT: Commonevents/17/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/86/Dialogue
+\\NAME[\\n[12]]
+Oh my...
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 へぇ〜〜〜……。
-> CONTEXT: Commonevents/17/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/92/Dialogue
+\\NAME[\\n[13]]
+Heeeh〜〜〜...
 > END STRING
 
 > BEGIN STRING
@@ -191,23 +199,29 @@ Now is not the time for that!
 あら？
 我慢できなくなっちゃった？
 じゃ……しよっか♪
-> CONTEXT: Commonevents/17/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/102/Dialogue
+\\NAME[\\n[12]]
+Oh?
+Can't wait any longer?
+Well then...let's do it♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 あっそ……。
 勝手にすれば？
-> CONTEXT: Commonevents/17/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/108/Dialogue
+\\NAME[\\n[11]]
+Oh, really...?
+Do whatever you want.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ほーん……。
-> CONTEXT: Commonevents/17/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/115/Dialogue
+\\NAME[\\n[13]]
+Hmm...
 > END STRING
 
 > BEGIN STRING
@@ -215,33 +229,39 @@ Now is not the time for that!
 うっひゃ☆　奇遇やなー。
 ウチも　あんちゃんと
 ヤりたかったとこやでー♪
-> CONTEXT: Commonevents/17/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/125/Dialogue
+\\NAME[\\n[13]]
+Wow☆ What a coincidence.
+I was just thinking I wanted to 
+do it with you too♪
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……好きにすれば？
-> CONTEXT: Commonevents/17/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/131/Dialogue
+\\NAME[\\n[11]]
+...Do as you like, I guess
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[12]]
 まぁ！　お盛んなのね……。
-> CONTEXT: Commonevents/17/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/17/137/Dialogue
+\\NAME[\\n[12]]
+Well! You're quite active, 
+aren't you...?
 > END STRING
 
 > BEGIN STRING
 ……それだけ　だった。
-> CONTEXT: Commonevents/20/10/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/20/33/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/20/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/20/79/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/20/93/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/58/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/20/10/Dialogue
+> CONTEXT: Commonevents/20/33/Dialogue
+> CONTEXT: Commonevents/20/56/Dialogue
+> CONTEXT: Commonevents/20/79/Dialogue
+> CONTEXT: Commonevents/20/93/Dialogue
+> CONTEXT: Commonevents/58/14/Dialogue
+...But nothing happens.
 > END STRING
 
 > BEGIN STRING
@@ -257,8 +277,8 @@ But nothing happens.
 
 > BEGIN STRING
 床のトラップを　防止できる！
-> CONTEXT: Commonevents/29/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/29/2/Dialogue
+Can prevent floor traps!
 > END STRING
 
 > BEGIN STRING
@@ -270,8 +290,9 @@ Can prevent floor traps!
 > BEGIN STRING
 帰還処理――予定
 リレミトで　さよーならー
-> CONTEXT: Commonevents/34/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/0/Dialogue
+Return process -- scheduled.
+Goodbye, initiating teleportation.
 > END STRING
 
 > BEGIN STRING
@@ -1262,15 +1283,19 @@ but I can't help you.
 ……悪いとは　思うけど
 なんか制約があって　あたしは
 夢界中心に　戻っとくから。
-> CONTEXT: Commonevents/106/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/5/Dialogue
+\\NAME[\\n[11]]
+...I know it's bad, but I have 
+some kind of a restriction, so I'll 
+return to Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
 \\n[11]が　同行できるのは
 あと　\\V[381]フロアまでのようだ。
-> CONTEXT: Commonevents/106/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/25/Dialogue
+\\n[11] can only accompany you 
+up to floor \\V[381].
 > END STRING
 
 > BEGIN STRING
@@ -1285,15 +1310,19 @@ but I can't help you.
 ごめんねぇ。色々ワケあって
 私とは　ここで　お別れなの。
 夢界中心に　戻ってるからね。
-> CONTEXT: Commonevents/106/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/41/Dialogue
+\\NAME[\\n[12]]
+I'm sorry. For reasons, we have to 
+say goodbye here. I'm going back to 
+Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
 \\n[12]が　同行できるのは
 あと　\\V[382]フロアまでのようだ。
-> CONTEXT: Commonevents/106/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/61/Dialogue
+\\n[12] can only accompany you 
+up to floor \\V[382].
 > END STRING
 
 > BEGIN STRING
@@ -1308,15 +1337,19 @@ but I can't help you.
 すまんなぁ　あんちゃん。
 めんどいことなんやけど　ウチは
 夢界中心に　戻っとるわ〜。
-> CONTEXT: Commonevents/106/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/77/Dialogue
+\\NAME[\\n[13]]
+Sorry, kid.
+It's a bit of a hassle, but I'm going 
+back to focusing on the dream world.
 > END STRING
 
 > BEGIN STRING
 \\n[13]が　同行できるのは
 あと　\\V[383]フロアまでのようだ。
-> CONTEXT: Commonevents/106/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/106/97/Dialogue
+\\n[13] can only accompany you 
+up to floor \\V[383].
 > END STRING
 
 > BEGIN STRING
@@ -1329,8 +1362,9 @@ but I can't help you.
 > BEGIN STRING
 \\n[11]と　極上のベッドイン♡
 しますか？
-> CONTEXT: Commonevents/108/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/4/Dialogue
+Have a luxorious experience♡
+in bed with \\n[11]?
 > END STRING
 
 > BEGIN STRING
@@ -1338,15 +1372,19 @@ but I can't help you.
 その……ちょっと　気分
 変えた感じの　しても
 いいけど……する？
-> CONTEXT: Commonevents/108/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/14/Dialogue
+\\NAME[\\n[11]]
+Um... I guess it would be okay 
+to do something a bit extra to 
+change the mood... Do you want to?
 > END STRING
 
 > BEGIN STRING
 \\n[12]と　極上のベッドイン♡
 しますか？
-> CONTEXT: Commonevents/108/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/59/Dialogue
+Have a luxorious experience♡
+in bed with \\n[12]?
 > END STRING
 
 > BEGIN STRING
@@ -1354,15 +1392,19 @@ but I can't help you.
 ちょっと　気分を変えて
 イケナイ☆親子プレイ♪
 ……しちゃう？
-> CONTEXT: Commonevents/108/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/70/Dialogue
+\\NAME[\\n[12]]
+Let's change things up a bit
+And have some naughty parent-child play♪
+...Shall we?
 > END STRING
 
 > BEGIN STRING
 \\n[13]と　極上のベッドイン♡
 しますか？
-> CONTEXT: Commonevents/108/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/115/Dialogue
+Have a luxorious experience♡
+in bed with \\n[13]?
 > END STRING
 
 > BEGIN STRING
@@ -1370,8 +1412,10 @@ but I can't help you.
 ウチに　ボッコボコ☆にされる
 廃人コース☆プレイ
 したいやろ？　な？
-> CONTEXT: Commonevents/108/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/108/126/Dialogue
+\\NAME[\\n[13]]
+You want to be completely dominated,
+and become a wreck☆, right? Right?
 > END STRING
 
 > BEGIN STRING
@@ -5540,8 +5584,11 @@ Thank you for your response.
 それじゃあ　今から　君は〜
 私の息子だよ♪　私は君のママ♪
 あれ？　というか　そもそも……
-> CONTEXT: Commonevents/265/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/3/Dialogue
+\\NAME[\\n[12]]
+So, from now on, you are〜
+My son♪ I'm your mom♪
+Huh? Or rather, to begin with...
 > END STRING
 
 > BEGIN STRING
@@ -5549,135 +5596,169 @@ Thank you for your response.
 最初から　そうだったよね？
 君は　私が　産んだ　私の子供
 ずっと昔から　そうだったよね？
-> CONTEXT: Commonevents/265/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/8/Dialogue
+\\NAME[\\n[12]]
+It's always been like that, hasn't it?
+You are my son, the one I gave birth to.
+It's always been like that, hasn't it?
 > END STRING
 
 > BEGIN STRING
 かわいいボク♪　上手に　おっき☆させた
 おちんちん☆　ママのオマンコの中に
 ずっぷり☆挿れられて　エライね♡\\.\\|\\^
-> CONTEXT: Commonevents/265/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/31/Dialogue
+Cute little boy♪ Good job making your 
+little penis big☆ It's inserted deep☆ 
+into mommy's pussy, you're so good♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 これから　そのおちんちんを
 ママのお腹に　向かって　ズコバコ☆
 いっぱい　ツンツンするんでちゅよ？\\.\\|\\^
-> CONTEXT: Commonevents/265/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/38/Dialogue
+Now, you're going to thrust that little penis
+towards Mommy's tummy☆, okay?
+Poke it in and out a lot for me☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 たっくさん　ジュポジュポして
 ボクちゃんの　おちんぽ☆ミルクを
 ママのお腹に　いっぱい出さなきゃね♪\\.\\|\\^
-> CONTEXT: Commonevents/265/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/45/Dialogue
+Let's make it suck and slurp a lot
+and have you release lots of your 
+little dick milk into Mommy's tummy♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ぁん♡　そうそう♪　ボクちゃんが
 産まれてきた　ママのオマンコ
 ママの赤ちゃんルームを　おちんちんで\\.\\|\\^
-> CONTEXT: Commonevents/265/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/55/Dialogue
+Ahh♡ Just so♪ My little boy born 
+from Mama's pussy, put his little penis 
+into the same place he was born from\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ぐちゃぐちゃ☆トロトロにして　濃厚な
 おちんぽ☆ミルク　注いじゃって
 ママをまた　ママにしちゃうんでちゅよ？\\.\\|\\^
-> CONTEXT: Commonevents/265/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/62/Dialogue
+Make it all messy and gooey, 
+and then pour in some rich dick milk
+and make Mama a Mama once again, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 立派に育った実の息子に　赤ちゃんを
 作らされちゃうママ♪　それが　私♪
 ボクちゃんが　ママをママにするの！\\.\\|\\^
-> CONTEXT: Commonevents/265/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/69/Dialogue
+A mom who gets to have a baby with her own
+son who has grown up into a fine young man♪ 
+That's me♪ My little boy will make me a mom! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あらあら♡　ついこないだまで　あんなに
 小さかったのに　今は立派なおちんちんで
 ママのお腹に　お射精しようとしてるぅ！\\.\\|\\^
-> CONTEXT: Commonevents/265/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/79/Dialogue
+Oh my♡ Just a while ago you were small, 
+but now you have a magnificent little penis 
+and trying to ejaculate into Mommy's tummy! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 お利口さんな　ボクちゃん♪　はぅん♡
 エライよぉ！　しっかり　ママを
 妊娠させて　パパにならなくっちゃね！\\.\\|\\^
-> CONTEXT: Commonevents/265/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/86/Dialogue
+Good little boy♪ Aaah♡
+You're so great! You have to get 
+Mama pregnant and become a dad! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 立派な息子の――んっ♡　立派なムスコで
 妊娠させられちゃうぅ♡　ママ　幸せ♡
 こんなに嬉しいこと　この世にないよ〜♡\\.\\|\\^
-> CONTEXT: Commonevents/265/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/100/Dialogue
+My wonderful son's――Mmm♡ My wonderful son,
+going to get me pregnant♡ Mama is so happy♡
+Nothing in this world makes me happier〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ママのおっぱい飲んでた　ボクちゃんが
 元気な赤ちゃん　ママのお腹に作って
 母乳をまた　出るようにしちゃうのぉ♡\\.\\|\\^
-> CONTEXT: Commonevents/265/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/107/Dialogue
+My little boy, who used to drink Mama's milk,
+making a healthy baby in Mama's tummy
+making her start producing breast milk again♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 はぁん♡　可愛くって　立派なボクぅ♪
 ママのオマンコに　たっぷり　お射精して
 パパになろうね　パパになろうね♪\\.\\|\\^
-> CONTEXT: Commonevents/265/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/114/Dialogue
+Aaah♡ Such a cute and wonderful little boy♪
+Cum inside Mama's pussy and become a daddy, 
+let's make you become a daddy♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほらほら♡　がんばれ♡がんばれ♡
 立派なパパになれるよう　お精子いっぱい
 注いじゃってぇぇぇえええ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/265/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/121/Dialogue
+Come on, come on♡ Do it♡ Do it for me♡
+Pour in lots of sperm so you can 
+become a great dad〜〜〜♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ママ　幸せだよぉお♡♡♡
 はぁぁぁんんんっっっ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/265/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/136/Dialogue
+Mama is soooo happy♡♡♡
+Aaaaaaahhhhh♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ハァハァ……上手に　出来ましたぁ♪\\|
 これは　きっと　赤ちゃんも
 出来ちゃったはずだよね♪\\.\\|\\^
-> CONTEXT: Commonevents/265/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/147/Dialogue
+Haa haa... You did it well♪\\|
+Surely that will do it,
+and a baby will be conceived♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 立派だよぉ　ボクちゃん♪　自分のママを
 またママに　出来るなんて　なかなか
 できることじゃないよ？\\.\\|\\^
-> CONTEXT: Commonevents/265/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/154/Dialogue
+That's wonderful, little boy♪ Being able to 
+make your own mommy your mommy again is not 
+something just anyone can do, is it?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 さっ　ママのお胸で　お休み？\\|
 お腹に耳を　当てたら　赤ちゃんの声が
 聞こえてきちゃうかもね……♪\\.\\|\\^
-> CONTEXT: Commonevents/265/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/265/163/Dialogue
+Now, will you rest on Mama's breasts? \\|
+If you put your ear on my tummy,
+maybe you can hear the baby's voice...♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -5685,8 +5766,11 @@ Thank you for your response.
 よう　やったな〜　あんちゃん♪
 ウチの　隠しコードを　暴いて
 裏プレイを　解禁させるたぁ！
-> CONTEXT: Commonevents/266/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/3/Dialogue
+\\NAME[\\n[13]]
+Well done〜, cutie♪
+You uncovered the hidden code
+and unlocked secret gameplay with me!
 > END STRING
 
 > BEGIN STRING
@@ -6174,8 +6258,11 @@ anywhere, okay? My cutie♡\\.\\|\\^
 誰か　いませんかー？
 誰も　いませんねー？
 ね？　ね？　ね？　……ヨシ！
-> CONTEXT: Commonevents/276/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/3/Dialogue
+\\NAME[\\n[12]]
+Is anyone there?
+No one's here, right?
+Right? Right? ...Okay!
 > END STRING
 
 > BEGIN STRING
@@ -6183,214 +6270,268 @@ anywhere, okay? My cutie♡\\.\\|\\^
 人払いは　バッチリ☆
 思う存分　えっち☆しちゃお♪
 ホラ　ヌギヌギおっき☆して？
-> CONTEXT: Commonevents/276/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/8/Dialogue
+\\NAME[\\n[12]]
+We cleared everyone away☆
+Let's have lots of naughty fun♪
+Come on, take off your clothes☆?
 > END STRING
 
 > BEGIN STRING
 ふふふっ♪　冒険の途中なのに
 私とえっち☆したくなっちゃうなんて
 君ってば　イケナイ子だねぇ♪\\.\\|\\^
-> CONTEXT: Commonevents/276/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/31/Dialogue
+Hehehe♪ We're in the middle of an adventure
+But, you want to have sex with me☆
+Such a naughty boy♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 でも　私も　おんなじ♪
 おちんちんとオマンコ　ドッキング☆して
 君を　可愛がってあげたかったんだよ〜♪\\.\\|\\^
-> CONTEXT: Commonevents/276/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/38/Dialogue
+But I feel the same way♪
+I wanted to our penis and pussy together☆
+and give you lots of love〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あれあれ？　おちんちんの勃ち具合
 あんまり　よくないよ？
 もしかして　緊張してるのかな？\\.\\|\\^
-> CONTEXT: Commonevents/276/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/48/Dialogue
+Oh dear? Your penis isn't very erect, is it?
+It's not looking very good.
+Maybe you're nervous? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ダメでしょ？　しっかりと　硬くなって
 私のオマンコ　ヌルヌルにしなくっちゃ！
 ……じゃあ　いつものを　あげよっかな？\\.\\|\\^
-> CONTEXT: Commonevents/276/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/55/Dialogue
+That won't do, it needs to get really hard
+and my pussy should be slippery!
+...So, should I give you the usual? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほぉら♡　催淫液を　私の尻尾針から
 ジュゥゥゥーッ！！　君の玉裏に
 注入ゥゥゥーッ！！　超エクスタシー♪\\.\\|\\^
-> CONTEXT: Commonevents/276/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/72/Dialogue
+There♡ Aphrodisiac fluid from my tail needle
+Sizzle!! Injecting it into the underside 
+of your balls!! Super ecstasy ♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 瑞々しくも　イヤらしい　私の体液が
 君の全身に　行き渡っていって　カラダの
 隅々まで　性感帯になってっちゃう♪\\.\\|\\^
-> CONTEXT: Commonevents/276/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/79/Dialogue
+My naughty bodily fluids will spread 
+all over your body, turning every inch 
+of your body into an erogenous zone♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほらほらほら！　感度が　どんどん
 上がってくよ？　ビクビク
 ビンビン　上がってっちゃうよ〜？\\.\\|\\^
-> CONTEXT: Commonevents/276/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/93/Dialogue
+See, see! Your sensitivity keeps increasing! 
+You can feel the trembling and tingling, 
+can't you〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ〜らあらあら　おちんちん　すっかり
 硬くなって　びしょびしょオマンコの中
 ぐちゅぐちゅ　掻き乱しちゃってるねぇ！\\.\\|\\^
-> CONTEXT: Commonevents/276/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/108/Dialogue
+Oh my, your little penis has gotten so hard
+and is stirring up my wet pussy,
+it's squelching and stirring it up, ah! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 いいよ♪　いいよ♪　……あん♡　んっ♡
 もっと　激しく　腰をフリフリして
 もっともっと　気持ち良くしちゃって♡\\.\\|\\^
-> CONTEXT: Commonevents/276/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/115/Dialogue
+Yes♪ Yes♪...Ahhh♡ Mmm♡
+Shake your hips more and more,
+make us both feel even better♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 君のタマタマの中　はち切れそうになって
 プクプク泳いでる　お精子ちゃんを
 い〜〜〜っぱい　私にちょうだいね♪\\.\\|\\^
-> CONTEXT: Commonevents/276/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/122/Dialogue
+Your balls are bursting, and your little 
+sperm are swimming around,
+Please give me looots of them〜〜〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 このまま　お射精しましょ♡　しましょ♡
 私の中に　思いっきり　お精子ちゃんを
 ほぉら……流し込んでぇぇぇえええ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/276/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/129/Dialogue
+Please just cum like this♡ Do it♡
+Pour all your sperm into me〜
+Come on... pour it in oooooohh♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あああぁぁぁんんん♡♡♡
 おちんぽミルク☆気持ちいぃぃぃ！！！\\.\\|\\^
-> CONTEXT: Commonevents/276/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/144/Dialogue
+Aaaahhhhhh♡♡♡
+Penis milk☆ 
+It feels so good!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 上手に　お射精できたねぇ♪
 エライエライ♪　立派だよぉ？
 よく　がんばったねぇ♪\\.\\|\\^
-> CONTEXT: Commonevents/276/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/155/Dialogue
+You did a great job ejaculating!
+Good job! That's wonderful!
+You did so well! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 グッタリしちゃって……今日はもう
 お疲れちゃんで　冒険は無理だけど
 また明日から　がんばろうね♪\\.\\|\\^
-> CONTEXT: Commonevents/276/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/162/Dialogue
+I'm so exhausted... I'm too tired today
+I can't go on an adventure right now
+But let's try our best again tomorrow♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 もちろん　またまた冒険の途中で
 ムラムラしちゃったら　私とがっちんこ☆
 おせっせ☆しちゃうのも　ＯＫだからね♪\\.\\|\\^
-> CONTEXT: Commonevents/276/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/171/Dialogue
+Of course, if you get horny again 
+during your adventure,
+you can have sex with me☆♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あらあら　すっかり敏感になっちゃって
 感じてる君が　頑張って　腰　振ってるの
 見てたら　なんだか私も――あぁん♡\\.\\|\\^
-> CONTEXT: Commonevents/276/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/190/Dialogue
+Oh my, you're so sensitive, seeing you 
+trying so hard to move your hips
+makes me want to moan too ―― ahhh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 すごい♡　催淫液　逆流してるみたいに
 私まで――はぁ♡　はぁ♡　興奮して
 君のこと　堪らなく　愛しくなっちゃう♡\\.\\|\\^
-> CONTEXT: Commonevents/276/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/197/Dialogue
+Wow♡ It's like the aphrodisiac is flowing back
+Even I――haa♡ haa♡ I'm getting excited
+I can't help but love you♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 止まらない！　止められないよぉ！
 催淫液も　もっともっと卑猥で
 刺激的な濃度に　なってっちゃうよぉ！\\.\\|\\^
-> CONTEXT: Commonevents/276/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/211/Dialogue
+Don't stop! We can't stop! The aphrodisiac 
+is becoming more and more obscene and
+more and more stimulating! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁん♡　はぁん♡　こぉんな可愛い子が
 私の胸の谷間で　一生懸命　腰をフリフリ
 オマンコ　じゅぼじゅぼ　張り切ってる！\\.\\|\\^
-> CONTEXT: Commonevents/276/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/225/Dialogue
+Aaah♡ Haaah♡ Such a cute boy shaking hips 
+hard in the cleavage of my breasts
+It's sloshing as you're working hard! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 かわいい♡　かわいい♡　かわいい♡
 私の中に　沈めたいよぉ♡
 子宮に閉じ込めて　たくさん可愛がって\\.\\|\\^
-> CONTEXT: Commonevents/276/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/232/Dialogue
+Cute♡ So cute♡ So cute♡
+Sink inside me♡ I want to lock you 
+inside and give you lots of love\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 イケナイお精子ちゃん　いっぱい搾って♡
 私のナカに　いっぱい　ちょうだ〜い♡
 君のお精子ちゃん　欲しいのぉ！\\.\\|\\^
-> CONTEXT: Commonevents/276/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/239/Dialogue
+Naughty little sperm, squeeze lots for me♡
+Give me lots, inside me〜♡
+I really want your sperm! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ちょうだぁい♡　ちょうだぁい♡
 かわいい君の　おちんぽミルクぅぅぅ
 いっぱい　お射精してちょぉだぁい！！！\\.\\|\\^
-> CONTEXT: Commonevents/276/246/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/246/Dialogue
+Give it to me♡ Give it to me♡
+Your cute little dick milk uuuuhh〜
+Eaculate lots and lots for me!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁぁぁんんん♡♡♡
 おちんぽ☆ミルクの　大津波〜〜〜♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/276/261/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/261/Dialogue
+Aaaahhhhh♡♡♡
+A huge tsunami of dick milk〜〜〜♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うふふふふふふふ……\\|ふふふ……。\\|
 オマンコに　君のお精子ちゃんが
 ふよふよ　いっぱい♡　泳いでるぅ♪\\.\\|\\^
-> CONTEXT: Commonevents/276/272/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/272/Dialogue
+Hehehehehe...\\|Hehehe... Your little sperm\\|
+are floating around in my pussy, 
+lots and lots♡ swimming around♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 このまま　ドロドロぐちゃぐちゃになった
 私の子宮の沼に……君を溺れさせて
 ふふふ……\\|ずっと閉じ込めて……。\\.\\|\\^
-> CONTEXT: Commonevents/276/279/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/279/Dialogue
+Let's keep you drowned in this muddy, 
+messy swamp of my womb... Hehehe... 
+Keep you locked up forever...
 > END STRING
 
 > BEGIN STRING
 毎晩　毎晩　おせっせ　おせっせ♡
 いっぱい　いっぱい　可愛がって\\|
 明日なんか　来なくなれば……。\\.\\|\\^
-> CONTEXT: Commonevents/276/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/276/288/Dialogue
+Night after night, sex, sex♡
+Give me lots and lots of love\\|
+I wish tomorrow would never come...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6798,8 +6939,11 @@ anywhere, okay? My cutie♡\\.\\|\\^
 ふふふっ　ドキドキしちゃうね♪
 二人で　ヌギヌギ　脱がしっこ☆
 すっぽんぽんに　なっちゃうよ？
-> CONTEXT: Commonevents/282/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/3/Dialogue
+\\NAME[\\n[12]]
+Hehehe, it's making my heart race♪
+Let's take off each other's clothes☆
+Let's get completely naked, okay?
 > END STRING
 
 > BEGIN STRING
@@ -6807,168 +6951,211 @@ anywhere, okay? My cutie♡\\.\\|\\^
 立派に　おっき☆させた
 おちんちんを……私のナカに
 じゅっぽり☆　挿れちゃって？
-> CONTEXT: Commonevents/282/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/8/Dialogue
+\\NAME[\\n[12]]
+You've made your penis so big 
+and splendid...would you please 
+shove it deep inside me?
 > END STRING
 
 > BEGIN STRING
 はぁん♡　まだ　挿れたばっかりなのに
 すっっっごい　ビクン☆　ビクン☆て
 なってるの〜〜〜……あふぅん♡\\.\\|\\^
-> CONTEXT: Commonevents/282/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/31/Dialogue
+Aaah♡ You just put it in, but it's 
+already twitching sooo much☆ 
+It feels so good☆...Ahhhh〜〜〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 君の　おちんちんから　私の全身に
 染み渡ってくみたいに　じゅんっ♡って
 気持ちの良い波が　伝わってくるのぉ♪\\.\\|\\^
-> CONTEXT: Commonevents/282/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/38/Dialogue
+Feels as though waves of pleasure are spreading 
+from your penis throughout my whole body♡, 
+like a tingling sensation♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 頑張って腰　振ってる　君の可愛い顔……
 君が　一生懸命　私のオマンコ☆
 おちんちんで　ズコバコ☆　してるの\\.\\|\\^
-> CONTEXT: Commonevents/282/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/45/Dialogue
+What a cute face as you work hard shaking 
+your hips... Working so hard on my pussy☆
+Pounding away with your dick☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 見ていると　ますます　感じてきちゃう♡
 オマンコから　イヤらしい濃厚☆お汁
 ビシャビシャ　溢れてきちゃうぅ♡\\.\\|\\^
-> CONTEXT: Commonevents/282/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/52/Dialogue
+The more I watch, the more I feel it♡
+Naughty, thick juice is oozing from my pussy☆
+It's sloshing out♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あら？　――あっ♡　すごいっ！
 君の　おちんちん☆　私の　オマンコの
 敏感なとこ　トントン　突いちゃってる！\\.\\|\\^
-> CONTEXT: Commonevents/282/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/62/Dialogue
+Oh? ――Ah♡ Amazing!
+Your little penis☆ It's poking on the
+sensitive spot inside my pussy! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 君ってば　テクニシャンになったね♪
 おちんちんも　前より　もっと　硬く
 大きく　立派に　なってきてるよぉ？\\.\\|\\^
-> CONTEXT: Commonevents/282/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/69/Dialogue
+You're skilled like a technician, huh?
+Your penis is getting harder than before,
+bigger, and more impressive, too! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それとも　もしかして……私の感度が
 上がり過ぎちゃってるから？　んっ♡
 君とのえっち☆に　感激しすぎちゃって？\\.\\|\\^
-> CONTEXT: Commonevents/282/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/76/Dialogue
+Or maybe... Is my sensitivity simply 
+too high? Hmm♡ Am I just too overwhelmed 
+from having sex with you? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 だって……君のこと　好き過ぎちゃって
 悦びの愛液が　私の全身から――ぁんっ♡
 溢れて　溢れて　止まらないのぉぉぉ！\\.\\|\\^
-> CONTEXT: Commonevents/282/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/83/Dialogue
+Because...I love you so much that the juices 
+are overflowing from my whole body――ahhh♡
+It's overflowing and won't stop! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡　あぁっ♡　ダメっ　すごぉい♡
 私のオマンコ　おちんちんで　ズボズボ
 しちゃってる　君のこと　考えたら……\\.\\|\\^
-> CONTEXT: Commonevents/282/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/93/Dialogue
+Ahh♡ Ahh♡ No, it feels so good♡
+My pussy is being penetrated by your dick,
+when I think about what's going on, I...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ますます　愛おしくなってきちゃって……
 もっと　気持ち良くなりたいぃ♡　ほら！
 クリちゃんも　手で弄ってるうぅぅぅ♡\\.\\|\\^
-> CONTEXT: Commonevents/282/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/100/Dialogue
+I'm starting to love you more and more...
+I want to feel even better♡ Look!
+My hand is playing with my clitoris too♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 幸せ……感じて　君の魅力に　溺れたい！
 健気で　一生懸命な君が　私の……全て♡\\|
 んっ♡　私……君に　溺れてっちゃうぅ！\\.\\|\\^
-> CONTEXT: Commonevents/282/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/107/Dialogue
+I feel so happy... I want to drown in your charm!
+Your earnest nature is...my everything♡\\|
+Mmm♡ I... I'm drowning in you〜〜! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 頑張って　私を　気持ち良くしてる君……
 愛おしすぎて　愛おしすぎて　私　私……
 自分が……分からなくなっちゃうよぉぉ！\\.\\|\\^
-> CONTEXT: Commonevents/282/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/114/Dialogue
+You're trying so hard to make me feel good...
+I love you so much, I love you so much, I...
+I'm starting to lose track of myself〜〜〜! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁっ♡　しゅごいよぉぉぉ　君ぃ♪
 大〜〜〜好きぃ♡　しゅきしゅきぃ♡
 しゅきすぎて　とろけちゃうぅぅ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/282/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/128/Dialogue
+Ahhh♡ You're so amazing〜〜〜♪
+I love you so much♡ Sooooo much〜〜〜♡
+I love you so much, I'm melting♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 君の真っ白な　おちんぽミルク♡
 私に　ちょうだ〜〜〜い♡　いっぱぁい♡
 私のイケナイ子宮に　いっぱい注いでぇ♡\\.\\|\\^
-> CONTEXT: Commonevents/282/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/135/Dialogue
+Your pure white dick milk♡
+Give it to me〜〜〜♡ Lots and lots♡
+Pour lots into my naughty womb♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 君の赤ちゃん♡　素敵な君の赤ちゃん♡
 ひゃぁぁあ♡　赤ちゃん　欲しいのぉ♡
 君が　私を　ママにしちゃうのぉぉぉ♡\\.\\|\\^
-> CONTEXT: Commonevents/282/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/142/Dialogue
+Your baby♡ Your wonderful baby♡
+Aaaahhh♡ I want a baby with you♡
+I want you to make me a mooom〜〜〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほらほらほら！　お射精♡　お射精♡
 君の　おちんぽミルクで　私を　私を……
 ママに　しちゃってぇぇぇえええ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/282/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/149/Dialogue
+Do it, do it, do it! Cum for me♡ Cum♡
+Use your dick milk to make me...
+Make me...make me a mommyyyyyyy♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うっふぅぅぅううう♡♡♡
 いっぱい　もらっちゃったぁぁぁ♡♡♡
 あはぁん♡\\.\\|\\^
-> CONTEXT: Commonevents/282/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/164/Dialogue
+Uuuuhhhhhhh♡♡♡
+You gave me sooooo much♡♡♡
+Ahaha♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ふぅ……♡　ふぅ……♡　ふぅ……♡\\|
 あ〜あ♡　たぁっくさん　泳いでるぅ♡
 私のイケナイ子宮に　君のお精子ちゃんが\\.\\|\\^
-> CONTEXT: Commonevents/282/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/176/Dialogue
+Phew...♡ Phew...♡ Phew...♡\\|
+Ahhh〜♡ So many swimming around inside me♡\\|
+Your sperm are in my naughty womb〜\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ふよふよしてるの……絶対に
 逃がさないからね？\\|　君と同じように
 私の　愛の溜め池の中に　このまま……\\.\\|\\^
-> CONTEXT: Commonevents/282/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/183/Dialogue
+They're floating... I'm absolutely not letting 
+you get away, okay? Just like you are, 
+stay in my reservoir of love like this...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 深く沈めて……どんなに　時が経っても
 君のこと　奪わせないから……
 もう　再び……\\|ふふふっ♡　ふふふっ♡\\.\\|\\^
-> CONTEXT: Commonevents/282/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/282/192/Dialogue
+Let's sink deep...no matter how much time,
+I won't let anyone take you away from me...
+Then once again... \\|Hehehe♡ Hehehe♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -11452,8 +11639,9 @@ Spell: may confuse allies & enemies"
 > BEGIN STRING
 しかし！
 今　名前を書くのは　無意味のようだ。
-> CONTEXT: Commonevents/399/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/2/Dialogue
+But!
+It's pointless writing a name now.
 > END STRING
 
 > BEGIN STRING
@@ -11465,8 +11653,8 @@ It's pointless writing a name now.
 
 > BEGIN STRING
 誰の名前を　書き込みますか？
-> CONTEXT: Commonevents/399/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/18/Dialogue
+Whose name will you write?
 > END STRING
 
 > BEGIN STRING
@@ -11489,16 +11677,17 @@ It's pointless writing a name now.
 
 > BEGIN STRING
 書かない
-> CONTEXT: Commonevents/399/20/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/20/Choice/3
+Don't write
 > END STRING
 
 > BEGIN STRING
 あなたは　\\n[\\v[575]]の名前を
 召喚札に　書き込み
 霊力を　注ぎ込んだ！
-> CONTEXT: Commonevents/399/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/43/Dialogue
+Wrote \\n[\\v[575]] on the summoning card 
+and poured spiritual power into it!
 > END STRING
 
 > BEGIN STRING
@@ -11506,8 +11695,10 @@ It's pointless writing a name now.
 ……呼ばれて　来たけど
 \\v[41]Ｆ　までしか
 一緒に　いられないからね！
-> CONTEXT: Commonevents/399/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/68/Dialogue
+\\NAME[\\n[11]]
+...I came because you called,
+I can only stay until \\v[41]F!
 > END STRING
 
 > BEGIN STRING
@@ -11515,8 +11706,11 @@ It's pointless writing a name now.
 よろしくね♪
 \\v[41]Ｆ　までだけど
 一緒に　頑張ろうね！
-> CONTEXT: Commonevents/399/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/88/Dialogue
+\\NAME[\\n[12]]
+Nice to meet you♪
+Let's do our best together
+up to \\v[41]F!
 > END STRING
 
 > BEGIN STRING
@@ -11524,8 +11718,11 @@ It's pointless writing a name now.
 ウチに　会いたかったんやな♪
 \\v[41]Ｆ　までやけど
 よろしくなー　あんちゃん！
-> CONTEXT: Commonevents/399/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/399/108/Dialogue
+\\NAME[\\n[13]]
+You wanted me, didn't you?
+It's just up to \\v[41]F,
+but nice to meet you, cutie!
 > END STRING
 
 > BEGIN STRING

@@ -484,9 +484,9 @@ Bleed
 
 > BEGIN STRING
 は　炎上した！
-> CONTEXT: States/43/message1/ < UNTRANSLATED
-> CONTEXT: States/43/message2/ < UNTRANSLATED
-
+> CONTEXT: States/43/message1/
+> CONTEXT: States/43/message2/
+ burned!
 > END STRING
 
 > BEGIN STRING
