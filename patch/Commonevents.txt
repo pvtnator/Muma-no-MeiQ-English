@@ -9246,7 +9246,7 @@ Medicine made from unicorn horn"
 > BEGIN STRING
 \\ITEM[204]は　妖精膏だった！
 > CONTEXT: Commonevents/304/4/Dialogue < UNTRANSLATED
-
+\\ITEM[204] was Fairy Plaster!
 > END STRING
 
 > BEGIN STRING
@@ -9279,7 +9279,7 @@ Ointment for injuries made by fairies"
 > BEGIN STRING
 \\ITEM[205]は　反魂酒だった！
 > CONTEXT: Commonevents/305/4/Dialogue < UNTRANSLATED
-
+\\ITEM[205] was Anti-Soul Sake!
 > END STRING
 
 > BEGIN STRING
@@ -9312,7 +9312,7 @@ Medicinal liquor for ubermensch"
 > BEGIN STRING
 \\ITEM[206]は　霊命酒だった！
 > CONTEXT: Commonevents/306/4/Dialogue < UNTRANSLATED
-
+\\ITEM[206] was Spiritual Life Sake!
 > END STRING
 
 > BEGIN STRING
@@ -9345,7 +9345,7 @@ Upper medicinal liquor for ubermensch"
 > BEGIN STRING
 \\ITEM[207]は　天命酒だった！
 > CONTEXT: Commonevents/307/4/Dialogue < UNTRANSLATED
-
+\\ITEM[207] was Destiny Sake!
 > END STRING
 
 > BEGIN STRING
@@ -9378,7 +9378,7 @@ Best medicinal liquor for ubermensch"
 > BEGIN STRING
 \\ITEM[208]は　肉霊芝だった！
 > CONTEXT: Commonevents/308/4/Dialogue < UNTRANSLATED
-
+\\ITEM[208] was Reishi Mushroom!
 > END STRING
 
 > BEGIN STRING
@@ -9411,7 +9411,7 @@ High-protein thick-fleshed mushrooms"
 > BEGIN STRING
 \\ITEM[209]は　錬金霊液だった！
 > CONTEXT: Commonevents/309/4/Dialogue < UNTRANSLATED
-
+\\ITEM[209] was Alchemical Elixir!
 > END STRING
 
 > BEGIN STRING
@@ -9444,7 +9444,7 @@ Medicine to cure injuries and sickness"
 > BEGIN STRING
 \\ITEM[210]は　仙饌蜜酒だった！
 > CONTEXT: Commonevents/310/4/Dialogue < UNTRANSLATED
-
+\\ITEM[210] was Sengen Honey Sake!
 > END STRING
 
 > BEGIN STRING
@@ -9477,7 +9477,7 @@ Legendary beverage with texture"
 > BEGIN STRING
 \\ITEM[211]は　ラージ人魚パンだった！
 > CONTEXT: Commonevents/311/4/Dialogue < UNTRANSLATED
-
+\\ITEM[211] was Large Mermaid Bread!
 > END STRING
 
 > BEGIN STRING
@@ -9510,7 +9510,7 @@ Large size Mermaid Bun"
 > BEGIN STRING
 \\ITEM[212]は　生命のスープだった！
 > CONTEXT: Commonevents/312/4/Dialogue < UNTRANSLATED
-
+\\ITEM[212] was Soup of Life!
 > END STRING
 
 > BEGIN STRING
@@ -9543,7 +9543,7 @@ Red-orange colored soul soup"
 > BEGIN STRING
 \\ITEM[213]は　海の毒薬だった！
 > CONTEXT: Commonevents/313/4/Dialogue < UNTRANSLATED
-
+\\ITEM[213] was Sea Poison!
 > END STRING
 
 > BEGIN STRING
@@ -9576,7 +9576,7 @@ Unethical blasphemous poison"
 > BEGIN STRING
 \\ITEM[214]は　聖金大浴布だった！
 > CONTEXT: Commonevents/314/4/Dialogue < UNTRANSLATED
-
+\\ITEM[214] was Large Holy Towel!
 > END STRING
 
 > BEGIN STRING
@@ -9609,7 +9609,7 @@ Big bathtowel cures all bad states"
 > BEGIN STRING
 \\ITEM[215]は　井戸の誘い水だった！
 > CONTEXT: Commonevents/315/4/Dialogue < UNTRANSLATED
-
+\\ITEM[215] was Well Priming Water!
 > END STRING
 
 > BEGIN STRING
@@ -9648,7 +9648,7 @@ Priming to dive into the id forthwith"
 > BEGIN STRING
 \\ITEM[216]は　盗賊の極意水だった！
 > CONTEXT: Commonevents/316/4/Dialogue < UNTRANSLATED
-
+\\ITEM[216] was Thief's Secret Water!
 > END STRING
 
 > BEGIN STRING
@@ -9687,7 +9687,7 @@ Can get all materials when killing"
 > BEGIN STRING
 \\ITEM[220]は　証明の秘水だった！
 > CONTEXT: Commonevents/320/4/Dialogue < UNTRANSLATED
-
+\\ITEM[220] was Proof Water!
 > END STRING
 
 > BEGIN STRING
@@ -9734,7 +9734,7 @@ You are king of the Muma no MeiQ"
 > BEGIN STRING
 \\ITEM[221]は　火の精霊薬だった！
 > CONTEXT: Commonevents/321/4/Dialogue < UNTRANSLATED
-
+\\ITEM[221] was Fire Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9767,7 +9767,7 @@ Get Flamma Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[222]は　水の精霊薬だった！
 > CONTEXT: Commonevents/322/4/Dialogue < UNTRANSLATED
-
+\\ITEM[222] was Water Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9800,7 +9800,7 @@ Get Aqua Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[223]は　風の精霊薬だった！
 > CONTEXT: Commonevents/323/4/Dialogue < UNTRANSLATED
-
+\\ITEM[223] was Wind Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9833,7 +9833,7 @@ Get Ventus Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[224]は　土の精霊薬だった！
 > CONTEXT: Commonevents/324/4/Dialogue < UNTRANSLATED
-
+\\ITEM[224] was Earth Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9866,7 +9866,7 @@ Get Saxum Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[225]は　草の精霊薬だった！
 > CONTEXT: Commonevents/325/4/Dialogue < UNTRANSLATED
-
+\\ITEM[225] was Herb Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9899,7 +9899,7 @@ Get Gramen Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[226]は　雷の精霊薬だった！
 > CONTEXT: Commonevents/326/4/Dialogue < UNTRANSLATED
-
+\\ITEM[226] was Thunder Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9932,7 +9932,7 @@ Get Tonitrus Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[227]は　闇の精霊薬だった！
 > CONTEXT: Commonevents/327/4/Dialogue < UNTRANSLATED
-
+\\ITEM[227] was Dark Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -9971,7 +9971,7 @@ Get Umbra Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[228]は　光の精霊薬だった！
 > CONTEXT: Commonevents/328/4/Dialogue < UNTRANSLATED
-
+\\ITEM[228] was Light Spirit Potion!
 > END STRING
 
 > BEGIN STRING
@@ -10010,7 +10010,7 @@ Get Lux Anima's help for a bit"
 > BEGIN STRING
 \\ITEM[229]は　究極の物理霊薬だった！
 > CONTEXT: Commonevents/329/4/Dialogue < UNTRANSLATED
-
+\\ITEM[229] was Ultimate Physical Elixir!
 > END STRING
 
 > BEGIN STRING
@@ -10049,7 +10049,7 @@ Enhancing cut & stab & bash for a bit"
 > BEGIN STRING
 \\ITEM[230]は　至高の化学霊薬だった！
 > CONTEXT: Commonevents/330/4/Dialogue < UNTRANSLATED
-
+\\ITEM[230] was Ultimate Chemical Elixir!
 > END STRING
 
 > BEGIN STRING
@@ -10088,7 +10088,7 @@ Enhancing fire & ice & volt for a bit"
 > BEGIN STRING
 \\ITEM[231]は　邪気祓いのお香だった！
 > CONTEXT: Commonevents/331/4/Dialogue < UNTRANSLATED
-
+\\ITEM[231] was Jaqi Ward!
 > END STRING
 
 > BEGIN STRING
@@ -10127,7 +10127,7 @@ Make jaqi on the floor run for cover"
 > BEGIN STRING
 \\ITEM[232]は　邪気寄せのお香だった！
 > CONTEXT: Commonevents/332/4/Dialogue < UNTRANSLATED
-
+\\ITEM[232] was Jaqi Lure!
 > END STRING
 
 > BEGIN STRING
@@ -10165,7 +10165,7 @@ Make jaqi on the floor go berserk"
 > BEGIN STRING
 \\ITEM[233]は　邪気縛りのお香だった！
 > CONTEXT: Commonevents/333/4/Dialogue < UNTRANSLATED
-
+\\ITEM[233] was Jaqi Bind!
 > END STRING
 
 > BEGIN STRING
@@ -10204,7 +10204,7 @@ Jaqi on the floor are immobilized"
 > BEGIN STRING
 \\ITEM[234]は　エスティント香だった！
 > CONTEXT: Commonevents/334/4/Dialogue < UNTRANSLATED
-
+\\ITEM[234] was Estint Fragrance!
 > END STRING
 
 > BEGIN STRING
@@ -10438,7 +10438,7 @@ Get concentration while on the floor"
 > BEGIN STRING
 \\ITEM[240]は　遁術具だった！
 > CONTEXT: Commonevents/340/4/Dialogue < UNTRANSLATED
-
+\\ITEM[240] was Tonjutsu Tool!
 > END STRING
 
 > BEGIN STRING
@@ -10477,7 +10477,7 @@ Escape tools used by ninja battle only"
 > BEGIN STRING
 \\ITEM[241]は　複製の変成液だった！
 > CONTEXT: Commonevents/341/4/Dialogue < UNTRANSLATED
-
+\\ITEM[241] was Replication Fluid!
 > END STRING
 
 > BEGIN STRING
@@ -10516,7 +10516,7 @@ Duplicate a jar or scroll pour with it"
 > BEGIN STRING
 \\ITEM[242]は　変化の変成液だった！
 > CONTEXT: Commonevents/342/4/Dialogue < UNTRANSLATED
-
+\\ITEM[242] was Transformation Fluid!
 > END STRING
 
 > BEGIN STRING
@@ -10555,7 +10555,7 @@ Transform a jar or scroll pour with it"
 > BEGIN STRING
 \\ITEM[243]は　識別の変成液だった！
 > CONTEXT: Commonevents/343/4/Dialogue < UNTRANSLATED
-
+\\ITEM[243] was Identification Fluid!
 > END STRING
 
 > BEGIN STRING
@@ -10594,7 +10594,7 @@ Identify a jar or scroll pour with it"
 > BEGIN STRING
 \\ITEM[251]は　赤熱呪文之巻物だった！
 > CONTEXT: Commonevents/351/4/Dialogue < UNTRANSLATED
-
+\\ITEM[251] was Red-Hot Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -10632,7 +10632,7 @@ Spell: fire attack to single enemy"
 > BEGIN STRING
 \\ITEM[252]は　赤熱呪文弐之巻だった！
 > CONTEXT: Commonevents/352/4/Dialogue < UNTRANSLATED
-
+\\ITEM[252] was Red-Hot Scroll 2!
 > END STRING
 
 > BEGIN STRING
@@ -10670,7 +10670,7 @@ Spell: fire attack to adjacent enemies"
 > BEGIN STRING
 \\ITEM[253]は　赤熱呪文参之巻だった！
 > CONTEXT: Commonevents/353/4/Dialogue < UNTRANSLATED
-
+\\ITEM[253] was Red-hot Scroll 3!
 > END STRING
 
 > BEGIN STRING
@@ -10708,7 +10708,7 @@ Spell: fire attack to all enemies"
 > BEGIN STRING
 \\ITEM[254]は　雪雲呪文之巻物だった！
 > CONTEXT: Commonevents/354/4/Dialogue < UNTRANSLATED
-
+\\ITEM[254] was Snow Cloud Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -10746,7 +10746,7 @@ Spell: ice attack to single enemy"
 > BEGIN STRING
 \\ITEM[255]は　雪雲呪文弐之巻だった！
 > CONTEXT: Commonevents/355/4/Dialogue < UNTRANSLATED
-
+\\ITEM[255] was Snow Cloud Scroll 2!
 > END STRING
 
 > BEGIN STRING
@@ -10784,7 +10784,7 @@ Spell: ice attack to adjacent enemies"
 > BEGIN STRING
 \\ITEM[256]は　雪雲呪文参之巻だった！
 > CONTEXT: Commonevents/356/4/Dialogue < UNTRANSLATED
-
+\\ITEM[256] was Snow Cloud Scroll 3!
 > END STRING
 
 > BEGIN STRING
@@ -10822,7 +10822,7 @@ Spell: ice attack to all enemies"
 > BEGIN STRING
 \\ITEM[257]は　紫電呪文之巻物だった！
 > CONTEXT: Commonevents/357/4/Dialogue < UNTRANSLATED
-
+\\ITEM[257] was Purple Lightning Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -10860,7 +10860,7 @@ Spell: volt attack to single enemy"
 > BEGIN STRING
 \\ITEM[258]は　紫電呪文弐之巻だった！
 > CONTEXT: Commonevents/358/4/Dialogue < UNTRANSLATED
-
+\\ITEM[258] was Purple Lightning Scroll 2!
 > END STRING
 
 > BEGIN STRING
@@ -10898,7 +10898,7 @@ Spell: volt attack to adjacent enemies"
 > BEGIN STRING
 \\ITEM[259]は　紫電呪文参之巻だった！
 > CONTEXT: Commonevents/359/4/Dialogue < UNTRANSLATED
-
+\\ITEM[259] was Purple Lightning Scroll 3!
 > END STRING
 
 > BEGIN STRING
@@ -10936,7 +10936,7 @@ Spell: volt attack to all enemies"
 > BEGIN STRING
 \\ITEM[260]は　黒星呪文之巻物だった！
 > CONTEXT: Commonevents/360/4/Dialogue < UNTRANSLATED
-
+\\ITEM[260] was Black Star Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -10974,7 +10974,7 @@ Spell: untyped attack to all enemies"
 > BEGIN STRING
 \\ITEM[261]は　暴走赤熱巻物だった！
 > CONTEXT: Commonevents/361/4/Dialogue < UNTRANSLATED
-
+\\ITEM[261] was Berserk Red-Hot Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11012,7 +11012,7 @@ Spell: fire attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[262]は　暴走雪雲巻物だった！
 > CONTEXT: Commonevents/362/4/Dialogue < UNTRANSLATED
-
+\\ITEM[262] was Berserk Snow Cloud Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11050,7 +11050,7 @@ Spell: ice attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[263]は　暴走灰空巻物だった！
 > CONTEXT: Commonevents/363/4/Dialogue < UNTRANSLATED
-
+\\ITEM[263] was Berserk Ash Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11088,7 +11088,7 @@ Spell: cut attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[264]は　暴走茶石巻物だった！
 > CONTEXT: Commonevents/364/4/Dialogue < UNTRANSLATED
-
+\\ITEM[264] was Berserk Tea Stone Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11126,7 +11126,7 @@ Spell: bash attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[265]は　暴走緑藪巻物だった！
 > CONTEXT: Commonevents/365/4/Dialogue < UNTRANSLATED
-
+\\ITEM[265] was Berserk Green Thicket Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11164,7 +11164,7 @@ Spell: stab attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[266]は　暴走紫電巻物だった！
 > CONTEXT: Commonevents/366/4/Dialogue < UNTRANSLATED
-
+\\ITEM[266] was Berserk Purple Lightning Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11202,7 +11202,7 @@ Spell: volt attack to allies & enemies"
 > BEGIN STRING
 \\ITEM[267]は　閃光呪文之巻物だった！
 > CONTEXT: Commonevents/367/4/Dialogue < UNTRANSLATED
-
+\\ITEM[267] was Flash Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11240,7 +11240,7 @@ Spell: may blind all enemies"
 > BEGIN STRING
 \\ITEM[268]は　檀醤呪文之巻物だった！
 > CONTEXT: Commonevents/368/4/Dialogue < UNTRANSLATED
-
+\\ITEM[268] was Danjang Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11278,7 +11278,7 @@ Spell: may dumb all enemies"
 > BEGIN STRING
 \\ITEM[269]は　桃錠呪文之巻物だった！
 > CONTEXT: Commonevents/369/4/Dialogue < UNTRANSLATED
-
+\\ITEM[269] was Peach Blossom Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11316,7 +11316,7 @@ Spell: may armlock all enemies"
 > BEGIN STRING
 \\ITEM[270]は　莱豪呪文之巻物だった！
 > CONTEXT: Commonevents/370/4/Dialogue < UNTRANSLATED
-
+\\ITEM[270] was Laihao Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11354,7 +11354,7 @@ Spell: may leglock all enemies"
 > BEGIN STRING
 \\ITEM[271]は　暴走急昏巻物だった！
 > CONTEXT: Commonevents/371/4/Dialogue < UNTRANSLATED
-
+\\ITEM[271] was Berserk Drowsiness Scroll!
 > END STRING
 
 > BEGIN STRING
@@ -11392,7 +11392,7 @@ Spell: may sleep allies & enemies"
 > BEGIN STRING
 \\ITEM[272]は　暴走金愚巻物だった！
 > CONTEXT: Commonevents/372/4/Dialogue < UNTRANSLATED
-
+\\ITEM[272] was Berserk King Scroll!
 > END STRING
 
 > BEGIN STRING

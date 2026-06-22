@@ -22,6 +22,11 @@ def sync(files, update, txstrdir=0):
                     while(lines[i][0] == ">"):
                         i += 1
                     trans = update.get(string)
+                    if "だった！" in string:
+                        itemname = string[13:].strip().replace("だった！","")+"\n"
+                        #print(itemname)
+                        if itemname in update.keys():
+                            lines[i] = string[:11]+" was "+update.get(itemname).strip()+"!\n"
                     if not trans and string.strip() in update:
                         trans = string.replace(string.strip(),update[string.strip()])
                     if not trans and "/" in string and not "[" in string:
@@ -146,9 +151,9 @@ if __name__ == "__main__":
                         multiline += lines[i]
                     string = string.strip()
                     multiline = multiline.strip()
-                    translations['"'+string+'"'] = '"'+multiline+'"'
-                    print('"'+string+'"'+" replaced by "+'"'+multiline+'"')
-                elif lines[i].strip():
+                    #translations['"'+string+'"'] = '"'+multiline+'"'
+                    #print('"'+string+'"'+" replaced by "+'"'+multiline+'"')
+                if lines[i].strip():
                     if string in translations.keys() and translations[string] != lines[i]:
                         print(translations[string].strip()+" replaced by "+lines[i].strip())
                     if "/" in string:
@@ -158,7 +163,7 @@ if __name__ == "__main__":
                         translations[string.replace('"','')] = lines[i].replace('"','')
                     else:
                         translations[string] = lines[i]
-                    #print(string.strip()+" = "+lines[i].strip())
+                    #print(string+" = "+lines[i])
 
                 i += 2
             else:
