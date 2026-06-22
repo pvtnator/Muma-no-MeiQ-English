@@ -1032,19 +1032,19 @@ Baku King
 > BEGIN STRING
 炎貘獣王竜
 > CONTEXT: Enemies/884/name/
-Fire Baku Dragon King
+Baku Dragon King(R)
 > END STRING
 
 > BEGIN STRING
 氷貘獣王竜
 > CONTEXT: Enemies/885/name/
-Ice Baku Dragon King
+Baku Dragon King(B)
 > END STRING
 
 > BEGIN STRING
 雷貘獣王竜
 > CONTEXT: Enemies/886/name/
-Lightning Baku Dragon King
+Baku Dragon King(P)
 > END STRING
 
 > BEGIN STRING
