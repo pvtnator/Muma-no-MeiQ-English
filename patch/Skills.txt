@@ -10379,11 +10379,11 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　感染搾取！
-> CONTEXT: Skills/747/message1/ < UNTRANSLATED
-> CONTEXT: Skills/748/message1/ < UNTRANSLATED
-> CONTEXT: Skills/749/message1/ < UNTRANSLATED
-> CONTEXT: Skills/750/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/747/message1/
+> CONTEXT: Skills/748/message1/
+> CONTEXT: Skills/749/message1/
+> CONTEXT: Skills/750/message1/
+ used Infection Suck!
 > END STRING
 
 > BEGIN STRING
