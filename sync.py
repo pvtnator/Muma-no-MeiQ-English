@@ -117,6 +117,7 @@ if __name__ == "__main__":
     #source_files = [current_dir / "patch" / "Unused.txt"]
     #source_files = [current_dir / "patch" / "Armors.txt"]
     source_files = [current_dir / "patch" / "Items.txt"]
+    source_files = [current_dir / "patch" / "States.txt"]
     #source_files = [current_dir / "patch" / "Troops.txt"]
     #source_files = [current_dir / "patch" / "Skills.txt"]
     #source_files = [current_dir / "mapswap" / "patch" / "Skills.txt"]
@@ -174,4 +175,4 @@ if __name__ == "__main__":
     #sync([current_dir / "mod_scripts.txt"], translations, 0)
     #sync([current_dir / "mod_scripts.txt"], translations, 1)
     sync(dest_files, translations, 0)
-    #sync(dest_files, translations, 1)
+    sync(dest_files, translations, 1)

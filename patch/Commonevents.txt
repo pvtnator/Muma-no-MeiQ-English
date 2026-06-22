@@ -10243,7 +10243,7 @@ Assassin's run to eliminate footsteps"
 > BEGIN STRING
 \\ITEM[235]は　蒼天竜の丹薬だった！
 > CONTEXT: Commonevents/335/4/Dialogue < UNTRANSLATED
-
+\\ITEM[235] was Azure Dragon Elixir!
 > END STRING
 
 > BEGIN STRING
@@ -10282,7 +10282,7 @@ Raise attack power while on the floor"
 > BEGIN STRING
 \\ITEM[236]は　仁獣の丹薬だった！
 > CONTEXT: Commonevents/336/4/Dialogue < UNTRANSLATED
-
+\\ITEM[236] was Elixir of Benevolence!
 > END STRING
 
 > BEGIN STRING
@@ -10399,7 +10399,7 @@ Get quickness while on the floor"
 > BEGIN STRING
 \\ITEM[239]は　白獅子の丹薬だった！
 > CONTEXT: Commonevents/339/4/Dialogue < UNTRANSLATED
-
+\\ITEM[239] was White Lion Elixir!
 > END STRING
 
 > BEGIN STRING
