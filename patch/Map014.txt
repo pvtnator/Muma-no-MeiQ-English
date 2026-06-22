@@ -251,8 +251,11 @@ It was your dick!
 えっと……この先に　あるのが
 シンなる夢魔の迷宮への　入口。
 そこの井戸　見えてるでしょ？
-> CONTEXT: Map014/events/8/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/72/Dialogue
+\\NAME[\\n[11]]
+Um...ahead is the entrance to the 
+Maze of True Succubus.
+You see that well there, right?
 > END STRING
 
 > BEGIN STRING
@@ -260,8 +263,11 @@ It was your dick!
 つまり　秘密の穴ぼこちゃん☆
 ってわけだね。と言っても
 ちょっと　勝手が違うんだけど。
-> CONTEXT: Map014/events/8/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/77/Dialogue
+\\NAME[\\n[12]]
+So, it's like a secret hole☆
+But it's a little different 
+than anything else.
 > END STRING
 
 > BEGIN STRING
@@ -269,8 +275,11 @@ It was your dick!
 持ち込み不可！　未識別！
 ウチらの同行も　できひんで？
 中で　召喚札を　買わん限りな♪
-> CONTEXT: Map014/events/8/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/82/Dialogue
+\\NAME[\\n[13]]
+No outside items! Unidentified!
+We can't accompany you either!
+Unless you buy a summoning ticket there♪
 > END STRING
 
 > BEGIN STRING
@@ -278,8 +287,11 @@ It was your dick!
 とにかく　攻略の難しい
 上級者向けって　感じかな。
 相当の覚悟が　必要ってことね。
-> CONTEXT: Map014/events/8/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/87/Dialogue
+\\NAME[\\n[11]]
+Anyway, it's difficult to beat.
+It's for advanced players.
+You'll need considerable determination.
 > END STRING
 
 > BEGIN STRING
@@ -287,8 +299,11 @@ It was your dick!
 私たちの　お手伝いをするなら
 他の迷宮でも　多分できるから
 別に無理しなくて　大丈夫だよ。
-> CONTEXT: Map014/events/8/pages/0/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/92/Dialogue
+\\NAME[\\n[12]]
+If you want to help us, you can do it 
+in other dungeons as well, so there's 
+no need to push yourself too hard.
 > END STRING
 
 > BEGIN STRING
@@ -296,8 +311,11 @@ It was your dick!
 勿論　このダンジョンでしか
 手に入らんアレコレが　あるのも
 お約束やけどな。ヒヒヒ♪
-> CONTEXT: Map014/events/8/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/98/Dialogue
+\\NAME[\\n[13]]
+Of course, it's a given that 
+there are all sorts of things you can 
+only get in this dungeon. Hehehe♪
 > END STRING
 
 > BEGIN STRING
@@ -305,19 +323,21 @@ It was your dick!
 そうそう♪　どこでもエッチが
 できちゃう　アレが売ってるのは
 \\C[6]この先のノーマル\\C[0]なトコロ☆
-> CONTEXT: Map014/events/8/pages/0/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/174/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/104/Dialogue
+> CONTEXT: Map014/events/8/pages/0/174/Dialogue
+> CONTEXT: Map014/events/8/pages/0/187/Dialogue
+\\NAME[\\n[12]]
+That's right♪ Sex Anywhere is sold at
+\\C[6]everywhere\\C[0] up ahead☆
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[11]]
 ……ッ！？！？
-> CONTEXT: Map014/events/8/pages/0/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/179/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/8/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/109/Dialogue
+> CONTEXT: Map014/events/8/pages/0/179/Dialogue
+> CONTEXT: Map014/events/8/pages/0/192/Dialogue
+...!?!?
 > END STRING
 
 > BEGIN STRING
@@ -325,8 +345,11 @@ It was your dick!
 言うて　どこでもっちゅうほど
 どこでもやないけど　ヤりたきゃ
 行くしかないで？　あんちゃん♪
-> CONTEXT: Map014/events/8/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/112/Dialogue
+\\NAME[\\n[13]]
+Well, it's not like it's *anywhere*, 
+but if you want it, 
+you have to go, right, cutie?♪
 > END STRING
 
 > BEGIN STRING
@@ -334,8 +357,11 @@ It was your dick!
 と……というか　あんた　ここに
 来るのは　初めてってこと？
 ……いや　知らないけどさ。
-> CONTEXT: Map014/events/8/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/118/Dialogue
+\\NAME[\\n[11]]
+So...actually, is this your 
+first time here?
+...Well, I don't know.
 > END STRING
 
 > BEGIN STRING
@@ -343,8 +369,11 @@ It was your dick!
 ロゴスさんが　何かと色々
 やってくれたみたいだけど
 詳しくは　分からないんだよね。
-> CONTEXT: Map014/events/8/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/124/Dialogue
+\\NAME[\\n[12]]
+It seems like Logos did 
+a lot of things for us, 
+but I don't know the details.
 > END STRING
 
 > BEGIN STRING
@@ -352,24 +381,31 @@ It was your dick!
 いやいやいや　夢の中なんて
 そないなもんやろ？　考えても
 意味ないで。な？　あんちゃん♪
-> CONTEXT: Map014/events/8/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/129/Dialogue
+\\NAME[\\n[13]]
+No, no, no, that's how dreams are, 
+right? There's no point in 
+thinking about it. Right, cutie?
 > END STRING
 
 > BEGIN STRING
 この先にあるのは　その難易度に関して
 一切の苦情受付を　拒絶する
 絶界の地牢たる　裏ダンジョン。
-> CONTEXT: Map014/events/8/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/135/Dialogue
+Ahead is a hidden dungeon, an absolute 
+prison that refuses to accept any 
+complaints regarding its difficulty.
 > END STRING
 
 > BEGIN STRING
 君は　無謀と腕試しの決意を　胸に
 飛び込んでみても良いし　そんな酔狂は
 御免蒙ると　引き返しても良い。
-> CONTEXT: Map014/events/8/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/8/pages/0/139/Dialogue
+Be reckless and determined to test 
+your skills, or turn back, deciding 
+that such eccentricity is not for you.
 > END STRING
 
 > BEGIN STRING
@@ -480,14 +516,14 @@ to do that.
 
 > BEGIN STRING
 "シン・夢魔の迷宮に　挑戦できます。"
-> CONTEXT: Map014/events/9/pages/0/0/InlineScript/2:5 < UNTRANSLATED
-
+> CONTEXT: Map014/events/9/pages/0/0/InlineScript/2:5
+"Challenge the True Maze of Succubus."
 > END STRING
 
 > BEGIN STRING
 "MODEを　お選びください。"
-> CONTEXT: Map014/events/9/pages/0/0/InlineScript/3:5 < UNTRANSLATED
-
+> CONTEXT: Map014/events/9/pages/0/0/InlineScript/3:5
+"Please select MODE."
 > END STRING
 
 > BEGIN STRING

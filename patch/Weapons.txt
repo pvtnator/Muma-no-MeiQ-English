@@ -10,7 +10,7 @@ Cursed Celebration Sword
 殺した数　\\v[564]
 > CONTEXT: Weapons/9/description/
 Demonic Sword
-Number of Kills: 564
+Number of Kills: \\v[564]
 > END STRING
 
 > BEGIN STRING
@@ -1552,7 +1552,7 @@ Stratostar
 星の加護を受けた　最上級の弦楽器
 > CONTEXT: Weapons/236/description/
 Skills: Hit/\\C[6]Full Ten Fuzz\\C[0]
-A top-of-the-line stringed instrument blessed by the stars.
+Stringed instrument blessed by the stars
 > END STRING
 
 > BEGIN STRING

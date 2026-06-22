@@ -802,8 +802,9 @@ Purple Muma no MeiQ
 > BEGIN STRING
 シン・夢魔の迷宮
 \\V[83]Ｆ
-> CONTEXT: Commonevents/85/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/85/81/Dialogue
+True Maze of Succubus
+\\V[83]Ｆ
 > END STRING
 
 > BEGIN STRING
@@ -8518,8 +8519,9 @@ by the load!
 > BEGIN STRING
 "〘未識別:効果不明〙
 瓶詰の蓋が　容器の中身を秘匿してる"
-> CONTEXT: Commonevents/293/6/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/293/6/InlineScript/2:1
+"[Unidentified: Effect Unknown]
+The lid of the bottle conceals the contents"
 > END STRING
 
 > BEGIN STRING
@@ -8790,8 +8792,9 @@ Coloured Jar lids conceal the contents"
 > BEGIN STRING
 "〘未識別:効果不明〙\\\\i[29]
 紐の紋飾りが　中身の呪文を秘匿してる"
-> CONTEXT: Commonevents/294/6/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/294/6/InlineScript/2:1
+"[Unidentified: Effect Unknown]\\\\i[29]
+The string's crest conceals the spell inside"
 > END STRING
 
 > BEGIN STRING
@@ -9092,7 +9095,7 @@ You have wasted the soak...
 > BEGIN STRING
 \\ITEM[\\v[47]]は　既に識別済みだ！
 > CONTEXT: Commonevents/296/33/Dialogue < UNTRANSLATED
-
+\\ITEM[\\v[47]] is already identified!
 > END STRING
 
 > BEGIN STRING
@@ -9104,7 +9107,7 @@ You have wasted the soak...
 > BEGIN STRING
 \\ITEM[\\v[47]]を　複製させた！
 > CONTEXT: Commonevents/297/20/Dialogue < UNTRANSLATED
-
+\\ITEM[\\v[47]] was replicated!
 > END STRING
 
 > BEGIN STRING
@@ -9116,7 +9119,7 @@ You have wasted the soak...
 > BEGIN STRING
 \\ITEM[\\v[580]]を　使った！
 > CONTEXT: Commonevents/298/4/Dialogue < UNTRANSLATED
-
+Used \\ITEM[\\v[580]]!
 > END STRING
 
 > BEGIN STRING
@@ -9129,14 +9132,15 @@ Used \\ITEM[\\v[580]]!
 > BEGIN STRING
 パン屑一片　残さず　食べきった！
 > CONTEXT: Commonevents/298/15/Dialogue < UNTRANSLATED
-
+Ate every last crumb!
 > END STRING
 
 > BEGIN STRING
 \\ITEM[\\v[47]]は　\\ITEM[\\v[46]]に
 超変化した！
 > CONTEXT: Commonevents/299/60/Dialogue < UNTRANSLATED
-
+\\ITEM[\\v[47]] transformed into 
+ITEM[46]!
 > END STRING
 
 > BEGIN STRING
@@ -9149,14 +9153,15 @@ Used \\ITEM[\\v[580]]!
 > BEGIN STRING
 \\ITEM[201]は　人魚パンだった！
 > CONTEXT: Commonevents/301/4/Dialogue < UNTRANSLATED
-
+\\ITEM[201] was Mermaid Bread!
 > END STRING
 
 > BEGIN STRING
 "〘単:LP中回復〙
 超人の肉体が再生する　不思議な乾パン"
 > CONTEXT: Commonevents/301/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: LP Recovery]
+Regenerates the body of a superhuman"
 > END STRING
 
 > BEGIN STRING
@@ -9175,7 +9180,7 @@ Hardtack that heals ubermensch's body"
 > BEGIN STRING
 \\ITEM[202]は　甘露だった！
 > CONTEXT: Commonevents/302/4/Dialogue < UNTRANSLATED
-
+\\ITEM[202] was Honeydew!
 > END STRING
 
 > BEGIN STRING

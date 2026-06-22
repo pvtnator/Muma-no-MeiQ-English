@@ -2743,7 +2743,7 @@ Freeze Beam
 氷点下の冷気で鎮圧する　遠隔水氷撃
 > CONTEXT: Skills/219/description/
 [Single: PSY*\\C[9]B\\C[0]+Stun(M)]\\i[30]\\i[218]
-Suppresses with sub-zero cold air
+Suppress with sub-zero cold air
 > END STRING
 
 > BEGIN STRING
@@ -6614,15 +6614,16 @@ Recreate celebratory gun salute and prepare
 
 > BEGIN STRING
 最果ての海
-> CONTEXT: Skills/488/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/488/name/
+Farthest Seas
 > END STRING
 
 > BEGIN STRING
 〘乱:PSY*\\C[10]Ａ\\C[0]*連撃〙\\i[28]
 幻の大海より大津波を現出　遠隔大災害
-> CONTEXT: Skills/488/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/488/description/
+[Random: PSY*\\C[10]A\\C[0]*Consecutive]\\i[28]
+Massive tsunami from the illusory ocean
 > END STRING
 
 > BEGIN STRING
@@ -6639,8 +6640,8 @@ the vast ocean reflected behind eyelids!
 
 > BEGIN STRING
 忍び走り
-> CONTEXT: Skills/490/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/490/name/
+Stealth Run
 > END STRING
 
 > BEGIN STRING
@@ -8505,7 +8506,7 @@ Needle Stroke
 > BEGIN STRING
 の　角ぶっさし！
 > CONTEXT: Skills/607/message1/
- attacked with its corner!
+ attacked with a sharp edge!
 > END STRING
 
 > BEGIN STRING
@@ -9527,8 +9528,8 @@ After Pill
 
 > BEGIN STRING
 は　甘い蜜を分泌した！
-> CONTEXT: Skills/686/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/686/message1/
+ secreted sweet nectar!
 > END STRING
 
 > BEGIN STRING

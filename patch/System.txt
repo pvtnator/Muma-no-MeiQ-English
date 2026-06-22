@@ -416,212 +416,212 @@ Move
 
 > BEGIN STRING
 片手剣
-> CONTEXT: System/weapon_types/1/ < UNTRANSLATED
-> CONTEXT: Classes/101/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/1/
+> CONTEXT: Classes/101/name/
+1H Sword
 > END STRING
 
 > BEGIN STRING
 両手剣
-> CONTEXT: System/weapon_types/2/ < UNTRANSLATED
-> CONTEXT: Classes/102/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/2/
+> CONTEXT: Classes/102/name/
+2H Sword
 > END STRING
 
 > BEGIN STRING
 魔剣
-> CONTEXT: System/weapon_types/3/ < UNTRANSLATED
-> CONTEXT: Classes/103/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/3/
+> CONTEXT: Classes/103/name/
+Demonic Sword
 > END STRING
 
 > BEGIN STRING
 和刀
-> CONTEXT: System/weapon_types/4/ < UNTRANSLATED
-> CONTEXT: Classes/104/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/4/
+> CONTEXT: Classes/104/name/
+Katana
 > END STRING
 
 > BEGIN STRING
 曲刀
-> CONTEXT: System/weapon_types/5/ < UNTRANSLATED
-> CONTEXT: Classes/105/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/5/
+> CONTEXT: Classes/105/name/
+Curved Sword
 > END STRING
 
 > BEGIN STRING
 妖刀
-> CONTEXT: System/weapon_types/6/ < UNTRANSLATED
-> CONTEXT: Classes/106/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/6/
+> CONTEXT: Classes/106/name/
+Magic Sword
 > END STRING
 
 > BEGIN STRING
 短剣
-> CONTEXT: System/weapon_types/7/ < UNTRANSLATED
-> CONTEXT: Classes/107/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/7/
+> CONTEXT: Classes/107/name/
+Dagger
 > END STRING
 
 > BEGIN STRING
 針
-> CONTEXT: System/weapon_types/8/ < UNTRANSLATED
-> CONTEXT: Classes/108/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/8/
+> CONTEXT: Classes/108/name/
+Needle
 > END STRING
 
 > BEGIN STRING
 庖丁
-> CONTEXT: System/weapon_types/9/ < UNTRANSLATED
-> CONTEXT: Classes/109/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/9/
+> CONTEXT: Classes/109/name/
+Kitchen Knife
 > END STRING
 
 > BEGIN STRING
 槍
-> CONTEXT: System/weapon_types/10/ < UNTRANSLATED
-> CONTEXT: Classes/110/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/10/
+> CONTEXT: Classes/110/name/
+Polearm
 > END STRING
 
 > BEGIN STRING
 斧
-> CONTEXT: System/weapon_types/11/ < UNTRANSLATED
-> CONTEXT: Classes/111/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/11/
+> CONTEXT: Classes/111/name/
+Axe
 > END STRING
 
 > BEGIN STRING
 鎚
-> CONTEXT: System/weapon_types/12/ < UNTRANSLATED
-> CONTEXT: Classes/112/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/12/
+> CONTEXT: Classes/112/name/
+Mace
 > END STRING
 
 > BEGIN STRING
 棍棒
-> CONTEXT: System/weapon_types/13/ < UNTRANSLATED
-> CONTEXT: Classes/113/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/13/
+> CONTEXT: Classes/113/name/
+Club
 > END STRING
 
 > BEGIN STRING
 杖
-> CONTEXT: System/weapon_types/14/ < UNTRANSLATED
-> CONTEXT: Classes/114/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/14/
+> CONTEXT: Classes/114/name/
+Staff
 > END STRING
 
 > BEGIN STRING
 鎖物
-> CONTEXT: System/weapon_types/15/ < UNTRANSLATED
-> CONTEXT: Classes/115/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/15/
+> CONTEXT: Classes/115/name/
+Chain
 > END STRING
 
 > BEGIN STRING
 弓
-> CONTEXT: System/weapon_types/16/ < UNTRANSLATED
-> CONTEXT: Classes/116/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/16/
+> CONTEXT: Classes/116/name/
+Bow
 > END STRING
 
 > BEGIN STRING
 銃
-> CONTEXT: System/weapon_types/17/ < UNTRANSLATED
-> CONTEXT: Classes/117/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/17/
+> CONTEXT: Classes/117/name/
+Gun
 > END STRING
 
 > BEGIN STRING
 霊銃
-> CONTEXT: System/weapon_types/18/ < UNTRANSLATED
-> CONTEXT: Classes/118/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/18/
+> CONTEXT: Classes/118/name/
+Spirit Gun
 > END STRING
 
 > BEGIN STRING
 回力鏢
-> CONTEXT: System/weapon_types/19/ < UNTRANSLATED
-> CONTEXT: Classes/119/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/19/
+> CONTEXT: Classes/119/name/
+Boomerang
 > END STRING
 
 > BEGIN STRING
 手裏剣
-> CONTEXT: System/weapon_types/20/ < UNTRANSLATED
-> CONTEXT: Classes/120/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/20/
+> CONTEXT: Classes/120/name/
+Shuriken
 > END STRING
 
 > BEGIN STRING
 投球
-> CONTEXT: System/weapon_types/21/ < UNTRANSLATED
-> CONTEXT: Classes/121/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/21/
+> CONTEXT: Classes/121/name/
+Throwing Ball
 > END STRING
 
 > BEGIN STRING
 拳鍔
-> CONTEXT: System/weapon_types/22/ < UNTRANSLATED
-> CONTEXT: Classes/122/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/22/
+> CONTEXT: Classes/122/name/
+Fist Weapon
 > END STRING
 
 > BEGIN STRING
 楽器
-> CONTEXT: System/weapon_types/23/ < UNTRANSLATED
-> CONTEXT: Classes/123/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/23/
+> CONTEXT: Classes/123/name/
+Instrument
 > END STRING
 
 > BEGIN STRING
 器物
-> CONTEXT: System/weapon_types/24/ < UNTRANSLATED
-> CONTEXT: Classes/124/name/ < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/24/
+> CONTEXT: Classes/124/name/
+Utensils
 > END STRING
 
 > BEGIN STRING
 大盾
-> CONTEXT: System/armor_types/1/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/1/
+Large Shield
 > END STRING
 
 > BEGIN STRING
 小盾
-> CONTEXT: System/armor_types/2/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/2/
+Small Shield
 > END STRING
 
 > BEGIN STRING
 重鎧
-> CONTEXT: System/armor_types/4/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/4/
+Heavy Armor
 > END STRING
 
 > BEGIN STRING
 軽鎧
-> CONTEXT: System/armor_types/5/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/5/
+Armor
 > END STRING
 
 > BEGIN STRING
 戦闘服
-> CONTEXT: System/armor_types/6/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/6/
+Combat Uniform
 > END STRING
 
 > BEGIN STRING
 法衣
-> CONTEXT: System/armor_types/7/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/7/
+Robe
 > END STRING
 
 > BEGIN STRING
 装身具
-> CONTEXT: System/armor_types/11/ < UNTRANSLATED
-
+> CONTEXT: System/armor_types/11/
+Accessory
 > END STRING
 
 > BEGIN STRING

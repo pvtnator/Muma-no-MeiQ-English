@@ -622,8 +622,11 @@ Please come and see me more and more♪
 ゆっくりしていってね　可愛いボクぅ？
 会いに来てくれて　ありがとう♪
 私　とっても　嬉しいよ♡
-> CONTEXT: Map012/events/1/pages/3/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/168/Dialogue
+\\NAME[\\n[12]]
+Please make yourself at home, 
+cute little boy♪ Thanks for 
+coming to see me♪ I'm so happy♡
 > END STRING
 
 > BEGIN STRING
@@ -631,8 +634,10 @@ Please come and see me more and more♪
 すっご〜い☆　君ったら　ホントに
 立派に　育ったんだねぇ！
 エライよぉ　本当に　エライ！
-> CONTEXT: Map012/events/1/pages/3/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/179/Dialogue
+\\NAME[\\n[12]]
+Woow〜☆ You've really grown!
+You're amazing, truly amazing!
 > END STRING
 
 > BEGIN STRING
@@ -640,8 +645,11 @@ Please come and see me more and more♪
 でも　そんな　立派な君でも　時々は
 昔に　戻りたくなるでしょ？　ふふふ♪
 そしたら……秘密の部屋で　待ってるね？
-> CONTEXT: Map012/events/1/pages/3/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/185/Dialogue
+\\NAME[\\n[12]]
+But even someone as wonderful as you sometimes
+wants to relive the old days, right? Hehehe♪
+Then...I'll be waiting in my secret room, okay?
 > END STRING
 
 > BEGIN STRING
@@ -649,8 +657,11 @@ Please come and see me more and more♪
 可愛い　可愛い　ボクちゃ〜ん♪
 私のこと　ママって　呼んでくれても
 良いんだよ〜♡　もう　親子だもんね♪
-> CONTEXT: Map012/events/1/pages/3/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/198/Dialogue
+\\NAME[\\n[12]]
+My cute, cute little boy〜♪
+You can call me Mama if you want♡ 
+We're like mother and son♪
 > END STRING
 
 > BEGIN STRING
@@ -658,8 +669,11 @@ Please come and see me more and more♪
 ねぇ　もしかして　私と　えっち☆するの
 緊張しちゃってるのかな？　大丈夫だよ♪
 優しくしてあげるからね♡　……多分。
-> CONTEXT: Map012/events/1/pages/3/209/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/209/Dialogue
+\\NAME[\\n[12]]
+Hey, are you perhaps nervous about 
+having sex with me? It's okay♪
+I'll be gentle with you♡...Probably.
 > END STRING
 
 > BEGIN STRING
@@ -667,15 +681,18 @@ Please come and see me more and more♪
 頑張った君に　プレゼントを用意したよ☆
 手　出して？　大事に仕舞っておいてね♪
 失くしたりしちゃ　ダメだよ？
-> CONTEXT: Map012/events/1/pages/3/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/217/Dialogue
+\\NAME[\\n[12]]
+I have a gift for your hard work☆
+Hold out your hand? Keep it safe♪
+Don't lose it, okay?
 > END STRING
 
 > BEGIN STRING
 \\n[12]から　氷霊犀の鍵を
 手渡された！
-> CONTEXT: Map012/events/1/pages/3/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/3/224/Dialogue
+\\n[12] gave the Ice Spirit Key!
 > END STRING
 
 > BEGIN STRING
@@ -683,8 +700,11 @@ Please come and see me more and more♪
 君のおかげで　すっごく助かっちゃった♪
 エライエライ♪　これは　ご褒美も
 た〜っぷり♡　してあげないとね♪
-> CONTEXT: Map012/events/1/pages/4/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/1/pages/4/31/Dialogue
+\\NAME[\\n[12]]
+Thanks to you, we got the help♪
+Good job♪ I have to give you
+lots♡ of rewards♡♪
 > END STRING
 
 > BEGIN STRING

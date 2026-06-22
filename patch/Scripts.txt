@@ -11808,303 +11808,303 @@
 
 > BEGIN STRING
 "赤蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/218:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/18/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/218:3
+> CONTEXT: Commonevents/293/18/InlineScript/2:1
+"Red Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "青蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/219:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/30/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/219:3
+> CONTEXT: Commonevents/293/30/InlineScript/2:1
+"Blue Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "銀蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/220:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/42/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/220:3
+> CONTEXT: Commonevents/293/42/InlineScript/2:1
+"Silver Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "金蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/221:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/54/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/221:3
+> CONTEXT: Commonevents/293/54/InlineScript/2:1
+"Gold Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "緑蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/222:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/66/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/222:3
+> CONTEXT: Commonevents/293/66/InlineScript/2:1
+"Green Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "紫蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/223:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/78/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/223:3
+> CONTEXT: Commonevents/293/78/InlineScript/2:1
+"Purple Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "黒蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/224:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/90/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/224:3
+> CONTEXT: Commonevents/293/90/InlineScript/2:1
+"Black Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "白蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/225:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/102/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/225:3
+> CONTEXT: Commonevents/293/102/InlineScript/2:1
+"White Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "桜蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/226:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/114/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/226:3
+> CONTEXT: Commonevents/293/114/InlineScript/2:1
+"Cherry Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "紅蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/227:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/126/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/227:3
+> CONTEXT: Commonevents/293/126/InlineScript/2:1
+"Rouge Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "赤紅蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/228:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/138/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/228:3
+> CONTEXT: Commonevents/293/138/InlineScript/2:1
+"Crimson Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "橙蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/229:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/150/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/229:3
+> CONTEXT: Commonevents/293/150/InlineScript/2:1
+"Orange Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "薄紅蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/230:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/162/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/230:3
+> CONTEXT: Commonevents/293/162/InlineScript/2:1
+"Pink Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "桃蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/231:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/174/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/231:3
+> CONTEXT: Commonevents/293/174/InlineScript/2:1
+"Peach Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "赤紫蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/232:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/186/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/232:3
+> CONTEXT: Commonevents/293/186/InlineScript/2:1
+"Burgundy Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "紅紫蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/233:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/198/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/233:3
+> CONTEXT: Commonevents/293/198/InlineScript/2:1
+"Magenta Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "梅紫蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/234:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/210/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/234:3
+> CONTEXT: Commonevents/293/210/InlineScript/2:1
+"Plum Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "青紫蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/235:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/222/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/235:3
+> CONTEXT: Commonevents/293/222/InlineScript/2:1
+"Periwinkle Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "紺蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/236:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/234/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/236:3
+> CONTEXT: Commonevents/293/234/InlineScript/2:1
+"Navy Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "群青蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/237:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/246/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/237:3
+> CONTEXT: Commonevents/293/246/InlineScript/2:1
+"Ultramarine Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "藍蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/238:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/258/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/238:3
+> CONTEXT: Commonevents/293/258/InlineScript/2:1
+"Indigo Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "紺碧蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/239:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/270/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/239:3
+> CONTEXT: Commonevents/293/270/InlineScript/2:1
+"Azure Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "青緑蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/240:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/282/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/240:3
+> CONTEXT: Commonevents/293/282/InlineScript/2:1
+"Turquoise Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "翡翠蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/241:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/294/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/241:3
+> CONTEXT: Commonevents/293/294/InlineScript/2:1
+"Jade Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "深緑蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/242:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/306/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/242:3
+> CONTEXT: Commonevents/293/306/InlineScript/2:1
+"Evergreen Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "天鵞絨蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/243:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/318/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/243:3
+> CONTEXT: Commonevents/293/318/InlineScript/2:1
+"Velvet Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "萌黄蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/244:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/330/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/244:3
+> CONTEXT: Commonevents/293/330/InlineScript/2:1
+"Onion Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "黄緑蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/245:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/342/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/245:3
+> CONTEXT: Commonevents/293/342/InlineScript/2:1
+"Pea Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "抹茶蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/246:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/354/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/246:3
+> CONTEXT: Commonevents/293/354/InlineScript/2:1
+"Matcha Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "緑黄蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/247:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/366/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/247:3
+> CONTEXT: Commonevents/293/366/InlineScript/2:1
+"Chartreuse Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "黄蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/248:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/378/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/248:3
+> CONTEXT: Commonevents/293/378/InlineScript/2:1
+"Yellow Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "黄茶蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/249:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/390/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/249:3
+> CONTEXT: Commonevents/293/390/InlineScript/2:1
+"Ochre Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "茶蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/250:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/402/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/250:3
+> CONTEXT: Commonevents/293/402/InlineScript/2:1
+"Tawny Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "琥珀蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/251:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/414/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/251:3
+> CONTEXT: Commonevents/293/414/InlineScript/2:1
+"Amber Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "狐蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/252:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/426/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/252:3
+> CONTEXT: Commonevents/293/426/InlineScript/2:1
+"Fox Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "黄土蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/253:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/438/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/253:3
+> CONTEXT: Commonevents/293/438/InlineScript/2:1
+"Loess Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "焦茶蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/254:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/450/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/254:3
+> CONTEXT: Commonevents/293/450/InlineScript/2:1
+"Brown Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "青褐蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/255:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/462/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/255:3
+> CONTEXT: Commonevents/293/462/InlineScript/2:1
+"Dark Indigo Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "薄鈍蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/256:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/474/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/256:3
+> CONTEXT: Commonevents/293/474/InlineScript/2:1
+"Light Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "鼠蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/257:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/486/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/257:3
+> CONTEXT: Commonevents/293/486/InlineScript/2:1
+"Gray Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "灰蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/258:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/498/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/258:3
+> CONTEXT: Commonevents/293/498/InlineScript/2:1
+"Ash Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "漆黒蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/259:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/510/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/259:3
+> CONTEXT: Commonevents/293/510/InlineScript/2:1
+"Jet Black Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
 "暗黒蓋の瓶詰"
-> CONTEXT: Scripts/ショップ在庫制/260:3 < UNTRANSLATED
-> CONTEXT: Commonevents/293/522/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Scripts/ショップ在庫制/260:3
+> CONTEXT: Commonevents/293/522/InlineScript/2:1
+"Dark Sealed Bottle"
 > END STRING
 
 > BEGIN STRING
