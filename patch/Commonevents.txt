@@ -9187,7 +9187,8 @@ Hardtack that heals ubermensch's body"
 "〘単:EP中回復〙
 天から降ると言われてる　とても甘い蜜薬"
 > CONTEXT: Commonevents/302/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: EP Recovery]
+A very sweet nectar from the heavens"
 > END STRING
 
 > BEGIN STRING
@@ -9219,8 +9220,8 @@ Sweet liquid falling from heaven"
 "〘単:病気系バステ+被毒完治〙
 ユニコーンの角で作る　病気を治す丸薬"
 > CONTEXT: Commonevents/303/7/InlineScript/2:1
-[Single: Disease/Poison Cure]
-A pill made from unicorn horn to cure diseases
+"[Single: Ailment/Poison Cure]
+A pill made from unicorn horn to cure diseases"
 > END STRING
 
 > BEGIN STRING
@@ -9252,7 +9253,8 @@ Medicine made from unicorn horn"
 "〘単:怪我系バステ+流血+火傷完治〙
 妖精たちが作る　怪我を治す軟膏薬"
 > CONTEXT: Commonevents/304/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Injury/Bleed/Burn Cure]
+An ointment made by fairies to heal injuries"
 > END STRING
 
 > BEGIN STRING
@@ -9284,7 +9286,8 @@ Ointment for injuries made by fairies"
 "〘単:気絶完治〙
 仮死状態にある超人の魂が回帰する　薬酒"
 > CONTEXT: Commonevents/305/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Faint Recovery]
+Liquor that re-animates a superhuman"
 > END STRING
 
 > BEGIN STRING
@@ -9316,7 +9319,8 @@ Medicinal liquor for ubermensch"
 "〘単:気絶完治+LP中回復〙
 特別精製された命の水　戦線に復帰させる"
 > CONTEXT: Commonevents/306/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Faint/LP Recovery]
+Brings one back to the battlefield"
 > END STRING
 
 > BEGIN STRING
@@ -9348,7 +9352,8 @@ Upper medicinal liquor for ubermensch"
 "〘単:気絶完治+LP全回復〙
 天に選ばれた命の水　完全復帰が可能"
 > CONTEXT: Commonevents/307/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Faint/Full LP Recovery]
+Heaven-chosen Water of Life, complete recovery"
 > END STRING
 
 > BEGIN STRING
@@ -9380,7 +9385,8 @@ Best medicinal liquor for ubermensch"
 "〘単:LP大回復〙
 超高蛋白な肉質の茸　仙薬の素にもなる"
 > CONTEXT: Commonevents/308/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Large LP Recovery]
+High in protein, also ingredient for elixirs"
 > END STRING
 
 > BEGIN STRING
@@ -9412,7 +9418,8 @@ High-protein thick-fleshed mushrooms"
 "〘単:EP全回復+バステ完治〙
 怪我と病気を癒し　精神力を満たす霊薬"
 > CONTEXT: Commonevents/309/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Full EP/Status Recovery]
+Heals injuries and illnesses, replenishes the mind"
 > END STRING
 
 > BEGIN STRING
@@ -9444,7 +9451,8 @@ Medicine to cure injuries and sickness"
 "〘単:LP+EP全回復〙
 不死身を謳われる　食感のある飲料"
 > CONTEXT: Commonevents/310/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Full LP/EP Recovery]
+Known for immortality, distinct texture"
 > END STRING
 
 > BEGIN STRING
@@ -9476,7 +9484,8 @@ Legendary beverage with texture"
 "〘全:LP中回復〙
 大型サイズの人魚パン　分け合って食べる"
 > CONTEXT: Commonevents/311/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: LP Recovery]
+Large mermaid bread, share and eat together"
 > END STRING
 
 > BEGIN STRING
@@ -9508,7 +9517,8 @@ Large size Mermaid Bun"
 "〘全:気絶完治+LP中回復〙
 赤橙の色をした　魂のスープ"
 > CONTEXT: Commonevents/312/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Faint/LP Recovery]
+A reddish-orange colored soup of souls"
 > END STRING
 
 > BEGIN STRING
@@ -9540,7 +9550,8 @@ Red-orange colored soul soup"
 "〘単:LP大傷害〙
 倫理観に欠ける　冒涜的な液体"
 > CONTEXT: Commonevents/313/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Large LP Injury]
+Blasphemous liquid lacking in morality"
 > END STRING
 
 > BEGIN STRING
@@ -9572,7 +9583,8 @@ Unethical blasphemous poison"
 "〘全:病気+怪我系バステ完治〙
 全バステを治す　巨大な濡れタオル"
 > CONTEXT: Commonevents/314/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Disease/Injury Recovery]
+A giant wet towel that cures all ailments"
 > END STRING
 
 > BEGIN STRING
@@ -9610,7 +9622,8 @@ Big bathtowel cures all bad states"
 "〘フロア移動〙
 不可思議な呼び水で　その場で井戸に潜る"
 > CONTEXT: Commonevents/315/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Floor Change]
+Makes you dive into the well on the spot"
 > END STRING
 
 > BEGIN STRING
@@ -9648,7 +9661,8 @@ Priming to dive into the id forthwith"
 "〘単:撃破時素材確定〙
 水溶液を飲むと　素材回収の精度が高まる"
 > CONTEXT: Commonevents/316/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: 100% Drop Rate]
+Drinking this improves material collection"
 > END STRING
 
 > BEGIN STRING
@@ -9727,7 +9741,8 @@ You are king of the Muma no MeiQ"
 "〘単:火炎属性強化+LP大回復〙
 僅かの間　火の精霊の加護を得る"
 > CONTEXT: Commonevents/321/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Fire Enchant/Large LP Recovery]
+Gain temporary blessing of the fire spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9759,7 +9774,8 @@ Get Flamma Anima's help for a bit"
 "〘単:水氷属性強化+LP大回復〙
 僅かの間　水の精霊の加護を得る"
 > CONTEXT: Commonevents/322/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Water/Ice Enchant/Large LP Recovery]
+Gain temporary blessing of the water spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9791,7 +9807,8 @@ Get Aqua Anima's help for a bit"
 "〘単:切斬属性強化+LP大回復〙
 僅かの間　風の精霊の加護を得る"
 > CONTEXT: Commonevents/323/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Slash Enchant/Large LP Recovery]
+Gain temporary blessing of the wind spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9823,7 +9840,8 @@ Get Ventus Anima's help for a bit"
 "〘単:打壊属性強化+LP大回復〙
 僅かの間　土の精霊の加護を得る"
 > CONTEXT: Commonevents/324/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Destruction Enchant/Large LP Recovery]
+Gain temporary blessing of the earth spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9855,7 +9873,8 @@ Get Saxum Anima's help for a bit"
 "〘単:突貫属性強化+LP大回復〙
 僅かの間　草の精霊の加護を得る"
 > CONTEXT: Commonevents/325/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Thrust Enchant/Large LP Recovery]
+Gain temporary blessing of the grass spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9887,7 +9906,8 @@ Get Gramen Anima's help for a bit"
 "〘単:雷電属性強化+LP大回復〙
 僅かの間　雷の精霊の加護を得る"
 > CONTEXT: Commonevents/326/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Lightning Enchant/Large LP Recovery]
+Gain temporary blessing of the lightning spirit"
 > END STRING
 
 > BEGIN STRING
@@ -9925,7 +9945,8 @@ Get Tonitrus Anima's help for a bit"
 "〘単:巻物山彦発動+防衛面↓+EP大回復〙
 僅かの間　闇の精霊の力で　呪文連続発動"
 > CONTEXT: Commonevents/327/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Scroll Echo/Defense Down/Large EP Recovery]
+Temporarily allow continuous spell casting"
 > END STRING
 
 > BEGIN STRING
@@ -9963,7 +9984,8 @@ Get Umbra Anima's help for a bit"
 "〘単:不屈付与+LP大回復〙
 僅かの間　光の精霊が　高確率致命傷回避"
 > CONTEXT: Commonevents/328/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Indomitable/Large LP Recovery]
+Temporary high chance of avoiding fatal damage"
 > END STRING
 
 > BEGIN STRING
@@ -10001,7 +10023,8 @@ Get Lux Anima's help for a bit"
 "〘単:物理属性強化〙
 僅かの間　切斬・突貫・打壊属性を強化"
 > CONTEXT: Commonevents/329/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Physical Enchant]
+Temporarily enhance physical attributes"
 > END STRING
 
 > BEGIN STRING
@@ -10039,7 +10062,8 @@ Enhancing cut & stab & bash for a bit"
 "〘単:化学属性強化〙
 僅かの間　火炎・水氷・雷電属性を強化"
 > CONTEXT: Commonevents/330/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: Chemical Enchant]
+Temporarily enhance elemental attributes"
 > END STRING
 
 > BEGIN STRING
@@ -10077,7 +10101,8 @@ Enhancing fire & ice & volt for a bit"
 "〘邪気弱腰/通常戦闘時敵全スタン〙
 清涼な香りに　フロア内の邪気が及び腰に"
 > CONTEXT: Commonevents/331/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Jaqi Become Weak/Stun During Normal Combat]
+The refreshing scent makes Jaqi hesitant"
 > END STRING
 
 > BEGIN STRING
@@ -10153,7 +10178,8 @@ Make jaqi on the floor go berserk"
 "〘邪気停滞/通常戦闘時敵全麻痺〙
 高貴な香りが　フロア内の邪気を金縛りに"
 > CONTEXT: Commonevents/333/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Jaqi Halt/Paralyzed During Normal Combat]
+A noble fragrance paralyzes the Jaqi within the floor"
 > END STRING
 
 > BEGIN STRING
@@ -10191,7 +10217,8 @@ Jaqi on the floor are immobilized"
 "〘ダッシュ時邪気無変化〙
 足音が聞こえなくなる　暗殺者の香り"
 > CONTEXT: Commonevents/334/7/InlineScript/2:1 < UNTRANSLATED
-
+"[No change in Jaqi while dashing]
+Footsteps become inaudible. Assassin's scent"
 > END STRING
 
 > BEGIN STRING
@@ -10229,7 +10256,8 @@ Assassin's run to eliminate footsteps"
 "〘単:ATK↑〙
 フロア移動まで　攻撃力を高める丸薬"
 > CONTEXT: Commonevents/335/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: ATK↑]
+Increases attack until next floor"
 > END STRING
 
 > BEGIN STRING
@@ -10267,7 +10295,8 @@ Raise attack power while on the floor"
 "〘単:DEF↑〙
 フロア移動まで　防御力を高める丸薬"
 > CONTEXT: Commonevents/336/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: DEF↑]
+Increases defense until next floor"
 > END STRING
 
 > BEGIN STRING
@@ -10305,7 +10334,8 @@ Raise defense while on the floor"
 "〘単:PSY+坑呪力↑〙
 フロア内　霊力と呪文への抵抗力を高める"
 > CONTEXT: Commonevents/337/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: PSY/Resistance↑]
+Improves spells and resistance until next floor"
 > END STRING
 
 > BEGIN STRING
@@ -10343,7 +10373,8 @@ Get spiritual power while on the floor"
 "〘単:AGI+回避力↑〙
 フロア移動まで　敏捷性を高める丸薬"
 > CONTEXT: Commonevents/338/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: AGI/Evasion↑]
+Increases agility until next floor"
 > END STRING
 
 > BEGIN STRING
@@ -10381,7 +10412,8 @@ Get quickness while on the floor"
 "〘単:CON+命中力↑〙
 フロア移動まで　集中力を高める丸薬"
 > CONTEXT: Commonevents/339/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single: CON/Accuracy↑]
+Enhance concentration until next floor"
 > END STRING
 
 > BEGIN STRING
@@ -10419,7 +10451,8 @@ Get concentration while on the floor"
 "〘戦闘時確実逃走〙
 忍者が扱う戦闘離脱の道具　戦闘時限定"
 > CONTEXT: Commonevents/340/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Guaranteed Escape During Combat]
+Used by ninjas for escaping combat, combat only"
 > END STRING
 
 > BEGIN STRING
@@ -10457,7 +10490,8 @@ Escape tools used by ninja battle only"
 "〘指定アイテム増殖〙
 液を掛けた瓶詰か巻物を　もう一つ入手"
 > CONTEXT: Commonevents/341/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Duplicate Specified Item]
+Obtain a duplicate of an item"
 > END STRING
 
 > BEGIN STRING
@@ -10495,7 +10529,8 @@ Duplicate a jar or scroll pour with it"
 "〘指定アイテム変化〙
 液を掛けた瓶詰か巻物が　別物に変化"
 > CONTEXT: Commonevents/342/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Transform Specified Item]
+Transform an item into something else"
 > END STRING
 
 > BEGIN STRING
@@ -10533,7 +10568,8 @@ Transform a jar or scroll pour with it"
 "〘指定アイテム識別/戦闘時分析〙
 未識別の瓶詰か巻物に　液を掛けて解明"
 > CONTEXT: Commonevents/343/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Identify Specified Item/In-Battle Analysis]
+Apply on an item to identify it"
 > END STRING
 
 > BEGIN STRING
