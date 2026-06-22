@@ -10607,7 +10607,8 @@ Identify a jar or scroll pour with it"
 "〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵一体を焼く攻撃呪文を　詠唱できる"
 > CONTEXT: Commonevents/351/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Attack spell that burns one enemy"
 > END STRING
 
 > BEGIN STRING
@@ -10645,7 +10646,8 @@ Spell: fire attack to single enemy"
 "〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 対象と周囲を焼く攻撃呪文を　詠唱できる"
 > CONTEXT: Commonevents/352/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Area:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Burns the target and surrounding area"
 > END STRING
 
 > BEGIN STRING
@@ -10683,7 +10685,8 @@ Spell: fire attack to adjacent enemies"
 "〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵全体を焼く攻撃呪文を　詠唱できる"
 > CONTEXT: Commonevents/353/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Attack spell that burns all enemies"
 > END STRING
 
 > BEGIN STRING
@@ -10721,7 +10724,8 @@ Spell: fire attack to all enemies"
 "〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵一体を凍らす攻撃呪文を　詠唱可能"
 > CONTEXT: Commonevents/354/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Attack spell that freezes one enemy"
 > END STRING
 
 > BEGIN STRING
@@ -10759,7 +10763,8 @@ Spell: ice attack to single enemy"
 "〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 対象と周囲を凍らす攻撃呪文を　詠唱可能"
 > CONTEXT: Commonevents/355/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Area:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Freeze the target and surrounding area"
 > END STRING
 
 > BEGIN STRING
@@ -10797,7 +10802,8 @@ Spell: ice attack to adjacent enemies"
 "〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵全体を凍らす攻撃呪文を　詠唱可能"
 > CONTEXT: Commonevents/356/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Attack spell that freezes all enemies"
 > END STRING
 
 > BEGIN STRING
@@ -10835,7 +10841,8 @@ Spell: ice attack to all enemies"
 "〘単:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵一体に電撃の攻撃呪文を　詠唱する"
 > CONTEXT: Commonevents/357/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Single:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Casts a lightning attack spell on one enemy"
 > END STRING
 
 > BEGIN STRING
@@ -10873,7 +10880,8 @@ Spell: volt attack to single enemy"
 "〘拡:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 対象と周囲に電撃の攻撃呪文を　詠唱する"
 > CONTEXT: Commonevents/358/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Area:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Electrocute the target and surrounding area"
 > END STRING
 
 > BEGIN STRING
@@ -10911,7 +10919,8 @@ Spell: volt attack to adjacent enemies"
 "〘全:PSY*\\\\C[10]Ａ\\\\C[0]〙\\\\i[29]
 敵全体に電撃の攻撃呪文を　詠唱する"
 > CONTEXT: Commonevents/359/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All:PSY*\\\\C[10]A\\\\C[0]]\\\\i[29]
+Casts a lightning attack spell on all enemies"
 > END STRING
 
 > BEGIN STRING
@@ -10949,7 +10958,8 @@ Spell: volt attack to all enemies"
 "〘全:PSY*\\\\C[10]Ａ\\\\C[0]*LP損耗率〙\\\\i[29]
 敵全体に死闇の攻撃呪文を　詠唱する"
 > CONTEXT: Commonevents/360/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All:PSY*\\\\C[10]A\\\\C[0]*LP Loss Rate]\\\\i[29]
+Casts a deathly dark attack spell on all enemies"
 > END STRING
 
 > BEGIN STRING
@@ -10987,7 +10997,8 @@ Spell: untyped attack to all enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する火炎呪文を　詠唱できる"
 > CONTEXT: Commonevents/361/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast explosive fire spells"
 > END STRING
 
 > BEGIN STRING
@@ -11025,7 +11036,8 @@ Spell: fire attack to allies & enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する水氷呪文を　詠唱できる"
 > CONTEXT: Commonevents/362/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast explosive water and ice spells"
 > END STRING
 
 > BEGIN STRING
@@ -11063,7 +11075,8 @@ Spell: ice attack to allies & enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する切斬呪文を　詠唱できる"
 > CONTEXT: Commonevents/363/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast a wildly slashing spell"
 > END STRING
 
 > BEGIN STRING
@@ -11101,7 +11114,8 @@ Spell: cut attack to allies & enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する打壊呪文を　詠唱できる"
 > CONTEXT: Commonevents/364/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast destructive exploding spells"
 > END STRING
 
 > BEGIN STRING
@@ -11139,7 +11153,8 @@ Spell: bash attack to allies & enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する突貫呪文を　詠唱できる"
 > CONTEXT: Commonevents/365/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast a reckless, explosive spell"
 > END STRING
 
 > BEGIN STRING
@@ -11177,7 +11192,8 @@ Spell: stab attack to allies & enemies"
 "〘敵味方乱:PSY*\\\\C[10]Ｂ\\\\C[0]〙\\\\i[29]
 暴発する雷電呪文を　詠唱できる"
 > CONTEXT: Commonevents/366/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Chaos: PSY*\\\\C[10]B\\\\C[0]]\\\\i[29]
+Cast an unctrollable lightning spell"
 > END STRING
 
 > BEGIN STRING
@@ -11215,7 +11231,8 @@ Spell: volt attack to allies & enemies"
 "〘全:目潰付与(極)〙\\\\i[29]
 象牙狩りの閃光を放つ攻策呪文を　詠唱可"
 > CONTEXT: Commonevents/367/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Blinding Effect (L)]\\\\i[29]
+Unleashes the flash of ivory hunting"
 > END STRING
 
 > BEGIN STRING
@@ -11253,7 +11270,8 @@ Spell: may blind all enemies"
 "〘全:口封付与(極)〙\\\\i[29]
 黒檀ジャムを喰らわす攻策呪文を　詠唱可"
 > CONTEXT: Commonevents/368/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Seal of Silence (L)]\\\\i[29]
+Cast an attack spell that jams ebony"
 > END STRING
 
 > BEGIN STRING
@@ -11291,7 +11309,8 @@ Spell: may dumb all enemies"
 "〘全:腕固付与(極)〙\\\\i[29]
 放電ピンク手錠を繋ぐ攻策呪文を　詠唱可"
 > CONTEXT: Commonevents/369/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Arm Restraint (L)]\\\\i[29]
+Launches discharging pink handcuffs"
 > END STRING
 
 > BEGIN STRING
@@ -11329,7 +11348,8 @@ Spell: may armlock all enemies"
 "〘全:足止付与(極)〙\\\\i[29]
 ライムの蔦を這わす攻策呪文を　詠唱可"
 > CONTEXT: Commonevents/370/7/InlineScript/2:1 < UNTRANSLATED
-
+"[All: Immobilization (L)]\\\\i[29]
+Launch creeping lime vines"
 > END STRING
 
 > BEGIN STRING
@@ -11367,7 +11387,8 @@ Spell: may leglock all enemies"
 "〘敵味方全:寝落付与〙\\\\i[29]
 敵も味方も眠らす功策呪文を　詠唱可"
 > CONTEXT: Commonevents/371/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Allies & Enemies: Sleep]\\\\i[29]
+Puts both allies and enemies to sleep"
 > END STRING
 
 > BEGIN STRING
@@ -11405,7 +11426,8 @@ Spell: may sleep allies & enemies"
 "〘敵味方全:惑乱付与〙\\\\i[29]
 敵も味方も惑乱する功策呪文を　詠唱可"
 > CONTEXT: Commonevents/372/7/InlineScript/2:1 < UNTRANSLATED
-
+"[Allies & Enemies: Confusion]\\\\i[29]
+Confuses both allies and enemies"
 > END STRING
 
 > BEGIN STRING

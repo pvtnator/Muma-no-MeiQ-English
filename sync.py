@@ -16,9 +16,11 @@ def sync(files, update, txstrdir=0):
                     i += 1
                     string = lines[i]
                     i += 1
+                    multiline = False
                     while(lines[i][0] != ">"):
                         string += lines[i]
                         i += 1
+                        multiline = True
                     while(lines[i][0] == ">"):
                         i += 1
                     trans = update.get(string)
@@ -34,8 +36,12 @@ def sync(files, update, txstrdir=0):
                         if trans:
                             trans = string.replace(string.split("/")[0], trans)
                     if trans and lines[i].strip()!=trans.strip():
-                        print(lines[i].strip()+" replaced by "+trans.strip())
+                        #print(lines[i].strip()+" replaced by "+trans.strip())
                         lines[i] = trans.replace("\n\n","\n")
+                        if multiline:
+                            while lines[i+1][0] != ">":
+                                i+=1
+                                lines[i] = ""
                     elif lines[i].strip():
                         if string[0]=='"' and txstrdir==0:
                             noquote = string.replace('"','')
@@ -152,7 +158,7 @@ if __name__ == "__main__":
                         multiline += lines[i]
                     string = string.strip()
                     multiline = multiline.strip()
-                    #translations['"'+string+'"'] = '"'+multiline+'"'
+                    translations['"'+string.replace(r"\\",r"\\\\")+'"'] = '"'+multiline.replace(r"\\",r"\\\\")+'"'
                     #print('"'+string+'"'+" replaced by "+'"'+multiline+'"')
                 elif lines[i].strip():
                     if string in translations.keys() and translations[string] != lines[i]:
