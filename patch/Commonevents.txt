@@ -9094,7 +9094,7 @@ You have wasted the soak...
 
 > BEGIN STRING
 \\ITEM[\\v[47]]は　既に識別済みだ！
-> CONTEXT: Commonevents/296/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/296/33/Dialogue
 \\ITEM[\\v[47]] is already identified!
 > END STRING
 
@@ -9106,7 +9106,7 @@ You have wasted the soak...
 
 > BEGIN STRING
 \\ITEM[\\v[47]]を　複製させた！
-> CONTEXT: Commonevents/297/20/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/297/20/Dialogue
 \\ITEM[\\v[47]] was replicated!
 > END STRING
 
@@ -9118,7 +9118,7 @@ You have wasted the soak...
 
 > BEGIN STRING
 \\ITEM[\\v[580]]を　使った！
-> CONTEXT: Commonevents/298/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/298/4/Dialogue
 Used \\ITEM[\\v[580]]!
 > END STRING
 
@@ -9131,14 +9131,14 @@ Used \\ITEM[\\v[580]]!
 
 > BEGIN STRING
 パン屑一片　残さず　食べきった！
-> CONTEXT: Commonevents/298/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/298/15/Dialogue
 Ate every last crumb!
 > END STRING
 
 > BEGIN STRING
 \\ITEM[\\v[47]]は　\\ITEM[\\v[46]]に
 超変化した！
-> CONTEXT: Commonevents/299/60/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/299/60/Dialogue
 \\ITEM[\\v[47]] transformed into 
 ITEM[46]!
 > END STRING
@@ -9152,14 +9152,14 @@ ITEM[46]!
 
 > BEGIN STRING
 \\ITEM[201]は　人魚パンだった！
-> CONTEXT: Commonevents/301/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/301/4/Dialogue
 \\ITEM[201] was Mermaid Bread!
 > END STRING
 
 > BEGIN STRING
 "〘単:LP中回復〙
 超人の肉体が再生する　不思議な乾パン"
-> CONTEXT: Commonevents/301/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/301/7/InlineScript/2:1
 "[Single: LP Recovery]
 Regenerates the body of a superhuman"
 > END STRING
@@ -9179,14 +9179,14 @@ Hardtack that heals ubermensch's body"
 
 > BEGIN STRING
 \\ITEM[202]は　甘露だった！
-> CONTEXT: Commonevents/302/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/302/4/Dialogue
 \\ITEM[202] was Honeydew!
 > END STRING
 
 > BEGIN STRING
 "〘単:EP中回復〙
 天から降ると言われてる　とても甘い蜜薬"
-> CONTEXT: Commonevents/302/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/302/7/InlineScript/2:1
 "[Single: EP Recovery]
 A very sweet nectar from the heavens"
 > END STRING
@@ -9245,14 +9245,14 @@ Medicine made from unicorn horn"
 
 > BEGIN STRING
 \\ITEM[204]は　妖精膏だった！
-> CONTEXT: Commonevents/304/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/304/4/Dialogue
 \\ITEM[204] was Fairy Plaster!
 > END STRING
 
 > BEGIN STRING
 "〘単:怪我系バステ+流血+火傷完治〙
 妖精たちが作る　怪我を治す軟膏薬"
-> CONTEXT: Commonevents/304/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/304/7/InlineScript/2:1
 "[Single: Injury/Bleed/Burn Cure]
 An ointment made by fairies to heal injuries"
 > END STRING
@@ -9278,14 +9278,14 @@ Ointment for injuries made by fairies"
 
 > BEGIN STRING
 \\ITEM[205]は　反魂酒だった！
-> CONTEXT: Commonevents/305/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/305/4/Dialogue
 \\ITEM[205] was Anti-Soul Sake!
 > END STRING
 
 > BEGIN STRING
 "〘単:気絶完治〙
 仮死状態にある超人の魂が回帰する　薬酒"
-> CONTEXT: Commonevents/305/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/305/7/InlineScript/2:1
 "[Single: Faint Recovery]
 Liquor that re-animates a superhuman"
 > END STRING
@@ -9311,14 +9311,14 @@ Medicinal liquor for ubermensch"
 
 > BEGIN STRING
 \\ITEM[206]は　霊命酒だった！
-> CONTEXT: Commonevents/306/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/306/4/Dialogue
 \\ITEM[206] was Spiritual Life Sake!
 > END STRING
 
 > BEGIN STRING
 "〘単:気絶完治+LP中回復〙
 特別精製された命の水　戦線に復帰させる"
-> CONTEXT: Commonevents/306/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/306/7/InlineScript/2:1
 "[Single: Faint/LP Recovery]
 Brings one back to the battlefield"
 > END STRING
@@ -9344,14 +9344,14 @@ Upper medicinal liquor for ubermensch"
 
 > BEGIN STRING
 \\ITEM[207]は　天命酒だった！
-> CONTEXT: Commonevents/307/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/307/4/Dialogue
 \\ITEM[207] was Destiny Sake!
 > END STRING
 
 > BEGIN STRING
 "〘単:気絶完治+LP全回復〙
 天に選ばれた命の水　完全復帰が可能"
-> CONTEXT: Commonevents/307/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/307/7/InlineScript/2:1
 "[Single: Faint/Full LP Recovery]
 Heaven-chosen Water of Life, complete recovery"
 > END STRING
@@ -9377,14 +9377,14 @@ Best medicinal liquor for ubermensch"
 
 > BEGIN STRING
 \\ITEM[208]は　肉霊芝だった！
-> CONTEXT: Commonevents/308/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/308/4/Dialogue
 \\ITEM[208] was Reishi Mushroom!
 > END STRING
 
 > BEGIN STRING
 "〘単:LP大回復〙
 超高蛋白な肉質の茸　仙薬の素にもなる"
-> CONTEXT: Commonevents/308/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/308/7/InlineScript/2:1
 "[Single: Large LP Recovery]
 High in protein, also ingredient for elixirs"
 > END STRING
@@ -9410,14 +9410,14 @@ High-protein thick-fleshed mushrooms"
 
 > BEGIN STRING
 \\ITEM[209]は　錬金霊液だった！
-> CONTEXT: Commonevents/309/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/309/4/Dialogue
 \\ITEM[209] was Alchemical Elixir!
 > END STRING
 
 > BEGIN STRING
 "〘単:EP全回復+バステ完治〙
 怪我と病気を癒し　精神力を満たす霊薬"
-> CONTEXT: Commonevents/309/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/309/7/InlineScript/2:1
 "[Single: Full EP/Status Recovery]
 Heals injuries and illnesses, replenishes the mind"
 > END STRING
@@ -9443,14 +9443,14 @@ Medicine to cure injuries and sickness"
 
 > BEGIN STRING
 \\ITEM[210]は　仙饌蜜酒だった！
-> CONTEXT: Commonevents/310/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/310/4/Dialogue
 \\ITEM[210] was Sengen Honey Sake!
 > END STRING
 
 > BEGIN STRING
 "〘単:LP+EP全回復〙
 不死身を謳われる　食感のある飲料"
-> CONTEXT: Commonevents/310/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/310/7/InlineScript/2:1
 "[Single: Full LP/EP Recovery]
 Known for immortality, distinct texture"
 > END STRING
@@ -9476,14 +9476,14 @@ Legendary beverage with texture"
 
 > BEGIN STRING
 \\ITEM[211]は　ラージ人魚パンだった！
-> CONTEXT: Commonevents/311/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/311/4/Dialogue
 \\ITEM[211] was Large Mermaid Bread!
 > END STRING
 
 > BEGIN STRING
 "〘全:LP中回復〙
 大型サイズの人魚パン　分け合って食べる"
-> CONTEXT: Commonevents/311/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/311/7/InlineScript/2:1
 "[All: LP Recovery]
 Large mermaid bread, share and eat together"
 > END STRING
@@ -9509,14 +9509,14 @@ Large size Mermaid Bun"
 
 > BEGIN STRING
 \\ITEM[212]は　生命のスープだった！
-> CONTEXT: Commonevents/312/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/312/4/Dialogue
 \\ITEM[212] was Soup of Life!
 > END STRING
 
 > BEGIN STRING
 "〘全:気絶完治+LP中回復〙
 赤橙の色をした　魂のスープ"
-> CONTEXT: Commonevents/312/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/312/7/InlineScript/2:1
 "[All: Faint/LP Recovery]
 A reddish-orange colored soup of souls"
 > END STRING
@@ -9542,14 +9542,14 @@ Red-orange colored soul soup"
 
 > BEGIN STRING
 \\ITEM[213]は　海の毒薬だった！
-> CONTEXT: Commonevents/313/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/313/4/Dialogue
 \\ITEM[213] was Sea Poison!
 > END STRING
 
 > BEGIN STRING
 "〘単:LP大傷害〙
 倫理観に欠ける　冒涜的な液体"
-> CONTEXT: Commonevents/313/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/313/7/InlineScript/2:1
 "[Single: Large LP Injury]
 Blasphemous liquid lacking in morality"
 > END STRING
@@ -9575,14 +9575,14 @@ Unethical blasphemous poison"
 
 > BEGIN STRING
 \\ITEM[214]は　聖金大浴布だった！
-> CONTEXT: Commonevents/314/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/314/4/Dialogue
 \\ITEM[214] was Large Holy Towel!
 > END STRING
 
 > BEGIN STRING
 "〘全:病気+怪我系バステ完治〙
 全バステを治す　巨大な濡れタオル"
-> CONTEXT: Commonevents/314/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/314/7/InlineScript/2:1
 "[All: Disease/Injury Recovery]
 A giant wet towel that cures all ailments"
 > END STRING
@@ -9608,7 +9608,7 @@ Big bathtowel cures all bad states"
 
 > BEGIN STRING
 \\ITEM[215]は　井戸の誘い水だった！
-> CONTEXT: Commonevents/315/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/315/4/Dialogue
 \\ITEM[215] was Well Priming Water!
 > END STRING
 
@@ -9621,7 +9621,7 @@ Big bathtowel cures all bad states"
 > BEGIN STRING
 "〘フロア移動〙
 不可思議な呼び水で　その場で井戸に潜る"
-> CONTEXT: Commonevents/315/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/315/7/InlineScript/2:1
 "[Floor Change]
 Makes you dive into the well on the spot"
 > END STRING
@@ -9647,7 +9647,7 @@ Priming to dive into the id forthwith"
 
 > BEGIN STRING
 \\ITEM[216]は　盗賊の極意水だった！
-> CONTEXT: Commonevents/316/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/316/4/Dialogue
 \\ITEM[216] was Thief's Secret Water!
 > END STRING
 
@@ -9660,7 +9660,7 @@ Priming to dive into the id forthwith"
 > BEGIN STRING
 "〘単:撃破時素材確定〙
 水溶液を飲むと　素材回収の精度が高まる"
-> CONTEXT: Commonevents/316/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/316/7/InlineScript/2:1
 "[Single: 100% Drop Rate]
 Drinking this improves material collection"
 > END STRING
@@ -9686,7 +9686,7 @@ Can get all materials when killing"
 
 > BEGIN STRING
 \\ITEM[220]は　証明の秘水だった！
-> CONTEXT: Commonevents/320/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/320/4/Dialogue
 \\ITEM[220] was Proof Water!
 > END STRING
 
@@ -9733,14 +9733,14 @@ You are king of the Muma no MeiQ"
 
 > BEGIN STRING
 \\ITEM[221]は　火の精霊薬だった！
-> CONTEXT: Commonevents/321/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/321/4/Dialogue
 \\ITEM[221] was Fire Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:火炎属性強化+LP大回復〙
 僅かの間　火の精霊の加護を得る"
-> CONTEXT: Commonevents/321/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/321/7/InlineScript/2:1
 "[Single: Fire Enchant/Large LP Recovery]
 Gain temporary blessing of the fire spirit"
 > END STRING
@@ -9766,14 +9766,14 @@ Get Flamma Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[222]は　水の精霊薬だった！
-> CONTEXT: Commonevents/322/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/322/4/Dialogue
 \\ITEM[222] was Water Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:水氷属性強化+LP大回復〙
 僅かの間　水の精霊の加護を得る"
-> CONTEXT: Commonevents/322/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/322/7/InlineScript/2:1
 "[Single: Water/Ice Enchant/Large LP Recovery]
 Gain temporary blessing of the water spirit"
 > END STRING
@@ -9799,14 +9799,14 @@ Get Aqua Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[223]は　風の精霊薬だった！
-> CONTEXT: Commonevents/323/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/323/4/Dialogue
 \\ITEM[223] was Wind Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:切斬属性強化+LP大回復〙
 僅かの間　風の精霊の加護を得る"
-> CONTEXT: Commonevents/323/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/323/7/InlineScript/2:1
 "[Single: Slash Enchant/Large LP Recovery]
 Gain temporary blessing of the wind spirit"
 > END STRING
@@ -9832,14 +9832,14 @@ Get Ventus Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[224]は　土の精霊薬だった！
-> CONTEXT: Commonevents/324/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/324/4/Dialogue
 \\ITEM[224] was Earth Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:打壊属性強化+LP大回復〙
 僅かの間　土の精霊の加護を得る"
-> CONTEXT: Commonevents/324/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/324/7/InlineScript/2:1
 "[Single: Destruction Enchant/Large LP Recovery]
 Gain temporary blessing of the earth spirit"
 > END STRING
@@ -9865,14 +9865,14 @@ Get Saxum Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[225]は　草の精霊薬だった！
-> CONTEXT: Commonevents/325/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/325/4/Dialogue
 \\ITEM[225] was Herb Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:突貫属性強化+LP大回復〙
 僅かの間　草の精霊の加護を得る"
-> CONTEXT: Commonevents/325/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/325/7/InlineScript/2:1
 "[Single: Thrust Enchant/Large LP Recovery]
 Gain temporary blessing of the grass spirit"
 > END STRING
@@ -9898,14 +9898,14 @@ Get Gramen Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[226]は　雷の精霊薬だった！
-> CONTEXT: Commonevents/326/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/326/4/Dialogue
 \\ITEM[226] was Thunder Spirit Potion!
 > END STRING
 
 > BEGIN STRING
 "〘単:雷電属性強化+LP大回復〙
 僅かの間　雷の精霊の加護を得る"
-> CONTEXT: Commonevents/326/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/326/7/InlineScript/2:1
 "[Single: Lightning Enchant/Large LP Recovery]
 Gain temporary blessing of the lightning spirit"
 > END STRING
@@ -9931,7 +9931,7 @@ Get Tonitrus Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[227]は　闇の精霊薬だった！
-> CONTEXT: Commonevents/327/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/327/4/Dialogue
 \\ITEM[227] was Dark Spirit Potion!
 > END STRING
 
@@ -9944,7 +9944,7 @@ Get Tonitrus Anima's help for a bit"
 > BEGIN STRING
 "〘単:巻物山彦発動+防衛面↓+EP大回復〙
 僅かの間　闇の精霊の力で　呪文連続発動"
-> CONTEXT: Commonevents/327/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/327/7/InlineScript/2:1
 "[Single: Scroll Echo/Defense Down/Large EP Recovery]
 Temporarily allow continuous spell casting"
 > END STRING
@@ -9970,7 +9970,7 @@ Get Umbra Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[228]は　光の精霊薬だった！
-> CONTEXT: Commonevents/328/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/328/4/Dialogue
 \\ITEM[228] was Light Spirit Potion!
 > END STRING
 
@@ -9983,7 +9983,7 @@ Get Umbra Anima's help for a bit"
 > BEGIN STRING
 "〘単:不屈付与+LP大回復〙
 僅かの間　光の精霊が　高確率致命傷回避"
-> CONTEXT: Commonevents/328/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/328/7/InlineScript/2:1
 "[Single: Indomitable/Large LP Recovery]
 Temporary high chance of avoiding fatal damage"
 > END STRING
@@ -10009,7 +10009,7 @@ Get Lux Anima's help for a bit"
 
 > BEGIN STRING
 \\ITEM[229]は　究極の物理霊薬だった！
-> CONTEXT: Commonevents/329/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/329/4/Dialogue
 \\ITEM[229] was Ultimate Physical Elixir!
 > END STRING
 
@@ -10022,7 +10022,7 @@ Get Lux Anima's help for a bit"
 > BEGIN STRING
 "〘単:物理属性強化〙
 僅かの間　切斬・突貫・打壊属性を強化"
-> CONTEXT: Commonevents/329/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/329/7/InlineScript/2:1
 "[Single: Physical Enchant]
 Temporarily enhance physical attributes"
 > END STRING
@@ -10048,7 +10048,7 @@ Enhancing cut & stab & bash for a bit"
 
 > BEGIN STRING
 \\ITEM[230]は　至高の化学霊薬だった！
-> CONTEXT: Commonevents/330/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/330/4/Dialogue
 \\ITEM[230] was Ultimate Chemical Elixir!
 > END STRING
 
@@ -10061,7 +10061,7 @@ Enhancing cut & stab & bash for a bit"
 > BEGIN STRING
 "〘単:化学属性強化〙
 僅かの間　火炎・水氷・雷電属性を強化"
-> CONTEXT: Commonevents/330/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/330/7/InlineScript/2:1
 "[Single: Chemical Enchant]
 Temporarily enhance elemental attributes"
 > END STRING
@@ -10087,7 +10087,7 @@ Enhancing fire & ice & volt for a bit"
 
 > BEGIN STRING
 \\ITEM[231]は　邪気祓いのお香だった！
-> CONTEXT: Commonevents/331/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/331/4/Dialogue
 \\ITEM[231] was Jaqi Ward!
 > END STRING
 
@@ -10100,7 +10100,7 @@ Enhancing fire & ice & volt for a bit"
 > BEGIN STRING
 "〘邪気弱腰/通常戦闘時敵全スタン〙
 清涼な香りに　フロア内の邪気が及び腰に"
-> CONTEXT: Commonevents/331/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/331/7/InlineScript/2:1
 "[Jaqi Become Weak/Stun During Normal Combat]
 The refreshing scent makes Jaqi hesitant"
 > END STRING
@@ -10126,7 +10126,7 @@ Make jaqi on the floor run for cover"
 
 > BEGIN STRING
 \\ITEM[232]は　邪気寄せのお香だった！
-> CONTEXT: Commonevents/332/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/332/4/Dialogue
 \\ITEM[232] was Jaqi Lure!
 > END STRING
 
@@ -10164,7 +10164,7 @@ Make jaqi on the floor go berserk"
 
 > BEGIN STRING
 \\ITEM[233]は　邪気縛りのお香だった！
-> CONTEXT: Commonevents/333/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/333/4/Dialogue
 \\ITEM[233] was Jaqi Bind!
 > END STRING
 
@@ -10177,7 +10177,7 @@ Make jaqi on the floor go berserk"
 > BEGIN STRING
 "〘邪気停滞/通常戦闘時敵全麻痺〙
 高貴な香りが　フロア内の邪気を金縛りに"
-> CONTEXT: Commonevents/333/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/333/7/InlineScript/2:1
 "[Jaqi Halt/Paralyzed During Normal Combat]
 A noble fragrance paralyzes the Jaqi within the floor"
 > END STRING
@@ -10203,7 +10203,7 @@ Jaqi on the floor are immobilized"
 
 > BEGIN STRING
 \\ITEM[234]は　エスティント香だった！
-> CONTEXT: Commonevents/334/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/334/4/Dialogue
 \\ITEM[234] was Estint Fragrance!
 > END STRING
 
@@ -10216,7 +10216,7 @@ Jaqi on the floor are immobilized"
 > BEGIN STRING
 "〘ダッシュ時邪気無変化〙
 足音が聞こえなくなる　暗殺者の香り"
-> CONTEXT: Commonevents/334/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/334/7/InlineScript/2:1
 "[No change in Jaqi while dashing]
 Footsteps become inaudible. Assassin's scent"
 > END STRING
@@ -10255,7 +10255,7 @@ Assassin's run to eliminate footsteps"
 > BEGIN STRING
 "〘単:ATK↑〙
 フロア移動まで　攻撃力を高める丸薬"
-> CONTEXT: Commonevents/335/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/335/7/InlineScript/2:1
 "[Single: ATK↑]
 Increases attack until next floor"
 > END STRING
@@ -10294,7 +10294,7 @@ Raise attack power while on the floor"
 > BEGIN STRING
 "〘単:DEF↑〙
 フロア移動まで　防御力を高める丸薬"
-> CONTEXT: Commonevents/336/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/336/7/InlineScript/2:1
 "[Single: DEF↑]
 Increases defense until next floor"
 > END STRING
@@ -10321,19 +10321,19 @@ Raise defense while on the floor"
 > BEGIN STRING
 \\ITEM[237]は　長老亀の丹薬だった！
 > CONTEXT: Commonevents/337/4/Dialogue < UNTRANSLATED
-
+\\ITEM[237] was Elder Turtle Elixir!
 > END STRING
 
 > BEGIN STRING
 "長老亀の丹薬"
 > CONTEXT: Commonevents/337/6/InlineScript/1:25 < UNTRANSLATED
-
+"Elder Turtle Elixir"
 > END STRING
 
 > BEGIN STRING
 "〘単:PSY+坑呪力↑〙
 フロア内　霊力と呪文への抵抗力を高める"
-> CONTEXT: Commonevents/337/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/337/7/InlineScript/2:1
 "[Single: PSY/Resistance↑]
 Improves spells and resistance until next floor"
 > END STRING
@@ -10360,19 +10360,19 @@ Get spiritual power while on the floor"
 > BEGIN STRING
 \\ITEM[238]は　飛翔鳥の丹薬だった！
 > CONTEXT: Commonevents/338/4/Dialogue < UNTRANSLATED
-
+\\ITEM[238] was Flying Bird Elixir!
 > END STRING
 
 > BEGIN STRING
 "飛翔鳥の丹薬"
 > CONTEXT: Commonevents/338/6/InlineScript/1:25 < UNTRANSLATED
-
+"Flying Bird Elixir"
 > END STRING
 
 > BEGIN STRING
 "〘単:AGI+回避力↑〙
 フロア移動まで　敏捷性を高める丸薬"
-> CONTEXT: Commonevents/338/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/338/7/InlineScript/2:1
 "[Single: AGI/Evasion↑]
 Increases agility until next floor"
 > END STRING
@@ -10411,7 +10411,7 @@ Get quickness while on the floor"
 > BEGIN STRING
 "〘単:CON+命中力↑〙
 フロア移動まで　集中力を高める丸薬"
-> CONTEXT: Commonevents/339/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/339/7/InlineScript/2:1
 "[Single: CON/Accuracy↑]
 Enhance concentration until next floor"
 > END STRING
@@ -10437,7 +10437,7 @@ Get concentration while on the floor"
 
 > BEGIN STRING
 \\ITEM[240]は　遁術具だった！
-> CONTEXT: Commonevents/340/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/340/4/Dialogue
 \\ITEM[240] was Tonjutsu Tool!
 > END STRING
 
@@ -10450,7 +10450,7 @@ Get concentration while on the floor"
 > BEGIN STRING
 "〘戦闘時確実逃走〙
 忍者が扱う戦闘離脱の道具　戦闘時限定"
-> CONTEXT: Commonevents/340/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/340/7/InlineScript/2:1
 "[Guaranteed Escape During Combat]
 Used by ninjas for escaping combat, combat only"
 > END STRING
@@ -10476,7 +10476,7 @@ Escape tools used by ninja battle only"
 
 > BEGIN STRING
 \\ITEM[241]は　複製の変成液だった！
-> CONTEXT: Commonevents/341/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/341/4/Dialogue
 \\ITEM[241] was Replication Fluid!
 > END STRING
 
@@ -10489,7 +10489,7 @@ Escape tools used by ninja battle only"
 > BEGIN STRING
 "〘指定アイテム増殖〙
 液を掛けた瓶詰か巻物を　もう一つ入手"
-> CONTEXT: Commonevents/341/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/341/7/InlineScript/2:1
 "[Duplicate Specified Item]
 Obtain a duplicate of an item"
 > END STRING
@@ -10515,7 +10515,7 @@ Duplicate a jar or scroll pour with it"
 
 > BEGIN STRING
 \\ITEM[242]は　変化の変成液だった！
-> CONTEXT: Commonevents/342/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/342/4/Dialogue
 \\ITEM[242] was Transformation Fluid!
 > END STRING
 
@@ -10528,7 +10528,7 @@ Duplicate a jar or scroll pour with it"
 > BEGIN STRING
 "〘指定アイテム変化〙
 液を掛けた瓶詰か巻物が　別物に変化"
-> CONTEXT: Commonevents/342/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/342/7/InlineScript/2:1
 "[Transform Specified Item]
 Transform an item into something else"
 > END STRING
@@ -10554,7 +10554,7 @@ Transform a jar or scroll pour with it"
 
 > BEGIN STRING
 \\ITEM[243]は　識別の変成液だった！
-> CONTEXT: Commonevents/343/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/343/4/Dialogue
 \\ITEM[243] was Identification Fluid!
 > END STRING
 
@@ -10567,7 +10567,7 @@ Transform a jar or scroll pour with it"
 > BEGIN STRING
 "〘指定アイテム識別/戦闘時分析〙
 未識別の瓶詰か巻物に　液を掛けて解明"
-> CONTEXT: Commonevents/343/7/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/343/7/InlineScript/2:1
 "[Identify Specified Item/In-Battle Analysis]
 Apply on an item to identify it"
 > END STRING
@@ -10593,7 +10593,7 @@ Identify a jar or scroll pour with it"
 
 > BEGIN STRING
 \\ITEM[251]は　赤熱呪文之巻物だった！
-> CONTEXT: Commonevents/351/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/351/4/Dialogue
 \\ITEM[251] was Red-Hot Scroll!
 > END STRING
 
@@ -10631,7 +10631,7 @@ Spell: fire attack to single enemy"
 
 > BEGIN STRING
 \\ITEM[252]は　赤熱呪文弐之巻だった！
-> CONTEXT: Commonevents/352/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/352/4/Dialogue
 \\ITEM[252] was Red-Hot Scroll 2!
 > END STRING
 
@@ -10669,7 +10669,7 @@ Spell: fire attack to adjacent enemies"
 
 > BEGIN STRING
 \\ITEM[253]は　赤熱呪文参之巻だった！
-> CONTEXT: Commonevents/353/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/353/4/Dialogue
 \\ITEM[253] was Red-hot Scroll 3!
 > END STRING
 
@@ -10707,7 +10707,7 @@ Spell: fire attack to all enemies"
 
 > BEGIN STRING
 \\ITEM[254]は　雪雲呪文之巻物だった！
-> CONTEXT: Commonevents/354/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/354/4/Dialogue
 \\ITEM[254] was Snow Cloud Scroll!
 > END STRING
 
@@ -10745,7 +10745,7 @@ Spell: ice attack to single enemy"
 
 > BEGIN STRING
 \\ITEM[255]は　雪雲呪文弐之巻だった！
-> CONTEXT: Commonevents/355/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/355/4/Dialogue
 \\ITEM[255] was Snow Cloud Scroll 2!
 > END STRING
 
@@ -10783,7 +10783,7 @@ Spell: ice attack to adjacent enemies"
 
 > BEGIN STRING
 \\ITEM[256]は　雪雲呪文参之巻だった！
-> CONTEXT: Commonevents/356/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/356/4/Dialogue
 \\ITEM[256] was Snow Cloud Scroll 3!
 > END STRING
 
@@ -10821,7 +10821,7 @@ Spell: ice attack to all enemies"
 
 > BEGIN STRING
 \\ITEM[257]は　紫電呪文之巻物だった！
-> CONTEXT: Commonevents/357/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/357/4/Dialogue
 \\ITEM[257] was Purple Lightning Scroll!
 > END STRING
 
@@ -10859,7 +10859,7 @@ Spell: volt attack to single enemy"
 
 > BEGIN STRING
 \\ITEM[258]は　紫電呪文弐之巻だった！
-> CONTEXT: Commonevents/358/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/358/4/Dialogue
 \\ITEM[258] was Purple Lightning Scroll 2!
 > END STRING
 
@@ -10897,7 +10897,7 @@ Spell: volt attack to adjacent enemies"
 
 > BEGIN STRING
 \\ITEM[259]は　紫電呪文参之巻だった！
-> CONTEXT: Commonevents/359/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/359/4/Dialogue
 \\ITEM[259] was Purple Lightning Scroll 3!
 > END STRING
 
@@ -10935,7 +10935,7 @@ Spell: volt attack to all enemies"
 
 > BEGIN STRING
 \\ITEM[260]は　黒星呪文之巻物だった！
-> CONTEXT: Commonevents/360/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/360/4/Dialogue
 \\ITEM[260] was Black Star Scroll!
 > END STRING
 
@@ -10973,7 +10973,7 @@ Spell: untyped attack to all enemies"
 
 > BEGIN STRING
 \\ITEM[261]は　暴走赤熱巻物だった！
-> CONTEXT: Commonevents/361/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/361/4/Dialogue
 \\ITEM[261] was Berserk Red-Hot Scroll!
 > END STRING
 
@@ -11011,7 +11011,7 @@ Spell: fire attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[262]は　暴走雪雲巻物だった！
-> CONTEXT: Commonevents/362/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/362/4/Dialogue
 \\ITEM[262] was Berserk Snow Cloud Scroll!
 > END STRING
 
@@ -11049,7 +11049,7 @@ Spell: ice attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[263]は　暴走灰空巻物だった！
-> CONTEXT: Commonevents/363/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/363/4/Dialogue
 \\ITEM[263] was Berserk Ash Scroll!
 > END STRING
 
@@ -11087,7 +11087,7 @@ Spell: cut attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[264]は　暴走茶石巻物だった！
-> CONTEXT: Commonevents/364/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/364/4/Dialogue
 \\ITEM[264] was Berserk Tea Stone Scroll!
 > END STRING
 
@@ -11125,7 +11125,7 @@ Spell: bash attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[265]は　暴走緑藪巻物だった！
-> CONTEXT: Commonevents/365/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/365/4/Dialogue
 \\ITEM[265] was Berserk Green Thicket Scroll!
 > END STRING
 
@@ -11163,7 +11163,7 @@ Spell: stab attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[266]は　暴走紫電巻物だった！
-> CONTEXT: Commonevents/366/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/366/4/Dialogue
 \\ITEM[266] was Berserk Purple Lightning Scroll!
 > END STRING
 
@@ -11201,7 +11201,7 @@ Spell: volt attack to allies & enemies"
 
 > BEGIN STRING
 \\ITEM[267]は　閃光呪文之巻物だった！
-> CONTEXT: Commonevents/367/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/367/4/Dialogue
 \\ITEM[267] was Flash Scroll!
 > END STRING
 
@@ -11239,7 +11239,7 @@ Spell: may blind all enemies"
 
 > BEGIN STRING
 \\ITEM[268]は　檀醤呪文之巻物だった！
-> CONTEXT: Commonevents/368/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/368/4/Dialogue
 \\ITEM[268] was Danjang Scroll!
 > END STRING
 
@@ -11277,7 +11277,7 @@ Spell: may dumb all enemies"
 
 > BEGIN STRING
 \\ITEM[269]は　桃錠呪文之巻物だった！
-> CONTEXT: Commonevents/369/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/369/4/Dialogue
 \\ITEM[269] was Peach Blossom Scroll!
 > END STRING
 
@@ -11315,7 +11315,7 @@ Spell: may armlock all enemies"
 
 > BEGIN STRING
 \\ITEM[270]は　莱豪呪文之巻物だった！
-> CONTEXT: Commonevents/370/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/370/4/Dialogue
 \\ITEM[270] was Laihao Scroll!
 > END STRING
 
@@ -11353,7 +11353,7 @@ Spell: may leglock all enemies"
 
 > BEGIN STRING
 \\ITEM[271]は　暴走急昏巻物だった！
-> CONTEXT: Commonevents/371/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/371/4/Dialogue
 \\ITEM[271] was Berserk Drowsiness Scroll!
 > END STRING
 
@@ -11391,7 +11391,7 @@ Spell: may sleep allies & enemies"
 
 > BEGIN STRING
 \\ITEM[272]は　暴走金愚巻物だった！
-> CONTEXT: Commonevents/372/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/372/4/Dialogue
 \\ITEM[272] was Berserk King Scroll!
 > END STRING
 

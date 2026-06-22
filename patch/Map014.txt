@@ -277,7 +277,7 @@ than anything else.
 中で　召喚札を　買わん限りな♪
 > CONTEXT: Map014/events/8/pages/0/82/Dialogue
 \\NAME[\\n[13]]
-No outside items! Unidentified!
+No outside items! Unidentified items!
 We can't accompany you either!
 Unless you buy a summoning ticket there♪
 > END STRING
