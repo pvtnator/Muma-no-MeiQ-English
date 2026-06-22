@@ -117,7 +117,7 @@ if __name__ == "__main__":
     #source_files = [current_dir / "patch" / "Unused.txt"]
     #source_files = [current_dir / "patch" / "Armors.txt"]
     source_files = [current_dir / "patch" / "Items.txt"]
-    source_files = [current_dir / "patch" / "States.txt"]
+    #source_files = [current_dir / "patch" / "States.txt"]
     #source_files = [current_dir / "patch" / "Troops.txt"]
     #source_files = [current_dir / "patch" / "Skills.txt"]
     #source_files = [current_dir / "mapswap" / "patch" / "Skills.txt"]
@@ -154,7 +154,7 @@ if __name__ == "__main__":
                     multiline = multiline.strip()
                     #translations['"'+string+'"'] = '"'+multiline+'"'
                     #print('"'+string+'"'+" replaced by "+'"'+multiline+'"')
-                if lines[i].strip():
+                elif lines[i].strip():
                     if string in translations.keys() and translations[string] != lines[i]:
                         print(translations[string].strip()+" replaced by "+lines[i].strip())
                     if "/" in string:
@@ -164,6 +164,7 @@ if __name__ == "__main__":
                         translations[string.replace('"','')] = lines[i].replace('"','')
                     else:
                         translations[string] = lines[i]
+                        translations['"'+string.strip()+'"\n'] = '"'+lines[i].strip()+'"\n'
                     #print(string+" = "+lines[i])
 
                 i += 2
@@ -175,4 +176,4 @@ if __name__ == "__main__":
     #sync([current_dir / "mod_scripts.txt"], translations, 0)
     #sync([current_dir / "mod_scripts.txt"], translations, 1)
     sync(dest_files, translations, 0)
-    sync(dest_files, translations, 1)
+    #sync(dest_files, translations, 1)

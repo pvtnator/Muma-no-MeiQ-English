@@ -9614,8 +9614,8 @@ Big bathtowel cures all bad states"
 
 > BEGIN STRING
 "井戸の誘い水"
-> CONTEXT: Commonevents/315/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/315/6/InlineScript/1:25
+"Well Priming Water"
 > END STRING
 
 > BEGIN STRING
@@ -9653,8 +9653,8 @@ Priming to dive into the id forthwith"
 
 > BEGIN STRING
 "盗賊の極意水"
-> CONTEXT: Commonevents/316/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/316/6/InlineScript/1:25
+"Thief's Secret Water"
 > END STRING
 
 > BEGIN STRING
@@ -9937,8 +9937,8 @@ Get Tonitrus Anima's help for a bit"
 
 > BEGIN STRING
 "闇の精霊薬"
-> CONTEXT: Commonevents/327/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/327/6/InlineScript/1:25
+"Dark Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -9976,8 +9976,8 @@ Get Umbra Anima's help for a bit"
 
 > BEGIN STRING
 "光の精霊薬"
-> CONTEXT: Commonevents/328/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/328/6/InlineScript/1:25
+"Light Spirit Potion"
 > END STRING
 
 > BEGIN STRING
@@ -10015,8 +10015,8 @@ Get Lux Anima's help for a bit"
 
 > BEGIN STRING
 "究極の物理霊薬"
-> CONTEXT: Commonevents/329/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/329/6/InlineScript/1:25
+"Ultimate Physical Elixir"
 > END STRING
 
 > BEGIN STRING
@@ -10054,8 +10054,8 @@ Enhancing cut & stab & bash for a bit"
 
 > BEGIN STRING
 "至高の化学霊薬"
-> CONTEXT: Commonevents/330/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/330/6/InlineScript/1:25
+"Ultimate Chemical Elixir"
 > END STRING
 
 > BEGIN STRING
@@ -10093,8 +10093,8 @@ Enhancing fire & ice & volt for a bit"
 
 > BEGIN STRING
 "邪気祓いのお香"
-> CONTEXT: Commonevents/331/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/331/6/InlineScript/1:25
+"Jaqi Ward"
 > END STRING
 
 > BEGIN STRING
@@ -10132,8 +10132,8 @@ Make jaqi on the floor run for cover"
 
 > BEGIN STRING
 "邪気寄せのお香"
-> CONTEXT: Commonevents/332/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/332/6/InlineScript/1:25
+"Jaqi Lure"
 > END STRING
 
 > BEGIN STRING
@@ -10170,8 +10170,8 @@ Make jaqi on the floor go berserk"
 
 > BEGIN STRING
 "邪気縛りのお香"
-> CONTEXT: Commonevents/333/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/333/6/InlineScript/1:25
+"Jaqi Bind"
 > END STRING
 
 > BEGIN STRING
@@ -10209,8 +10209,8 @@ Jaqi on the floor are immobilized"
 
 > BEGIN STRING
 "エスティント香"
-> CONTEXT: Commonevents/334/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/334/6/InlineScript/1:25
+"Estint Fragrance"
 > END STRING
 
 > BEGIN STRING
@@ -10242,7 +10242,7 @@ Assassin's run to eliminate footsteps"
 
 > BEGIN STRING
 \\ITEM[235]は　蒼天竜の丹薬だった！
-> CONTEXT: Commonevents/335/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/335/4/Dialogue
 \\ITEM[235] was Azure Dragon Elixir!
 > END STRING
 
@@ -10281,7 +10281,7 @@ Raise attack power while on the floor"
 
 > BEGIN STRING
 \\ITEM[236]は　仁獣の丹薬だった！
-> CONTEXT: Commonevents/336/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/336/4/Dialogue
 \\ITEM[236] was Elixir of Benevolence!
 > END STRING
 
@@ -10320,13 +10320,13 @@ Raise defense while on the floor"
 
 > BEGIN STRING
 \\ITEM[237]は　長老亀の丹薬だった！
-> CONTEXT: Commonevents/337/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/337/4/Dialogue
 \\ITEM[237] was Elder Turtle Elixir!
 > END STRING
 
 > BEGIN STRING
 "長老亀の丹薬"
-> CONTEXT: Commonevents/337/6/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Commonevents/337/6/InlineScript/1:25
 "Elder Turtle Elixir"
 > END STRING
 
@@ -10359,13 +10359,13 @@ Get spiritual power while on the floor"
 
 > BEGIN STRING
 \\ITEM[238]は　飛翔鳥の丹薬だった！
-> CONTEXT: Commonevents/338/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/338/4/Dialogue
 \\ITEM[238] was Flying Bird Elixir!
 > END STRING
 
 > BEGIN STRING
 "飛翔鳥の丹薬"
-> CONTEXT: Commonevents/338/6/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Commonevents/338/6/InlineScript/1:25
 "Flying Bird Elixir"
 > END STRING
 
@@ -10398,7 +10398,7 @@ Get quickness while on the floor"
 
 > BEGIN STRING
 \\ITEM[239]は　白獅子の丹薬だった！
-> CONTEXT: Commonevents/339/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/339/4/Dialogue
 \\ITEM[239] was White Lion Elixir!
 > END STRING
 
@@ -10443,8 +10443,8 @@ Get concentration while on the floor"
 
 > BEGIN STRING
 "遁術具"
-> CONTEXT: Commonevents/340/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/340/6/InlineScript/1:25
+"Tonjutsu Tool"
 > END STRING
 
 > BEGIN STRING
@@ -10482,8 +10482,8 @@ Escape tools used by ninja battle only"
 
 > BEGIN STRING
 "複製の変成液"
-> CONTEXT: Commonevents/341/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/341/6/InlineScript/1:25
+"Replication Fluid"
 > END STRING
 
 > BEGIN STRING
@@ -10521,8 +10521,8 @@ Duplicate a jar or scroll pour with it"
 
 > BEGIN STRING
 "変化の変成液"
-> CONTEXT: Commonevents/342/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/342/6/InlineScript/1:25
+"Transformation Fluid"
 > END STRING
 
 > BEGIN STRING
@@ -10560,8 +10560,8 @@ Transform a jar or scroll pour with it"
 
 > BEGIN STRING
 "識別の変成液"
-> CONTEXT: Commonevents/343/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/343/6/InlineScript/1:25
+"Identification Fluid"
 > END STRING
 
 > BEGIN STRING
@@ -10599,8 +10599,8 @@ Identify a jar or scroll pour with it"
 
 > BEGIN STRING
 "赤熱呪文之巻物"
-> CONTEXT: Commonevents/351/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/351/6/InlineScript/1:25
+"Red-Hot Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -10637,8 +10637,8 @@ Spell: fire attack to single enemy"
 
 > BEGIN STRING
 "赤熱呪文弐之巻"
-> CONTEXT: Commonevents/352/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/352/6/InlineScript/1:25
+"Red-Hot Scroll 2"
 > END STRING
 
 > BEGIN STRING
@@ -10675,8 +10675,8 @@ Spell: fire attack to adjacent enemies"
 
 > BEGIN STRING
 "赤熱呪文参之巻"
-> CONTEXT: Commonevents/353/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/353/6/InlineScript/1:25
+"Red-hot Scroll 3"
 > END STRING
 
 > BEGIN STRING
@@ -10713,8 +10713,8 @@ Spell: fire attack to all enemies"
 
 > BEGIN STRING
 "雪雲呪文之巻物"
-> CONTEXT: Commonevents/354/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/354/6/InlineScript/1:25
+"Snow Cloud Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -10751,8 +10751,8 @@ Spell: ice attack to single enemy"
 
 > BEGIN STRING
 "雪雲呪文弐之巻"
-> CONTEXT: Commonevents/355/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/355/6/InlineScript/1:25
+"Snow Cloud Scroll 2"
 > END STRING
 
 > BEGIN STRING
@@ -10789,8 +10789,8 @@ Spell: ice attack to adjacent enemies"
 
 > BEGIN STRING
 "雪雲呪文参之巻"
-> CONTEXT: Commonevents/356/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/356/6/InlineScript/1:25
+"Snow Cloud Scroll 3"
 > END STRING
 
 > BEGIN STRING
@@ -10827,8 +10827,8 @@ Spell: ice attack to all enemies"
 
 > BEGIN STRING
 "紫電呪文之巻物"
-> CONTEXT: Commonevents/357/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/357/6/InlineScript/1:25
+"Purple Lightning Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -10865,8 +10865,8 @@ Spell: volt attack to single enemy"
 
 > BEGIN STRING
 "紫電呪文弐之巻"
-> CONTEXT: Commonevents/358/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/358/6/InlineScript/1:25
+"Purple Lightning Scroll 2"
 > END STRING
 
 > BEGIN STRING
@@ -10903,8 +10903,8 @@ Spell: volt attack to adjacent enemies"
 
 > BEGIN STRING
 "紫電呪文参之巻"
-> CONTEXT: Commonevents/359/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/359/6/InlineScript/1:25
+"Purple Lightning Scroll 3"
 > END STRING
 
 > BEGIN STRING
@@ -10941,8 +10941,8 @@ Spell: volt attack to all enemies"
 
 > BEGIN STRING
 "黒星呪文之巻物"
-> CONTEXT: Commonevents/360/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/360/6/InlineScript/1:25
+"Black Star Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -10979,8 +10979,8 @@ Spell: untyped attack to all enemies"
 
 > BEGIN STRING
 "暴走赤熱巻物"
-> CONTEXT: Commonevents/361/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/361/6/InlineScript/1:25
+"Berserk Red-Hot Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11017,8 +11017,8 @@ Spell: fire attack to allies & enemies"
 
 > BEGIN STRING
 "暴走雪雲巻物"
-> CONTEXT: Commonevents/362/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/362/6/InlineScript/1:25
+"Berserk Snow Cloud Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11055,8 +11055,8 @@ Spell: ice attack to allies & enemies"
 
 > BEGIN STRING
 "暴走灰空巻物"
-> CONTEXT: Commonevents/363/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/363/6/InlineScript/1:25
+"Berserk Ash Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11093,8 +11093,8 @@ Spell: cut attack to allies & enemies"
 
 > BEGIN STRING
 "暴走茶石巻物"
-> CONTEXT: Commonevents/364/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/364/6/InlineScript/1:25
+"Berserk Tea Stone Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11131,8 +11131,8 @@ Spell: bash attack to allies & enemies"
 
 > BEGIN STRING
 "暴走緑藪巻物"
-> CONTEXT: Commonevents/365/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/365/6/InlineScript/1:25
+"Berserk Green Thicket Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11169,8 +11169,8 @@ Spell: stab attack to allies & enemies"
 
 > BEGIN STRING
 "暴走紫電巻物"
-> CONTEXT: Commonevents/366/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/366/6/InlineScript/1:25
+"Berserk Purple Lightning Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11207,8 +11207,8 @@ Spell: volt attack to allies & enemies"
 
 > BEGIN STRING
 "閃光呪文之巻物"
-> CONTEXT: Commonevents/367/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/367/6/InlineScript/1:25
+"Flash Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11245,8 +11245,8 @@ Spell: may blind all enemies"
 
 > BEGIN STRING
 "檀醤呪文之巻物"
-> CONTEXT: Commonevents/368/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/368/6/InlineScript/1:25
+"Danjang Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11283,8 +11283,8 @@ Spell: may dumb all enemies"
 
 > BEGIN STRING
 "桃錠呪文之巻物"
-> CONTEXT: Commonevents/369/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/369/6/InlineScript/1:25
+"Peach Blossom Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11321,8 +11321,8 @@ Spell: may armlock all enemies"
 
 > BEGIN STRING
 "莱豪呪文之巻物"
-> CONTEXT: Commonevents/370/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/370/6/InlineScript/1:25
+"Laihao Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11359,8 +11359,8 @@ Spell: may leglock all enemies"
 
 > BEGIN STRING
 "暴走急昏巻物"
-> CONTEXT: Commonevents/371/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/371/6/InlineScript/1:25
+"Berserk Drowsiness Scroll"
 > END STRING
 
 > BEGIN STRING
@@ -11397,8 +11397,8 @@ Spell: may sleep allies & enemies"
 
 > BEGIN STRING
 "暴走金愚巻物"
-> CONTEXT: Commonevents/372/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/372/6/InlineScript/1:25
+"Berserk King Scroll"
 > END STRING
 
 > BEGIN STRING
