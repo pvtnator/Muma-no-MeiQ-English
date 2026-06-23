@@ -5826,135 +5826,169 @@ and unlocked secret gameplay with me!
 ヘルモードや！　あんちゃんが
 マジ泣きするまで　ボッコボコに
 犯すのを　やめへんで〜〜〜！
-> CONTEXT: Commonevents/266/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/8/Dialogue
+\\NAME[\\n[13]]
+It's hell mode! 
+I won't stop raping you
+until you're crying for real〜〜〜!
 > END STRING
 
 > BEGIN STRING
 なんやぁ〜？　この性奴隷のチンポ☆
 まだ　挿れたばっかやのに　さっそく
 我慢汁　漏れ始めとるで〜？\\.\\|\\^
-> CONTEXT: Commonevents/266/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/31/Dialogue
+What's this? This sex slave's dick☆
+is already starting to leak out,
+even though I only just put it in〜? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 誰が　漏らしていい　言うたぁ？
 こんなすぐ　お漏らししてまうチンコ
 真性の雑魚やん！　この　雑〜〜〜魚♡\\.\\|\\^
-> CONTEXT: Commonevents/266/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/38/Dialogue
+Who said you could leak? A dick that 
+leaks so easily is a real loser's dick! 
+Seriously pathetic! Soooo pathetic〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ご主人様であるウチを　満足させんと
 あかんやろ？　何　勝手しとんねん♪
 あんちゃん　分かっとるんかぁ？\\.\\|\\^
-> CONTEXT: Commonevents/266/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/45/Dialogue
+You have to satisfy me, your master, right? 
+But you're just doing whatever you want♪ 
+Do you understand, little cutie?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ご主人様の許可なく　精子☆漏らすなんて
 性奴隷にあるまじきやで！？　ホレ！
 あんちゃん　謝罪せぇや！　謝罪☆謝罪♪\\.\\|\\^
-> CONTEXT: Commonevents/266/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/55/Dialogue
+Leaking sperm without your master's permission 
+is something a sex slave should never do! Hey!
+Apologize, cutie! Apologize, apologize now♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 キュミュちゃん　ごめんなさい――って！
 許してください　ご主人様〜――って！
 僕は変態の雑魚です――って　言えやぁ♪\\.\\|\\^
-> CONTEXT: Commonevents/266/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/62/Dialogue
+"My dear Cumu, I'm sorry!"\\|
+"Please forgive me, Master!"\\|
+Say you're just a perverted loser!♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 明日も　明後日も　犯してください〜
 僕はご主人様の都合の良い　性奴隷ですぅ
 って　大声で宣言せぇや！　きゃははは☆\\.\\|\\^
-> CONTEXT: Commonevents/266/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/69/Dialogue
+"Please rape me tomorrow and the day after〜"
+"I serve as your sex slave any time, Master〜"
+Declare it loudly! Kyahahaha☆\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 しゃぁないなぁ♪　あんちゃんは　ウチに
 犯される以外　脳のない　雑魚やもんな☆
 骨の髄まで　犯しまくったるで〜♪\\.\\|\\^
-> CONTEXT: Commonevents/266/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/79/Dialogue
+Oh well, it can't be helped♪ You're just a 
+brainless loser who exists to be raped by me☆
+I'll rape you to the bone〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 このままウチに搾られて　廃人コースや♪
 最後は　ウチの肉椅子にしたるわ。
 ウチに搾られまくった挙句　人間卒業や♪\\.\\|\\^
-> CONTEXT: Commonevents/266/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/86/Dialogue
+You're on the path to becoming a wreck♪
+I'll turn you into my flesh chair. After I squeeze 
+you dry, you'll graduate from being human♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあぁ♡　ホレ！　今日も　雑魚☆精子
 ウチに中出し☆すんやろ？　ご主人様の
 マンコに　クソ雑魚精子　ご奉仕やろ？\\.\\|\\^
-> CONTEXT: Commonevents/266/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/100/Dialogue
+Ahhh♡ Wow! You're going to cum inside me again 
+with your pathetic sperm, right? You'll serve your 
+master's pussy with your worthless☆sperm, right?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 変態でごめんなさい！　中出しさせて頂き
 ありがとうございます！　って　大声で
 叫びながら　雑魚☆精子　ぶっぱせや！？\\.\\|\\^
-> CONTEXT: Commonevents/266/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/107/Dialogue
+"Sorry for being a pervert!"
+"Thank you for letting me cum inside you!"
+Shout, and blast out your pathetic sperm!\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチが　雑魚☆精子を残らず搾り取ってぇ
 あんちゃんは　涸れ果てて　廃人なって
 肉椅子に　成れ果ててぇ　人間卒業やぁ♪\\.\\|\\^
-> CONTEXT: Commonevents/266/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/114/Dialogue
+I'll squeeze every last drop of your pathetic sperm,
+you'll be completely dried up and a wreck,
+reduced to a flesh chair, graduating from humanity♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホレホレホレぇ　人間卒業♪　人間卒業♪
 このまま　成れ果てろ　成れ果てろ
 成れ果てろやあああぁぁぁ♡♡♡！！！\\.\\|\\^
-> CONTEXT: Commonevents/266/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/121/Dialogue
+Here, graduate from being human♪ Graduate♪
+Keep going and become a complete failure!
+Become a complete failure ahhhhhh♡♡♡!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほい　廃人確定〜〜〜〜〜〜〜〜〜♡♡♡
 くっはぁぁぁ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/266/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/136/Dialogue
+Yep, definitely a wreck〜〜〜〜〜〜〜♡♡♡
+Aaaahhhhh♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ごっそさ〜ん♪　かわええ顔しとるで
 あんちゃん？　また一歩　性奴隷から
 廃人へと　近づいたなぁ♪\\.\\|\\^
-> CONTEXT: Commonevents/266/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/147/Dialogue
+Thanks for the meal♪ What's with the cute face? 
+You've taken another step closer from 
+being a sex slave to being a wreck♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチに犯され続けて　そのうち人の言葉も
 分からんくなってくで？　楽しみやなぁ♪\\|
 けど　何も問題あらへんよな？\\.\\|\\^
-> CONTEXT: Commonevents/266/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/154/Dialogue
+If you keep getting violated by me, you'll soon 
+stop understanding what people are saying, won't you? 
+I'm looking forward to it♪ That's fine, right?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんは　未来永劫　ウチの玩具や♪
 心配せんでも　大切に　扱ったるで？\\|
 嬉しいやろ？　\\|泣いてもええんやで？\\.\\|\\^
-> CONTEXT: Commonevents/266/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/266/163/Dialogue
+You'll be my toy forever♪ Don't worry, 
+I'll treat you with care, okay? \\|
+Aren't you happy? \\|It's okay to cry♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6082,8 +6116,11 @@ anywhere, okay? My cutie♡\\.\\|\\^
 ほな　今なら　誰もおらへんから
 二人っきりで　ドスケベなこと
 なんぼでも　できるで〜♪
-> CONTEXT: Commonevents/275/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/3/Dialogue
+\\NAME[\\n[13]]
+Well, there's no one around right now, 
+so we can do as many perverted things 
+as we want, just the two of us〜♪
 > END STRING
 
 > BEGIN STRING
@@ -6091,214 +6128,267 @@ anywhere, okay? My cutie♡\\.\\|\\^
 ウチと　セクロス☆したくて
 ずっと　甘勃ちさせとったもんな
 ええで？　かわいがっちゃる♪
-> CONTEXT: Commonevents/275/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/8/Dialogue
+\\NAME[\\n[13]]
+You've been wanting to have sex☆ with me,
+and keeping it hard all this time, right?
+Yeah? I'll give you some love♪
 > END STRING
 
 > BEGIN STRING
 あんちゃんたら　やっぱ
 スケベさんやな〜♪　ところかまわず
 セクロス☆したくなってまうなんて。\\.\\|\\^
-> CONTEXT: Commonevents/275/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/31/Dialogue
+Cutie, you're such a pervert〜♪ 
+You get the urge to have sex☆\\|
+anywhere and everywhere. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 こ〜のっ　ド変態♡
 それとも　そんなにウチのこと
 惚れてもうたんか？\\.\\|\\^
-> CONTEXT: Commonevents/275/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/38/Dialogue
+You pervert〜♡
+Or have you fallen so \\|
+deeply in love with me? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほなら　あんちゃんは　ウチの性奴隷な♪
 ウチもセクロス大好きやから　四六時中
 あんちゃんと　スケベ……してやんよ♡\\.\\|\\^
-> CONTEXT: Commonevents/275/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/48/Dialogue
+Well then, you're my sex slave♪
+I love sex too, so I'll be having 
+naughty fun with you...all you want♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチのマンコん中　気持ちえぇやろ？
 揺れてるデカパイも　よう見てや〜？
 こんなエロいサキュバス　他におらんで？\\.\\|\\^
-> CONTEXT: Commonevents/275/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/55/Dialogue
+Doesn't it feel good inside my pussy?
+Look at my big boobs as they jiggle〜
+No other succubus is as sexy as me, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 お？　お？　あんちゃんのチンコも
 ウチのＧスポット☆　突いとるで♪
 んっ♡　んあっ♡　やるやん　やるやん♪\\.\\|\\^
-> CONTEXT: Commonevents/275/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/65/Dialogue
+Oh? Ahh, your dick, 
+it's hitting my G-spot☆ too♪\\|
+Mmm♡ Ahh♡ Good, you're doing well♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 性奴隷かて　ウチの鬼責めに
 即負けせんよう　気張っとるんかぁ？
 あんちゃんのチンコ　ええ感じやで！？\\.\\|\\^
-> CONTEXT: Commonevents/275/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/72/Dialogue
+Even a sex slave like you is trying hard not to 
+give in immediately to my brutal torture, huh?
+Is your dick feeling good, cutie!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 チンコん先から　出とる　我慢汁と
 ウチのマンコん中　溢れとる　マン汁が
 ぐちょぐちょに　混ざり合ってくな〜♪\\.\\|\\^
-> CONTEXT: Commonevents/275/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/79/Dialogue
+The pre-cum oozing from the tip of your dick 
+and the juices overflowing inside my pussy 
+are mixing together into a gooey mess〜♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 やらしぃな〜♪　気持ちぃな〜♪
 このまま　ウチの生マンコん中
 大量射精してまうな〜〜〜♡\\.\\|\\^
-> CONTEXT: Commonevents/275/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/94/Dialogue
+That's naughty〜♪ That feels good〜♪
+You're about to cum a ton inside my 
+raw pussy right about now〜〜〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 雑魚精子☆　ぎょーさん出せや？
 あんちゃんの赤ちゃん汁　ウチの子宮に
 向かって　大量に　ぶっぱ☆せや〜♪\\.\\|\\^
-> CONTEXT: Commonevents/275/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/101/Dialogue
+Hey, your weak sperm☆ Shoot out lots, okay?
+Shoot your baby juice into my womb
+in massive amounts, squirt☆♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんは　ウチの性奴隷なんやから
 無限恒久　永遠ご奉仕やで？
 涸れ果てるまで　精液　搾って　搾って\\.\\|\\^
-> CONTEXT: Commonevents/275/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/108/Dialogue
+You're my sex slave, so you'll serve me 
+forever and ever, okay? I'll squeeze out 
+your semen until you're completely drained.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 生中☆射精や！　いくで　いくでー！？
 ウチを　孕ますくらいの勢いで
 雑魚精子　ぶっしゃあああぁぁぁ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/275/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/115/Dialogue
+Raw☆creampie! Here we go, here we go!?
+With enough force to impregnate me,
+spurt out your weak speeeeeermmmm♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んんんあああぁぁぁっっっ♡♡♡
 出まくっとるやぁぁぁんんん！！！\\.\\|\\^
-> CONTEXT: Commonevents/275/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/130/Dialogue
+Mmmmmhhhh aaaahhhhh♡♡♡\\|
+It's coming out like crazy!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あちゃ〜〜〜　こんな　ぎょーさん
 ウチの生マンコん中　精子　出しまくって
 ややこ出来とったら　どないするん？\\.\\|\\^
-> CONTEXT: Commonevents/275/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/141/Dialogue
+Oh nooo〜〜〜, with so much
+sperm gushing out inside my raw pussy,\\|
+what if I get pregnant? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんが　悪いんやで？
 あんちゃんが　責任取るんやで♪
 ウチのこと　孕ましとったら……\\.\\|\\^
-> CONTEXT: Commonevents/275/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/148/Dialogue
+It's your fault, my cutie.
+You're the one who has to take responsibility♪
+If you got me pregnant...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 へ？　サキュバスが　妊娠するんかって？
 知らんけど！　そんなん　気持ち良ければ
 どうでもええやろ？　な？　あんちゃん♡\\.\\|\\^
-> CONTEXT: Commonevents/275/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/157/Dialogue
+Huh? You're asking if succubi can get pregnant?
+I don't know! But if it feels good,
+who cares? Right? My cutie♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあっ♡　んあぁ！？　……なんやコレ
 ちょっ　待っ──あかん！
 あかんて……気持ち……良すぎや！\\.\\|\\^
-> CONTEXT: Commonevents/275/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/176/Dialogue
+Ahh♡ Ahh!? ...What is this?\\|
+Wait a minute──no!\\|
+No way...it feels...too good! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチともあろうもんが　どないしょ
 どないしょ！　こない　感じまくって
 アヘってまうなんてぇ！　んはぁ♡\\.\\|\\^
-> CONTEXT: Commonevents/275/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/183/Dialogue
+How could someone like me... No!
+How could I feel this much...
+And end up moaning like this?! Ahhh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんのチンコ　気持ち良すぎて
 ウチ　頭おかしなるで！　んはぁ♡
 このままやと　ウチ　おかしなるでぇえ！\\.\\|\\^
-> CONTEXT: Commonevents/275/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/190/Dialogue
+Your dick feels so good that
+I'm going crazy!\\| Ahh♡
+If this continues, I'm going to go insane! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃん　最高や♡　んあっ♡
 こんなん　気持ちえぇセクロス☆
 ウチ　病み付きんなってまうぅぅ！\\.\\|\\^
-> CONTEXT: Commonevents/275/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/203/Dialogue
+My cutie, you're the best♡ Ahh♡
+This sex makes me feel so good☆
+I'm getting addicted to this! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんな……ウチ　めっちゃ好きや！
 こないセクロスできる　あんちゃんのこと
 ウチ　めっちゃ　好きやねん♡\\.\\|\\^
-> CONTEXT: Commonevents/275/210/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/210/Dialogue
+Hey cutie... I...really love you!
+I really love you, that's why\\|
+we can have sex like this♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 好きや　好きや　大好きや〜〜〜♡
 あんちゃんは　最っ高の性奴隷やぁ♡
 ウチの　最推し性奴隷やぁ……♡\\.\\|\\^
-> CONTEXT: Commonevents/275/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/217/Dialogue
+I love you, I love you, I really love you〜♡
+You're the best sex slave♡
+My absolute favorite sex slave...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡　あかん　あかん♡　このまま
 精子出しおったら　ウチ　孕んでまうぅぅ
 好きすぎて　孕んでまうぅぅぅ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/275/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/224/Dialogue
+Aah♡ No, no♡ If you keep going, if you 
+release your sperm like this, I'll get pregnant〜
+I'll get pregnant because I love yoooouuu〜♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあああああああああああぁぁぁ♡
 気持ち良すぎやろぉぉぉおおお♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/275/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/239/Dialogue
+Aaaaahhhhhhhhhhhhhhhhh♡\\|
+It feels so gooooooooood♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ヒヒヒ♪　こりゃ　妊娠確定やな♡\\|
 あんちゃんと　ウチの変態ややこ
 子宮ん中に　絶対　出来とるわ……♡\\.\\|\\^
-> CONTEXT: Commonevents/275/250/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/250/Dialogue
+Hehehe♪ Looks like I'll definitely 
+get pregnant♡\\| Our perverted baby, 
+it's definitely inside my womb...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 生まれてくるんは　あんちゃんそっくりの
 ド変態な　エロエロ娘やろな……きっと♡\\|
 救いようのない　変態ベイビーや♪\\.\\|\\^
-> CONTEXT: Commonevents/275/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/257/Dialogue
+The girl that will be born will be 
+super perverted and horny like you... 
+I'm sure of it♡\\| Irredeemable perverted♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 いずれは　ウチと　変態娘の３人で
 親子丼セクロスや♡\\|　親子３人で
 犯って犯って犯りまくりの　\\|未来や〜♡\\.\\|\\^
-> CONTEXT: Commonevents/275/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/275/266/Dialogue
+Eventually the three of uu will be having a 
+mother-daughter threesome♡ We will be fucking, 
+fucking, fucking like crazy in the future〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6877,167 +6967,209 @@ I'm naked too, you know?
 たまには　正統派セクロス☆
 してみよか？　ほな　ベッドに
 仰向けんなってもろて――
-> CONTEXT: Commonevents/281/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/8/Dialogue
+\\NAME[\\n[13]]
+How about we try some orthodox sex☆
+for a change? Okay, then get on the bed
+and lie on your back――
 > END STRING
 
 > BEGIN STRING
 これが　ウチの正統派セクロス☆
 屈辱チングリ返し☆竿潰しプレス体位や！
 ヒヒヒ♪　無様な格好やな　あんちゃん？\\.\\|\\^
-> CONTEXT: Commonevents/281/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/31/Dialogue
+This is our orthodox sex☆
+Humiliating reversal☆ Cock-crushing press position!
+Hehehe♪ What a pathetic sight,  cutie? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチに完全敗北しとる姿　最高やで〜♡
 雑魚のあんちゃんに　ぴったり☆な
 ボロ負け体位や♪　この雑〜〜〜魚♡\\.\\|\\^
-> CONTEXT: Commonevents/281/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/38/Dialogue
+Seeing you completely dominated is the best〜♡
+It's perfect for a weakling like you☆
+Position of utter defeat♪ You pathetic fish〜♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 言うても　あんちゃんのことは好きやで？
 こぉんな　かわええ声で啼くんやもん
 あんちゃんが惨めな姿で　苦しんどる顔\\.\\|\\^
-> CONTEXT: Commonevents/281/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/45/Dialogue
+Even so, I do like you, cutie.
+You cry with such a cute voice.
+And when you look miserable and suffer...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 最の高に　そそるわ〜〜〜♡　んあぁ♡
 あんちゃんは　ウチの最推し性玩具や！
 とっことん　遊び倒して　辱めんとな♪\\.\\|\\^
-> CONTEXT: Commonevents/281/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/52/Dialogue
+So incredibly arousing〜〜〜♡ Ahhh♡
+You're my absolute favorite sex toy!
+I'll play with you lots and humiliate you♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 せやで？　あんちゃんは　もはや
 ウチに　最高のエロスを　提供してくれる
 ウチ専用の　性奴隷チンポ☆玩具やで？\\.\\|\\^
-> CONTEXT: Commonevents/281/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/62/Dialogue
+Isn't this good? You're now my personal 
+sex slave dick☆toy, giving me the ultimate 
+erotic experience, aren't you? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ウチが命令したら　いつ　なんどきでも
 全裸んなって　股広げて　チンコ☆勃てて
 ウチの言いなりんなって　嬲られるんや！\\.\\|\\^
-> CONTEXT: Commonevents/281/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/69/Dialogue
+Whenever I order you to, you'll get naked, 
+spread your legs, get your dick hard, and do 
+whatever I say to you and let me torment you! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 眠くても　腹減ってても　容赦せんでぇ！
 ウチがエロリモコンのスイッチ　入れたら
 ５秒で　フル勃起☆生挿入や！\\.\\|\\^
-> CONTEXT: Commonevents/281/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/76/Dialogue
+Even if you're sleepy or hungry, no mercy!
+Once I flip the switch on my erotic remote,
+fully erect☆raw insertion in 5 seconds! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 幸せやろ？　ウチに　犯されるだけの
 変態☆人生　最高やろ？　変態やもんな〜
 あんちゃんは――お？　あっ！？\\.\\|\\^
-> CONTEXT: Commonevents/281/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/83/Dialogue
+Aren't you happy? A perverted life where you're 
+just violated by me? You're such a pervert〜
+And you, my cutie—oh? Ah!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあ♡　あかんっ　どしたんや？
 ウチまで　感じ始めてきよったわ……ん♡
 マンコん奥に　チンコ……当たって　あ♡\\.\\|\\^
-> CONTEXT: Commonevents/281/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/93/Dialogue
+Ahh♡ No, what's this? I'm starting to 
+feel it too... Ahh♡ Your dick is 
+hitting the back of my pussy... Ahh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんちゃんちゅう玩具で　遊んどったら
 気持ち良すぎて　マン汁ドバドバ出とる！
 ますます　病み付きんなってまうー！\\.\\|\\^
-> CONTEXT: Commonevents/281/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/100/Dialogue
+Playing with my cute toy feels so good 
+that my pussy juices are gushing out!
+I'm starting to get addicted to thisーー! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 やるやん♡　雑魚やと　思っとったのに
 明日も明後日も　あんちゃんちゅう玩具で
 ウチ　遊んでたいわ〜……壊れるまで！\\.\\|\\^
-> CONTEXT: Commonevents/281/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/107/Dialogue
+You're not too bad♡ For a weakling.
+Tomorrow and the day after, I want to play 
+with this cutie toy until it breaks! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ？　壊してもうたら　遊べなくなる！？
 あかん……壊れるまで　犯したいのに
 壊したら　遊べなくなってまうやん！？\\.\\|\\^
-> CONTEXT: Commonevents/281/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/114/Dialogue
+Huh? If I break it, I can't play anymore!?
+No way... I want to fuck until it breaks
+But then, I won't be able to play anymore!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 どしたらええ？　どしたら――せや！
 このまま　ややこ作って　エロ娘　産んで
 ほんで　親子丼ＳＥＸしまくって――あぁ♡\\.\\|\\^
-> CONTEXT: Commonevents/281/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/128/Dialogue
+What should I do? What should I do――aha!
+Make a baby and give birth to a slutty girl
+and have tons of mother-daughter threesome—ahh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 変態子孫　作ってぇ　あんちゃんとウチの
 エロエロファミリー☆永久機関　作ってぇ
 無限ループ☆セクロス三昧やぁぁぁ！\\.\\|\\^
-> CONTEXT: Commonevents/281/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/135/Dialogue
+Let's make perverted offspring, my cutie☆
+A perpetual motion machine for our erotic family☆
+Infinite loop☆ Sex galore! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ド変態のあんちゃんと　ウチの間に出来た
 子孫たちが　朝から晩まで　変態ＳＥＸ
 犯りまくる　エロエロ未来！　これやぁ！\\.\\|\\^
-> CONTEXT: Commonevents/281/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/142/Dialogue
+The descendants born from us will be 
+having perverted sex from morning till night 
+in this erotic future! That's it! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほな　イケ！　イケ！　あんちゃん♡
 変態精子　ウチのマンコに　ぶっぱ☆して
 ウチを　孕ませろやぁぁぁあああ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/281/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/149/Dialogue
+Alright, cum! Cum! My cutie♡
+Shoot your perverted sperm into my pussy☆\\|
+Get me pregnant, aaaahhhhh♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んあああ♡♡♡　無限ループＳＥＸ……
 エロエロファミリー……確定やぁ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/281/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/164/Dialogue
+Ahhh♡♡♡ Infinite loop sex...\\|
+Erotic family... It is decided♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 んはぁ……♡　んはぁ……♡\\|
 大満足やで　あんちゃん♡
 ようやったなぁ〜♪　ヒヒヒ♪\\.\\|\\^
-> CONTEXT: Commonevents/281/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/175/Dialogue
+Ahhh...♡ Ahhh...♡\\|
+I'm so satisfied, my cutie♡\\|
+You did a great job〜♪ Hehehe♪\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 魔族を　孕ましたったら
 どんな未来んなるか……愉しみやな♪
 あんちゃんと　ウチが……\\.\\|\\^
-> CONTEXT: Commonevents/281/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/182/Dialogue
+If you impregnate a demon, I wonder what kind of 
+future awaits you... I'm looking forward to it♪
+And you and I will...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 人類滅亡の　その時まで　変態セクロス☆
 犯りまくって　ぎょーさん　ウチらの
 変態子孫で　埋め尽くすんや…………♡\\.\\|\\^
-> CONTEXT: Commonevents/281/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/191/Dialogue
+Until the end of time, we'll have perverted sex☆
+We'll fuck like crazy and fill the world with our
+perverted offspring......♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
