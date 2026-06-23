@@ -340,21 +340,22 @@ Unleashe fire towards the enemy from range
 
 > BEGIN STRING
 燃焼斬
-> CONTEXT: Skills/41/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/41/name/
+Burning Slash
 > END STRING
 
 > BEGIN STRING
 〘単:ATK*\\C[9]Ｃ\\C[0]〙\\i[30]
 炎を纏わせて　敵を斬る　複合属性攻撃
-> CONTEXT: Skills/41/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/41/description/
+[Single: ATK*\\C[9]C\\C[0]]\\i[30]
+Slash an enemy while enveloped in flames
 > END STRING
 
 > BEGIN STRING
 は　燃焼斬を放った！
-> CONTEXT: Skills/41/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/41/message1/
+ unleashed Burning Slash!
 > END STRING
 
 > BEGIN STRING
@@ -392,8 +393,8 @@ Pierce the enemy while in flames
 
 > BEGIN STRING
 は　燃焼打を放った！
-> CONTEXT: Skills/43/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/43/message1/
+ unleashed Fiery Blow!
 > END STRING
 
 > BEGIN STRING
@@ -411,8 +412,8 @@ Pierce the enemy while in flames
 
 > BEGIN STRING
 は　追炎斬を放った！
-> CONTEXT: Skills/44/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/44/message1/
+ unleashed Flame Slash!
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +451,8 @@ A thrusting attack followed by a ranged flame attack
 
 > BEGIN STRING
 は　追炎打を放った！
-> CONTEXT: Skills/46/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/46/message1/
+ unleashed a follow-up fire strike!
 > END STRING
 
 > BEGIN STRING
@@ -508,8 +509,8 @@ Dual attribute ice infused slash
 
 > BEGIN STRING
 は　氷結貫を放った！
-> CONTEXT: Skills/52/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/52/message1/
+ unleashed Freezing Pierce!
 > END STRING
 
 > BEGIN STRING
@@ -527,8 +528,8 @@ Dual attribute ice infused slash
 
 > BEGIN STRING
 は　氷結打を放った！
-> CONTEXT: Skills/53/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/53/message1/
+ unleashed Ice Strike!
 > END STRING
 
 > BEGIN STRING
@@ -566,8 +567,8 @@ A slashing attack followed by a ranged ice attack
 
 > BEGIN STRING
 は　追氷貫を放った！
-> CONTEXT: Skills/55/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/55/message1/
+ unleashed Ice Pierce!
 > END STRING
 
 > BEGIN STRING
@@ -585,8 +586,8 @@ A slashing attack followed by a ranged ice attack
 
 > BEGIN STRING
 は　追氷打を放った！
-> CONTEXT: Skills/56/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/56/message1/
+ unleashed a follow-up ice strike!
 > END STRING
 
 > BEGIN STRING
@@ -604,8 +605,8 @@ A slashing attack followed by a ranged ice attack
 
 > BEGIN STRING
 の　電撃発射！
-> CONTEXT: Skills/60/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/60/message1/
+ used Lightning Shot!
 > END STRING
 
 > BEGIN STRING
@@ -623,8 +624,8 @@ A slashing attack followed by a ranged ice attack
 
 > BEGIN STRING
 は　電漿斬を放った！
-> CONTEXT: Skills/61/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/61/message1/
+ unleashed Lighting Slash!
 > END STRING
 
 > BEGIN STRING
@@ -642,8 +643,8 @@ A slashing attack followed by a ranged ice attack
 
 > BEGIN STRING
 は　電漿貫を放った！
-> CONTEXT: Skills/62/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/62/message1/
+ unleashed Lightning Pierce!
 > END STRING
 
 > BEGIN STRING
@@ -681,8 +682,8 @@ Dual attribute strike imbued with lightning
 
 > BEGIN STRING
 は　追雷斬を放った！
-> CONTEXT: Skills/64/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/64/message1/
+ unleashed Lightning Slash Chase!
 > END STRING
 
 > BEGIN STRING
@@ -700,8 +701,8 @@ Dual attribute strike imbued with lightning
 
 > BEGIN STRING
 は　追雷貫を放った！
-> CONTEXT: Skills/65/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/65/message1/
+ unleashed Lightning Pierce Chase!
 > END STRING
 
 > BEGIN STRING
@@ -739,8 +740,8 @@ A hit followed by a ranged lightning attack
 
 > BEGIN STRING
 は　闇撃を放った！
-> CONTEXT: Skills/67/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/67/message1/
+ unleashed a dark attack!
 > END STRING
 
 > BEGIN STRING
@@ -758,8 +759,8 @@ A hit followed by a ranged lightning attack
 
 > BEGIN STRING
 は　光撃を放った！
-> CONTEXT: Skills/68/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/68/message1/
+ unleashed a beam of light!
 > END STRING
 
 > BEGIN STRING
@@ -1160,8 +1161,8 @@ With reverse grip unleashe a long-range slash
 
 > BEGIN STRING
 は　リアスラッシュを放った！
-> CONTEXT: Skills/109/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/109/message1/
+ unleashed Rear Slash!
 > END STRING
 
 > BEGIN STRING
@@ -1179,8 +1180,8 @@ With reverse grip unleashe a long-range slash
 
 > BEGIN STRING
 は　天辺斬りを放った！
-> CONTEXT: Skills/111/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/111/message1/
+ unleashed Peak Slash!
 > END STRING
 
 > BEGIN STRING
@@ -1218,8 +1219,8 @@ Thrusting attack; evasion up for this turn
 
 > BEGIN STRING
 は　ツォルンハウを放った！
-> CONTEXT: Skills/113/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/113/message1/
+ unleashed Zornhau!
 > END STRING
 
 > BEGIN STRING
@@ -1680,8 +1681,8 @@ Sew eyelids together, taking away eyesight
 
 > BEGIN STRING
 は　裏刺鍼を施術した！
-> CONTEXT: Skills/152/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/152/message1/
+ performed reverse acupuncture!
 > END STRING
 
 > BEGIN STRING
@@ -1719,8 +1720,8 @@ Stabs and guide a long-range lightning strike
 
 > BEGIN STRING
 の　リトルニードル！
-> CONTEXT: Skills/154/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/154/message1/
+ used Little Needle!
 > END STRING
 
 > BEGIN STRING
@@ -1738,8 +1739,8 @@ Stabs and guide a long-range lightning strike
 
 > BEGIN STRING
 は　切り込みを入れた！
-> CONTEXT: Skills/156/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/156/message1/
+ made an incision!
 > END STRING
 
 > BEGIN STRING
@@ -1757,8 +1758,8 @@ Stabs and guide a long-range lightning strike
 
 > BEGIN STRING
 の　スロータハウス！
-> CONTEXT: Skills/157/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/157/message1/
+ used Slaughter House!
 > END STRING
 
 > BEGIN STRING
@@ -1776,8 +1777,8 @@ Stabs and guide a long-range lightning strike
 
 > BEGIN STRING
 は　酒池肉林に興じた！
-> CONTEXT: Skills/158/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/158/message1/
+ indulged in debauchery!
 > END STRING
 
 > BEGIN STRING
@@ -1936,8 +1937,8 @@ with the Impenetrable Counter stance!
 
 > BEGIN STRING
 の　槍旋回大車輪！
-> CONTEXT: Skills/168/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/168/message1/
+ used Giant Wheel!
 > END STRING
 
 > BEGIN STRING
@@ -1975,8 +1976,8 @@ Stay in range and raid
 
 > BEGIN STRING
 は　兜砕きを放った！
-> CONTEXT: Skills/171/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/171/message1/
+ unleashed Helmet Crush!
 > END STRING
 
 > BEGIN STRING
@@ -2034,8 +2035,8 @@ Call distant cold with shining blade
 
 > BEGIN STRING
 は　魔鬼割り大拿を放った！
-> CONTEXT: Skills/174/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/174/message1/
+ unleashed Demon-Splitting Slash!
 > END STRING
 
 > BEGIN STRING
@@ -2053,8 +2054,8 @@ Call distant cold with shining blade
 
 > BEGIN STRING
 は　打ち壊しを行った！
-> CONTEXT: Skills/176/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/176/message1/
+ carried out a riot!
 > END STRING
 
 > BEGIN STRING
@@ -2208,8 +2209,8 @@ The ultimate glaciers shattering strike
 
 > BEGIN STRING
 は　前掃棍を放った！
-> CONTEXT: Skills/186/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/186/message1/
+ unleashed a sweeping baton!
 > END STRING
 
 > BEGIN STRING
@@ -2253,8 +2254,8 @@ Ultimate Shift!
 
 > BEGIN STRING
 の　如意自在棒！
-> CONTEXT: Skills/188/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/188/message1/
+ used Manifestation Staff!
 > END STRING
 
 > BEGIN STRING
@@ -2356,14 +2357,14 @@ Transform death energy into life
 
 > BEGIN STRING
 は　星々を見上げ
-> CONTEXT: Skills/194/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/194/message1/
+ looked up at the stars and 
 > END STRING
 
 > BEGIN STRING
 戦場への落下を　杖で導いていく！
-> CONTEXT: Skills/194/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/194/message2/
+guided descent to the battlefield!
 > END STRING
 
 > BEGIN STRING
@@ -2381,8 +2382,8 @@ Transform death energy into life
 
 > BEGIN STRING
 の　アンダーレスト！
-> CONTEXT: Skills/196/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/196/message1/
+ used Underrest!
 > END STRING
 
 > BEGIN STRING
@@ -2400,8 +2401,8 @@ Transform death energy into life
 
 > BEGIN STRING
 は　鞭打ちの刑を行った！
-> CONTEXT: Skills/197/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/197/message1/
+ suffered a whipping!
 > END STRING
 
 > BEGIN STRING
@@ -2419,8 +2420,8 @@ Transform death energy into life
 
 > BEGIN STRING
 は　龍虎連舞を放った！
-> CONTEXT: Skills/198/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/198/message1/
+ unleashed Dragon and Tiger Dance!
 > END STRING
 
 > BEGIN STRING
@@ -2438,8 +2439,8 @@ Transform death energy into life
 
 > BEGIN STRING
 の　ディシプリン！
-> CONTEXT: Skills/199/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/199/message1/
+ used Discipline!
 > END STRING
 
 > BEGIN STRING
@@ -2592,8 +2593,8 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 は　三連弓を放った！
-> CONTEXT: Skills/209/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/209/message1/
+ fired a triple arrow!
 > END STRING
 
 > BEGIN STRING
@@ -2611,8 +2612,8 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 の　レッグハント！
-> CONTEXT: Skills/211/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/211/message1/
+ used Leg Hunt!
 > END STRING
 
 > BEGIN STRING
@@ -2630,8 +2631,8 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 の　アームハント！
-> CONTEXT: Skills/212/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/212/message1/
+ used Arm Hunt!
 > END STRING
 
 > BEGIN STRING
@@ -2649,8 +2650,8 @@ A ranged attack aimed at the enemy's arm tendons.
 
 > BEGIN STRING
 の　ヘッドハント！
-> CONTEXT: Skills/213/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/213/message1/
+ used Head Hunt!
 > END STRING
 
 > BEGIN STRING
@@ -2708,8 +2709,8 @@ Fire spiritual power as bullets
 
 > BEGIN STRING
 の　ショックビーム！
-> CONTEXT: Skills/217/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/217/message1/
+ used Shock Beam!
 > END STRING
 
 > BEGIN STRING
@@ -2842,8 +2843,8 @@ The ultimate planetary orbit throw
 
 > BEGIN STRING
 の　剛力投擲！
-> CONTEXT: Skills/226/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/226/message1/
+ used Hercules Throw!
 > END STRING
 
 > BEGIN STRING
@@ -2881,8 +2882,8 @@ A ranged attack that slashes all enemies
 
 > BEGIN STRING
 の　サクラズクイック！
-> CONTEXT: Skills/228/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/228/message1/
+ used Sakura's Quick!
 > END STRING
 
 > BEGIN STRING
@@ -2920,8 +2921,8 @@ After throwing, rotates again after a delay
 
 > BEGIN STRING
 の　横打ち手離剣術！
-> CONTEXT: Skills/231/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/231/message1/
+ used Side Shot Strike!
 > END STRING
 
 > BEGIN STRING
@@ -2979,8 +2980,8 @@ Ignore DEF and score points from a distance
 
 > BEGIN STRING
 は　チョーク投げを放った！
-> CONTEXT: Skills/234/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/234/message1/
+ did a Chokehold Throw!
 > END STRING
 
 > BEGIN STRING
@@ -3018,8 +3019,8 @@ Consciousness taking throw. Pick up next turn
 
 > BEGIN STRING
 は　ジャグリングを披露！
-> CONTEXT: Skills/237/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/237/message1/
+ started juggling!
 > END STRING
 
 > BEGIN STRING
@@ -3037,8 +3038,8 @@ Consciousness taking throw. Pick up next turn
 
 > BEGIN STRING
 は　サイドスローで投げた！
-> CONTEXT: Skills/238/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/238/message1/
+ threw with a sidearm motion!
 > END STRING
 
 > BEGIN STRING
@@ -3056,8 +3057,8 @@ Consciousness taking throw. Pick up next turn
 
 > BEGIN STRING
 は　デッドボールを投げた！
-> CONTEXT: Skills/239/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/239/message1/
+ threw Dead Ball!
 > END STRING
 
 > BEGIN STRING
@@ -3327,8 +3328,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 は　パーを出した！
-> CONTEXT: Skills/256/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/256/message1/
+ played paper!
 > END STRING
 
 > BEGIN STRING
@@ -3339,8 +3340,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 は　チーを出した！
-> CONTEXT: Skills/257/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/257/message1/
+ played scissors!
 > END STRING
 
 > BEGIN STRING
@@ -3351,8 +3352,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 は　グーを出した！
-> CONTEXT: Skills/258/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/258/message1/
+ played rock!
 > END STRING
 
 > BEGIN STRING
@@ -3370,8 +3371,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の　鋼線切断！
-> CONTEXT: Skills/261/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/261/message1/
+ used Steelwire Cut!
 > END STRING
 
 > BEGIN STRING
@@ -3389,8 +3390,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 は　芭蕉天風を放った！
-> CONTEXT: Skills/263/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/263/message1/
+ used Basjoo Tenpu!
 > END STRING
 
 > BEGIN STRING
@@ -3408,8 +3409,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 は　夢浮橋を披露した！
-> CONTEXT: Skills/264/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/264/message1/
+ performed Dream Bridge!
 > END STRING
 
 > BEGIN STRING
@@ -3427,8 +3428,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の武具が　帰ってきた！
-> CONTEXT: Skills/280/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/280/message1/
+ retrieved weapons and armor!
 > END STRING
 
 > BEGIN STRING
@@ -3479,8 +3480,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の　メテオール！
-> CONTEXT: Skills/285/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/285/message1/
+ used Meteor!
 > END STRING
 
 > BEGIN STRING
@@ -3521,8 +3522,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の　突き！
-> CONTEXT: Skills/288/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/288/message1/
+ thrusted!
 > END STRING
 
 > BEGIN STRING
@@ -3552,8 +3553,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 のターン！　デスドロー！
-> CONTEXT: Skills/290/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/290/message1/
+ got a turn! Death Draw!
 > END STRING
 
 > BEGIN STRING
@@ -3661,8 +3662,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の演奏が　火の精霊に届いた！
-> CONTEXT: Skills/297/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/297/message1/
+ reached fire spirit with the performance!
 > END STRING
 
 > BEGIN STRING
@@ -3681,8 +3682,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の演奏が　水の精霊に届いた！
-> CONTEXT: Skills/298/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/298/message1/
+ reached water spirit with the performance!
 > END STRING
 
 > BEGIN STRING
@@ -3693,8 +3694,8 @@ Attack with the sound of a loud performance
 
 > BEGIN STRING
 の演奏が　雷の精霊に届いた！
-> CONTEXT: Skills/299/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/299/message1/
+ reached lightning spirit with the performance!
 > END STRING
 
 > BEGIN STRING
@@ -9540,8 +9541,8 @@ After Pill
 
 > BEGIN STRING
 は　痺れ蜜を分泌した！
-> CONTEXT: Skills/687/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/687/message1/
+ secreted a numbing nectar!
 > END STRING
 
 > BEGIN STRING
@@ -9552,8 +9553,8 @@ After Pill
 
 > BEGIN STRING
 は　滅びの蜜を分泌した！
-> CONTEXT: Skills/688/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/688/message1/
+ secreted nectar of destruction!
 > END STRING
 
 > BEGIN STRING
@@ -9564,8 +9565,8 @@ After Pill
 
 > BEGIN STRING
 の　デスリコリス！
-> CONTEXT: Skills/689/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/689/message1/
+ used Death Licorice!
 > END STRING
 
 > BEGIN STRING
@@ -9583,8 +9584,8 @@ After Pill
 
 > BEGIN STRING
 は　命の洗濯を行った！
-> CONTEXT: Skills/690/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/690/message1/
+ underwent refreshing soul cleansing!
 > END STRING
 
 > BEGIN STRING
@@ -9595,8 +9596,8 @@ After Pill
 
 > BEGIN STRING
 の　ヘルフリッパー！
-> CONTEXT: Skills/691/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/691/message1/
+ used Hell Flipper!
 > END STRING
 
 > BEGIN STRING
@@ -9607,8 +9608,8 @@ After Pill
 
 > BEGIN STRING
 の　お尻ペンペン！
-> CONTEXT: Skills/692/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/692/message1/
+ spanked the bottom!
 > END STRING
 
 > BEGIN STRING
@@ -9649,8 +9650,8 @@ Fiery R Roll
 
 > BEGIN STRING
 の　マリスダルク！
-> CONTEXT: Skills/695/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/695/message1/
+ used Malice Dark!
 > END STRING
 
 > BEGIN STRING
@@ -9673,8 +9674,8 @@ Alibi
 
 > BEGIN STRING
 の　水槽遊戯！
-> CONTEXT: Skills/697/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/697/message1/
+ used Aquarium Playtime!
 > END STRING
 
 > BEGIN STRING
@@ -9685,14 +9686,14 @@ Alibi
 
 > BEGIN STRING
 は　暴れ方の条件を
-> CONTEXT: Skills/698/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/698/message1/
+ used hands to indicate
 > END STRING
 
 > BEGIN STRING
 その手で　示し命じた！
-> CONTEXT: Skills/698/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/698/message2/
+and command the conditions for rampage!
 > END STRING
 
 > BEGIN STRING
@@ -9729,8 +9730,8 @@ Cybernet
 
 > BEGIN STRING
 の　電脳ネット！
-> CONTEXT: Skills/700/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/700/message1/
+ used Cybernet!
 > END STRING
 
 > BEGIN STRING
@@ -9781,8 +9782,8 @@ Eye of the Reaper
 
 > BEGIN STRING
 の　乱れ噛み！
-> CONTEXT: Skills/703/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/703/message1/
+ used Chaotic Bite!
 > END STRING
 
 > BEGIN STRING
@@ -9862,8 +9863,8 @@ Bubble Guidance
 
 > BEGIN STRING
 は　猛毒をぶちまけた！
-> CONTEXT: Skills/709/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/709/message1/
+ unleashed a deadly poison!
 > END STRING
 
 > BEGIN STRING
@@ -9916,8 +9917,8 @@ G-Spot Tornado
 
 > BEGIN STRING
 は　達磨の目を入れた！
-> CONTEXT: Skills/713/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/713/message1/
+ added eyes to the Daruma doll!
 > END STRING
 
 > BEGIN STRING
@@ -9952,8 +9953,8 @@ Passionate Embrace
 
 > BEGIN STRING
 の　雷落とし！
-> CONTEXT: Skills/716/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/716/message1/
+ used Thunderbolt Drop!
 > END STRING
 
 > BEGIN STRING
@@ -10013,8 +10014,8 @@ Deep Sea Invitation
 
 > BEGIN STRING
 の　ドラゴンビート！
-> CONTEXT: Skills/720/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/720/message1/
+ used Dragon Beat!
 > END STRING
 
 > BEGIN STRING
@@ -10037,8 +10038,8 @@ Deep Sea Invitation
 
 > BEGIN STRING
 の　簀巻き舌！
-> CONTEXT: Skills/722/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/722/message1/
+ wrapped tongue!
 > END STRING
 
 > BEGIN STRING
@@ -10091,8 +10092,8 @@ Snow Plow
 
 > BEGIN STRING
 の　棚卸し！
-> CONTEXT: Skills/726/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/726/message1/
+ took stock!
 > END STRING
 
 > BEGIN STRING
@@ -10133,8 +10134,8 @@ as if to warn of danger!
 
 > BEGIN STRING
 は　厄毒を吐いた！
-> CONTEXT: Skills/729/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/729/message1/
+ spewed poison!
 > END STRING
 
 > BEGIN STRING
@@ -10190,8 +10191,8 @@ Earth Pound
 
 > BEGIN STRING
 の　再び赤い悪夢！
-> CONTEXT: Skills/734/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/734/message1/
+ used Returning Nightmare!
 > END STRING
 
 > BEGIN STRING
@@ -10355,14 +10356,14 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 は　残りの生命力で
-> CONTEXT: Skills/746/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/746/message1/
+ used  remaining life force to create 
 > END STRING
 
 > BEGIN STRING
 巨大な玉璽を拵え　叩きつけた！
-> CONTEXT: Skills/746/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/746/message2/
+a gigantic imperial seal and slammed it down!
 > END STRING
 
 > BEGIN STRING
@@ -10430,8 +10431,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　触手乱斬！
-> CONTEXT: Skills/751/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/751/message1/
+ used Tentacle Slash!
 > END STRING
 
 > BEGIN STRING
@@ -10442,8 +10443,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　触手拘束祭！
-> CONTEXT: Skills/752/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/752/message1/
+ used Tentacle Restraint Festival!
 > END STRING
 
 > BEGIN STRING
@@ -10454,8 +10455,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　クリプトビオシス！
-> CONTEXT: Skills/753/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/753/message1/
+ used Cryptobiosis!
 > END STRING
 
 > BEGIN STRING
@@ -10472,8 +10473,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　太古の臭粉！
-> CONTEXT: Skills/754/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/754/message1/
+ used Ancient Stinky Powder!
 > END STRING
 
 > BEGIN STRING
@@ -10491,8 +10492,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 の　空裂眼刺線！
-> CONTEXT: Skills/755/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/755/message1/
+ used Sky-Splitting Eye Sting!
 > END STRING
 
 > BEGIN STRING
@@ -10503,8 +10504,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 は　90％はカスと　断じた！
-> CONTEXT: Skills/757/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/757/message1/
+ declared it 90% rubbish!
 > END STRING
 
 > BEGIN STRING
@@ -10522,8 +10523,8 @@ Deal and take percentage based damage
 
 > BEGIN STRING
 は　二重思考を行った！
-> CONTEXT: Skills/758/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/758/message1/
+ engaged in Doublethink!
 > END STRING
 
 > BEGIN STRING
@@ -10694,8 +10695,8 @@ Light of encouragement and punishment sun's eyes
 
 > BEGIN STRING
 は　邪気を昂らせた！
-> CONTEXT: Skills/771/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/771/message1/
+ aroused Jaqi!
 > END STRING
 
 > BEGIN STRING
@@ -10731,8 +10732,8 @@ and left, looking content...
 
 > BEGIN STRING
 の邪気が　霧散した！
-> CONTEXT: Skills/773/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/773/message1/
+ dissipated Jaqi!
 > END STRING
 
 > BEGIN STRING
@@ -10773,8 +10774,8 @@ and left, looking content...
 
 > BEGIN STRING
 の　滅びの爆裂流！
-> CONTEXT: Skills/776/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/776/message1/
+ used Explosive Ruin!
 > END STRING
 
 > BEGIN STRING
@@ -10785,8 +10786,8 @@ and left, looking content...
 
 > BEGIN STRING
 は　爆発四散した！
-> CONTEXT: Skills/777/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/777/message1/
+ exploded into pieces!
 > END STRING
 
 > BEGIN STRING
@@ -10872,14 +10873,14 @@ and left, looking content...
 
 > BEGIN STRING
 は　邪気を迸らせ
-> CONTEXT: Skills/786/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/786/message1/
+ hatched blasphemously,
 > END STRING
 
 > BEGIN STRING
 冒涜的な　孵化を　遂げた！
-> CONTEXT: Skills/786/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/786/message2/
+spewing evil energy!
 > END STRING
 
 > BEGIN STRING
@@ -10909,8 +10910,8 @@ and left, looking content...
 
 > BEGIN STRING
 は　暴走オーロを詠唱！
-> CONTEXT: Skills/789/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/789/message1/
+ chanted Rampaging Aurora!
 > END STRING
 
 > BEGIN STRING
@@ -12419,8 +12420,8 @@ Spear of flame created by people's dreams
 
 > BEGIN STRING
 の　ダブルラウンド！
-> CONTEXT: Skills/906/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/906/message1/
+ used Double Round!
 > END STRING
 
 > BEGIN STRING
@@ -12451,14 +12452,14 @@ Spear of flame created by people's dreams
 
 > BEGIN STRING
 は　敵を皆殺しにする為
-> CONTEXT: Skills/911/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/911/message1/
+ took a running start
 > END STRING
 
 > BEGIN STRING
 暇潰しの助走を　行った！
-> CONTEXT: Skills/911/message2/ < UNTRANSLATED
-
+> CONTEXT: Skills/911/message2/
+to kill off enemies!
 > END STRING
 
 > BEGIN STRING
@@ -12475,8 +12476,8 @@ Spear of flame created by people's dreams
 
 > BEGIN STRING
 の　キリングタイム！
-> CONTEXT: Skills/912/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/912/message1/
+ used Killing Time!
 > END STRING
 
 > BEGIN STRING
@@ -12549,8 +12550,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 は　滅愚魔波を放射した！
-> CONTEXT: Skills/919/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/919/message1/
+ unleashed Demon-Slaying Wave!
 > END STRING
 
 > BEGIN STRING
@@ -12633,8 +12634,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 の　紅き乱刺！
-> CONTEXT: Skills/931/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/931/message1/
+ used Crimson War Thorn!
 > END STRING
 
 > BEGIN STRING
@@ -12652,8 +12653,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 の　蒼き乱刺！
-> CONTEXT: Skills/932/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/932/message1/
+ used Azure War Thorn!
 > END STRING
 
 > BEGIN STRING
@@ -12671,8 +12672,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 の　群咲き乱刺！
-> CONTEXT: Skills/933/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/933/message1/
+ used War Thorn Field!
 > END STRING
 
 > BEGIN STRING
@@ -12683,8 +12684,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 は　夕焼けを見出した！
-> CONTEXT: Skills/935/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/935/message1/
+ saw the sunset!
 > END STRING
 
 > BEGIN STRING
@@ -12695,8 +12696,8 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 は　朝焼けを見出した！
-> CONTEXT: Skills/936/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/936/message1/
+ saw the sunrise!
 > END STRING
 
 > BEGIN STRING
@@ -12713,6 +12714,6 @@ Greatly reduce damage from lightning attacks
 
 > BEGIN STRING
 の　散れ　永久に！
-> CONTEXT: Skills/939/message1/ < UNTRANSLATED
-
+> CONTEXT: Skills/939/message1/
+ used Eternal Scatter!
 > END STRING

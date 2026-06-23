@@ -118,9 +118,9 @@ Confusion
 
 > BEGIN STRING
 は　発狂した！
-> CONTEXT: States/12/message1/ < UNTRANSLATED
-> CONTEXT: States/12/message2/ < UNTRANSLATED
-
+> CONTEXT: States/12/message1/
+> CONTEXT: States/12/message2/
+ went mad!
 > END STRING
 
 > BEGIN STRING
@@ -156,26 +156,26 @@ Paralysis
 
 > BEGIN STRING
 は　鬱に陥った！
-> CONTEXT: States/16/message1/ < UNTRANSLATED
-
+> CONTEXT: States/16/message1/
+ fell into depression!
 > END STRING
 
 > BEGIN STRING
 を　萎縮させた！
-> CONTEXT: States/16/message2/ < UNTRANSLATED
-
+> CONTEXT: States/16/message2/
+ withered!
 > END STRING
 
 > BEGIN STRING
 は　鬱々としている！
-> CONTEXT: States/16/message3/ < UNTRANSLATED
-
+> CONTEXT: States/16/message3/
+ can't escape depression!
 > END STRING
 
 > BEGIN STRING
 は　鬱を克服！
-> CONTEXT: States/16/message4/ < UNTRANSLATED
-
+> CONTEXT: States/16/message4/
+ overcame depression!
 > END STRING
 
 > BEGIN STRING
@@ -274,15 +274,15 @@ Paralysis
 
 > BEGIN STRING
 は　抗体に守られた！
-> CONTEXT: States/30/message1/ < UNTRANSLATED
-> CONTEXT: States/30/message2/ < UNTRANSLATED
-
+> CONTEXT: States/30/message1/
+> CONTEXT: States/30/message2/
+ got protected by antibodies!
 > END STRING
 
 > BEGIN STRING
 の抗体が　消滅した！
-> CONTEXT: States/30/message4/ < UNTRANSLATED
-
+> CONTEXT: States/30/message4/
+ lost antibodies!
 > END STRING
 
 > BEGIN STRING
@@ -491,8 +491,8 @@ Bleed
 
 > BEGIN STRING
 の炎上が　鎮まった！
-> CONTEXT: States/43/message4/ < UNTRANSLATED
-
+> CONTEXT: States/43/message4/
+ calmed the flames!
 > END STRING
 
 > BEGIN STRING
@@ -503,15 +503,15 @@ Bleed
 
 > BEGIN STRING
 は　保険に守れた！
-> CONTEXT: States/50/message1/ < UNTRANSLATED
-> CONTEXT: States/50/message2/ < UNTRANSLATED
-
+> CONTEXT: States/50/message1/
+> CONTEXT: States/50/message2/
+ got protected by insurance!
 > END STRING
 
 > BEGIN STRING
 の保険が　消失した！
-> CONTEXT: States/50/message4/ < UNTRANSLATED
-
+> CONTEXT: States/50/message4/
+ lost insurance!
 > END STRING
 
 > BEGIN STRING
@@ -522,20 +522,20 @@ Bleed
 
 > BEGIN STRING
 は　無病息災の加護を受けた！
-> CONTEXT: States/60/message1/ < UNTRANSLATED
-
+> CONTEXT: States/60/message1/
+ received blessing of health!
 > END STRING
 
 > BEGIN STRING
 に　無病息災の加護が！
-> CONTEXT: States/60/message2/ < UNTRANSLATED
-
+> CONTEXT: States/60/message2/
+ got blessing of health!
 > END STRING
 
 > BEGIN STRING
 は　無病息災の加護を失った！
-> CONTEXT: States/60/message4/ < UNTRANSLATED
-
+> CONTEXT: States/60/message4/
+ lost blessing of health!
 > END STRING
 
 > BEGIN STRING
@@ -546,9 +546,9 @@ Bleed
 
 > BEGIN STRING
 は　首を刎ねられた！
-> CONTEXT: States/62/message1/ < UNTRANSLATED
-> CONTEXT: States/62/message2/ < UNTRANSLATED
-
+> CONTEXT: States/62/message1/
+> CONTEXT: States/62/message2/
+ got beheaded!
 > END STRING
 
 > BEGIN STRING
@@ -590,13 +590,13 @@ Bleed
 
 > BEGIN STRING
 は　反撃態勢を解いた！
-> CONTEXT: States/71/message4/ < UNTRANSLATED
-> CONTEXT: States/72/message4/ < UNTRANSLATED
-> CONTEXT: States/73/message4/ < UNTRANSLATED
-> CONTEXT: States/77/message4/ < UNTRANSLATED
-> CONTEXT: States/78/message4/ < UNTRANSLATED
-> CONTEXT: States/79/message4/ < UNTRANSLATED
-
+> CONTEXT: States/71/message4/
+> CONTEXT: States/72/message4/
+> CONTEXT: States/73/message4/
+> CONTEXT: States/77/message4/
+> CONTEXT: States/78/message4/
+> CONTEXT: States/79/message4/
+ dropped counterattack stance!
 > END STRING
 
 > BEGIN STRING
@@ -716,8 +716,8 @@ Bleed
 
 > BEGIN STRING
 の勁道が　開かれていく！
-> CONTEXT: States/92/message1/ < UNTRANSLATED
-
+> CONTEXT: States/92/message1/
+ opened path to power!
 > END STRING
 
 > BEGIN STRING
@@ -728,8 +728,8 @@ Bleed
 
 > BEGIN STRING
 は　精神を集中させている！
-> CONTEXT: States/93/message1/ < UNTRANSLATED
-
+> CONTEXT: States/93/message1/
+ concentrated!
 > END STRING
 
 > BEGIN STRING
@@ -740,9 +740,9 @@ Bleed
 
 > BEGIN STRING
 の尻に　火が付いた！
-> CONTEXT: States/94/message1/ < UNTRANSLATED
-> CONTEXT: States/94/message2/ < UNTRANSLATED
-
+> CONTEXT: States/94/message1/
+> CONTEXT: States/94/message2/
+ got burned in the ass!
 > END STRING
 
 > BEGIN STRING
@@ -753,8 +753,8 @@ Bleed
 
 > BEGIN STRING
 の上腕筋が　小刻みに脈打つ！
-> CONTEXT: States/95/message1/ < UNTRANSLATED
-
+> CONTEXT: States/95/message1/
+ got pulsating biceps!
 > END STRING
 
 > BEGIN STRING
@@ -765,8 +765,8 @@ Bleed
 
 > BEGIN STRING
 は　捨て身の構えを取った！
-> CONTEXT: States/96/message1/ < UNTRANSLATED
-
+> CONTEXT: States/96/message1/
+ took an all-or-nothing stance!
 > END STRING
 
 > BEGIN STRING
@@ -898,8 +898,8 @@ EX腕技01★(一騎討ち)
 
 > BEGIN STRING
 は　一騎討ちを終えた！
-> CONTEXT: States/131/message4/ < UNTRANSLATED
-
+> CONTEXT: States/131/message4/
+ finished the duel!
 > END STRING
 
 > BEGIN STRING
@@ -1012,8 +1012,8 @@ EX足技08
 
 > BEGIN STRING
 は　号令に従った！
-> CONTEXT: States/153/message1/ < UNTRANSLATED
-
+> CONTEXT: States/153/message1/
+ obeyed the order!
 > END STRING
 
 > BEGIN STRING
@@ -1024,8 +1024,8 @@ EX足技08
 
 > BEGIN STRING
 は　炎と岩に備えた！
-> CONTEXT: States/154/message1/ < UNTRANSLATED
-
+> CONTEXT: States/154/message1/
+ prepared for fire and brimstone!
 > END STRING
 
 > BEGIN STRING
@@ -1036,8 +1036,8 @@ EX足技08
 
 > BEGIN STRING
 は　氷と棘に備えた！
-> CONTEXT: States/155/message1/ < UNTRANSLATED
-
+> CONTEXT: States/155/message1/
+ prepared for ice and thorns!
 > END STRING
 
 > BEGIN STRING
@@ -1048,8 +1048,8 @@ EX足技08
 
 > BEGIN STRING
 は　雷と嵐に備えた！
-> CONTEXT: States/156/message1/ < UNTRANSLATED
-
+> CONTEXT: States/156/message1/
+ prepared for thunder and storm!
 > END STRING
 
 > BEGIN STRING
@@ -1060,8 +1060,8 @@ EX足技08
 
 > BEGIN STRING
 は　風の鎧で身を包んだ！
-> CONTEXT: States/157/message1/ < UNTRANSLATED
-
+> CONTEXT: States/157/message1/
+ was clad in wind armor!
 > END STRING
 
 > BEGIN STRING
@@ -1072,8 +1072,8 @@ EX足技08
 
 > BEGIN STRING
 は　EP消費を抑えられる！
-> CONTEXT: States/158/message1/ < UNTRANSLATED
-
+> CONTEXT: States/158/message1/
+ got EP cost reduction!
 > END STRING
 
 > BEGIN STRING
@@ -1084,8 +1084,8 @@ EX足技08
 
 > BEGIN STRING
 は　身代わりを立てた！
-> CONTEXT: States/159/message1/ < UNTRANSLATED
-
+> CONTEXT: States/159/message1/
+ set up a substitute!
 > END STRING
 
 > BEGIN STRING
@@ -1096,14 +1096,14 @@ EX足技08
 
 > BEGIN STRING
 は　素材回収の勘が冴えた！
-> CONTEXT: States/162/message1/ < UNTRANSLATED
-
+> CONTEXT: States/162/message1/
+ got material collection intuition!
 > END STRING
 
 > BEGIN STRING
 は　素材回収の勘を失った！
-> CONTEXT: States/162/message4/ < UNTRANSLATED
-
+> CONTEXT: States/162/message4/
+ lost material collection intuition!
 > END STRING
 
 > BEGIN STRING
@@ -1133,20 +1133,20 @@ EX足技08
 
 > BEGIN STRING
 は　自然治癒力が高まった！
-> CONTEXT: States/164/message1/ < UNTRANSLATED
-
+> CONTEXT: States/164/message1/
+ boosted natural healing!
 > END STRING
 
 > BEGIN STRING
 の　自然治癒力が向上！
-> CONTEXT: States/164/message2/ < UNTRANSLATED
-
+> CONTEXT: States/164/message2/
+ got boosted natural healing!
 > END STRING
 
 > BEGIN STRING
 のLP回復効果が　終了！
-> CONTEXT: States/164/message4/ < UNTRANSLATED
-
+> CONTEXT: States/164/message4/
+ lost boosted natural healing!
 > END STRING
 
 > BEGIN STRING
@@ -1157,20 +1157,20 @@ EX足技08
 
 > BEGIN STRING
 は　山彦詠唱が可能になった！
-> CONTEXT: States/165/message1/ < UNTRANSLATED
-
+> CONTEXT: States/165/message1/
+ got echo chanting ability!
 > END STRING
 
 > BEGIN STRING
 は　山彦詠唱が可能に！
-> CONTEXT: States/165/message2/ < UNTRANSLATED
-
+> CONTEXT: States/165/message2/
+ got echo chanting ability!
 > END STRING
 
 > BEGIN STRING
 の山彦詠唱が　終了！
-> CONTEXT: States/165/message4/ < UNTRANSLATED
-
+> CONTEXT: States/165/message4/
+ lost echo chanting ability!
 > END STRING
 
 > BEGIN STRING
@@ -1181,14 +1181,14 @@ EX足技08
 
 > BEGIN STRING
 は　自己回復効果を得た！
-> CONTEXT: States/166/message1/ < UNTRANSLATED
-
+> CONTEXT: States/166/message1/
+ got self-healing!
 > END STRING
 
 > BEGIN STRING
 の自己回復効果が　終了！
-> CONTEXT: States/166/message4/ < UNTRANSLATED
-
+> CONTEXT: States/166/message4/
+ lost self-healing!
 > END STRING
 
 > BEGIN STRING
@@ -1199,14 +1199,14 @@ EP回復
 
 > BEGIN STRING
 は　やる気に満ちていく！
-> CONTEXT: States/167/message1/ < UNTRANSLATED
-
+> CONTEXT: States/167/message1/
+ got motivated!
 > END STRING
 
 > BEGIN STRING
 のEP回復効果が　終了！
-> CONTEXT: States/167/message4/ < UNTRANSLATED
-
+> CONTEXT: States/167/message4/
+ lost motivation!
 > END STRING
 
 > BEGIN STRING
@@ -1217,14 +1217,14 @@ EP回復
 
 > BEGIN STRING
 のEP消費量が　半減！
-> CONTEXT: States/168/message1/ < UNTRANSLATED
-
+> CONTEXT: States/168/message1/
+ got EP cost reduction!
 > END STRING
 
 > BEGIN STRING
 のEP節約効果が　終了！
-> CONTEXT: States/168/message4/ < UNTRANSLATED
-
+> CONTEXT: States/168/message4/
+ lost EP cost reduction!
 > END STRING
 
 > BEGIN STRING
@@ -1235,9 +1235,9 @@ EP回復
 
 > BEGIN STRING
 の火炎と突貫属性が　強化！
-> CONTEXT: States/174/message1/ < UNTRANSLATED
-> CONTEXT: States/174/message2/ < UNTRANSLATED
-
+> CONTEXT: States/174/message1/
+> CONTEXT: States/174/message2/
+ enhanced fire and pierce!
 > END STRING
 
 > BEGIN STRING
@@ -1248,9 +1248,9 @@ EP回復
 
 > BEGIN STRING
 の水氷と打壊属性が　強化！
-> CONTEXT: States/175/message1/ < UNTRANSLATED
-> CONTEXT: States/175/message2/ < UNTRANSLATED
-
+> CONTEXT: States/175/message1/
+> CONTEXT: States/175/message2/
+ enhanced water and strike!
 > END STRING
 
 > BEGIN STRING
@@ -1261,9 +1261,9 @@ EP回復
 
 > BEGIN STRING
 の雷電と切斬属性が　強化！
-> CONTEXT: States/176/message1/ < UNTRANSLATED
-> CONTEXT: States/176/message2/ < UNTRANSLATED
-
+> CONTEXT: States/176/message1/
+> CONTEXT: States/176/message2/
+ enhanced lightning and slash!
 > END STRING
 
 > BEGIN STRING
@@ -1608,14 +1608,14 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 は　敵に狙われやすくなった！
-> CONTEXT: States/259/message1/ < UNTRANSLATED
-
+> CONTEXT: States/259/message1/
+ taunted the enemies!
 > END STRING
 
 > BEGIN STRING
 が　敵愾心を集めている！
-> CONTEXT: States/259/message3/ < UNTRANSLATED
-
+> CONTEXT: States/259/message3/
+ attracted hostility!
 > END STRING
 
 > BEGIN STRING
@@ -1626,8 +1626,8 @@ Miraculous Oral Medicine
 
 > BEGIN STRING
 は　敵の狙いから逃れた！
-> CONTEXT: States/260/message1/ < UNTRANSLATED
-
+> CONTEXT: States/260/message1/
+ hid from enemy aim!
 > END STRING
 
 > BEGIN STRING
@@ -2045,8 +2045,8 @@ Elder Turtle Elixir
 
 > BEGIN STRING
 は　長老亀の坑呪力を得た！
-> CONTEXT: States/305/message1/ < UNTRANSLATED
-
+> CONTEXT: States/305/message1/
+ gained elder turtle's power!
 > END STRING
 
 > BEGIN STRING
@@ -2059,7 +2059,7 @@ Flying Bird Elixir
 > BEGIN STRING
 は　飛翔鳥の敏捷性を得た！
 > CONTEXT: States/306/message1/
- gained the agility of a flying bird!
+ gained flying bird's agility!
 > END STRING
 
 > BEGIN STRING
@@ -2070,8 +2070,8 @@ Flying Bird Elixir
 
 > BEGIN STRING
 は　飛翔鳥の回避力を得た！
-> CONTEXT: States/307/message1/ < UNTRANSLATED
-
+> CONTEXT: States/307/message1/
+ gained flying bird's evasion!
 > END STRING
 
 > BEGIN STRING
@@ -2095,8 +2095,8 @@ White Lion Elixir
 
 > BEGIN STRING
 は　白獅子の命中力を得た！
-> CONTEXT: States/309/message1/ < UNTRANSLATED
-
+> CONTEXT: States/309/message1/
+ gained white lion's accuracy!
 > END STRING
 
 > BEGIN STRING
@@ -2146,14 +2146,14 @@ Purple Arts
 
 > BEGIN STRING
 の邪気が　濃厚に！
-> CONTEXT: States/401/message2/ < UNTRANSLATED
-
+> CONTEXT: States/401/message2/
+ got intense Jaqi!
 > END STRING
 
 > BEGIN STRING
 の邪気が　薄れる……
-> CONTEXT: States/401/message4/ < UNTRANSLATED
-
+> CONTEXT: States/401/message4/
+ lost Jaqi...
 > END STRING
 
 > BEGIN STRING
@@ -2247,20 +2247,20 @@ Nightmare Foresight
 
 > BEGIN STRING
 は　乾眠状態になった！
-> CONTEXT: States/409/message2/ < UNTRANSLATED
-
+> CONTEXT: States/409/message2/
+ entered cryptobiosis!
 > END STRING
 
 > BEGIN STRING
 は　乾眠状態になっている！
-> CONTEXT: States/409/message3/ < UNTRANSLATED
-
+> CONTEXT: States/409/message3/
+ got cryptobiosis!
 > END STRING
 
 > BEGIN STRING
 は　乾眠から目覚めた！
-> CONTEXT: States/409/message4/ < UNTRANSLATED
-
+> CONTEXT: States/409/message4/
+ awakened from cryptobiosis!
 > END STRING
 
 > BEGIN STRING
