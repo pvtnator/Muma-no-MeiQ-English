@@ -917,14 +917,14 @@ Turn \\V[590]!
 
 > BEGIN STRING
 邪気の濃度が　臨界点突破ッ！！！
-> CONTEXT: Commonevents/90/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/17/Dialogue
+Jaqi reached a critical point!!!
 > END STRING
 
 > BEGIN STRING
 邪気に　つかれきって　しまった！
-> CONTEXT: Commonevents/90/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/19/Dialogue
+Completely exhausted from Jaqi!
 > END STRING
 
 > BEGIN STRING
@@ -941,8 +941,8 @@ You've been possessed by a Jaqi!
 
 > BEGIN STRING
 邪気の濃度が　もう限界だッ！！！
-> CONTEXT: Commonevents/90/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/33/Dialogue
+Jaqi concentration has peaked!!!
 > END STRING
 
 > BEGIN STRING
@@ -953,8 +953,8 @@ Miasma of Jaqi is at its limit!!!
 
 > BEGIN STRING
 邪気の濃度が　濃くなってきた！！
-> CONTEXT: Commonevents/90/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/45/Dialogue
+Jaqi concentration is increasing!!
 > END STRING
 
 > BEGIN STRING
@@ -965,8 +965,8 @@ Miasma of Jaqi is getting denser!!
 
 > BEGIN STRING
 邪気の濃度が　濃くなってきた！
-> CONTEXT: Commonevents/90/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/57/Dialogue
+Jaqi concentration is increasing!
 > END STRING
 
 > BEGIN STRING
@@ -977,8 +977,8 @@ Miasma of Jaqi is getting denser!
 
 > BEGIN STRING
 邪気の濃度が　濃くなってきた……！
-> CONTEXT: Commonevents/90/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/69/Dialogue
+Jaqi concentration is increasing...!
 > END STRING
 
 > BEGIN STRING
@@ -989,8 +989,8 @@ Miasma of Jaqi is getting denser.
 
 > BEGIN STRING
 邪気の濃度が　濃くなってきた……。
-> CONTEXT: Commonevents/90/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/90/81/Dialogue
+Jaqi concentration is increasing...
 > END STRING
 
 > BEGIN STRING
@@ -1001,8 +1001,8 @@ Miasma of Jaqi is getting denser...
 
 > BEGIN STRING
 全てを　かなぐり捨てて　逃げ出した！
-> CONTEXT: Commonevents/92/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/92/16/Dialogue
+Discarded everything and ran!
 > END STRING
 
 > BEGIN STRING
@@ -1013,9 +1013,9 @@ You ran away with everything!
 
 > BEGIN STRING
 \\V[41] 歩
-> CONTEXT: Commonevents/101/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/201/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/101/8/Dialogue
+> CONTEXT: Commonevents/201/4/Dialogue
+Step \\V[41]
 > END STRING
 
 > BEGIN STRING
@@ -4065,7 +4065,7 @@ You're not wrong, though.
 注意っ！
 > CONTEXT: Commonevents/118/1/Dialogue
 \\NAME[\\n[11]]
-...Ah, New Maze of Succubus,
+...Ah, True Maze of Succubus,
 it's different.
 Be careful!
 > END STRING
@@ -4074,16 +4074,19 @@ Be careful!
 \\NAME[\\n[12]]
 ……けど　シン・夢魔の迷宮は
 ちょっと　違うんだけどね。
-> CONTEXT: Commonevents/118/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/118/8/Dialogue
+\\NAME[\\n[12]]
+...But True Maze of Succubus
+is a little different.
 > END STRING
 
 > BEGIN STRING
 \\NAME[\\n[13]]
 ……言うて　シン・夢魔の迷宮は
 ちゃうんやけどな〜。
-> CONTEXT: Commonevents/118/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/118/15/Dialogue
+...True Maze of Succubus
+is a little different, you know〜.
 > END STRING
 
 > BEGIN STRING
@@ -4531,8 +4534,8 @@ The world was peaceful today as well...
 凶悪事件で　死傷者が　続出している。
 > CONTEXT: Commonevents/195/45/Dialogue
 Around the world, rape, robbery, murder, 
-arson, vandalism, and mass suicide,
-heinous crimes are causing numerous casualties
+arson, vandalism, mass suicide, and heinous 
+crimes are causing numerous casualties.
 > END STRING
 
 > BEGIN STRING
@@ -5058,24 +5061,29 @@ It'd be better if they weren't on social media!
 ヒットチャートというものは　昔から
 よくわからないもので　人々の流行とは
 常に　移ろいゆくものである。
-> CONTEXT: Commonevents/196/459/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/459/Dialogue
+Hit charts have always been a 
+mysterious thing, and people's 
+trends are constantly changing.
 > END STRING
 
 > BEGIN STRING
 とはいえ　一部の熱狂的なファン層――
 ファンダムと呼ばれる　一派が
 自分たちの推しを　押し上げる為に
-> CONTEXT: Commonevents/196/463/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/463/Dialogue
+However, a certain fandom has been
+taking action to promote their favorite idol
+that significantly impact the charts.
 > END STRING
 
 > BEGIN STRING
 チャートに影響を及ぼすほどの　活動を
 行っている。それを疑問視する声もあるが
 中には　こんな見方をする人も――
-> CONTEXT: Commonevents/196/467/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/467/Dialogue
+While some question this, 
+there are also those who hold this view:
 > END STRING
 
 > BEGIN STRING
@@ -5083,8 +5091,11 @@ It'd be better if they weren't on social media!
 人気なんてものに　公正さなんてない。
 工作やステマなんて当たり前　それ含めて
 要は　やったもん勝ちの世界でしょ？
-> CONTEXT: Commonevents/196/472/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/196/472/Dialogue
+\\NAME[Commentator]
+Popularity has no rules. Manipulation and 
+stealth marketing are common, that's how is.
+Whoever does it first wins, right?
 > END STRING
 
 > BEGIN STRING
@@ -5424,14 +5435,14 @@ Thank you for your response.
 
 > BEGIN STRING
 あ！
-> CONTEXT: Commonevents/211/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/211/0/Dialogue
+Ah!
 > END STRING
 
 > BEGIN STRING
 はい
-> CONTEXT: Commonevents/211/2/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/211/2/Choice/0
+Yes
 > END STRING
 
 > BEGIN STRING
@@ -5439,8 +5450,11 @@ Thank you for your response.
 えと……じゃあ　ここは　学園。
 あんたとあたしが通ってる学校で
 あたしは一応　学級委員長で。
-> CONTEXT: Commonevents/264/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/3/Dialogue
+\\NAME[\\n[11]]
+Um...so this is the school.
+The school you and I attend, and 
+I'm the class president, or something.
 > END STRING
 
 > BEGIN STRING
@@ -5448,135 +5462,169 @@ Thank you for your response.
 で……えと　そう！　あんたが
 無理矢理　あたしを　保健室に
 呼び出して　つまり　その――
-> CONTEXT: Commonevents/264/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/8/Dialogue
+\\NAME[\\n[11]]
+So...um, right! 
+You forcibly called me
+to the infirmary, and then――
 > END STRING
 
 > BEGIN STRING
 ホ　ホントは　ダメなんだからねっ！
 こういうこと……学校の　ほ　保健室で
 するなんて……こ　校則違反？　だから。\\.\\|\\^
-> CONTEXT: Commonevents/264/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/31/Dialogue
+T-This is really not allowed!
+Something like this...in the nurse's office... 
+is a violation of school rules, right? So...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 え？　学校の保健室には　こんな豪華な
 ベッドは無い？　なんで全裸なのかって？
 いいのっ！　細かいこと　気にすんなっ！\\.\\|\\^
-> CONTEXT: Commonevents/264/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/38/Dialogue
+Huh? The school infirmary doesn't have 
+a bed this luxurious? Why am I naked?
+It's fine! Don't worry about the details! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 とにかく　あたしたちは　授業をサボって
 保健室で　制服　脱いで　犯ってるのっ！
 セ　セ　セックスを……してるのっ！！\\.\\|\\^
-> CONTEXT: Commonevents/264/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/45/Dialogue
+Anyway, we skip class and go to the nurse's 
+office, take off our uniforms, and do it!
+W-W-We're having...sex! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 見付かったら　停学処分かもだけど
 今は　誰もいないし　休み時間までに
 済ませれば　バレないでしょ？\\.\\|\\^
-> CONTEXT: Commonevents/264/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/55/Dialogue
+We might get suspended if they catch us, but
+no one's around right now, and if we finish before 
+break time, they won't find out, right? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それに　あんたが　悪いんだからねっ！
 授業中に　いきなり『やりたい』だなんて
 メッセ　送ったりすっから。\\.\\|\\^
-> CONTEXT: Commonevents/264/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/62/Dialogue
+Besides, it's all your fault!
+You suddenly sent me a message saying 
+"I want it now"\\| during class. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あたしたちが付き合ってるの　クラスの皆
 知ってるし……二人で　授業フケてたら
 ナニしてたのって言われるかも？　あん♡\\.\\|\\^
-> CONTEXT: Commonevents/264/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/69/Dialogue
+Everyone in our class knows we're dating... 
+If we skipped class together, they might 
+ask what we were doing? Ahh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 次の授業までに　戻れば――あ♡　ダメっ
 声……出ちゃう。教員に　聞かれたら
 ヤバいッ！\\|　廊下……誰もいない？\\.\\|\\^
-> CONTEXT: Commonevents/264/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/79/Dialogue
+If we get back before the next class――ah♡ No,
+If I make too much noise and a teacher hears me,
+that's bad! ...Is there anyone in the hallway? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あたし　イケナイことしてる……んっ♡
 学級委員長なのに　こんなことしてちゃ
 イケナイのに……あっ♡　あっ♡\\.\\|\\^
-> CONTEXT: Commonevents/264/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/86/Dialogue
+I'm doing something naughty...mmh♡
+I'm the class president, so I shouldn't be 
+doing something like this... Ah♡ Ah♡ \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ヤバっ　オルガスムスが　近いっ！
 声――あ♡　抑えられないッ！　あんたの
 ペニスが　あたしのヴァギナを――くっ♡\\.\\|\\^
-> CONTEXT: Commonevents/264/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/99/Dialogue
+Oh no, I can feel an orgasm coming!
+My voice――ah♡ I can't hold it in!\\|
+Your penis is――nghh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 センコーや　クラスメイトに　バレたら
 大事になるのに　学校で　全裸でセックス
 してる……なんて――ああぁ♡\\.\\|\\^
-> CONTEXT: Commonevents/264/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/106/Dialogue
+If the teachers or classmates find out,
+it'll be a big deal...but having sex 
+naked at school is so... Ahhh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんたがっ　あんたが　悪いんだから
 責任　取りなさいよ？　んっ♡
 もし見つかっても　責任は――ぁんっ♡\\.\\|\\^
-> CONTEXT: Commonevents/264/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/113/Dialogue
+It's your fault! It's your fault, so
+you have to take responsibility, okay? Mmh♡
+If we get caught, it's your resp—aahh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ホラ！　このままザーメン　出しなさい！
 ぁ♡　出して！　あたしの……ヴァギナに
 いっぱい　出してえええぇぇぇ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/264/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/120/Dialogue
+Come on! Let your semen out like this!
+Ahhh♡ Let it out! In my...vagina...
+Let it all ooooouuuuuuut♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あくぅぅぅんんん♡♡♡　カレシと……
 学校で　セックスしちゃったぁぁぁ……！\\.\\|\\^
-> CONTEXT: Commonevents/264/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/135/Dialogue
+Aaaahhhhh♡♡♡ Sex with my boyfriend...
+at school of all places...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ハァ……ハァ……やっちゃったね。
 ザーメン　大丈夫かな？　シーツに
 ついっちゃったかも？\\.\\|\\^
-> CONTEXT: Commonevents/264/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/146/Dialogue
+Haa...haa...we did it.
+Is the semen going to be a problem?
+It might have gotten on the sheets? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ほ　保健のセンコーが　戻ってくる前に
 全部　キレイに　片付けて……
 制服に　着替えて　教室……戻ろう？\\.\\|\\^
-> CONTEXT: Commonevents/264/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/153/Dialogue
+Hmm, before the nurse comes back, let's clean 
+everything up nicely...and change into our 
+uniforms and go back to class...shall we? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それで……放課後さ　サボった分の勉強
 あんたんちに行って……で　その後で
 良かったら　また………………しよ？\\.\\|\\^
-> CONTEXT: Commonevents/264/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/264/162/Dialogue
+And...after school, let's catch up on the 
+studying we skipped. I'll come to your house... 
+and if you'd like, let's......do it again? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6538,8 +6586,10 @@ I wish tomorrow would never come...\\.\\|\\^
 \\NAME[\\n[11]]
 ……じゅ　準備なら
 できてるから……多分。
-> CONTEXT: Commonevents/277/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/3/Dialogue
+\\NAME[\\n[11]]
+...Well then, 
+I'm ready...I guess
 > END STRING
 
 > BEGIN STRING
@@ -6547,214 +6597,267 @@ I wish tomorrow would never come...\\.\\|\\^
 しっかり　エレクチオンして！
 や……やるんでしょ？
 今　から……。
-> CONTEXT: Commonevents/277/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/7/Dialogue
+\\NAME[\\n[11]]
+Get a firm erection!
+You...you can do it, right?
+Let's start...
 > END STRING
 
 > BEGIN STRING
 ってか　本当に……今　やるの？
 正直言うと　あたしは　あんまり
 賛同　できないんだけどな……。\\.\\|\\^
-> CONTEXT: Commonevents/277/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/30/Dialogue
+Seriously...we're doing it now?
+To be honest, I don't think
+it's such a good idea...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それとも　そんなに　あたしと
 セックス……したかったって　こと……？
 我慢できない……くらいに？\\.\\|\\^
-> CONTEXT: Commonevents/277/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/37/Dialogue
+Or does it mean you wanted to 
+have sex with me that badly...?
+So badly that you couldn't hold back...?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ま　まぁ　いいけど……
 気持ち良くしてくれるなら……
 雑なのは　許さないよ？\\.\\|\\^
-> CONTEXT: Commonevents/277/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/47/Dialogue
+Well, it's okay, I guess...
+If you make me feel good...
+But you better not do it sloppily, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ちゃんと　気持ちを込めて
 大切に大切に　あたしの　ヴァギナに
 あんたのペニスを　通しなさい……！\\.\\|\\^
-> CONTEXT: Commonevents/277/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/54/Dialogue
+Put your feelings into it properly,
+push your penis into my vagina
+carefully and properly...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁん♡　きた……感じてきた……
 しっかりと　エレクチオンした　ペニスが
 入ってる……セックスの　この感じ……。\\.\\|\\^
-> CONTEXT: Commonevents/277/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/64/Dialogue
+Ahhh♡ It's there... I can feel it...
+Your fully erect penis,
+it's inside me... This feeling of sex... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんたのペニスの　あたたかい熱が
 あたしのヴァギナに　伝わって
 全身が　ぽかぽかしてきて……。\\.\\|\\^
-> CONTEXT: Commonevents/277/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/71/Dialogue
+I can feel the warmth of your penis
+inside my vagina, and it makes 
+my whole body feel warm and cozy... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 心の芯から　何か……満たされてく感じ。\\|
 あたしの体が　反応してる……んっ♡
 全身に　行き渡ってく　この感じ……♡\\.\\|\\^
-> CONTEXT: Commonevents/277/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/78/Dialogue
+Something deep inside me...is filling me up.\\|
+My body is reacting...mmh♡
+It's spreading throughout my whole body...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 うんっ♡　うんっ♡
 きてる　きてる……込み上げて
 きてる……あんたと　あたしの熱が──\\.\\|\\^
-> CONTEXT: Commonevents/277/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/92/Dialogue
+Mmmh♡ Mmmh♡
+It's coming, it's coming... welling up
+It's coming... I can feel your heat──\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 混ざり合って　とろけていく……♡
 あんたの気持ちが　入ってくるよ
 あたしのヴァギナの　奥の奥までっ♡\\.\\|\\^
-> CONTEXT: Commonevents/277/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/99/Dialogue
+We're becoming one and melting away...♡
+Your feelings are coming in all the way 
+to the deepest depths of my vagina♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡　感じるっ　感じるっ！
 あんたの熱いスペルマ　あたしの中に
 これから　入ってくるんだ……っ♡\\.\\|\\^
-> CONTEXT: Commonevents/277/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/106/Dialogue
+Ahh♡ I feel it, I feel it!
+Your hot sperm,\\| I can feel it
+coming inside me now...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡ あぁ♡ 　いく？　いく？
 あたしも　そろそろ……いくから
 呼吸　合わせて　一緒にぃぃぃ……♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/277/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/113/Dialogue
+Ahh♡ Ahh♡ Are you cumming? Are you?
+I'm almost there too... Let's synchronize 
+our breathing and cum together...♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ……！
 ……っ　くっ　……ううんんん♡♡\\.\\|\\^
-> CONTEXT: Commonevents/277/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/128/Dialogue
+Aah...!
+...Ghhh...\\|Mmmmmhhhh♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ハァ……ハァ……ハァ……ハァ……
 悪く……な　なかったかも
 ……まぁ　あたしもサキュバスだしね。\\.\\|\\^
-> CONTEXT: Commonevents/277/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/139/Dialogue
+Haa...haa...haa...haa...
+Maybe it wasn't so bad...
+...Well, I am a succubus after all. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんたは……ど　どうだった？
 ちゃんと　いけたよね……？\\|
 だったら……よかった。\\.\\|\\^
-> CONTEXT: Commonevents/277/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/146/Dialogue
+Hey...what did you think?
+Do you think that went well...?
+If so...that's good.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 でも……うん。セックスも　良いとは
 思うけど　もっと　何て言うか……\\|
 一緒に時間を　過ごしたかった……かな。\\.\\|\\^
-> CONTEXT: Commonevents/277/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/155/Dialogue
+But...yeah. I think sex is good, but I wanted 
+more... how should I put it...I just wanted 
+to spend more time together... I guess.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁ♡　あれ？　なんか　おかしい……
 熱が　どんどん……昂ってきて
 あんたの　ペニスが　すごい　硬く……\\.\\|\\^
-> CONTEXT: Commonevents/277/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/174/Dialogue
+Ahh♡ Huh? Something's strange...
+Like I'm heating up, getting excited...
+And your penis is getting really hard...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 熱を　帯びて……熱く　硬く　鋭く
 あたしの　気持ちの良いところ……
 突かれる度に　来るッ　くるぅぅぅ！\\.\\|\\^
-> CONTEXT: Commonevents/277/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/181/Dialogue
+It's burning hot...hot, hard, and strong,
+and you're thrusting into my sensitive spots...
+I'm coming, I'm coming〜〜〜! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 もっと……突いて　突いて♡
 すごい　良いの♡　あんたに　突かれるの
 すごく　良いっ♡　良いっ♡　良いっ♡\\.\\|\\^
-> CONTEXT: Commonevents/277/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/188/Dialogue
+Thrust harder...harder ♡
+It feels so amazing♡ You thrusting into me,
+it feels so amazing♡ Yes♡ Yes♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 伝わってくる……！　繋がってる
 あんたから　気持ちが……快感が♡
 あんたの　ペニスから　気持ちが……！\\.\\|\\^
-> CONTEXT: Commonevents/277/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/201/Dialogue
+I can feel it...! We are one, and
+I can feel your feelings...and pleasure♡
+I can feel your feelings from your penis...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 焼かれるみたいに……何　コレ！？
 頭が　湯立ってく……くぅっ！
 あたし　どうなっちゃうの……！？\\.\\|\\^
-> CONTEXT: Commonevents/277/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/208/Dialogue
+It feels like I'm burning... What is this!?
+My head feels like boiling... Aah!
+What's happening to me...!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あぁぁ♡　沸騰しそう♡　ダメっ♡
 おかしくなる……おかしくなっちゃうっ
 ダメ♡　ダメっ♡　もう　あたし――\\.\\|\\^
-> CONTEXT: Commonevents/277/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/215/Dialogue
+Ahhh♡ I'm about to boil♡ I can't♡
+I'm going crazy...I'm going crazy\\|
+No♡ No♡ I can't anymore――\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あ♡　あっ♡　あ……あんたの……
 あんたのことしか　見えない
 考えられない……もう　もうっ！！！\\.\\|\\^
-> CONTEXT: Commonevents/277/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/222/Dialogue
+Ah♡ Ah♡ Ah...y-you...\\|
+I can't see or think of anything\\|
+but you...no more, I can't!!! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 好きぃぃぃいいいぃぃぃいいい♡♡♡
 あぁぁぁぁぁんんんん♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/277/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/237/Dialogue
+I love yooooooouuuuuuu♡♡♡\\|
+Aaaaaaaaaaaahhhhhh♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 えへ……へへ……えへへ……
 しゅ　しゅきぃ……\\|
 だ……大好き……大好き……♡\\.\\|\\^
-> CONTEXT: Commonevents/277/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/248/Dialogue
+Ehe...hehe...hehehe...
+I...I l-love...\\|I...I love you...
+I love you so much...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 頭　おかしく　なっちゃったよ……
 あんたのことで　いっぱいで
 あぁん♡　ハァハァ……これって\\.\\|\\^
-> CONTEXT: Commonevents/277/255/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/255/Dialogue
+I think I've gone crazy...
+I'm filled with thoughts of you
+Ahhh♡ Haa haa... Is this...?\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 恋……そうだ　恋だ。\\|
 あたし……あんたのことが──\\|
 あぁ……♡\\.\\|\\^
-> CONTEXT: Commonevents/277/264/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/277/264/Dialogue
+Love... Yes, it's love. \\|
+I... I feel something for you──\\|
+Ah...♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -6762,8 +6865,11 @@ I wish tomorrow would never come...\\.\\|\\^
 ホレ！　あんちゃん！？
 まっぱ☆なったかー？
 ウチも　全裸やで？
-> CONTEXT: Commonevents/281/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/281/3/Dialogue
+\\NAME[\\n[13]]
+Hey! Cutie!?
+Are you completely naked?
+I'm naked too, you know?
 > END STRING
 
 > BEGIN STRING
@@ -7163,8 +7269,11 @@ Then once again... \\|Hehehe♡ Hehehe♡\\.\\|\\^
 あ……ありがとう。
 手　繋いでてくれて。
 でも　ちょっと　離していい？
-> CONTEXT: Commonevents/283/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/3/Dialogue
+\\NAME[\\n[11]]
+Ah...thank you.
+For holding my hand.
+But, can I let go for a moment?
 > END STRING
 
 > BEGIN STRING
@@ -7172,168 +7281,210 @@ Then once again... \\|Hehehe♡ Hehehe♡\\.\\|\\^
 あたしの……生まれたままの姿
 あんたに　見てもらって
 そのまま　したい……からっ！
-> CONTEXT: Commonevents/283/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/8/Dialogue
+\\NAME[\\n[11]]
+I want you to see me... 
+just as I was born,
+and...do it just like that!
 > END STRING
 
 > BEGIN STRING
 はぁ♡　はぁ♡　繋がってる……
 繋がってるよね？　あたしと　あんた……
 ペニスとヴァギナで　深く……強く……\\.\\|\\^
-> CONTEXT: Commonevents/283/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/31/Dialogue
+Ahh♡ Ahh♡ We're connected...
+We're connected, aren't we? You and I...
+Deep...strong...with penis and vagina...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 今更だけど　セックスって　不思議……
 体の芯から　ぽかぽかして　温かくて……
 ねぇ　あんたはさ……覚えてる？\\.\\|\\^
-> CONTEXT: Commonevents/283/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/38/Dialogue
+It's a bit late to say, but sex is so mysterious...
+It warms you up from the core of your body...
+Hey, do you remember...? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 初めて――んっ♡　……した時のこと
 あんたは……覚えてる……？
 あたしはさ……その　恥ずかしいんだけど\\.\\|\\^
-> CONTEXT: Commonevents/283/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/45/Dialogue
+Do you remember the first time...mmm♡
+...you did it...? Do you... remember...?
+Well, I... it's kind of embarrassing, but...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 自分のことで　頭いっぱいで……
 燃え尽きちゃって……想像してたより
 衝撃が　大き過ぎちゃってさ……ははは。\\.\\|\\^
-> CONTEXT: Commonevents/283/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/52/Dialogue
+My head was full of my own problems...
+I was burnt out... The shock was much greater 
+than I had imagined...hahaha. \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 なんかね　煙が　掛かってるみたいに
 記憶が　曖昧で……初めての　相手が
 誰だったのかも　思い出せなくって……\\.\\|\\^
-> CONTEXT: Commonevents/283/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/62/Dialogue
+It's like there was smoke in the air,
+and my memories are hazy... I can't even 
+remember who my first partner was...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それでも　焦げ跡みたいに　残ってるのは
 嬉しかったって　気持ちと……
 忘れたくないって　気持ち……\\.\\|\\^
-> CONTEXT: Commonevents/283/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/69/Dialogue
+Even so, what remains, like a burn mark, 
+is the feeling of happiness...and the 
+feeling of not wanting to forget...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 忘れてるのにね……よっぽど
 大事な人だったのかな？　なんとなく
 あんたに似てたような　そんな気が……。\\.\\|\\^
-> CONTEXT: Commonevents/283/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/76/Dialogue
+Even though I've forgotten... They must 
+have been really important to me? Somehow,
+you remind me of that person... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 初めての相手が　あんたなら良かったのに
 って　考えてたら　いつの間にか……
 あんたのことに　しちゃってるのかも……\\.\\|\\^
-> CONTEXT: Commonevents/283/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/83/Dialogue
+I wish you had been my first...
+At this rate, I might just start thinking
+that it actually was you...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 それって　あんただから　許せるんだよ？
 だって　あんたは　あたしのことを
 変えてくれた……から。んっ♡\\.\\|\\^
-> CONTEXT: Commonevents/283/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/93/Dialogue
+I can accept that, since it's you, you know?
+Because you...\\|you changed me... 
+Mmmhh♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 サキュバスなのに　奥手なの……ずっと
 コンプレックスだったけど　あんたは
 受け入れてくれて……優しく　してくれて\\.\\|\\^
-> CONTEXT: Commonevents/283/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/100/Dialogue
+Even though I'm a succubus, I'm shy... 
+It's always been hard for me, but you
+accepted me...and you were so kind to me.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 今こうして　セックスしてても　素直に
 嬉しいって　思えて　自分を肯定できる
 ……それって　あんただからなんだよ？\\.\\|\\^
-> CONTEXT: Commonevents/283/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/107/Dialogue
+Even now, as we're having sex, 
+I can honestly feel happy and accept myself.
+...That's because it's you, you know? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 全部　全部　あんただから……ぁ♡
 もしかして　運命かもって　思えるくらい
 つまり――あっ♡　つまり　その……\\.\\|\\^
-> CONTEXT: Commonevents/283/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/114/Dialogue
+It's all, all because of you...ahh♡
+It's almost as if it's fate...
+In other words――ahh♡ In other words, um...\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あんたのこと……好きっ♡　好きっ！
 好きに……なっちゃったんだよっ！
 今は……今だけは　素直に　言えるよっ♡\\.\\|\\^
-> CONTEXT: Commonevents/283/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/127/Dialogue
+I... I love you♡ I love you!
+I've... fallen in love with you!
+For now...right now, I can say it honestly♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あたしの……運命の相手♡　それが……
 ぁ♡　あ♡　あんた……だからっ！
 だからさ……あんたもさ……\\.\\|\\^
-> CONTEXT: Commonevents/283/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/134/Dialogue
+My... destined partner♡ That is...
+Ah♡ Ah♡ It's you... That's why!
+That's why...\\|you too... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あたしのこと……ずっと　ずっと
 好きでいて……？　いや……いなさいっ！
 あたしのこと　ずっと好きでいなさいっ！\\.\\|\\^
-> CONTEXT: Commonevents/283/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/141/Dialogue
+Will you...always, always love me...? 
+No...rather, what I wanted to say is!
+You *must* always love me! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 ぁ♡　あっ♡　イク！　あんたへの気持ち
 抱き締めたまま　あたし……このまま――
 イク♡　イク♡　イクよぉぉぉ♡♡♡\\.\\|\\^
-> CONTEXT: Commonevents/283/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/148/Dialogue
+Ah♡ Ah♡ I'm coming! With my love for you, 
+I will hold you tight, I... just like this――
+I'm coming♡ I'm coming♡ I'm cominggg♡♡♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あああぁぁぁんんんっっっ♡♡♡
 この……愛は　永遠だから……
 今度こそ……っ！\\.\\|\\^
-> CONTEXT: Commonevents/283/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/163/Dialogue
+Aaaaaaaahhhhhh♡♡♡
+This...love...will last forever...
+This time for sure...! \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 はぁ……♡　はぁ……♡　はぁ……♡
 ずっと……ずっと……このまま……
 繋がって……結ばれていような？\\.\\|\\^
-> CONTEXT: Commonevents/283/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/175/Dialogue
+Ah...♡ Ah...♡ Ah...♡
+Forever...and ever...just like this...\\|
+Let's stay...bound together, okay? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 離れたくない……もう　二度と……
 あんたと　離れ離れになんか
 なりたく……ないから……。\\.\\|\\^
-> CONTEXT: Commonevents/283/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/182/Dialogue
+I don't want to be separated... Never again...\\|
+I don't want to be separated from you... \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 このまま　時を止めて　永遠に……
 あんたの　優しい体温……感じていたい。
 ………………大好き　だよ♡\\.\\|\\^
-> CONTEXT: Commonevents/283/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/283/191/Dialogue
+I want to stop time like this, forever...
+I want to feel your gentle body temperature...
+......I love you so much♡\\.\\|\\^
 > END STRING
 
 > BEGIN STRING

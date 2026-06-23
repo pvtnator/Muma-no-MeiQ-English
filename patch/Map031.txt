@@ -2,30 +2,37 @@
 > BEGIN STRING
 もしかしたら　どこかで　あんたと毎日
 泣いたり　笑ったり　怒ったり\\.\\|\\^
-> CONTEXT: Map031/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/1/pages/0/12/Dialogue
+Maybe somewhere, I'm with you every day,
+crying, laughing, and getting angry.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 一緒に　学校　サボったりとか
 す……\\|好きって　言ったりとか
 そんな世界が　あったのかもって……。\\.\\|\\^
-> CONTEXT: Map031/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/1/pages/0/18/Dialogue
+Skipping school together,
+and...\\|expressing our love to each other...
+Maybe there really is a world like that...
 > END STRING
 
 > BEGIN STRING
 あはは……ごめんね　今更。\\|
 嘘だよ……そんなの　夢だよ。\\|
 いつまでも　夢を見てたいだけだよ。\\.\\|\\^
-> CONTEXT: Map031/events/1/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/1/pages/0/25/Dialogue
+Haha...sorry, it's too late now.\\|
+I'm lying...that's just a dream.\\|
+I just want to keep dreaming forever.\\.\\|\\^
 > END STRING
 
 > BEGIN STRING
 あたしの存在は　もう　消えてしまう。\\|
 でも\\|　あんたの記憶に　焼き付いて\\|
 ずっと　ずっと　永遠に　\\|永遠に……――\\.\\|\\^
-> CONTEXT: Map031/events/1/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map031/events/1/pages/0/32/Dialogue
+My existence will soon disappear.\\|
+But I will be etched into your memory.\\|
+Always. Every day. Forever and ever...――\\.\\|\\^
 > END STRING
