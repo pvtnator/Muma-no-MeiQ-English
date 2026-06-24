@@ -676,56 +676,64 @@ to open the door?
 
 > BEGIN STRING
 逃走不可なボス戦では　ＢＧＭ変わらないとか
-> CONTEXT: Commonevents/70/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/2/Dialogue
+In boss battles where escape is impossible, 
+the background music cannot be changed.
 > END STRING
 
 > BEGIN STRING
 ＢＧＭ　変わったら　おもしろいかも
-> CONTEXT: Commonevents/70/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/70/6/Dialogue
+It might be fun to change the music
 > END STRING
 
 > BEGIN STRING
 贄の血により　物理属性が強化された！
-> CONTEXT: Commonevents/71/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/71/10/Dialogue
+The blood of the sacrifice 
+enhanced physical attributes!
 > END STRING
 
 > BEGIN STRING
 贄の血により　化学属性が強化された！
-> CONTEXT: Commonevents/71/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/71/17/Dialogue
+The blood of the sacrifice 
+enhanced elemental attributes!
 > END STRING
 
 > BEGIN STRING
 \\N[\\V[501]]は　物理属性が強化された！
-> CONTEXT: Commonevents/72/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/11/Dialogue
+\\N[\\V[501]]'s physical attributes
+were enhanced!
 > END STRING
 
 > BEGIN STRING
 \\N[\\V[502]]は　物理属性が強化された！
-> CONTEXT: Commonevents/72/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/27/Dialogue
+\\N[\\V[502]]'s physical attributes
+were enhanced!
 > END STRING
 
 > BEGIN STRING
 \\N[\\V[503]]は　物理属性が強化された！
-> CONTEXT: Commonevents/72/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/43/Dialogue
+\\N[\\V[503]]'s physical attributes
+were enhanced!
 > END STRING
 
 > BEGIN STRING
 \\N[\\V[504]]は　物理属性が強化された！
-> CONTEXT: Commonevents/72/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/72/59/Dialogue
+\\N[\\V[504]]'s physical attributes
+were enhanced!
 > END STRING
 
 > BEGIN STRING
 瓶の中から　闇色の水が　溢れ出る！
-> CONTEXT: Commonevents/73/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/1/Dialogue
+Dark-colored water overflows
+from the bottle!
 > END STRING
 
 > BEGIN STRING
@@ -738,11 +746,12 @@ from the bottle!
 > BEGIN STRING
 逃げちゃ　ダメだ！
 この戦いに　退路は存在しない……ッ！
-> CONTEXT: Commonevents/73/14/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/73/34/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/92/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/92/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/73/14/Dialogue
+> CONTEXT: Commonevents/73/34/Dialogue
+> CONTEXT: Commonevents/92/3/Dialogue
+> CONTEXT: Commonevents/92/31/Dialogue
+You can't run away!
+There's no retreat in this battle...!
 > END STRING
 
 > BEGIN STRING
@@ -6348,8 +6357,8 @@ My absolute favorite sex slave...♡\\.\\|\\^
 精子出しおったら　ウチ　孕んでまうぅぅ
 好きすぎて　孕んでまうぅぅぅ♡♡♡\\.\\|\\^
 > CONTEXT: Commonevents/275/224/Dialogue
-Aah♡ No, no♡ If you keep going, if you 
-release your sperm like this, I'll get pregnant〜
+Aah♡ No, no♡ If I keep going, if you 
+release your sperm, I'll get pregnant〜
 I'll get pregnant because I love yoooouuu〜♡♡♡\\.\\|\\^
 > END STRING
 
@@ -7090,8 +7099,8 @@ with this cutie toy until it breaks! \\.\\|\\^
 壊したら　遊べなくなってまうやん！？\\.\\|\\^
 > CONTEXT: Commonevents/281/114/Dialogue
 Huh? If I break it, I can't play anymore!?
-No way... I want to fuck until it breaks
-But then, I won't be able to play anymore!? \\.\\|\\^
+No way... I want to fuck until it breaks,
+but then, I won't be able to play anymore!? \\.\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -7130,7 +7139,7 @@ in this erotic future! That's it! \\.\\|\\^
 ウチを　孕ませろやぁぁぁあああ♡♡♡\\.\\|\\^
 > CONTEXT: Commonevents/281/149/Dialogue
 Alright, cum! Cum! My cutie♡
-Shoot your perverted sperm into my pussy☆\\|
+Shoot your perverted sperm in my pussy☆\\|
 Get me pregnant, aaaahhhhh♡♡♡\\.\\|\\^
 > END STRING
 
@@ -10197,8 +10206,10 @@ You are king of the Muma no MeiQ"
 不可思議な光が　辺りを包み込み
 やがて　光は収束し　夢界中心の保管庫へ
 眩く　向かっていった。
-> CONTEXT: Commonevents/320/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/320/34/Dialogue
+An inexplicable light enveloped the area,
+and eventually the light converged towards 
+the storage at Central Realms of Reverie.
 > END STRING
 
 > BEGIN STRING
@@ -10609,8 +10620,9 @@ Make jaqi on the floor run for cover"
 > BEGIN STRING
 "〘邪気活性/EXP獲得率↑〙
 陰惨な香りで　フロア内の邪気に狙われる"
-> CONTEXT: Commonevents/332/7/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/332/7/InlineScript/2:1
+"[Jaqi Activation][EXP Rate Up]
+A sinister scent targets Jaqi throughout the floor"
 > END STRING
 
 > BEGIN STRING
@@ -10718,8 +10730,8 @@ Assassin's run to eliminate footsteps"
 
 > BEGIN STRING
 "蒼天竜の丹薬"
-> CONTEXT: Commonevents/335/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/335/6/InlineScript/1:25
+"Azure Dragon Elixir"
 > END STRING
 
 > BEGIN STRING
@@ -10757,8 +10769,8 @@ Raise attack power while on the floor"
 
 > BEGIN STRING
 "仁獣の丹薬"
-> CONTEXT: Commonevents/336/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/336/6/InlineScript/1:25
+"Elixir of Benevolence"
 > END STRING
 
 > BEGIN STRING
@@ -10874,8 +10886,8 @@ Get quickness while on the floor"
 
 > BEGIN STRING
 "白獅子の丹薬"
-> CONTEXT: Commonevents/339/6/InlineScript/1:25 < UNTRANSLATED
-
+> CONTEXT: Commonevents/339/6/InlineScript/1:25
+"White Lion Elixir"
 > END STRING
 
 > BEGIN STRING

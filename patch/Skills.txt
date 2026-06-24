@@ -11091,7 +11091,7 @@ Create a snow cloud and freezes an enemy
 は　ロズコローラⅡを詠唱！
 > CONTEXT: Skills/799/message1/
 > CONTEXT: Skills/865/message1/
- cast RosaColora!
+ cast Rosa Colora!
 > END STRING
 
 > BEGIN STRING
@@ -11929,7 +11929,7 @@ A hazy purple lightning rages on all enemies
 > BEGIN STRING
 ロズコローラ
 > CONTEXT: Skills/864/name/
-RosaColora
+Rosa Colora
 > END STRING
 
 > BEGIN STRING
@@ -11943,13 +11943,13 @@ Bind with pink handcuffs and electrocuted
 > BEGIN STRING
 は　ロズコローラを詠唱！
 > CONTEXT: Skills/864/message1/
- cast RosaColora!
+ cast Rosa Colora!
 > END STRING
 
 > BEGIN STRING
 ロズコローラⅡ
 > CONTEXT: Skills/865/name/
-RosaColora2
+Rosa Colora2
 > END STRING
 
 > BEGIN STRING
